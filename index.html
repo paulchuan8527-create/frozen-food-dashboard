@@ -120,6 +120,8 @@ main{flex:1;overflow-y:auto;overflow-x:hidden;-webkit-overflow-scrolling:touch;
 .card-type.packaging{background:var(--tag-packaging)}
 .card-type.formulation{background:var(--tag-formulation)}
 .card-date{font-size:11px;color:var(--text-muted)}
+.today-badge{display:inline-flex;align-items:center;gap:3px;padding:2px 8px;border-radius:10px;font-size:10px;font-weight:700;background:linear-gradient(135deg,#ff4d4f,#ff7875);color:#fff;margin-left:8px;box-shadow:0 2px 5px rgba(255,77,79,0.25);animation:pulseBadge 2s infinite}
+@keyframes pulseBadge{0%{transform:scale(1)}50%{transform:scale(1.05)}100%{transform:scale(1)}}
 .card-title{font-size:15px;font-weight:600;color:var(--text);margin-bottom:6px;line-height:1.4;
   display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
 .card-image{width:100%;height:160px;border-radius:var(--radius-sm);object-fit:cover;
@@ -356,6 +358,7 @@ main::-webkit-scrollbar-thumb{background:var(--border);border-radius:2px}
     </div>
     <div class="feed-subtabs" id="feedFilter">
       <div class="feed-subtab active" data-filter="all">全部</div>
+      <div class="feed-subtab" data-filter="today">🔥 今日更新</div>
       <div class="feed-subtab" data-filter="report">行业报告</div>
       <div class="feed-subtab" data-filter="compliance">合规数据</div>
       <div class="feed-subtab" data-filter="ecommerce">电商大盘</div>
@@ -493,6 +496,7 @@ async function loadData(){
     DATA_META = {updated: new Date().toISOString().slice(0,10), version: 0, total: APP_DATA.length};
   }
   refreshAll();
+  if(location.hash==='#today') setTimeout(jumpToToday,0);
 }
 
 const FALLBACK_DATA = [
@@ -559,6 +563,7 @@ function buildCard(item){
   const isFav = state.favorites.includes(item.id);
   const note = state.notes[item.id]||'';
   const hasNote = note.length>0;
+  const todayMark = isToday(item.date)?'<span class="today-badge">🔥 今日</span>':'';
 
   let innovationHTML='';
   if(item.innovation){
@@ -596,7 +601,7 @@ function buildCard(item){
     <div class="card" data-id="${item.id}" onclick="openDetail('${item.id}')">
       <div class="card-top">
         <span class="card-type ${item.type}">${typeIcons[item.type]||''} ${typeLabels[item.type]||item.type}</span>
-        <span class="card-date">${formatDate(item.date)}</span>
+        <div style="display:flex;align-items:center">${todayMark}<span class="card-date">${formatDate(item.date)}</span></div>
       </div>
       ${item.category?`<span class="card-tag highlight" style="margin-bottom:6px">${item.category}</span>`:''}
       <div class="card-title">${item.title}</div>
@@ -625,8 +630,22 @@ function buildCard(item){
 // ============== RENDER FUNCTIONS ==============
 function renderFeed(){
   const container = document.getElementById('feedContainer');
-  let items = [...APP_DATA].sort((a,b)=>b.date.localeCompare(a.date)).slice(0,20);
-  if(state.feedFilter!=='all') items=items.filter(i=>i.type===state.feedFilter);
+  let items = [...APP_DATA];
+
+  if(state.feedFilter==='today'){
+    const todayStr = new Date().toISOString().slice(0,10);
+    items.sort((a,b)=>{
+      const aToday = a.date===todayStr ? 1 : 0;
+      const bToday = b.date===todayStr ? 1 : 0;
+      if(aToday!==bToday) return bToday - aToday;
+      return b.date.localeCompare(a.date);
+    });
+  }else{
+    items.sort((a,b)=>b.date.localeCompare(a.date));
+    if(state.feedFilter!=='all') items=items.filter(i=>i.type===state.feedFilter);
+  }
+
+  items = items.slice(0,20);
 
   if(items.length===0){
     container.innerHTML='<div class="empty-state"><div class="empty-icon">📭</div><div class="empty-text">暂无该类型动态</div></div>';
@@ -805,19 +824,10 @@ function jumpToTotal(){
 function jumpToToday(){
   state.feedFilter='today';
   document.querySelectorAll('#feedFilter .feed-subtab').forEach(f=>f.classList.remove('active'));
+  const todayTab = document.querySelector('#feedFilter .feed-subtab[data-filter="today"]');
+  if(todayTab) todayTab.classList.add('active');
   switchView('home');
-  renderTodayFeed();
-}
-
-function renderTodayFeed(){
-  const container = document.getElementById('feedContainer');
-  const today = new Date().toISOString().slice(0,10);
-  const items = APP_DATA.filter(i=>i.date===today).sort((a,b)=>b.date.localeCompare(a.date));
-  if(items.length===0){
-    container.innerHTML='<div class="empty-state"><div class="empty-icon">📭</div><div class="empty-text">今天还没有更新</div></div>';
-    return;
-  }
-  container.innerHTML=items.map(buildCard).join('');
+  renderFeed();
 }
 
 function jumpToFav(){
@@ -853,11 +863,7 @@ document.getElementById('feedFilter').addEventListener('click',function(e){
     document.querySelectorAll('#feedFilter .feed-subtab').forEach(f=>f.classList.remove('active'));
     e.target.classList.add('active');
     state.feedFilter=e.target.dataset.filter;
-    if(state.feedFilter==='today'){
-      renderTodayFeed();
-    }else{
-      renderFeed();
-    }
+    renderFeed();
   }
 });
 
