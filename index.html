@@ -287,6 +287,24 @@ main{flex:1;overflow-y:auto;overflow-x:hidden;-webkit-overflow-scrolling:touch;
 @keyframes toastIn{from{opacity:0;transform:translateX(-50%) translateY(10px)}to{opacity:1;transform:translateX(-50%) translateY(0)}}
 @keyframes toastOut{from{opacity:1}to{opacity:0}}
 
+/* Update Banner */
+.update-banner{
+  position:fixed;bottom:20px;left:16px;right:16px;
+  background:linear-gradient(135deg,#0D9488,#14B8A6);color:#fff;
+  border-radius:12px;padding:14px 16px;z-index:199;
+  display:none;align-items:center;justify-content:space-between;
+  box-shadow:0 4px 20px rgba(13,148,136,0.35);
+  animation:toastIn 0.3s ease;font-size:14px
+}
+.update-banner .ub-text{flex:1;display:flex;align-items:center;gap:8px}
+.update-banner .ub-actions{display:flex;gap:8px;flex-shrink:0}
+.update-banner .ub-btn{
+  padding:6px 14px;border-radius:8px;border:none;font-size:13px;
+  font-weight:600;cursor:pointer;white-space:nowrap
+}
+.update-banner .ub-btn.primary{background:#fff;color:#0D9488}
+.update-banner .ub-btn.secondary{background:rgba(255,255,255,0.2);color:#fff}
+
 /* Welcome Banner */
 .welcome-banner{
   background:linear-gradient(135deg,var(--primary-dark),var(--primary-light));
@@ -472,6 +490,15 @@ main::-webkit-scrollbar-thumb{background:var(--border);border-radius:2px}
     <div id="searchResults"></div>
   </div>
 </div>
+</div>
+
+<!-- 更新横幅 -->
+<div class="update-banner" id="updateBanner">
+  <div class="ub-text">🔄 发现新版本，点击更新获取最新内容</div>
+  <div class="ub-actions">
+    <button class="ub-btn secondary" onclick="dismissUpdate()">稍后</button>
+    <button class="ub-btn primary" onclick="applyUpdate()">更新</button>
+  </div>
 </div>
 
 <script>
@@ -1172,8 +1199,55 @@ function showToast(msg){
 }
 
 // ============== SERVICE WORKER ==============
+let swUpdateReady = false;
+
 if('serviceWorker' in navigator){
-  navigator.serviceWorker.register('sw.js').catch(()=>{});
+  navigator.serviceWorker.register('sw.js').then(reg => {
+    // 检测新 SW 安装完毕
+    reg.addEventListener('updatefound', () => {
+      const newWorker = reg.installing;
+      if(!newWorker) return;
+      newWorker.addEventListener('statechange', () => {
+        if(newWorker.state === 'installed' && navigator.serviceWorker.controller){
+          // 新版本已准备好，显示更新提示
+          swUpdateReady = true;
+          showUpdateBanner();
+        }
+      });
+    });
+    // 定期检查更新（每30分钟）
+    setInterval(() => {
+      reg.update().catch(()=>{});
+    }, 1800000);
+  }).catch(()=>{});
+}
+
+function showUpdateBanner(){
+  const banner = document.getElementById('updateBanner');
+  if(!banner || banner.style.display==='flex') return;
+  banner.style.display='flex';
+  banner.style.bottom='80px';
+}
+
+function applyUpdate(){
+  if(!swUpdateReady) return;
+  navigator.serviceWorker.ready.then(reg => {
+    const worker = reg.waiting;
+    if(worker){
+      worker.postMessage('SKIP_WAITING');
+      worker.addEventListener('statechange', () => {
+        if(worker.state === 'activated'){
+          window.location.reload();
+        }
+      });
+    } else {
+      window.location.reload();
+    }
+  });
+}
+
+function dismissUpdate(){
+  document.getElementById('updateBanner').style.display='none';
 }
 
 // ============== KEYBOARD ==============
