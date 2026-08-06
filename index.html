@@ -1,0 +1,1264 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover, user-scalable=no">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
+<meta name="apple-mobile-web-app-title" content="冻品情报站">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="theme-color" content="#0D9488">
+<title>冻品情报站 · 冷冻食品产品情报工作台</title>
+<link rel="manifest" href="manifest.json">
+<link rel="apple-touch-icon" href="icons/icon-192.png">
+<style>
+:root {
+  --primary: #0D9488;
+  --primary-light: #14B8A6;
+  --primary-dark: #0F766E;
+  --accent: #F59E0B;
+  --accent-light: #FCD34D;
+  --bg: #F8FAFC;
+  --card: #FFFFFF;
+  --text: #1E293B;
+  --text-secondary: #64748B;
+  --text-muted: #94A3B8;
+  --border: #E2E8F0;
+  --shadow: 0 1px 3px rgba(0,0,0,0.06), 0 1px 2px rgba(0,0,0,0.04);
+  --shadow-md: 0 4px 12px rgba(0,0,0,0.08);
+  --radius: 12px;
+  --radius-sm: 8px;
+  --safe-bottom: env(safe-area-inset-bottom, 0px);
+  --tab-height: 64px;
+  --header-height: 52px;
+  --tag-report: #3B82F6;
+  --tag-compliance: #8B5CF6;
+  --tag-ecommerce: #EC4899;
+  --tag-new: #10B981;
+  --tag-packaging: #F59E0B;
+  --tag-formulation: #EF4444;
+}
+*,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+html{font-size:16px;-webkit-tap-highlight-color:transparent;-webkit-font-smoothing:antialiased}
+body{
+  font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","PingFang SC","Hiragino Sans GB","Microsoft YaHei",sans-serif;
+  background:var(--bg);color:var(--text);line-height:1.6;
+  overflow:hidden;height:100vh;height:100dvh;
+  -webkit-user-select:none;user-select:none;
+  padding-bottom:var(--safe-bottom);
+}
+#app{display:flex;flex-direction:column;height:100vh;height:100dvh}
+
+/* Header */
+header{
+  background:linear-gradient(135deg,var(--primary-dark),var(--primary));
+  color:#fff;padding:12px 16px;display:flex;align-items:center;
+  justify-content:space-between;flex-shrink:0;
+  padding-top:max(12px,env(safe-area-inset-top,0px));
+}
+.header-left{display:flex;align-items:center;gap:10px}
+.app-logo{width:32px;height:32px;border-radius:8px;background:rgba(255,255,255,0.2);
+  display:flex;align-items:center;justify-content:center;font-size:18px}
+.app-title{font-size:17px;font-weight:700;letter-spacing:0.5px}
+.app-subtitle{font-size:11px;opacity:0.75;margin-top:-2px}
+.header-right{display:flex;gap:8px}
+.header-btn{width:34px;height:34px;border-radius:50%;background:rgba(255,255,255,0.15);
+  border:none;color:#fff;font-size:16px;cursor:pointer;display:flex;
+  align-items:center;justify-content:center;position:relative}
+.header-btn .badge{
+  position:absolute;top:-2px;right:-2px;background:var(--accent);
+  color:#fff;font-size:10px;min-width:16px;height:16px;
+  border-radius:8px;display:flex;align-items:center;justify-content:center;padding:0 4px
+}
+
+/* Main Content */
+main{flex:1;overflow-y:auto;overflow-x:hidden;-webkit-overflow-scrolling:touch;
+  scroll-behavior:smooth;position:relative}
+.view{display:none;padding:12px 12px calc(var(--tab-height) + 20px)}
+.view.active{display:block}
+
+/* Section Headers */
+.section-header{margin:8px 0 12px}
+.section-title{font-size:18px;font-weight:700;color:var(--text)}
+.section-desc{font-size:13px;color:var(--text-secondary);margin-top:2px}
+
+/* Sub-tabs */
+.subtabs{display:flex;gap:8px;margin-bottom:16px;flex-wrap:wrap}
+.subtab{padding:7px 16px;border-radius:20px;font-size:13px;font-weight:500;
+  border:1px solid var(--border);background:var(--card);color:var(--text-secondary);
+  cursor:pointer;white-space:nowrap;transition:all 0.2s}
+.subtab.active{background:var(--primary);color:#fff;border-color:var(--primary)}
+
+/* Filter Chips */
+.filter-chips{display:flex;gap:8px;margin-bottom:16px;overflow-x:auto;padding-bottom:4px;-webkit-overflow-scrolling:touch}
+.filter-chip{padding:6px 14px;border-radius:16px;font-size:12px;font-weight:500;
+  border:1px solid var(--border);background:var(--card);color:var(--text-secondary);
+  cursor:pointer;white-space:nowrap;flex-shrink:0;transition:all 0.2s}
+.filter-chip.active{background:var(--primary);color:#fff;border-color:var(--primary)}
+
+/* Feed Filter */
+.feed-subtabs{display:flex;gap:6px;margin-bottom:14px;overflow-x:auto;-webkit-overflow-scrolling:touch}
+.feed-subtab{padding:5px 12px;border-radius:14px;font-size:12px;font-weight:500;
+  border:1px solid var(--border);background:var(--card);cursor:pointer;
+  white-space:nowrap;flex-shrink:0;color:var(--text-secondary)}
+.feed-subtab.active{background:var(--text);color:#fff;border-color:var(--text)}
+
+/* Cards */
+.card{
+  background:var(--card);border-radius:var(--radius);padding:14px;
+  margin-bottom:10px;box-shadow:var(--shadow);
+  cursor:pointer;transition:all 0.2s;position:relative;border:1px solid var(--border)
+}
+.card:active{transform:scale(0.985);box-shadow:var(--shadow-md)}
+.card-top{display:flex;justify-content:space-between;align-items:flex-start;margin-bottom:8px}
+.card-type{display:inline-flex;align-items:center;gap:4px;padding:3px 10px;
+  border-radius:12px;font-size:11px;font-weight:600;color:#fff}
+.card-type.report{background:var(--tag-report)}
+.card-type.compliance{background:var(--tag-compliance)}
+.card-type.ecommerce{background:var(--tag-ecommerce)}
+.card-type.newproduct{background:var(--tag-new)}
+.card-type.packaging{background:var(--tag-packaging)}
+.card-type.formulation{background:var(--tag-formulation)}
+.card-date{font-size:11px;color:var(--text-muted)}
+.today-badge{display:inline-flex;align-items:center;gap:3px;padding:2px 8px;border-radius:10px;font-size:10px;font-weight:700;background:linear-gradient(135deg,#ff4d4f,#ff7875);color:#fff;margin-left:8px;box-shadow:0 2px 5px rgba(255,77,79,0.25);animation:pulseBadge 2s infinite}
+@keyframes pulseBadge{0%{transform:scale(1)}50%{transform:scale(1.05)}100%{transform:scale(1)}}
+.card-title{font-size:15px;font-weight:600;color:var(--text);margin-bottom:6px;line-height:1.4;
+  display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+.card-image{width:100%;height:160px;border-radius:var(--radius-sm);object-fit:cover;
+  margin-bottom:8px;background:linear-gradient(135deg,#e0f2fe,#d1fae5,#fef3c7);
+  display:flex;align-items:center;justify-content:center;font-size:48px}
+.card-desc{font-size:13px;color:var(--text-secondary);line-height:1.5;margin-bottom:8px;
+  display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+.card-meta{display:flex;flex-wrap:wrap;gap:6px;margin-bottom:8px}
+.card-tag{padding:3px 8px;border-radius:10px;font-size:11px;font-weight:500;
+  background:#F1F5F9;color:var(--text-secondary)}
+.card-tag.highlight{background:#FEF3C7;color:#92400E}
+.card-source{display:flex;align-items:center;gap:4px;font-size:11px;color:var(--text-muted)}
+.card-source a{color:var(--primary);text-decoration:none}
+.card-actions{display:flex;gap:12px;margin-top:10px;padding-top:10px;border-top:1px solid var(--border);align-items:center;justify-content:space-between}
+.card-actions-left{display:flex;gap:12px}
+.card-action{display:flex;align-items:center;gap:4px;font-size:12px;color:var(--text-muted);
+  cursor:pointer;border:none;background:none;padding:4px;border-radius:6px;transition:all 0.2s}
+.card-action.favorited{color:#EF4444}
+.card-action.favorited .action-icon{color:#EF4444}
+.action-icon{font-size:16px}
+
+/* Innovation Badge */
+.innovation-badge{
+  background:linear-gradient(135deg,#FEF3C7,#FDE68A);color:#92400E;
+  padding:6px 10px;border-radius:var(--radius-sm);font-size:12px;font-weight:500;
+  margin-bottom:8px;display:flex;align-items:center;gap:6px
+}
+
+/* Empty State */
+.empty-state{text-align:center;padding:40px 20px;color:var(--text-muted)}
+.empty-icon{font-size:48px;margin-bottom:12px}
+.empty-text{font-size:14px}
+
+/* Bottom Tab Bar */
+.tab-bar{
+  display:flex;background:var(--card);border-top:1px solid var(--border);
+  flex-shrink:0;padding-bottom:var(--safe-bottom);
+  box-shadow:0 -1px 6px rgba(0,0,0,0.04)
+}
+.tab-item{
+  flex:1;display:flex;flex-direction:column;align-items:center;justify-content:center;
+  padding:8px 4px;cursor:pointer;border:none;background:none;
+  color:var(--text-muted);font-size:11px;gap:2px;transition:all 0.2s;
+  position:relative;-webkit-tap-highlight-color:transparent
+}
+.tab-item.active{color:var(--primary)}
+.tab-item .tab-icon{font-size:20px;line-height:1}
+.tab-item.active::before{
+  content:'';position:absolute;top:0;left:50%;transform:translateX(-50%);
+  width:20px;height:3px;background:var(--primary);border-radius:0 0 3px 3px
+}
+
+/* Detail Modal */
+.modal-overlay{
+  position:fixed;inset:0;background:rgba(0,0,0,0.5);z-index:100;
+  display:none;align-items:flex-end;justify-content:center
+}
+.modal-overlay.show{display:flex}
+.modal{
+  background:var(--card);border-radius:20px 20px 0 0;width:100%;max-width:600px;
+  max-height:85vh;overflow-y:auto;padding:20px 16px;
+  padding-bottom:calc(20px + var(--safe-bottom));
+  animation:slideUp 0.3s ease
+}
+@keyframes slideUp{from{transform:translateY(100%)}to{transform:translateY(0)}}
+.modal-handle{width:36px;height:4px;background:var(--border);border-radius:2px;
+  margin:0 auto 16px}
+.modal-img{width:100%;height:200px;border-radius:var(--radius);object-fit:cover;
+  margin-bottom:16px;background:linear-gradient(135deg,#e0f2fe,#d1fae5)}
+.modal-type{margin-bottom:8px}
+.modal-title{font-size:19px;font-weight:700;margin-bottom:8px;line-height:1.4}
+.modal-source{margin-bottom:16px;display:flex;align-items:center;gap:6px;font-size:13px;color:var(--text-secondary)}
+.modal-source a{color:var(--primary);text-decoration:underline}
+.modal-body{font-size:14px;line-height:1.7;color:var(--text);margin-bottom:16px}
+.modal-tags{display:flex;flex-wrap:wrap;gap:6px;margin-bottom:16px}
+.modal-actions{display:flex;gap:12px;padding-top:12px;border-top:1px solid var(--border)}
+.modal-btn{flex:1;padding:10px;border-radius:var(--radius-sm);font-size:14px;font-weight:500;
+  cursor:pointer;border:none;display:flex;align-items:center;justify-content:center;gap:6px}
+.modal-btn.primary{background:var(--primary);color:#fff}
+.modal-btn.secondary{background:#F1F5F9;color:var(--text)}
+.modal-btn.danger{background:#FEE2E2;color:#DC2626}
+.modal-close{position:absolute;top:16px;right:16px;width:28px;height:28px;
+  border-radius:50%;background:rgba(0,0,0,0.06);border:none;font-size:16px;
+  cursor:pointer;display:flex;align-items:center;justify-content:center}
+
+/* Personal Center Panel */
+.panel-overlay{
+  position:fixed;inset:0;background:rgba(0,0,0,0.4);z-index:100;
+  display:none
+}
+.panel-overlay.show{display:block}
+.panel{
+  position:fixed;top:0;right:0;width:85%;max-width:380px;height:100vh;height:100dvh;
+  background:var(--bg);z-index:101;transform:translateX(100%);transition:transform 0.3s ease;
+  display:flex;flex-direction:column;box-shadow:-4px 0 20px rgba(0,0,0,0.1)
+}
+.panel.show{transform:translateX(0)}
+.panel-header{
+  padding:16px;border-bottom:1px solid var(--border);
+  display:flex;align-items:center;justify-content:space-between;
+  padding-top:max(16px,env(safe-area-inset-top,0px))
+}
+.panel-title{font-size:17px;font-weight:700}
+.panel-close{width:30px;height:30px;border-radius:50%;border:none;background:#E2E8F0;
+  cursor:pointer;font-size:16px}
+.panel-tabs{display:flex;padding:12px 16px;gap:16px;border-bottom:1px solid var(--border);overflow-x:auto}
+.panel-tab{font-size:14px;font-weight:500;color:var(--text-secondary);cursor:pointer;
+  padding-bottom:8px;border-bottom:2px solid transparent;transition:all 0.2s;white-space:nowrap}
+.panel-tab.active{color:var(--primary);border-bottom-color:var(--primary)}
+.panel-content{flex:1;overflow-y:auto;padding:12px 16px;padding-bottom:var(--safe-bottom)}
+.panel-item{background:var(--card);border-radius:var(--radius);padding:12px;
+  margin-bottom:8px;box-shadow:var(--shadow);cursor:pointer;position:relative;overflow:hidden}
+.panel-item-title{font-size:14px;font-weight:600;margin-bottom:4px}
+.panel-item-meta{font-size:12px;color:var(--text-muted)}
+.panel-item-note{font-size:12px;color:var(--text-secondary);margin-top:6px;
+  padding:8px;background:#F8FAFC;border-radius:6px;font-style:italic}
+.panel-item-actions{display:flex;gap:8px;margin-top:10px;padding-top:10px;border-top:1px solid var(--border)}
+.panel-item-btn{flex:1;padding:7px;border-radius:6px;font-size:12px;border:none;cursor:pointer;
+  display:flex;align-items:center;justify-content:center;gap:4px}
+.panel-item-btn.primary{background:var(--primary);color:#fff}
+.panel-item-btn.secondary{background:#F1F5F9;color:var(--text)}
+.panel-item-btn.danger{background:#FEE2E2;color:#DC2626}
+
+/* Note Editor */
+.note-editor{background:var(--card);border-radius:var(--radius);padding:12px;margin-bottom:8px}
+.note-editor textarea{width:100%;min-height:60px;border:1px solid var(--border);
+  border-radius:var(--radius-sm);padding:8px;font-size:13px;font-family:inherit;
+  resize:vertical;outline:none;background:var(--bg)}
+.note-editor textarea:focus{border-color:var(--primary)}
+.note-actions{display:flex;justify-content:flex-end;gap:8px;margin-top:8px}
+
+/* Search Overlay */
+.search-overlay{
+  position:fixed;inset:0;background:var(--bg);z-index:150;
+  display:none;flex-direction:column
+}
+.search-overlay.show{display:flex}
+.search-header{
+  padding:12px 16px;display:flex;align-items:center;gap:10px;
+  background:var(--card);border-bottom:1px solid var(--border);
+  padding-top:max(12px,env(safe-area-inset-top,0px));
+  flex-shrink:0
+}
+.search-input{
+  flex:1;border:1px solid var(--border);border-radius:22px;padding:9px 16px;
+  font-size:15px;outline:none;background:var(--bg)
+}
+.search-input:focus{border-color:var(--primary)}
+.search-cancel{
+  border:none;background:none;color:var(--primary);font-size:15px;cursor:pointer
+}
+.search-body{flex:1;overflow-y:auto;padding:12px 16px}
+.search-tips{font-size:13px;color:var(--text-secondary);margin-bottom:12px}
+
+/* Toast */
+.toast{
+  position:fixed;bottom:calc(var(--tab-height) + var(--safe-bottom) + 20px);
+  left:50%;transform:translateX(-50%);background:#1E293B;color:#fff;
+  padding:10px 20px;border-radius:20px;font-size:13px;z-index:200;
+  animation:toastIn 0.3s ease,toastOut 0.3s ease 1.7s forwards;
+  pointer-events:none;white-space:nowrap
+}
+@keyframes toastIn{from{opacity:0;transform:translateX(-50%) translateY(10px)}to{opacity:1;transform:translateX(-50%) translateY(0)}}
+@keyframes toastOut{from{opacity:1}to{opacity:0}}
+
+/* Update Banner */
+.update-banner{
+  position:fixed;bottom:20px;left:16px;right:16px;
+  background:linear-gradient(135deg,#0D9488,#14B8A6);color:#fff;
+  border-radius:12px;padding:14px 16px;z-index:199;
+  display:none;align-items:center;justify-content:space-between;
+  box-shadow:0 4px 20px rgba(13,148,136,0.35);
+  animation:toastIn 0.3s ease;font-size:14px
+}
+.update-banner .ub-text{flex:1;display:flex;align-items:center;gap:8px}
+.update-banner .ub-actions{display:flex;gap:8px;flex-shrink:0}
+.update-banner .ub-btn{
+  padding:6px 14px;border-radius:8px;border:none;font-size:13px;
+  font-weight:600;cursor:pointer;white-space:nowrap
+}
+.update-banner .ub-btn.primary{background:#fff;color:#0D9488}
+.update-banner .ub-btn.secondary{background:rgba(255,255,255,0.2);color:#fff}
+
+/* Welcome Banner */
+.welcome-banner{
+  background:linear-gradient(135deg,var(--primary-dark),var(--primary-light));
+  border-radius:var(--radius);padding:20px;color:#fff;margin-bottom:16px
+}
+.welcome-banner h2{font-size:20px;font-weight:700;margin-bottom:4px}
+.welcome-banner p{font-size:13px;opacity:0.85;line-height:1.5}
+.welcome-stats{display:flex;gap:14px;margin-top:14px}
+.welcome-stat{text-align:center;cursor:pointer;padding:6px 10px;border-radius:8px;background:rgba(255,255,255,0.1);transition:all 0.2s;min-width:70px}
+.welcome-stat:active{background:rgba(255,255,255,0.2)}
+.welcome-stat .num{font-size:24px;font-weight:800}
+.welcome-stat .label{font-size:11px;opacity:0.75}
+
+/* Scrollbar */
+main::-webkit-scrollbar{width:4px}
+main::-webkit-scrollbar-thumb{background:var(--border);border-radius:2px}
+
+/* Desktop tweaks */
+@media(min-width:768px){
+  main{padding:0}
+  .view{max-width:800px;margin:0 auto;padding:16px 20px calc(var(--tab-height) + 30px)}
+  .tab-bar{max-width:800px;margin:0 auto;border-radius:16px 16px 0 0}
+  .card-image{height:200px}
+  .modal{max-width:560px;margin:0 auto}
+  .panel{max-width:420px}
+}
+
+@media(min-width:1024px){
+  .view{max-width:960px}
+  .tab-bar{max-width:960px}
+}
+</style>
+</head>
+<body>
+<div id="app">
+<!-- Header -->
+<header>
+  <div class="header-left">
+    <div class="app-logo">❄️</div>
+    <div>
+      <div class="app-title">冻品情报站</div>
+      <div class="app-subtitle">冷冻食品产品情报工作台</div>
+    </div>
+  </div>
+  <div class="header-right">
+    <button class="header-btn" id="btnSearch" title="搜索">🔍</button>
+    <button class="header-btn" id="btnPersonal" title="个人中心">
+      👤<span class="badge" id="favBadge" style="display:none">0</span>
+    </button>
+  </div>
+</header>
+
+<!-- Main Content -->
+<main>
+  <!-- Home Feed View -->
+  <div class="view active" id="view-home">
+    <div class="welcome-banner">
+      <h2>📊 冻品情报站</h2>
+      <p>一站式冷冻食品行业情报聚合平台，覆盖行业数据、新品追踪、包材灵感、配方工艺四大板块 <span id="statUpdate" style="opacity:0.7">加载中...</span></p>
+      <div class="welcome-stats">
+        <div class="welcome-stat" onclick="jumpToTotal()"><div class="num" id="statTotal">0</div><div class="label">情报总数</div></div>
+        <div class="welcome-stat" onclick="jumpToToday()"><div class="num" id="statToday">0</div><div class="label">今日更新</div></div>
+        <div class="welcome-stat" onclick="jumpToFav()"><div class="num" id="statFav">0</div><div class="label">我的收藏</div></div>
+      </div>
+    </div>
+    <div class="section-header">
+      <div class="section-title">🔥 最新动态</div>
+      <div class="section-desc">全板块信息流，最近更新优先展示</div>
+    </div>
+    <div class="feed-subtabs" id="feedFilter">
+      <div class="feed-subtab active" data-filter="all">全部</div>
+      <div class="feed-subtab" data-filter="today">🔥 今日更新</div>
+      <div class="feed-subtab" data-filter="report">行业报告</div>
+      <div class="feed-subtab" data-filter="compliance">合规数据</div>
+      <div class="feed-subtab" data-filter="ecommerce">电商大盘</div>
+      <div class="feed-subtab" data-filter="newproduct">新品速递</div>
+      <div class="feed-subtab" data-filter="packaging">包材灵感</div>
+      <div class="feed-subtab" data-filter="formulation">配方工艺</div>
+    </div>
+    <div id="feedContainer"></div>
+  </div>
+
+  <!-- 行业数据 View -->
+  <div class="view" id="view-data">
+    <div class="section-header">
+      <div class="section-title">📈 行业数据 / 报告</div>
+      <div class="section-desc">第三方报告、合规监控、电商大盘数据</div>
+    </div>
+    <div class="subtabs" id="dataSubtabs">
+      <div class="subtab active" data-sub="report">📄 第三方报告</div>
+      <div class="subtab" data-sub="compliance">⚖️ 合规数据</div>
+      <div class="subtab" data-sub="ecommerce">🛒 电商大盘</div>
+    </div>
+    <div id="dataContainer"></div>
+  </div>
+
+  <!-- 新品速递 View -->
+  <div class="view" id="view-newproduct">
+    <div class="section-header">
+      <div class="section-title">🆕 新品速递</div>
+      <div class="section-desc">国内外冷冻食品新品追踪，实时更新</div>
+    </div>
+    <div class="filter-chips" id="newproductFilter">
+      <div class="filter-chip active" data-cat="all">全部</div>
+      <div class="filter-chip" data-cat="冷冻食品">冷冻食品</div>
+      <div class="filter-chip" data-cat="预制菜">预制菜</div>
+      <div class="filter-chip" data-cat="饮品">饮品</div>
+      <div class="filter-chip" data-cat="休闲零食">休闲零食</div>
+    </div>
+    <div id="newproductContainer"></div>
+  </div>
+
+  <!-- 包材灵感 View -->
+  <div class="view" id="view-packaging">
+    <div class="section-header">
+      <div class="section-title">📦 包材灵感启发</div>
+      <div class="section-desc">全球食品创新包装设计，材质工艺全解析</div>
+    </div>
+    <div id="packagingContainer"></div>
+  </div>
+
+  <!-- 配方工艺 View -->
+  <div class="view" id="view-formulation">
+    <div class="section-header">
+      <div class="section-title">🧪 配方工艺灵感</div>
+      <div class="section-desc">前沿配方技术、原料创新、工艺优化方案</div>
+    </div>
+    <div id="formulationContainer"></div>
+  </div>
+</main>
+
+<!-- Bottom Tab Bar -->
+<nav class="tab-bar">
+  <button class="tab-item active" data-view="home">
+    <span class="tab-icon">🏠</span><span>首页</span>
+  </button>
+  <button class="tab-item" data-view="data">
+    <span class="tab-icon">📈</span><span>数据</span>
+  </button>
+  <button class="tab-item" data-view="newproduct">
+    <span class="tab-icon">🆕</span><span>新品</span>
+  </button>
+  <button class="tab-item" data-view="packaging">
+    <span class="tab-icon">📦</span><span>包材</span>
+  </button>
+  <button class="tab-item" data-view="formulation">
+    <span class="tab-icon">🧪</span><span>配方</span>
+  </button>
+</nav>
+
+<!-- Detail Modal -->
+<div class="modal-overlay" id="modalOverlay">
+  <div class="modal" id="modalContent">
+    <div class="modal-handle"></div>
+    <button class="modal-close" id="modalClose">✕</button>
+    <div id="modalBody"></div>
+  </div>
+</div>
+
+<!-- Personal Center Panel -->
+<div class="panel-overlay" id="panelOverlay"></div>
+<div class="panel" id="panel">
+  <div class="panel-header">
+    <div class="panel-title">👤 个人中心</div>
+    <button class="panel-close" id="panelClose">✕</button>
+  </div>
+  <div class="panel-tabs">
+    <div class="panel-tab active" data-ptab="favs">❤️ 收藏夹</div>
+    <div class="panel-tab" data-ptab="notes">📝 我的笔记</div>
+    <div class="panel-tab" data-ptab="shared">📤 已分享</div>
+  </div>
+  <div class="panel-content" id="panelContent"></div>
+</div>
+
+<!-- Search Overlay -->
+<div class="search-overlay" id="searchOverlay">
+  <div class="search-header">
+    <input type="text" class="search-input" id="searchInput" placeholder="搜索标题、描述、标签、来源...">
+    <button class="search-cancel" id="searchCancel">取消</button>
+  </div>
+  <div class="search-body" id="searchBody">
+    <div class="search-tips">输入关键词搜索情报、新品、包材、配方灵感</div>
+    <div id="searchResults"></div>
+  </div>
+</div>
+</div>
+
+<!-- 更新横幅 -->
+<div class="update-banner" id="updateBanner">
+  <div class="ub-text">🔄 发现新版本，点击更新获取最新内容</div>
+  <div class="ub-actions">
+    <button class="ub-btn secondary" onclick="dismissUpdate()">稍后</button>
+    <button class="ub-btn primary" onclick="applyUpdate()">更新</button>
+  </div>
+</div>
+
+<script>
+// ============== DATA LAYER ==============
+let APP_DATA = [];
+let DATA_META = {updated: '', version: 0, total: 0};
+
+async function loadData(){
+  try{
+    const resp = await fetch('data.json?_=' + Date.now());
+    if(!resp.ok) throw new Error('HTTP ' + resp.status);
+    const raw = await resp.json();
+    if(Array.isArray(raw)){ APP_DATA = raw; }
+    else{ APP_DATA = raw.items || raw.data || []; DATA_META = raw.meta || DATA_META; }
+    APP_DATA.sort((a,b)=>b.date.localeCompare(a.date));
+    DATA_META.total = APP_DATA.length;
+    DATA_META.updated = DATA_META.updated || new Date().toISOString().slice(0,10);
+  }catch(e){
+    console.warn('load data.json failed, using fallback:', e.message);
+    APP_DATA = FALLBACK_DATA;
+    APP_DATA.sort((a,b)=>b.date.localeCompare(a.date));
+    DATA_META = {updated: new Date().toISOString().slice(0,10), version: 0, total: APP_DATA.length};
+  }
+  refreshAll();
+  if(location.hash==='#today') setTimeout(jumpToToday,0);
+}
+
+const FALLBACK_DATA = [
+  {id:'r1',type:'report',section:'data',sub:'report',date:'2026-08-06',title:'2026中国冷冻食品消费趋势白皮书',source:'FBIF食品饮料创新',sourceUrl:'https://www.foodtalks.cn/',image:'📊',category:'冷冻食品',desc:'报告指出2026年冷冻食品市场规模突破4000亿元，速冻面点与预制菜双轮驱动，C端家庭场景占比首次超越B端。Z世代成为核心增量人群，驱动产品向"一人食""懒人精致""健康速食"三大方向演进。',tags:['消费趋势','市场规模','Z世代']},
+  {id:'r2',type:'report',section:'data',sub:'report',date:'2026-08-04',title:'2026H1预制菜电商渠道销售复盘',source:'魔镜市场情报',sourceUrl:'https://www.mktindex.com/',image:'📈',category:'预制菜',desc:'天猫+抖音+京东三大平台预制菜品类H1销售同比+37%，其中快手菜增速最快(+52%)，微波即热类贡献最大增量。价格带20-40元/份为黄金区间，占比58%。',tags:['电商数据','预制菜','半年度复盘']},
+  {id:'r3',type:'report',section:'data',sub:'report',date:'2026-07-29',title:'全球冷冻薯制品市场展望2026-2030',source:'Euromonitor 欧睿',sourceUrl:'https://www.euromonitor.com/',image:'🍟',category:'冷冻食品',desc:'全球冷冻薯制品市场预计2026-2030 CAGR 5.8%，亚太区增速领跑(8.2%)。空气炸锅普及推动家庭薯条消费量激增，预调味、加值型薯制品成新增长极。',tags:['全球市场','薯制品','预测']},
+  {id:'r4',type:'report',section:'data',sub:'report',date:'2026-08-01',title:'天猫TMIC：冷冻面点创新机会洞察',source:'天猫新品创新中心',sourceUrl:'https://tmall.com/',image:'🥟',category:'冷冻食品',desc:'TMIC数据显示"地域风味复刻"搜索量年增长240%，广式虾饺、西北肉夹馍、川味抄手成三大热搜品类。消费者愿为"手工感""现做口感"溢价30%-50%。',tags:['消费者洞察','面点','TMIC']},
+  {id:'c1',type:'compliance',section:'data',sub:'compliance',date:'2026-08-03',title:'新食品原料：酵母β-葡聚糖获批扩大使用范围',source:'国家卫健委',sourceUrl:'http://www.nhc.gov.cn/',image:'⚖️',category:'',desc:'国家卫健委2026年第5号公告批准酵母β-葡聚糖扩大使用至冷冻面制品、冷冻调理食品，最大使用量2.0g/kg。该原料具有免疫调节、肠道健康声称支持，为功能性冷冻食品开发打开新空间。',tags:['新食品原料','功能宣称','GB2760']},
+  {id:'c2',type:'compliance',section:'data',sub:'compliance',date:'2026-07-25',title:'GB 19295《速冻面米与调制食品》修订征求意见',source:'国家标准委',sourceUrl:'https://openstd.samr.gov.cn/',image:'📋',category:'',desc:'新修订草案主要变化：①明确速冻调制食品微生物限量分级标准；②新增"即食类"与"非即食类"分类；③增加过氧化值等理化指标。征求意见截止2026年9月。',tags:['国标修订','GB19295','速冻食品']},
+  {id:'c3',type:'compliance',section:'data',sub:'compliance',date:'2026-08-05',title:'市监总局：2026年7月食安抽检冷冻食品合格率99.2%',source:'国家市监总局',sourceUrl:'https://www.samr.gov.cn/',image:'✅',category:'',desc:'7月共抽检冷冻食品3267批次，不合格26批次。不合格项目集中在：菌落总数超标(14批)、过氧化值超标(8批)、标签不规范(4批)。速冻调理肉制品为高风险品类。',tags:['食安抽检','合格率','月度通报']},
+  {id:'e1',type:'ecommerce',section:'data',sub:'ecommerce',date:'2026-08-05',title:'天猫冷冻食品品类周报(7.28-8.3)',source:'天猫',sourceUrl:'https://xin.tmall.com/',image:'🛒',category:'冷冻食品',desc:'周销售额TOP5品类：速冻水饺(2.1亿)、预制菜料理包(1.8亿)、冷冻薯条(1.2亿)、速冻包子(0.9亿)、冰激凌(0.7亿)。增速最快：冷冻披萨(+45%)、速食汤圆(+32%)。',tags:['天猫','周报','品类排名']},
+  {id:'e2',type:'ecommerce',section:'data',sub:'ecommerce',date:'2026-08-04',title:'抖音冷冻食品8月趋势洞察',source:'抖音电商',sourceUrl:'https://www.douyin.com/',image:'🎵',category:'预制菜',desc:'抖音冷冻食品类8月首周GMV突破5亿，直播占比62%。"大胃王""沉浸式吃播"式直播转化率最高(8.7%)。空气炸锅半成品+教程组合装成爆款公式。',tags:['抖音','直播带货','内容电商']},
+  {id:'n1',type:'newproduct',section:'newproduct',date:'2026-08-06',title:'思念食品「微波即食小馄饨」系列',source:'天猫新品',sourceUrl:'https://xin.tmall.com/',image:'🥟',category:'冷冻食品',desc:'180g×4包装，微波加热90秒即食。创新点：专利"蒸汽自循环"包装技术，无需加水，微波后皮不干、馅鲜嫩。鸡汤/虾仁/荠菜三种口味，定价19.9元/盒。',tags:['思念','微波即食','馄饨'],innovation:{type:'工艺创新',detail:'蒸汽自循环包装技术，解决微波面点干硬痛点'}},
+  {id:'n2',type:'newproduct',section:'newproduct',date:'2026-08-03',title:'日本味之素「冷冻寿司拼盘」',source:'味之素官网',sourceUrl:'https://www.ajinomoto.co.jp/',image:'🍣',category:'冷冻食品',desc:'6贯装/980日元。采用-60℃超低温速冻技术保留刺身口感，解冻后媲美门店现做。搭配特制酱油包与芥末。创新点：突破冷冻寿司"腥味"和"饭粒硬化"两大难题。',tags:['日本','味之素','超低温速冻'],innovation:{type:'工艺创新',detail:'-60℃超低温速冻，解决冷冻寿司口感还原难题'}},
+  {id:'n3',type:'newproduct',section:'newproduct',date:'2026-08-02',title:'三全食品「空气炸锅小酥肉」',source:'三全旗舰店',sourceUrl:'https://www.sanquan.com/',image:'🥩',category:'预制菜',desc:'300g装/29.9元。精选猪梅花肉，裹粉厚度精准控制适配空气炸锅。创新点：专为空气炸锅优化的裹粉配方，200℃ 8分钟外酥里嫩，含油量比传统油炸降低40%。',tags:['三全','空气炸锅','小酥肉'],innovation:{type:'配方创新',detail:'空气炸锅专用裹粉配方，减油40%口感不妥协'}},
+  {id:'n4',type:'newproduct',section:'newproduct',date:'2026-07-31',title:'美国Beyond Meat「冷冻植物肉酱意面」',source:'FoodBev',sourceUrl:'https://www.foodbev.com/',image:'🍝',category:'预制菜',desc:'350g/$7.99。植物蛋白肉酱+全麦意面，蛋白质20g/份，饱和脂肪仅2g。创新点：植物肉与意面一体化冷冻方案，复热后肉酱不分离、口感不粉化。',tags:['植物基','Beyond Meat','美国'],innovation:{type:'配方创新',detail:'植物肉酱与意面一体化冷冻，复热不分层'}},
+  {id:'n5',type:'newproduct',section:'newproduct',date:'2026-07-28',title:'安井食品「麻辣小龙虾水饺」',source:'FoodTalks',sourceUrl:'https://www.foodtalks.cn/',image:'🦞',category:'冷冻食品',desc:'240g×3袋装/45.9元。整只小龙虾入馅，搭配猪肉+麻辣酱料。创新点：冷冻水饺中实现"整只虾仁"的工业化量产，虾仁保水处理后复热Q弹不碎。',tags:['安井','小龙虾','水饺'],innovation:{type:'工艺创新',detail:'整只虾仁入馅的工业化量产技术，保水不碎'}},
+  {id:'n6',type:'newproduct',section:'newproduct',date:'2026-08-01',title:'茶颜悦色「桂花酒酿冰汤圆」',source:'天猫新品',sourceUrl:'https://xin.tmall.com/',image:'🍡',category:'休闲零食',desc:'200g×2盒/32.8元。冷冻即食甜品，解冻即食或微波30秒微热。创新点：跨界甜品+冷冻技术，酒酿风味+冰爽口感，抢占夏季冷冻甜品新赛道。',tags:['茶颜悦色','甜品','跨界'],innovation:{type:'场景创新',detail:'夏季冷冻甜品新场景，酒酿+冰爽差异化定位'}},
+  {id:'p1',type:'packaging',section:'packaging',date:'2026-08-05',title:'可微波自排气包装袋',source:'Packaging of the World',sourceUrl:'https://www.packagingoftheworld.com/',image:'📦',category:'',desc:'专为冷冻即食食品设计的可微波自排气袋。PP/PE复合材料，内置单向排气阀，微波加热时自动释放蒸汽，无需撕口。日本Toppan印刷技术，高阻隔性，保质期延长30%。',tags:['可微波','自排气','PP/PE'],material:{name:'PP/PE复合材料',feature:'单向排气阀，微波自排气',process:'凹版印刷+覆膜',supplier:'日本Toppan/国内：紫江企业'}},
+  {id:'p2',type:'packaging',section:'packaging',date:'2026-08-02',title:'PLA可降解冷冻食品托盘',source:'Dieline',sourceUrl:'https://www.dieline.com/',image:'🌿',category:'',desc:'美国Good Natured品牌推出100% PLA植物基冷冻食品托盘，耐-40℃低温不变脆，可家庭堆肥降解。与普通PP托盘相比碳足迹减少72%。已获BPI工业堆肥认证。',tags:['PLA','可降解','环保'],material:{name:'PLA（聚乳酸）',feature:'耐低温-40℃，家庭堆肥可降解',process:'热成型+抗冻改性',supplier:'Good Natured(美)/国内：金发科技'}},
+  {id:'p3',type:'packaging',section:'packaging',date:'2026-07-30',title:'铝箔锁鲜自立袋',source:'Behance',sourceUrl:'https://www.behance.net/',image:'✨',category:'',desc:'高端冷冻海鲜品牌采用的铝箔复合自立袋设计。PET/AL/PE三层结构，铝箔层提供99.9%光阻隔，PE内层-50℃柔韧不开裂。底部自立设计提升货架陈列效果，易撕口设计单手可开。',tags:['铝箔','自立袋','海鲜'],material:{name:'PET/AL/PE三层复合',feature:'99.9%光阻隔，底部自立',process:'干式复合+易撕口激光切割',supplier:'安姆科(Amcor)/国内：黄山永新'}},
+  {id:'p4',type:'packaging',section:'packaging',date:'2026-08-06',title:'透明防雾冷冻盖膜',source:'Dieline',sourceUrl:'https://www.dieline.com/',image:'🔍',category:'',desc:'意大利Sealed Air开发的Cryovac防雾盖膜技术，PETG材质在-25℃冷冻展示柜中保持透明无白雾，消费者可直接看到产品状态。获2026 WorldStar包装大奖。',tags:['防雾','PETG','展示效果'],material:{name:'PETG防雾改性膜',feature:'-25℃保持透明，无白雾凝结',process:'共挤流延+防雾涂覆',supplier:'Sealed Air(意)/国内：浙江众成'}},
+  {id:'f1',type:'formulation',section:'formulation',date:'2026-08-06',title:'海藻糖在冷冻面点中的抗冻保护应用',source:'中国食品学报',sourceUrl:'https://kns.cnki.net/',image:'🧪',category:'速冻面点',desc:'研究表明添加2%-4%海藻糖可显著降低冷冻面筋蛋白冰晶损伤，面皮冻融循环5次后硬度仅增12%(对照组增47%)。同时赋予面皮天然微甜感，减少白砂糖用量。适用品类：速冻水饺皮、包子皮、手抓饼。',tags:['海藻糖','抗冻','面点'],formula:{ingredient:'海藻糖',effect:'降低冰晶对面筋蛋白的损伤',applicable:'速冻面点全品类',mechanism:'海藻糖分子在冰晶表面形成玻璃态保护膜，抑制重结晶',supplier:'日本林原/国内：保龄宝生物'}},
+  {id:'f2',type:'formulation',section:'formulation',date:'2026-08-04',title:'微胶囊包埋花椒油在预制菜中的释放控制',source:'食品科学',sourceUrl:'https://kns.cnki.net/',image:'🌶️',category:'预制菜',desc:'采用β-环糊精对花椒精油微胶囊包埋，包埋率92.3%。冷冻储存6个月后花椒风味保留率87%，而直接添加组仅为41%。复热时囊壁破裂释放，实现"加热即鲜麻"。适用：麻辣火锅底料、水煮鱼预制菜。',tags:['微胶囊','包埋','花椒油'],formula:{ingredient:'β-环糊精包埋花椒精油',effect:'6个月风味保留率87%，复热释放',applicable:'麻辣风味预制菜',mechanism:'β-环糊精空腔结构包裹花椒精油，加热触发释放',supplier:'河南中大恒源/国内：天宁香料'}},
+  {id:'f3',type:'formulation',section:'formulation',date:'2026-08-01',title:'抗性糊精在低GI速冻面点中的应用方案',source:'食品工业科技',sourceUrl:'https://kns.cnki.net/',image:'🌾',category:'速冻面点',desc:'以抗性糊精替代10%-15%小麦粉，可使速冻包子GI值从72降至54(低GI范畴)。同时改善冷冻面团持水性，复热后体积增大8%，口感更松软。成本增量约0.3元/个。',tags:['抗性糊精','低GI','健康'],formula:{ingredient:'抗性糊精',effect:'GI值降低25%，复热体积增大8%',applicable:'速冻包子、馒头、花卷',mechanism:'膳食纤维部分替代淀粉，降低血糖应答+改善面团持水性',supplier:'罗盖特(法)/国内：山东百龙创园'}},
+  {id:'f4',type:'formulation',section:'formulation',date:'2026-07-29',title:'TG酶在冷冻鱼丸弹性保持中的应用',source:'水产学报',sourceUrl:'https://kns.cnki.net/',image:'🐟',category:'冷冻调理食品',desc:'添加0.3%TG酶(谷氨酰胺转氨酶)可使冷冻鱼丸冻藏6个月后弹性仅降8.5%，对照降32%。TG酶催化蛋白质交联形成更稳定的凝胶网络结构，有效抵抗冻藏过程中的蛋白质变性。',tags:['TG酶','弹性保持','鱼丸'],formula:{ingredient:'TG酶（谷氨酰胺转氨酶）',effect:'冻藏6个月弹性仅降8.5%',applicable:'冷冻鱼丸、虾滑、肉丸',mechanism:'催化蛋白分子间ε-(γ-谷氨酰)赖氨酸共价交联',supplier:'日本味之素/国内：江苏一鸣生物'}},
+];
+
+// Load data first
+loadData();
+
+// ============== APP STATE ==============
+const state = {
+  activeView: 'home',
+  dataSub: 'report',
+  newproductCat: 'all',
+  feedFilter: 'all',
+  panelTab: 'favs',
+  searchQuery: '',
+  favorites: JSON.parse(localStorage.getItem('ff_favorites')||'[]'),
+  notes: JSON.parse(localStorage.getItem('ff_notes')||'{}'),
+  shared: JSON.parse(localStorage.getItem('ff_shared')||'[]')
+};
+
+function saveState(){
+  localStorage.setItem('ff_favorites',JSON.stringify(state.favorites));
+  localStorage.setItem('ff_notes',JSON.stringify(state.notes));
+  localStorage.setItem('ff_shared',JSON.stringify(state.shared));
+}
+
+// ============== HELPERS ==============
+const typeLabels = {report:'行业报告',compliance:'合规数据',ecommerce:'电商大盘',newproduct:'新品速递',packaging:'包材灵感',formulation:'配方工艺'};
+const typeIcons = {report:'📊',compliance:'⚖️',ecommerce:'🛒',newproduct:'🆕',packaging:'📦',formulation:'🧪'};
+
+function formatDate(d){const parts=d.split('-');return parts[1]+'/'+parts[2];}
+function isToday(d){return d===new Date().toISOString().slice(0,10);}
+
+function getItemUrl(item){
+  const base = location.href.split('?')[0].split('#')[0];
+  return `${base}?item=${item.id}`;
+}
+
+function buildCard(item){
+  const isFav = state.favorites.includes(item.id);
+  const note = state.notes[item.id]||'';
+  const hasNote = note.length>0;
+  const todayMark = isToday(item.date)?'<span class="today-badge">🔥 今日</span>':'';
+
+  let innovationHTML='';
+  if(item.innovation){
+    innovationHTML=`<div class="innovation-badge">💡 ${item.innovation.type}：${item.innovation.detail}</div>`;
+  }
+
+  let materialHTML='';
+  if(item.material){
+    materialHTML=`
+      <div class="card-meta">
+        <span class="card-tag highlight">材质：${item.material.name}</span>
+        <span class="card-tag highlight">特性：${item.material.feature}</span>
+        <span class="card-tag">工艺：${item.material.process}</span>
+        <span class="card-tag">🔗 供应商：${item.material.supplier}</span>
+      </div>`;
+  }
+
+  let formulaHTML='';
+  if(item.formula){
+    formulaHTML=`
+      <div class="card-meta">
+        <span class="card-tag highlight">原料：${item.formula.ingredient}</span>
+        <span class="card-tag highlight">效果：${item.formula.effect}</span>
+        <span class="card-tag">适用：${item.formula.applicable}</span>
+        <span class="card-tag">🔗 供应商：${item.formula.supplier}</span>
+      </div>`;
+  }
+
+  const tagsHTML = (item.tags||[]).map(t=>`<span class="card-tag">${t}</span>`).join('');
+  const sourceHTML = item.sourceUrl
+    ? `<a href="${item.sourceUrl}" target="_blank" onclick="event.stopPropagation()">${item.source}</a> ↗`
+    : item.source;
+
+  return `
+    <div class="card" data-id="${item.id}" onclick="openDetail('${item.id}')">
+      <div class="card-top">
+        <span class="card-type ${item.type}">${typeIcons[item.type]||''} ${typeLabels[item.type]||item.type}</span>
+        <div style="display:flex;align-items:center">${todayMark}<span class="card-date">${formatDate(item.date)}</span></div>
+      </div>
+      ${item.category?`<span class="card-tag highlight" style="margin-bottom:6px">${item.category}</span>`:''}
+      <div class="card-title">${item.title}</div>
+      ${innovationHTML}
+      <div class="card-desc">${item.desc}</div>
+      ${materialHTML}
+      ${formulaHTML}
+      ${tagsHTML?`<div class="card-meta">${tagsHTML}</div>`:''}
+      <div class="card-actions">
+        <div class="card-actions-left">
+          <button class="card-action ${isFav?'favorited':''}" onclick="event.stopPropagation();toggleFav('${item.id}')">
+            <span class="action-icon">${isFav?'❤️':'🤍'}</span>${isFav?'已收藏':'收藏'}
+          </button>
+          <button class="card-action" onclick="event.stopPropagation();openNote('${item.id}')">
+            <span class="action-icon">📝</span>${hasNote?'已笔记':'笔记'}
+          </button>
+        </div>
+        <button class="card-action" onclick="event.stopPropagation();shareItem('${item.id}')" title="分享">
+          <span class="action-icon">📤</span>
+        </button>
+      </div>
+      <div class="card-source" style="margin-top:8px;font-size:11px">来源：${sourceHTML}</div>
+    </div>`;
+}
+
+// ============== RENDER FUNCTIONS ==============
+function renderFeed(){
+  const container = document.getElementById('feedContainer');
+  let items = [...APP_DATA];
+
+  if(state.feedFilter==='today'){
+    const todayStr = new Date().toISOString().slice(0,10);
+    items.sort((a,b)=>{
+      const aToday = a.date===todayStr ? 1 : 0;
+      const bToday = b.date===todayStr ? 1 : 0;
+      if(aToday!==bToday) return bToday - aToday;
+      return b.date.localeCompare(a.date);
+    });
+  }else{
+    items.sort((a,b)=>b.date.localeCompare(a.date));
+    if(state.feedFilter!=='all') items=items.filter(i=>i.type===state.feedFilter);
+  }
+
+  items = items.slice(0,20);
+
+  if(items.length===0){
+    container.innerHTML='<div class="empty-state"><div class="empty-icon">📭</div><div class="empty-text">暂无该类型动态</div></div>';
+    return;
+  }
+  container.innerHTML=items.map(buildCard).join('');
+}
+
+function renderData(){
+  const container = document.getElementById('dataContainer');
+  let items = APP_DATA.filter(i=>i.section==='data' && i.sub===state.dataSub);
+  if(items.length===0){
+    container.innerHTML='<div class="empty-state"><div class="empty-icon">📭</div><div class="empty-text">暂无数据，敬请期待</div></div>';
+    return;
+  }
+  container.innerHTML=items.map(buildCard).join('');
+}
+
+function renderNewProducts(){
+  const container = document.getElementById('newproductContainer');
+  let items = APP_DATA.filter(i=>i.section==='newproduct');
+  if(state.newproductCat!=='all') items=items.filter(i=>i.category===state.newproductCat);
+  container.innerHTML=items.map(buildCard).join('');
+}
+
+function renderPackaging(){
+  const container = document.getElementById('packagingContainer');
+  const items = APP_DATA.filter(i=>i.section==='packaging');
+  container.innerHTML=items.map(buildCard).join('');
+}
+
+function renderFormulation(){
+  const container = document.getElementById('formulationContainer');
+  const items = APP_DATA.filter(i=>i.section==='formulation');
+  container.innerHTML=items.map(buildCard).join('');
+}
+
+function renderPanel(){
+  const container = document.getElementById('panelContent');
+  if(state.panelTab==='favs'){
+    const favItems = APP_DATA.filter(i=>state.favorites.includes(i.id));
+    if(favItems.length===0){
+      container.innerHTML='<div class="empty-state"><div class="empty-icon">💝</div><div class="empty-text">还没有收藏任何内容<br>点击卡片底部的 🤍 即可收藏</div></div>';
+      return;
+    }
+    container.innerHTML=favItems.map(item=>renderPanelItem(item,'fav')).join('');
+  }else if(state.panelTab==='notes'){
+    const noteEntries = Object.entries(state.notes).filter(([,v])=>v.trim());
+    if(noteEntries.length===0){
+      container.innerHTML='<div class="empty-state"><div class="empty-icon">📝</div><div class="empty-text">还没有写过笔记<br>点击卡片底部的 📝 即可添加笔记</div></div>';
+      return;
+    }
+    container.innerHTML=noteEntries.map(([id,note])=>{
+      const item=APP_DATA.find(i=>i.id===id);
+      if(!item) return '';
+      return renderPanelItem(item,'note',note);
+    }).join('');
+  }else if(state.panelTab==='shared'){
+    if(state.shared.length===0){
+      container.innerHTML='<div class="empty-state"><div class="empty-icon">📤</div><div class="empty-text">还没有分享过内容<br>点击卡片底部的 📤 即可一键分享</div></div>';
+      return;
+    }
+    container.innerHTML=state.shared.slice().reverse().map(record=>{
+      const item=APP_DATA.find(i=>i.id===record.id);
+      if(!item) return '';
+      return renderPanelItem(item,'shared',null,record);
+    }).join('');
+  }
+}
+
+function renderPanelItem(item,mode,noteText,record){
+  const note = noteText || state.notes[item.id] || '';
+  let extra = '';
+  if(mode==='note' || (mode==='fav' && note)){
+    extra += `<div class="panel-item-note">📝 ${note}</div>`;
+  }
+  if(mode==='shared' && record){
+    extra += `<div class="panel-item-note">🔗 分享于 ${formatDateTime(record.time)}</div>`;
+  }
+
+  let actions = '';
+  if(mode==='fav'){
+    actions = `
+      <div class="panel-item-actions">
+        <button class="panel-item-btn secondary" onclick="event.stopPropagation();openNote('${item.id}')">📝 ${note?'编辑笔记':'写笔记'}</button>
+        <button class="panel-item-btn danger" onclick="event.stopPropagation();removeFav('${item.id}')">💔 取消收藏</button>
+      </div>`;
+  }else if(mode==='note'){
+    actions = `
+      <div class="panel-item-actions">
+        <button class="panel-item-btn secondary" onclick="event.stopPropagation();openNote('${item.id}')">✏️ 编辑</button>
+        <button class="panel-item-btn danger" onclick="event.stopPropagation();removeNote('${item.id}')">🗑️ 删除笔记</button>
+      </div>`;
+  }else if(mode==='shared'){
+    actions = `
+      <div class="panel-item-actions">
+        <button class="panel-item-btn secondary" onclick="event.stopPropagation();copyItemLink('${item.id}')">📋 复制链接</button>
+        <button class="panel-item-btn danger" onclick="event.stopPropagation();removeShared('${record.time}')">🗑️ 删除记录</button>
+      </div>`;
+  }
+
+  return `
+    <div class="panel-item" onclick="openDetail('${item.id}')">
+      <div class="panel-item-title">${typeIcons[item.type]||''} ${item.title}</div>
+      <div class="panel-item-meta">${typeLabels[item.type]} · ${formatDate(item.date)} · ${item.source}</div>
+      ${extra}
+      ${actions}
+    </div>`;
+}
+
+function formatDateTime(iso){
+  try{
+    const d = new Date(iso);
+    return `${d.getMonth()+1}/${d.getDate()} ${String(d.getHours()).padStart(2,'0')}:${String(d.getMinutes()).padStart(2,'0')}`;
+  }catch(e){ return iso; }
+}
+
+function updateStats(){
+  const today=APP_DATA.filter(i=>isToday(i.date)).length;
+  document.getElementById('statTotal').textContent=APP_DATA.length;
+  document.getElementById('statToday').textContent=today;
+  document.getElementById('statFav').textContent=state.favorites.length;
+  const updateEl = document.getElementById('statUpdate');
+  if(updateEl && DATA_META.updated){
+    updateEl.textContent = '数据更新：' + DATA_META.updated;
+  }
+  const badge=document.getElementById('favBadge');
+  const cnt=state.favorites.length+Object.keys(state.notes).filter(k=>state.notes[k].trim()).length+state.shared.length;
+  badge.textContent=cnt;
+  badge.style.display=cnt>0?'flex':'none';
+}
+
+function refreshAll(){
+  renderFeed();
+  renderData();
+  renderNewProducts();
+  renderPackaging();
+  renderFormulation();
+  updateStats();
+  if(document.getElementById('searchOverlay').classList.contains('show')){
+    doSearch();
+  }
+}
+
+// ============== NAVIGATION ==============
+document.querySelectorAll('.tab-item').forEach(btn=>{
+  btn.addEventListener('click',function(){
+    const view=this.dataset.view;
+    switchView(view);
+  });
+});
+
+function switchView(view){
+  state.activeView=view;
+  document.querySelectorAll('.tab-item').forEach(b=>b.classList.remove('active'));
+  document.querySelector(`.tab-item[data-view="${view}"]`).classList.add('active');
+  document.querySelectorAll('.view').forEach(v=>v.classList.remove('active'));
+  document.getElementById(`view-${view}`).classList.add('active');
+
+  if(view==='home') renderFeed();
+  else if(view==='data') renderData();
+  else if(view==='newproduct') renderNewProducts();
+  else if(view==='packaging') renderPackaging();
+  else if(view==='formulation') renderFormulation();
+
+  document.querySelector('main').scrollTop=0;
+}
+
+function jumpToTotal(){
+  state.feedFilter='all';
+  document.querySelectorAll('#feedFilter .feed-subtab').forEach(f=>f.classList.remove('active'));
+  document.querySelector('#feedFilter .feed-subtab[data-filter="all"]').classList.add('active');
+  switchView('home');
+}
+
+function jumpToToday(){
+  state.feedFilter='today';
+  document.querySelectorAll('#feedFilter .feed-subtab').forEach(f=>f.classList.remove('active'));
+  const todayTab = document.querySelector('#feedFilter .feed-subtab[data-filter="today"]');
+  if(todayTab) todayTab.classList.add('active');
+  switchView('home');
+  renderFeed();
+}
+
+function jumpToFav(){
+  state.panelTab='favs';
+  document.querySelectorAll('.panel-tab').forEach(t=>t.classList.remove('active'));
+  document.querySelector('.panel-tab[data-ptab="favs"]').classList.add('active');
+  openPanel();
+}
+
+// Data sub-tabs
+document.getElementById('dataSubtabs').addEventListener('click',function(e){
+  if(e.target.classList.contains('subtab')){
+    document.querySelectorAll('#dataSubtabs .subtab').forEach(s=>s.classList.remove('active'));
+    e.target.classList.add('active');
+    state.dataSub=e.target.dataset.sub;
+    renderData();
+  }
+});
+
+// New product filter
+document.getElementById('newproductFilter').addEventListener('click',function(e){
+  if(e.target.classList.contains('filter-chip')){
+    document.querySelectorAll('#newproductFilter .filter-chip').forEach(c=>c.classList.remove('active'));
+    e.target.classList.add('active');
+    state.newproductCat=e.target.dataset.cat;
+    renderNewProducts();
+  }
+});
+
+// Feed filter
+document.getElementById('feedFilter').addEventListener('click',function(e){
+  if(e.target.classList.contains('feed-subtab')){
+    document.querySelectorAll('#feedFilter .feed-subtab').forEach(f=>f.classList.remove('active'));
+    e.target.classList.add('active');
+    state.feedFilter=e.target.dataset.filter;
+    renderFeed();
+  }
+});
+
+// ============== FAVORITES ==============
+function toggleFav(id){
+  const idx=state.favorites.indexOf(id);
+  if(idx>-1){
+    state.favorites.splice(idx,1);
+    showToast('已取消收藏');
+  }else{
+    state.favorites.push(id);
+    showToast('已加入收藏 ❤️');
+  }
+  saveState();
+  refreshAll();
+}
+
+function removeFav(id){
+  const idx=state.favorites.indexOf(id);
+  if(idx>-1){
+    state.favorites.splice(idx,1);
+    saveState();
+    renderPanel();
+    updateStats();
+    refreshAll();
+    showToast('已取消收藏');
+  }
+}
+
+// ============== NOTES ==============
+function openNote(id){
+  const note=state.notes[id]||'';
+  const item=APP_DATA.find(i=>i.id===id);
+  if(!item) return;
+
+  const modal=document.getElementById('modalBody');
+  modal.innerHTML=`
+    <div class="modal-handle"></div>
+    <button class="modal-close" id="modalClose">✕</button>
+    <div style="margin-top:8px">
+      <div style="font-size:16px;font-weight:600;margin-bottom:12px">📝 笔记 · ${item.title}</div>
+      <div class="note-editor">
+        <textarea id="noteTextarea" placeholder="记录你的想法、立项要点、竞品对比...">${note}</textarea>
+        <div class="note-actions">
+          <button class="modal-btn secondary" onclick="closeModal()">取消</button>
+          <button class="modal-btn danger" onclick="deleteNote('${id}')">删除</button>
+          <button class="modal-btn primary" onclick="saveNote('${id}')">保存笔记</button>
+        </div>
+      </div>
+    </div>`;
+  document.getElementById('modalOverlay').classList.add('show');
+  document.getElementById('modalClose').onclick=closeModal;
+}
+
+function saveNote(id){
+  const textarea=document.getElementById('noteTextarea');
+  const note=textarea.value.trim();
+  if(note){
+    state.notes[id]=note;
+    showToast('笔记已保存 📝');
+  }else{
+    delete state.notes[id];
+    showToast('笔记已清除');
+  }
+  saveState();
+  closeModal();
+  refreshAll();
+}
+
+function deleteNote(id){
+  delete state.notes[id];
+  saveState();
+  closeModal();
+  refreshAll();
+  showToast('笔记已删除');
+}
+
+function removeNote(id){
+  delete state.notes[id];
+  saveState();
+  renderPanel();
+  updateStats();
+  refreshAll();
+  showToast('笔记已删除');
+}
+
+// ============== SHARE ==============
+async function shareItem(id){
+  const item = APP_DATA.find(i=>i.id===id);
+  if(!item) return;
+  const shareData = {
+    title: item.title,
+    text: `${typeLabels[item.type]} | ${item.desc.slice(0,80)}...`,
+    url: item.sourceUrl || getItemUrl(item)
+  };
+
+  // Record share
+  const record = {id:id, time:new Date().toISOString(), url:shareData.url};
+  state.shared.push(record);
+  saveState();
+  updateStats();
+
+  if(navigator.share){
+    try{
+      await navigator.share(shareData);
+      showToast('分享成功 📤');
+    }catch(err){
+      if(err.name!=='AbortError'){
+        copyItemLink(id);
+      }
+    }
+  }else{
+    copyItemLink(id);
+  }
+}
+
+function copyItemLink(id){
+  const item = APP_DATA.find(i=>i.id===id);
+  if(!item) return;
+  const url = item.sourceUrl || getItemUrl(item);
+  if(navigator.clipboard){
+    navigator.clipboard.writeText(`${item.title}\n${url}`).then(()=>{
+      showToast('链接已复制 📋');
+    }).catch(()=>{
+      showToast('复制失败，请手动复制');
+    });
+  }else{
+    const ta = document.createElement('textarea');
+    ta.value = url;
+    document.body.appendChild(ta);
+    ta.select();
+    document.execCommand('copy');
+    document.body.removeChild(ta);
+    showToast('链接已复制 📋');
+  }
+}
+
+function removeShared(time){
+  state.shared = state.shared.filter(s=>s.time!==time);
+  saveState();
+  renderPanel();
+  updateStats();
+  showToast('分享记录已删除');
+}
+
+// ============== DETAIL MODAL ==============
+function openDetail(id){
+  const item=APP_DATA.find(i=>i.id===id);
+  if(!item) return;
+  const isFav=state.favorites.includes(id);
+  const note=state.notes[id]||'';
+
+  let bodyHTML='';
+  if(item.innovation){
+    bodyHTML+=`<div class="innovation-badge" style="margin-bottom:12px">💡 <strong>${item.innovation.type}</strong>：${item.innovation.detail}</div>`;
+  }
+  bodyHTML+=`<p style="font-size:15px;line-height:1.7;margin-bottom:12px">${item.desc}</p>`;
+
+  if(item.material){
+    bodyHTML+=`
+      <div style="background:#F8FAFC;padding:12px;border-radius:8px;margin-bottom:12px">
+        <div style="font-weight:600;margin-bottom:6px">📦 材质详情</div>
+        <div>材质：${item.material.name}</div>
+        <div>特性：${item.material.feature}</div>
+        <div>工艺：${item.material.process}</div>
+        <div>供应商：${item.material.supplier}</div>
+      </div>`;
+  }
+
+  if(item.formula){
+    bodyHTML+=`
+      <div style="background:#F8FAFC;padding:12px;border-radius:8px;margin-bottom:12px">
+        <div style="font-weight:600;margin-bottom:6px">🧪 配方详情</div>
+        <div>原料：${item.formula.ingredient}</div>
+        <div>效果：${item.formula.effect}</div>
+        <div>适用品类：${item.formula.applicable}</div>
+        <div>技术原理：${item.formula.mechanism}</div>
+        <div>供应商：${item.formula.supplier}</div>
+      </div>`;
+  }
+
+  const tagsHTML=(item.tags||[]).map(t=>`<span class="card-tag">${t}</span>`).join('');
+
+  const modal=document.getElementById('modalBody');
+  modal.innerHTML=`
+    <div class="modal-handle"></div>
+    <button class="modal-close" id="modalClose">✕</button>
+    <div style="margin-top:8px">
+      <span class="card-type ${item.type}" style="margin-bottom:8px;display:inline-flex">${typeIcons[item.type]||''} ${typeLabels[item.type]}</span>
+      ${item.category?`<span class="card-tag highlight" style="margin-left:8px">${item.category}</span>`:''}
+      <div class="modal-title">${item.title}</div>
+      <div class="modal-source">
+        <span>来源：</span>
+        ${item.sourceUrl?`<a href="${item.sourceUrl}" target="_blank">${item.source}</a> ↗`:`<span>${item.source}</span>`}
+        <span style="margin-left:8px">${item.date}</span>
+      </div>
+      ${item.image?`<div class="modal-img" style="display:flex;align-items:center;justify-content:center;font-size:64px">${item.image}</div>`:''}
+      <div class="modal-body">${bodyHTML}</div>
+      ${tagsHTML?`<div class="modal-tags">${tagsHTML}</div>`:''}
+      ${note?`<div class="panel-item-note" style="margin-bottom:12px">📝 我的笔记：${note}</div>`:''}
+      <div class="modal-actions">
+        <button class="modal-btn ${isFav?'danger':'secondary'}" onclick="toggleFav('${id}');closeModal();">
+          ${isFav?'❤️ 取消收藏':'🤍 加入收藏'}
+        </button>
+        <button class="modal-btn secondary" onclick="closeModal();openNote('${id}')">📝 写笔记</button>
+        <button class="modal-btn primary" onclick="shareItem('${id}')">📤 分享</button>
+      </div>
+      ${item.sourceUrl?`<a href="${item.sourceUrl}" target="_blank" class="modal-btn primary" style="text-decoration:none;margin-top:10px;display:flex">🔗 查看原文</a>`:''}
+    </div>`;
+  document.getElementById('modalOverlay').classList.add('show');
+  document.getElementById('modalClose').onclick=closeModal;
+}
+
+function closeModal(){
+  document.getElementById('modalOverlay').classList.remove('show');
+}
+
+document.getElementById('modalOverlay').addEventListener('click',function(e){
+  if(e.target===this) closeModal();
+});
+
+// ============== PERSONAL PANEL ==============
+function openPanel(){
+  renderPanel();
+  document.getElementById('panelOverlay').classList.add('show');
+  document.getElementById('panel').classList.add('show');
+}
+
+document.getElementById('btnPersonal').addEventListener('click',openPanel);
+
+document.getElementById('panelClose').addEventListener('click',()=>{
+  document.getElementById('panel').classList.remove('show');
+  setTimeout(()=>document.getElementById('panelOverlay').classList.remove('show'),300);
+});
+
+document.getElementById('panelOverlay').addEventListener('click',function(){
+  document.getElementById('panel').classList.remove('show');
+  setTimeout(()=>this.classList.remove('show'),300);
+});
+
+document.querySelector('.panel-tabs').addEventListener('click',function(e){
+  if(e.target.classList.contains('panel-tab')){
+    document.querySelectorAll('.panel-tab').forEach(t=>t.classList.remove('active'));
+    e.target.classList.add('active');
+    state.panelTab=e.target.dataset.ptab;
+    renderPanel();
+  }
+});
+
+// ============== SEARCH ==============
+const searchOverlay = document.getElementById('searchOverlay');
+const searchInput = document.getElementById('searchInput');
+const searchResults = document.getElementById('searchResults');
+
+document.getElementById('btnSearch').addEventListener('click',()=>{
+  searchOverlay.classList.add('show');
+  setTimeout(()=>searchInput.focus(),100);
+});
+
+document.getElementById('searchCancel').addEventListener('click',closeSearch);
+
+function closeSearch(){
+  searchOverlay.classList.remove('show');
+  searchInput.value='';
+  searchResults.innerHTML='';
+}
+
+searchInput.addEventListener('input',function(){
+  state.searchQuery = this.value.trim();
+  doSearch();
+});
+
+function doSearch(){
+  const q = state.searchQuery.toLowerCase();
+  if(!q){
+    searchResults.innerHTML='<div class="search-tips">输入关键词搜索情报、新品、包材、配方灵感</div>';
+    return;
+  }
+  const results = APP_DATA.filter(item=>{
+    const hay = [
+      item.title, item.desc, item.source, item.category,
+      (item.tags||[]).join(' '),
+      item.innovation?item.innovation.type+' '+item.innovation.detail:'',
+      item.material?item.material.name+' '+item.material.feature+' '+item.material.supplier:'',
+      item.formula?item.formula.ingredient+' '+item.formula.effect+' '+item.formula.applicable:''
+    ].join(' ').toLowerCase();
+    return hay.includes(q);
+  }).sort((a,b)=>b.date.localeCompare(a.date));
+
+  if(results.length===0){
+    searchResults.innerHTML='<div class="empty-state"><div class="empty-icon">🔍</div><div class="empty-text">未找到相关内容<br>换个关键词试试</div></div>';
+    return;
+  }
+  searchResults.innerHTML=`<div class="search-tips">找到 ${results.length} 条相关情报</div>` + results.map(buildCard).join('');
+}
+
+// ============== TOAST ==============
+function showToast(msg){
+  const existing=document.querySelector('.toast');
+  if(existing) existing.remove();
+  const toast=document.createElement('div');
+  toast.className='toast';
+  toast.textContent=msg;
+  document.body.appendChild(toast);
+  setTimeout(()=>toast.remove(),2000);
+}
+
+// ============== SERVICE WORKER ==============
+let swUpdateReady = false;
+
+if('serviceWorker' in navigator){
+  navigator.serviceWorker.register('sw.js').then(reg => {
+    // 检测新 SW 安装完毕
+    reg.addEventListener('updatefound', () => {
+      const newWorker = reg.installing;
+      if(!newWorker) return;
+      newWorker.addEventListener('statechange', () => {
+        if(newWorker.state === 'installed' && navigator.serviceWorker.controller){
+          // 新版本已准备好，显示更新提示
+          swUpdateReady = true;
+          showUpdateBanner();
+        }
+      });
+    });
+    // 定期检查更新（每30分钟）
+    setInterval(() => {
+      reg.update().catch(()=>{});
+    }, 1800000);
+  }).catch(()=>{});
+}
+
+function showUpdateBanner(){
+  const banner = document.getElementById('updateBanner');
+  if(!banner || banner.style.display==='flex') return;
+  banner.style.display='flex';
+  banner.style.bottom='80px';
+}
+
+function applyUpdate(){
+  if(!swUpdateReady) return;
+  navigator.serviceWorker.ready.then(reg => {
+    const worker = reg.waiting;
+    if(worker){
+      worker.postMessage('SKIP_WAITING');
+      worker.addEventListener('statechange', () => {
+        if(worker.state === 'activated'){
+          window.location.reload();
+        }
+      });
+    } else {
+      window.location.reload();
+    }
+  });
+}
+
+function dismissUpdate(){
+  document.getElementById('updateBanner').style.display='none';
+}
+
+// ============== KEYBOARD ==============
+document.addEventListener('keydown',function(e){
+  if(e.key==='Escape'){
+    closeModal();
+    closeSearch();
+    document.getElementById('panel').classList.remove('show');
+    setTimeout(()=>document.getElementById('panelOverlay').classList.remove('show'),300);
+  }
+});
+</script>
+</body>
+</html>
