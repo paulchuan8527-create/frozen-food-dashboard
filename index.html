@@ -245,6 +245,16 @@ main{flex:1;overflow-y:auto;overflow-x:hidden;-webkit-overflow-scrolling:touch;
 .panel-item-btn.secondary{background:#F1F5F9;color:var(--text)}
 .panel-item-btn.danger{background:#FEE2E2;color:#DC2626}
 
+/* Data Sync */
+.sync-section{background:var(--card);border-radius:var(--radius);padding:16px;margin-bottom:12px;box-shadow:var(--shadow)}
+.sync-title{font-size:15px;font-weight:600;margin-bottom:8px;color:var(--text)}
+.sync-desc{font-size:13px;color:var(--text-secondary);line-height:1.6;margin-bottom:14px}
+.sync-btn{width:100%;padding:11px;border-radius:var(--radius-sm);border:none;font-size:14px;font-weight:500;cursor:pointer;display:flex;align-items:center;justify-content:center;gap:8px;margin-bottom:10px;transition:all 0.2s}
+.sync-btn.primary{background:var(--primary);color:#fff}
+.sync-btn.secondary{background:#F1F5F9;color:var(--text)}
+.sync-file{display:none}
+.sync-status{font-size:12px;color:var(--text-muted);text-align:center;margin-top:8px}
+
 /* Note Editor */
 .note-editor{background:var(--card);border-radius:var(--radius);padding:12px;margin-bottom:8px}
 .note-editor textarea{width:100%;min-height:60px;border:1px solid var(--border);
@@ -372,7 +382,6 @@ main::-webkit-scrollbar-thumb{background:var(--border);border-radius:2px}
     </div>
     <div class="section-header">
       <div class="section-title">🔥 最新动态</div>
-      <div class="section-desc">全板块信息流，最近更新优先展示</div>
     </div>
     <div class="feed-subtabs" id="feedFilter">
       <div class="feed-subtab active" data-filter="all">全部</div>
@@ -475,6 +484,7 @@ main::-webkit-scrollbar-thumb{background:var(--border);border-radius:2px}
     <div class="panel-tab active" data-ptab="favs">❤️ 收藏夹</div>
     <div class="panel-tab" data-ptab="notes">📝 我的笔记</div>
     <div class="panel-tab" data-ptab="shared">📤 已分享</div>
+    <div class="panel-tab" data-ptab="sync">⚙️ 数据同步</div>
   </div>
   <div class="panel-content" id="panelContent"></div>
 </div>
@@ -740,6 +750,8 @@ function renderPanel(){
       if(!item) return '';
       return renderPanelItem(item,'shared',null,record);
     }).join('');
+  }else if(state.panelTab==='sync'){
+    renderSyncPanel();
   }
 }
 
@@ -781,6 +793,81 @@ function renderPanelItem(item,mode,noteText,record){
       ${extra}
       ${actions}
     </div>`;
+}
+
+function renderSyncPanel(){
+  const container = document.getElementById('panelContent');
+  const favCount = state.favorites.length;
+  const noteCount = Object.keys(state.notes).filter(k=>state.notes[k].trim()).length;
+  const shareCount = state.shared.length;
+
+  container.innerHTML = `
+    <div class="sync-section">
+      <div class="sync-title">📱 跨设备数据同步</div>
+      <div class="sync-desc">收藏夹、笔记、分享记录默认保存在当前设备本地。要在手机与电脑之间同步，请先在一台设备上导出数据文件，再在另一台设备上导入。</div>
+      <button class="sync-btn primary" onclick="exportData()">📤 导出我的数据</button>
+      <button class="sync-btn secondary" onclick="document.getElementById('syncFileInput').click()">📥 导入数据文件</button>
+      <input type="file" id="syncFileInput" class="sync-file" accept=".json" onchange="importData(this)">
+      <div class="sync-status" id="syncStatus">当前：${favCount} 条收藏 · ${noteCount} 条笔记 · ${shareCount} 条分享</div>
+    </div>
+    <div class="sync-section">
+      <div class="sync-title">💡 关于自动同步</div>
+      <div class="sync-desc">本站点为静态网页，数据暂不支持云端自动同步。建议定期导出备份，或在同一设备上使用。</div>
+    </div>`;
+}
+
+function exportData(){
+  const data = {
+    version: 1,
+    exportedAt: new Date().toISOString(),
+    favorites: state.favorites,
+    notes: state.notes,
+    shared: state.shared
+  };
+  const blob = new Blob([JSON.stringify(data,null,2)],{type:'application/json'});
+  const url = URL.createObjectURL(blob);
+  const a = document.createElement('a');
+  a.href = url;
+  a.download = `冻品情报站-数据备份-${new Date().toISOString().slice(0,10)}.json`;
+  document.body.appendChild(a);
+  a.click();
+  document.body.removeChild(a);
+  URL.revokeObjectURL(url);
+  showToast('数据已导出 📤');
+}
+
+function importData(input){
+  const file = input.files && input.files[0];
+  if(!file) return;
+  const status = document.getElementById('syncStatus');
+  const reader = new FileReader();
+  reader.onload = function(e){
+    try{
+      const data = JSON.parse(e.target.result);
+      if(!Array.isArray(data.favorites) || typeof data.notes !== 'object'){
+        throw new Error('文件格式不正确');
+      }
+      state.favorites = [...new Set(data.favorites)];
+      state.notes = {...(data.notes||{})};
+      state.shared = Array.isArray(data.shared)?[...data.shared]:[];
+      saveState();
+      refreshAll();
+      const favCount = state.favorites.length;
+      const noteCount = Object.keys(state.notes).filter(k=>state.notes[k].trim()).length;
+      const shareCount = state.shared.length;
+      if(status) status.textContent = `导入成功：${favCount} 条收藏 · ${noteCount} 条笔记 · ${shareCount} 条分享`;
+      showToast('数据导入成功 📥');
+    }catch(err){
+      showToast('导入失败：'+err.message);
+      if(status) status.textContent = '导入失败，请检查文件格式';
+    }
+    input.value = '';
+  };
+  reader.onerror = function(){
+    showToast('读取文件失败');
+    input.value = '';
+  };
+  reader.readAsText(file);
 }
 
 function formatDateTime(iso){
