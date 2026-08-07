@@ -1,0 +1,42 @@
+name: 自动采集数据并更新
+
+on:
+  schedule:
+    # 每天北京时间 08:00 (UTC 00:00) 运行
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+    # 手动触发
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          pip install feedparser requests beautifulsoup4 urllib3 lxml
+
+      - name: Run data collector
+        run: python update_data.py
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data.json
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "auto: 每日数据自动更新"
+            git push
+          fi
