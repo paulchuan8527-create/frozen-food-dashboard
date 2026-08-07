@@ -1,8 +1,8 @@
 {
   "meta": {
-    "updated": "2026-08-06",
-    "version": 1786020385,
-    "total": 54,
+    "updated": "2026-08-07",
+    "version": 1786079171,
+    "total": 75,
     "auto_generated": true,
     "sources": [
       "FoodBev Media",
@@ -21,6 +21,36 @@
     ]
   },
   "items": [
+    {
+      "id": "8e64de7cd83a",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-08-07",
+      "title": "Trend Tracker: Clean label, GLP-1 and cultivated meat",
+      "source": "FoodNavigator-Asia",
+      "sourceUrl": "https://www.foodnavigator.com/Article/2026/08/07/trend-tracker-clean-label-glp-1-and-cultivated-meat/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "📊",
+      "category": "",
+      "desc": "Clean label, GLP-1 and cultivated meat feature in this edition of Trend Tracker",
+      "tags": [],
+      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/XQYOXGCATVCNVH55UUCZEDE4VY.jpg?auth=3b47e7ab1d7938157e39287c09c4d73e0f146533f5307f4ead9a164a23c92e37&smart=true&width=2291&height=1309"
+    },
+    {
+      "id": "47cc110f7ab9",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-08-07",
+      "title": "Trend Tracker: Clean label, GLP-1 and cultivated meat",
+      "source": "FoodNavigator-USA",
+      "sourceUrl": "https://www.foodnavigator.com/Article/2026/08/07/trend-tracker-clean-label-glp-1-and-cultivated-meat/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "📊",
+      "category": "",
+      "desc": "Clean label, GLP-1 and cultivated meat feature in this edition of Trend Tracker",
+      "tags": [],
+      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/XQYOXGCATVCNVH55UUCZEDE4VY.jpg?auth=3b47e7ab1d7938157e39287c09c4d73e0f146533f5307f4ead9a164a23c92e37&smart=true&width=2291&height=1309"
+    },
     {
       "id": "r1",
       "type": "report",
@@ -138,6 +168,262 @@
       "desc": "Ferrara launches Trolli Spicy Crawlers with free Jeff Cole-designed trainers, highlighting the rise of swicy confectionery and experiential marketing.",
       "tags": [],
       "_imageUrl": "https://www.foodnavigator.com/resizer/v2/S5RZAQQHNFFJFH4WJVEERECE2Q.jpg?auth=ef75639f6a8e0517efba486322688edb85835719136b460956d444f88d210984&smart=true&width=2700&height=1507"
+    },
+    {
+      "id": "b83f8e1ac8d4",
+      "type": "compliance",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-08-06",
+      "title": "FDA’s UPF definition may lack legal force, but not policy impact",
+      "source": "FoodNavigator-Asia",
+      "sourceUrl": "https://www.foodnavigator.com/Article/2026/08/06/fda-upf-white-paper-could-reshape-food-policy/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "⚖️",
+      "category": "",
+      "desc": "FDA submitted its proposed ultra-processed food definition as a white paper instead of a rule. Here’s what that means for food labeling, reformulation and future regulations.",
+      "tags": [],
+      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/IMWRQPTCW5CRPOOCRDFHFBEVIA.jpg?auth=a5a856ba251815f6eee0ed9647a2338e16244874cb7b53b79c638013b823f3b2&smart=true&width=750&height=500"
+    },
+    {
+      "id": "cbe6027bcabd",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-08-06",
+      "title": "Germany first EU country to launch Wegovy oral GLP-1",
+      "source": "FoodNavigator-USA",
+      "sourceUrl": "https://www.foodnavigator.com/Article/2026/08/06/germany-first-to-launch-wegovy-pill/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "📊",
+      "category": "",
+      "desc": "Germany will be the first EU market to launch Novo Nordisk's Wegovy pill in September, with further European rollouts planned in late 2026.",
+      "tags": [],
+      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/QLRBULC2XFBK7KXIGXZELXC3UI.jpg?auth=0ab3a26147a9bcedafe3a6339c7b7999cbaddec1089175318afa0ad1de1cc6cc&smart=true&width=2121&height=1414"
+    },
+    {
+      "id": "cda938004ee9",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-08-06",
+      "title": "Nestlé breaks with 60 years of After Eight tradition",
+      "source": "FoodNavigator-USA",
+      "sourceUrl": "https://www.confectionerynews.com/Article/2026/08/06/nestle-expands-after-eight-beyond-mint-for-the-first-time-in-its-history/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "📊",
+      "category": "",
+      "desc": "Nestlé is expanding After Eight beyond Mint for the first time in over 60 years, launching Caramel, Orange and Raspberry flavours alongside a brand refresh.",
+      "tags": [],
+      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/Z2ZRKBYJJVE2FCCHNZPPZSAASQ.jpg?auth=9ca5f1f3969325db58904e0b366a0d8710d01dba11043a98fee390ced9f75205&smart=true&width=800&height=566"
+    },
+    {
+      "id": "5219e7fdcec0",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-08-06",
+      "title": "Violaine et Jérémy Keep Materiality, Craft, and Hand-Drawn Illustration Kicki...",
+      "source": "Dieline",
+      "sourceUrl": "https://thedieline.com/violaine-et-jeremy-keep-materiality-craft-and-hand-drawn-illustration-kicking-in-the-digital-age/",
+      "image": "📦",
+      "category": "",
+      "desc": "Violaine Orsoni and Jérémy Schneider left advertising to build a studio rooted in tactile, anti-digital design. Renowned for their hyper-detailed illustration, custom typography, and artisanal materiality, they design brand universes and packaging that defy the screen. The pos...",
+      "tags": [
+        "包装"
+      ],
+      "_imageUrl": "https://thedieline.com/wp-content/uploads/2026/08/EASTERN_AND_ORIENTAL_EXPRESS_BELMOND1-scaled.jpg"
+    },
+    {
+      "id": "1c9ff6d89b60",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-08-06",
+      "title": "Dio Kores Wine Combines Foil Stamping with a Delicate Illustration",
+      "source": "Dieline",
+      "sourceUrl": "https://thedieline.com/dio-kores-wine-combines-foil-stamping-with-a-delicate-illustration/",
+      "image": "📦",
+      "category": "",
+      "desc": "Wine labels have fallen for illustrations, but most stay decorative and distant. Dio Kores goes personal instead, with iFrame Design Studio drawing two overlapping faces, a direct nod to the wine's name meaning two daughters, finished with stone toned paper and foil stamped de...",
+      "tags": [],
+      "_imageUrl": "https://thedieline.com/wp-content/uploads/2026/08/fisekis-winery-label-design-4-7df4013105864cd98d89c35ba858e388.webp"
+    },
+    {
+      "id": "55a2e32fd4bc",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-08-06",
+      "title": "Lágrimas de Cocodrilo Beer",
+      "source": "Packaging of the World",
+      "sourceUrl": "https://packagingoftheworld.com/2026/08/lagrimas-de-cocodrilo-beer.html",
+      "image": "📦",
+      "category": "",
+      "desc": "LÁGRIMAS DE COCODRILO Packaging inspired by one of Costa Rica&#8217;s most recognizable expressions. Some ideas don&#8217;t need to be invented—they already exist in everyday language.&#8221;Lágrimas de cocodrilo&#8221; is a popular Costa Rican expression used to describe some...",
+      "tags": [
+        "包装"
+      ],
+      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/08/Screenshot-2026-08-03-at-10.27.33-AM-2-e1786019635328.png?fit=300%2C168&amp;ssl=1"
+    },
+    {
+      "id": "58e8ab01fed1",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-08-06",
+      "title": "Premium Whisky Packaging – FAUVE Silent Instinct",
+      "source": "Packaging of the World",
+      "sourceUrl": "https://packagingoftheworld.com/2026/08/premium-whisky-packaging-fauve-silent-instinct.html",
+      "image": "📦",
+      "category": "",
+      "desc": "THE CONTEXT FAUVE is a conceptual premium whisky brand inspired by the elegance of Art Deco interiors, timeless craftsmanship and the silent power of instinct. Rather than creating only a whisky bottle, the project imagines an entire luxury house where packaging, visual identi...",
+      "tags": [
+        "包装"
+      ],
+      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/08/FAUVE-Coffret-Ouvert-2-e1786019622261.jpg?fit=300%2C169&amp;ssl=1"
+    },
+    {
+      "id": "2fa0dc909040",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-08-06",
+      "title": "Caiaffa Myria",
+      "source": "Packaging of the World",
+      "sourceUrl": "https://packagingoftheworld.com/2026/08/caiaffa-myria.html",
+      "image": "📦",
+      "category": "",
+      "desc": "Named after Myriapoda, the arthropod group that includes centipedes, Myria is a wine collection inspired by the biodiversity surrounding the Caiaffa vineyards in southern Italy. Created for a winery committed to organic farming, the identity reflects the relationship between v...",
+      "tags": [],
+      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/08/POTW_MYRIA_THUMBNAIL-1-e1786019605358.jpg?fit=300%2C235&amp;ssl=1"
+    },
+    {
+      "id": "704de65e52ab",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-08-06",
+      "title": "DRY SKIN CARE peeling cream",
+      "source": "Packaging of the World",
+      "sourceUrl": "https://packagingoftheworld.com/2026/08/dry-skin-care-peeling-cream.html",
+      "image": "📦",
+      "category": "",
+      "desc": "Diana Zabolotnaya has developed the packaging of DRY SKIN CARE peeling cream DRY SKIN CARE is a skincare line developed for dry and flaking skin, designed to restore comfort, softness, and the skin’s natural balance. The range includes products tailored to different skin condi...",
+      "tags": [
+        "包装"
+      ],
+      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/08/Frame-2085662299-e1786019443685.jpg?fit=214%2C300&amp;ssl=1"
+    },
+    {
+      "id": "009a5253e431",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-08-06",
+      "title": "Conte Camillo Range",
+      "source": "Packaging of the World",
+      "sourceUrl": "https://packagingoftheworld.com/2026/08/conte-camillo-range.html",
+      "image": "📦",
+      "category": "",
+      "desc": "@contecamillococktails came to us with an icon: their original small-batch Negroni, housed in a bottle design that was already beautiful. Their vision was to take that singular cocktail and expand it into a complete family of small-batch cocktails. That’s where we stepped in. ...",
+      "tags": [],
+      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/08/CONTE-375ml-lemon-drop-13-1-scaled-e1786019423914.jpg?fit=200%2C300&amp;ssl=1"
+    },
+    {
+      "id": "149d09783865",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-08-06",
+      "title": "Liu Yue Xian’s Premium Rare Ingredients Series",
+      "source": "Packaging of the World",
+      "sourceUrl": "https://packagingoftheworld.com/2026/08/liu-yue-xians-premium-rare-ingredients-series.html",
+      "image": "📦",
+      "category": "",
+      "desc": "International brand design agency JDO has created a new identity and brand world for Liu Yue Xian’s Premium Rare Ingredients Series, bringing greater luxury and distinction to the category in the Chinese market. The range celebrates rare ingredients available only in season, i...",
+      "tags": [
+        "原料"
+      ],
+      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/08/PACKAGING-OF-THE-WORLD_SHINHO_LRC_JDO_01-1-scaled-e1786019391227.jpg?fit=300%2C169&amp;ssl=1"
+    },
+    {
+      "id": "2a081625ff4f",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-08-06",
+      "title": "Artisan Chocolatier Branding | Maison Thierry Bornier",
+      "source": "Packaging of the World",
+      "sourceUrl": "https://packagingoftheworld.com/2026/08/artisan-chocolatier-branding-maison-thierry-bornier.html",
+      "image": "📦",
+      "category": "",
+      "desc": "Artisan French Chocolatier Brand Identity Maison Thierry Bornier: Taste as Silent Art Sculptural, poetic, and deeply reverent. Maison Thierry Bornier is an ultra-luxury chocolate house founded by French artist and chocolatier Thierry Bornier in Yunnan, China. The brand serves ...",
+      "tags": [
+        "中国市场"
+      ],
+      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/08/10-1-scaled-e1786019375388.jpeg?fit=300%2C167&amp;ssl=1"
+    },
+    {
+      "id": "36b274899459",
+      "type": "compliance",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-08-06",
+      "title": "More ultraprocessed foods could carry GMO labels after court ruling",
+      "source": "Food Dive",
+      "sourceUrl": "https://www.fooddive.com/news/gmos-bioengineered-food-labeling-law-court-usda-rewrite-upfs/827249/",
+      "image": "⚖️",
+      "category": "",
+      "desc": "The USDA will need to rewrite labeling standards for bioengineered foods by 2028 after a judge ruled against exemptions for highly refined ingredients.",
+      "tags": [
+        "原料"
+      ],
+      "_imageUrl": "https://imgproxy.divecdn.com/xTIJbEZPzphiLISVGQi5EOJAmsFMPJRhqluAhDxeJ8U/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjU5NTM3MTQyLmpwZw==.webp"
+    },
+    {
+      "id": "430a33909b3e",
+      "type": "newproduct",
+      "section": "newproduct",
+      "sub": "report",
+      "date": "2026-08-06",
+      "title": "Flavour flipping: Why tomorrow’s snacks won’t taste the same from first bite ...",
+      "source": "BakeryandSnacks",
+      "sourceUrl": "https://www.bakeryandsnacks.com/Article/2026/08/06/what-is-flavour-flipping-how-sequential-flavour-technology-could-reshape-snack-innovation/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "🆕",
+      "category": "休闲零食",
+      "desc": "Flavour flipping is emerging as a new frontier in food science, using sequential flavour release, encapsulation and taste perception to create snacks that change as they're eaten. Discover how the technology could transform bakery, confectionery and reformulation.",
+      "tags": [],
+      "_imageUrl": "https://www.bakeryandsnacks.com/resizer/v2/HAVKKZ7BQJBYHDAFQB2M6KMPPY.jpg?auth=cd95298e6d8a9477a9a4f1ce020ec171daa1bc02270f28b6d7c4b214f2e315b9&smart=true&width=2121&height=1414"
+    },
+    {
+      "id": "4181f486bcf7",
+      "type": "newproduct",
+      "section": "newproduct",
+      "sub": "report",
+      "date": "2026-08-06",
+      "title": "What are the three trends driving non-alcoholic beverages?",
+      "source": "Beverage Daily",
+      "sourceUrl": "https://www.beveragedaily.com/Article/2026/08/06/what-are-the-three-trends-driving-non-alcoholic-beverages/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "🆕",
+      "category": "饮品",
+      "desc": "",
+      "tags": [],
+      "_imageUrl": "https://www.beveragedaily.com/resizer/v2/VKJ7AQKG55GDHP7OJACSNNIUFQ.jpg?auth=b22431d190f52515fbf7eb348d810fc6a3c7a0f89daabfbe5f926adc403c9889&smart=true&width=2120&height=1414"
+    },
+    {
+      "id": "e7983ddcae27",
+      "type": "newproduct",
+      "section": "newproduct",
+      "sub": "report",
+      "date": "2026-08-06",
+      "title": "Innovation drives growth at Campari, Coca-Cola and AG Barr despite market cha...",
+      "source": "Beverage Daily",
+      "sourceUrl": "https://www.beveragedaily.com/Article/2026/08/06/innovation-drives-growth-at-campari-coca-cola-and-ag-barr-despite-market-challenges/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "🆕",
+      "category": "饮品",
+      "desc": "",
+      "tags": [
+        "创新"
+      ],
+      "_imageUrl": "https://www.beveragedaily.com/resizer/v2/UVZYSCKC65CTTBQRHSZ5Q5AYPY.jpg?auth=89e7334f57db68683c4d68c68c658a145559dc6db8d579ff252e6e9d7207b903&smart=true&width=2120&height=1414"
     },
     {
       "id": "c3",
@@ -538,6 +824,54 @@
         "包装"
       ],
       "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/08/Frame-12-1-scaled-e1785899829877.jpg?fit=300%2C167&amp;ssl=1"
+    },
+    {
+      "id": "9fd1d193b0f2",
+      "type": "newproduct",
+      "section": "newproduct",
+      "sub": "report",
+      "date": "2026-08-05",
+      "title": "Science, trust and the next era of food innovation",
+      "source": "BakeryandSnacks",
+      "sourceUrl": "https://www.foodnavigator.com/Article/2026/08/05/letter-from-the-editor-ift-first-2026-takeaways/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "🆕",
+      "category": "休闲零食",
+      "desc": "Explore the biggest themes from IFT FIRST 2026, including food misinformation, functional nutrition, AI and sustainable innovation.",
+      "tags": [
+        "可持续",
+        "创新"
+      ],
+      "_imageUrl": "https://www.bakeryandsnacks.com/resizer/v2/FUJ4BYNXFJB5LNYTQJ6B3RZYYY.jpg?auth=ce978428a91ca9a32ca41c9889a714b59f91208903065296ebfacb87cfd91939&smart=true&width=4000&height=3000"
+    },
+    {
+      "id": "5171809bcefa",
+      "type": "newproduct",
+      "section": "newproduct",
+      "sub": "report",
+      "date": "2026-08-05",
+      "title": "Hollywood snack collabs: Why movie tie-ins keep winning for CPG brands",
+      "source": "BakeryandSnacks",
+      "sourceUrl": "https://www.foodnavigator.com/Article/2026/08/05/movie-collabs-boost-snack-brands-stranger-things-wicked/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "🆕",
+      "category": "休闲零食",
+      "desc": "Stranger Things, Wednesday and Wicked tie-ins show why movie collabs work for snack brands, with 68% of consumers buying co-branded or special edition products.",
+      "tags": [],
+      "_imageUrl": "https://www.bakeryandsnacks.com/resizer/v2/RCBF7RAT4ZE7BGLRU36IYZDRN4.jpg?auth=0ec2b042f2063bc883a9fbb1a9a58f91b7c092aa95b738e0b11f7f1cd59704cb&smart=true&width=2120&height=1414"
+    },
+    {
+      "id": "6f5204eb232b",
+      "type": "newproduct",
+      "section": "newproduct",
+      "sub": "report",
+      "date": "2026-08-05",
+      "title": "5 trends shaping global energy drink recipes",
+      "source": "Beverage Daily",
+      "sourceUrl": "https://www.foodnavigator.com/Article/2026/08/05/5-trends-shaping-global-energy-drink-recipes/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "🆕",
+      "category": "饮品",
+      "desc": "From GLP-1 to naturalness, the evolution of energy drinks worldwide is being driven by a variety of different trends",
+      "tags": [],
+      "_imageUrl": "https://www.beveragedaily.com/resizer/v2/6JS57GFYC5AVLEC2QHHWFPJ5NA.jpg?auth=87690db3a6613f1dc1a6daef7f37f9df005a4d23b7339f69a88b8e8ad11c2703&smart=true&width=2120&height=1414"
     },
     {
       "id": "r2",
