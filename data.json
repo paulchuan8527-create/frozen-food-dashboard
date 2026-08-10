@@ -1,8 +1,8 @@
 {
   "meta": {
-    "updated": "2026-08-09",
-    "version": 1786250557,
-    "total": 91,
+    "updated": "2026-08-10",
+    "version": 1786338635,
+    "total": 92,
     "auto_generated": true,
     "sources": [
       "FoodBev Media",
@@ -21,6 +21,23 @@
     ]
   },
   "items": [
+    {
+      "id": "66c25326583a",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-08-10",
+      "title": "Bose Drops Special Edition Mint Tin Packaging To Promote Their Newest Earbud ...",
+      "source": "Dieline",
+      "sourceUrl": "https://thedieline.com/bose-drops-special-edition-mint-tin-packaging-to-promote-their-newest-earbud-colorway/",
+      "image": "📦",
+      "category": "",
+      "desc": "Bose and agency Hello Comrade have teamed up to create mint tin-inspired packaging for the QuietComfort Earbuds in \"Dewdrop Mint.\" The post Bose Drops Special Edition Mint Tin Packaging To Promote Their Newest Earbud Colorway appeared first on DIELINE.",
+      "tags": [
+        "包装"
+      ],
+      "_imageUrl": "https://thedieline.com/wp-content/uploads/2026/08/Bose_Dieline_08-12b72aaae69bab60e4b92a1ec63da1e8-1.jpg"
+    },
     {
       "id": "8e64de7cd83a",
       "type": "report",
