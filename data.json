@@ -1,8 +1,8 @@
 {
   "meta": {
     "updated": "2026-08-11",
-    "version": 1786411268,
-    "total": 109,
+    "version": 1786423847,
+    "total": 111,
     "auto_generated": true,
     "sources": [
       "FoodBev Media",
@@ -21,6 +21,40 @@
     ]
   },
   "items": [
+    {
+      "id": "4c9755cb8415",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-08-11",
+      "title": "Why China should matter to every alt protein company",
+      "source": "FoodNavigator-Asia",
+      "sourceUrl": "https://www.foodnavigator.com/Article/2026/08/11/why-china-should-matter-to-every-alt-protein-company/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "📊",
+      "category": "",
+      "desc": "Here’s why all alternative protein companies globally need to factor China in their production strategy to scale, compete and reduce costs",
+      "tags": [
+        "中国市场"
+      ],
+      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/AS4SAUD75FH27N22TUMXYEBPUE.jpg?auth=3539ce7928d4c26f98621b8ffad72ed4d262147d36899efd334288e8b65fd9fc&smart=true&width=2133&height=1406"
+    },
+    {
+      "id": "bd29f2a5f7f8",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-08-11",
+      "title": "Malls Might Be Dying, But Claire’s Is Reimagining Its Stores",
+      "source": "Dieline",
+      "sourceUrl": "https://thedieline.com/malls-might-be-dying-but-claires-is-reimagining-its-stores/",
+      "image": "📦",
+      "category": "",
+      "desc": "Claire's just gave the mall ear-piercing chair a full identity refresh, complete with a new signature color called Lilith, redesigned stores, and packaging built for a generation that documents everything. Here's how the twice-bankrupt retailer is betting on peak girlhood to m...",
+      "tags": [
+        "包装"
+      ],
+      "_imageUrl": "https://thedieline.com/wp-content/uploads/2026/08/Hero-Image_Claire-s_Santa-Anita-CA_Inspiration-Bar-2-ID-22d685191d73.jpg"
+    },
     {
       "id": "66c25326583a",
       "type": "packaging",
