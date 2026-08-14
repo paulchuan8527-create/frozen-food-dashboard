@@ -1,8 +1,8 @@
 {
   "meta": {
-    "updated": "2026-08-11",
-    "version": 1786411268,
-    "total": 109,
+    "updated": "2026-08-14",
+    "version": 1786673434,
+    "total": 123,
     "auto_generated": true,
     "sources": [
       "FoodBev Media",
@@ -21,6 +21,232 @@
     ]
   },
   "items": [
+    {
+      "id": "79ed99410cd9",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-08-13",
+      "title": "Global Top 100 confectionery companies announced",
+      "source": "FoodNavigator-Asia",
+      "sourceUrl": "https://www.confectionerynews.com/Article/2026/08/13/global-top-100-candy-companies-2026-announced/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "📊",
+      "category": "",
+      "desc": "Mondelēz tops Snack Food & Wholesale Bakery’s 2026 Global Top 100 candy companies ranking, ahead of Mars and Ferrero, as confectionery sales remain strong.",
+      "tags": [],
+      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/6EJXCTXDVZEZJCXHB2GZY47DFM.jpg?auth=674cf610557829305b849337cfcd1748f9db28028bb07587509992ea5c3830bf&smart=true&width=2121&height=1414"
+    },
+    {
+      "id": "778e791d90d7",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-08-13",
+      "title": "Hershey’s push for premiumisation picks up pace",
+      "source": "FoodNavigator-Asia",
+      "sourceUrl": "https://www.foodnavigator.com/Article/2026/08/13/hersheys-premium-push-innovations-acquisitions-and-growth/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "📊",
+      "category": "",
+      "desc": "Hershey is ramping up its premiumisation strategy through innovation, acquisitions and seasonal offerings as it targets growth beyond mainstream confectionery.",
+      "tags": [
+        "创新"
+      ],
+      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/EYHNZ4TSONG3HJ32G6AXJQ3QFA.jpg?auth=722c63de07195ec89b6fe4943324eb86e5eb6046f550d5fd4fa9474e8e53a8a8&smart=true&width=2121&height=1414"
+    },
+    {
+      "id": "4ec8ca147a3b",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-08-13",
+      "title": "Kerry LATAM CEO on GLP–1, growth and the future of food",
+      "source": "FoodNavigator-Asia",
+      "sourceUrl": "https://www.foodnavigator.com/Article/2026/08/13/kerry-latam-ceo-on-glp-1-trends-and-acquisition-plans/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "📊",
+      "category": "",
+      "desc": "Kerry Latin America CEO Marcio Luz discusses GLP-1-driven food innovation, rising protein demand, M&amp;A ambitions, biotechnology investment and the consumer trends reshaping one of the world's fastest-evolving food markets.",
+      "tags": [
+        "创新"
+      ],
+      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/HLNUICA7QRFR3ML4G5JTR4VKVM.jpeg?auth=64ab459635657f32aa569b5a3350365b9c94a08250b25b15dd4fb7c16a1072d1&smart=true&width=7008&height=4672"
+    },
+    {
+      "id": "a947214f78c1",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-08-13",
+      "title": "Hershey’s push for premiumisation picks up pace",
+      "source": "FoodNavigator-USA",
+      "sourceUrl": "https://www.foodnavigator.com/Article/2026/08/13/hersheys-premium-push-innovations-acquisitions-and-growth/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "📊",
+      "category": "",
+      "desc": "Hershey is ramping up its premiumisation strategy through innovation, acquisitions and seasonal offerings as it targets growth beyond mainstream confectionery.",
+      "tags": [
+        "创新"
+      ],
+      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/EYHNZ4TSONG3HJ32G6AXJQ3QFA.jpg?auth=722c63de07195ec89b6fe4943324eb86e5eb6046f550d5fd4fa9474e8e53a8a8&smart=true&width=2121&height=1414"
+    },
+    {
+      "id": "9cf5de4491fb",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-08-13",
+      "title": "Kerry LATAM CEO on GLP–1, growth and the future of food",
+      "source": "FoodNavigator-USA",
+      "sourceUrl": "https://www.foodnavigator.com/Article/2026/08/13/kerry-latam-ceo-on-glp-1-trends-and-acquisition-plans/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "📊",
+      "category": "",
+      "desc": "Kerry Latin America CEO Marcio Luz discusses GLP-1-driven food innovation, rising protein demand, M&amp;A ambitions, biotechnology investment and the consumer trends reshaping one of the world's fastest-evolving food markets.",
+      "tags": [
+        "创新"
+      ],
+      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/HLNUICA7QRFR3ML4G5JTR4VKVM.jpeg?auth=64ab459635657f32aa569b5a3350365b9c94a08250b25b15dd4fb7c16a1072d1&smart=true&width=7008&height=4672"
+    },
+    {
+      "id": "5cfcdd36fbd0",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-08-13",
+      "title": "Maybe Is the Energy Drink That Never Screams at You, and That’s a Good Thing",
+      "source": "Dieline",
+      "sourceUrl": "https://thedieline.com/maybe-is-the-energy-drink-that-never-screams-at-you-and-thats-a-good-thing/",
+      "image": "📦",
+      "category": "",
+      "desc": "Maybe swaps the usual energy drink branding and gamer graphics for poster-style fruit illustrations and soft flavor appeal. The post Maybe Is the Energy Drink That Never Screams at You, and That&#8217;s a Good Thing appeared first on DIELINE.",
+      "tags": [],
+      "_imageUrl": "https://thedieline.com/wp-content/uploads/2026/08/maybe.png"
+    },
+    {
+      "id": "6e322dcc04f7",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-08-13",
+      "title": "Limin’s Pear Cider is Inspired By Traditional Floral Textiles",
+      "source": "Dieline",
+      "sourceUrl": "https://thedieline.com/limins-pear-cider-is-inspired-by-traditional-floral-textiles/",
+      "image": "📦",
+      "category": "",
+      "desc": "A gentle pear branch pattern and honest gold foil replace sustainable minimalism, turning a whole seasonal cycle into a story you can hold. The post Limin&#8217;s Pear Cider is Inspired By Traditional Floral Textiles appeared first on DIELINE.",
+      "tags": [
+        "可持续"
+      ],
+      "_imageUrl": "https://thedieline.com/wp-content/uploads/2026/08/Limin-product-family-4863757c7615ca1f83430e2078834837.jpg"
+    },
+    {
+      "id": "9deb8e4a140e",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-08-13",
+      "title": "Chef Esther Choi Takes Her Expertise to the Pantry with Korean Essentials Bra...",
+      "source": "Dieline",
+      "sourceUrl": "https://thedieline.com/chef-esther-choi-takes-her-expertise-to-the-pantry-with-korean-essentials-brand-sessy/",
+      "image": "📦",
+      "category": "",
+      "desc": "Chef, restauranteur, and Food Network star Esther Choi breaks into CPG with a line of Korean pantry essentials that reflects her Korean-American heritage and personality. The post Chef Esther Choi Takes Her Expertise to the Pantry with Korean Essentials Brand, Sessy appeared f...",
+      "tags": [],
+      "_imageUrl": "https://thedieline.com/wp-content/uploads/2026/08/2026-05-11-Sessy1539-highres-scaled.jpg"
+    },
+    {
+      "id": "9e20591cf4b9",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-08-13",
+      "title": "Waglab’s PlayStack Fetches Fun Design From Hart Brands",
+      "source": "Dieline",
+      "sourceUrl": "https://thedieline.com/waglabs-playstack-fetches-fun-design-from-hart-brands/",
+      "image": "📦",
+      "category": "",
+      "desc": "Hart Brands gives Wag Lab’s new modular dog toy line, PlayStack, a vibrant, cartoon-inspired overhaul—ditching the pet aisle's bland, utilitarian look for bold typography, energetic packaging, and shelf-popping personality. The post Waglab&#8217;s PlayStack Fetches Fun Design ...",
+      "tags": [
+        "包装"
+      ],
+      "_imageUrl": "https://thedieline.com/wp-content/uploads/2026/08/Cover02-Dieline-Playstack-1-scaled.jpg"
+    },
+    {
+      "id": "1e063bf0dc4b",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-08-13",
+      "title": "5 new snacks capitalizing on hot c-stores trends",
+      "source": "Food Dive",
+      "sourceUrl": "https://www.fooddive.com/news/5-new-snacks-hot-c-stores-trends/827691/",
+      "image": "📊",
+      "category": "",
+      "desc": "Unique offerings from both newer and popular snackmakers are rising up to meet changing customer tastes.",
+      "tags": [],
+      "_imageUrl": ""
+    },
+    {
+      "id": "e4773fe6d566",
+      "type": "newproduct",
+      "section": "newproduct",
+      "sub": "report",
+      "date": "2026-08-13",
+      "title": "New beverage launches: Rice lager, sailing champagne and more…",
+      "source": "Beverage Daily",
+      "sourceUrl": "https://www.beveragedaily.com/Article/2026/08/13/new-drink-launches-rtds-functional-drinks-whisky/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "🆕",
+      "category": "饮品",
+      "desc": "Discover the latest beverage launches from Good Peels, Curry Smugglers, Upstate Elevator, C4, Glenfiddich, Frive, Bruichladdich, Amante 1530 and Maison Telmont, as brands invest in RTD innovation, functional wellness, alcohol-free alternatives and premium spirits.",
+      "tags": [
+        "创新"
+      ],
+      "_imageUrl": "https://www.beveragedaily.com/resizer/v2/2FQID7QN3JCIFBHNR7I4AI4XUA.jpg?auth=0946527a224f3793e45cb9d60b3b82f2f7e759391aad240559b2583b3f2d7ef9&smart=true&width=6000&height=4000"
+    },
+    {
+      "id": "f1dc16ded04d",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-08-12",
+      "title": "Lumee Turns Light Into the Whole Design",
+      "source": "Dieline",
+      "sourceUrl": "https://thedieline.com/lumee-turns-light-into-the-whole-design/",
+      "image": "📦",
+      "category": "",
+      "desc": "A holographic pouch that shifts color with the light, turning the meaning of Lumee's name into an actual design mechanism rather than just a story. The post Lumee Turns Light Into the Whole Design appeared first on DIELINE.",
+      "tags": [],
+      "_imageUrl": "https://thedieline.com/wp-content/uploads/2026/08/LUMEE_1600p-a7512afb7635c237dcc00410dd8293a7.jpg"
+    },
+    {
+      "id": "daf1ddcddf55",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-08-12",
+      "title": "Olipop taps Electrolit head as next CEO",
+      "source": "Food Dive",
+      "sourceUrl": "https://www.fooddive.com/news/olipop-new-ceo-ben-goodwin-Christian-Patino-Webb/827716/",
+      "image": "📊",
+      "category": "",
+      "desc": "Founder Ben Goodwin will move into a more innovation-focused role at the prebiotic soda brand while Christian Pati&ntilde;o Webb takes the top executive spot.",
+      "tags": [
+        "创新"
+      ],
+      "_imageUrl": "https://imgproxy.divecdn.com/56FQYZYsOqb9Kfz-xs6nK-5g_XEYIX5nsVLFWwt6cc4/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9PbGlwb3BfTGluZXVwXzEuanBn.webp"
+    },
+    {
+      "id": "773c65068a86",
+      "type": "newproduct",
+      "section": "newproduct",
+      "sub": "report",
+      "date": "2026-08-12",
+      "title": "From Grupo Bimbo to Warburtons: The billion-dollar battle for the bakery of t...",
+      "source": "BakeryandSnacks",
+      "sourceUrl": "https://www.bakeryandsnacks.com/Article/2026/08/12/bakery-manufacturing-investment-boom-why-global-baking-giants-are-rebuilding-factories/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "🆕",
+      "category": "休闲零食",
+      "desc": "Grupo Bimbo, Warburtons, ARYZTA and other bakery leaders are investing billions in factories, automation and logistics. Discover what's driving the biggest manufacturing shake-up in decades.",
+      "tags": [],
+      "_imageUrl": "https://www.bakeryandsnacks.com/resizer/v2/MMKZXB6JEZCTRBPGGUMB5CZFNU.jpg?auth=4e58bf3c0743a3b517e3b5b054fba484e887a5529652e7035491993820b87d5e&smart=true&width=2119&height=1415"
+    },
     {
       "id": "66c25326583a",
       "type": "packaging",
