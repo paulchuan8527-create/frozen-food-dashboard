@@ -1,7 +1,7 @@
 {
   "meta": {
-    "updated": "2026-08-21",
-    "version": 1787283037,
+    "updated": "2026-08-22",
+    "version": 1787358768,
     "total": 150,
     "auto_generated": true,
     "sources": [
@@ -336,6 +336,215 @@
       }
     },
     {
+      "id": "a77cbf975f12",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-08-21",
+      "title": "Physicians group sues USDA and HHS over Dietary Guidelines for Americans",
+      "source": "FoodNavigator-Asia",
+      "sourceUrl": "https://www.foodnavigator.com/Article/2026/08/21/doctors-sue-usda-and-hhs-over-2025-dietary-guidelines-for-americans/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "📊",
+      "category": "",
+      "desc": "The PCRM is suing the USDA and HHS, alleging a \"secret panel\" of meat and dairy industry insiders illegally influenced the 2025 Dietary Guidelines.",
+      "tags": [],
+      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/P5QRWD3FNJBG5KERI35BY6TCCA.jpg?auth=dd4c760b3f24a20d98633963509285d933b4245d2690ebedd9278cd993fd156c&smart=true&width=2309&height=1299"
+    },
+    {
+      "id": "a1628bf0d718",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-08-21",
+      "title": "Hershey joins confectionery megatrend with coffee crossover",
+      "source": "FoodNavigator-Asia",
+      "sourceUrl": "https://www.confectionerynews.com/Article/2026/08/21/hershey-joins-confectionery-megatrend-with-coffee-crossover/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "📊",
+      "category": "",
+      "desc": "The Hershey Company's Reese’s teams up with viral coffee brand The Nitro Bar for seasonal launch as confectionery brands embrace cross-category collaborations and beverage innovation.",
+      "tags": [
+        "创新"
+      ],
+      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/WTTMTS3MHREA7IZNOBAPDIPZZ4.jpg?auth=a88e231bd6233b362923ba75764b635fd6821a80e26bebd5ef507ea906e602f6&smart=true&width=2119&height=1415"
+    },
+    {
+      "id": "873a30b7eae9",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-08-21",
+      "title": "Hershey joins confectionery megatrend with coffee crossover",
+      "source": "FoodNavigator-USA",
+      "sourceUrl": "https://www.confectionerynews.com/Article/2026/08/21/hershey-joins-confectionery-megatrend-with-coffee-crossover/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "📊",
+      "category": "",
+      "desc": "The Hershey Company's Reese’s teams up with viral coffee brand The Nitro Bar for seasonal launch as confectionery brands embrace cross-category collaborations and beverage innovation.",
+      "tags": [
+        "创新"
+      ],
+      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/WTTMTS3MHREA7IZNOBAPDIPZZ4.jpg?auth=a88e231bd6233b362923ba75764b635fd6821a80e26bebd5ef507ea906e602f6&smart=true&width=2119&height=1415"
+    },
+    {
+      "id": "4fa620587ff7",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-08-21",
+      "title": "Mammamia Reinterprets ’80s Milanese Aperitivo Culture Via THC Gummies",
+      "source": "Dieline",
+      "sourceUrl": "https://thedieline.com/mammamia-reinterprets-80s-milanese-aperitivo-culture-via-thc-gummies/",
+      "image": "📦",
+      "category": "",
+      "desc": "Step into the world of Mammamia, an LA-based edibles brand reimagining cannabis packaging through the nostalgic lens of retro Italian aperitivo culture. From 1980s Milanese typography to cocktail-inspired profiles, founder Simone D’Antonio breaks down how his team built a tran...",
+      "tags": [
+        "包装"
+      ],
+      "_imageUrl": "https://thedieline.com/wp-content/uploads/2026/08/hf_20260215_224346_32ab6b86-5bb7-46b5-8a5c-6c3a570d040a-1.png"
+    },
+    {
+      "id": "c03895471c82",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-08-21",
+      "title": "The Great Caffeine Heist, Brought To You By Gander",
+      "source": "Dieline",
+      "sourceUrl": "https://thedieline.com/the-great-caffeine-heist-brought-to-you-by-gander/",
+      "image": "📦",
+      "category": "",
+      "desc": "Heist and Gander are rewriting the rules of decaf coffee with cinematic packaging inspired by classic heist films, sharp typography, and a clever visual system that makes caffeine-conscious coffee look anything but compromised. The post The Great Caffeine Heist, Brought To You...",
+      "tags": [
+        "包装"
+      ],
+      "_imageUrl": "https://thedieline.com/wp-content/uploads/2026/08/SnapInsta.to_780422363_18572441179071372_3795623887733044041_n-scaled.jpg"
+    },
+    {
+      "id": "b836b2c65f9a",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-08-21",
+      "title": "Seoksu _ BI, Label & Package Design",
+      "source": "Packaging of the World",
+      "sourceUrl": "https://packagingoftheworld.com/2026/08/seoksu-_-bi-label-package-design.html",
+      "image": "📦",
+      "category": "",
+      "desc": "Celebrating the 37th anniversary of the launch of &#8220;Seoksu,&#8221; the Korea&#8217;s first bottled spring water, the brand has been completely renewed. The importance of water to protect the family&#8217;s health was set under the concept of &#60;Water of Love&#62;, addin...",
+      "tags": [],
+      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/08/seoksu-2-1-e1787307760869.jpg?fit=300%2C289&amp;ssl=1"
+    },
+    {
+      "id": "2758a07ba17e",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-08-21",
+      "title": "Rugmam Tea | Case Study",
+      "source": "Packaging of the World",
+      "sourceUrl": "https://packagingoftheworld.com/2026/08/rugmam-tea-case-study.html",
+      "image": "📦",
+      "category": "",
+      "desc": "RUGMAM TEA OUR ROLE: CONCEPTUALIZATION RESEARCH PACKAGING DESIGN Rugmam, a premier brand based in Delhi, caters exclusively to the niche market with its exceptional organically grown Kangra Orthodox tea. This fully 100% pure oxidized tea with no added flavors, characterized by...",
+      "tags": [
+        "包装"
+      ],
+      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/08/Masala-Chai-2-e1787307740441.png?fit=300%2C200&amp;ssl=1"
+    },
+    {
+      "id": "a0f1e5246b9e",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-08-21",
+      "title": "MIDDAY — Sandwich Bar Brand Identity & Food Packaging Design",
+      "source": "Packaging of the World",
+      "sourceUrl": "https://packagingoftheworld.com/2026/08/midday-sandwich-bar-brand-identity-food-packaging-design.html",
+      "image": "📦",
+      "category": "",
+      "desc": "MIDDAY — Sandwich Bar Branding &#38; Food Packaging Design Midday is a contemporary sandwich bar with a bold, tactile identity built around freshness, layering, and a handmade approach. A chunky wordmark, sketch-style illustrations, handwritten typography, and a contrasting gr...",
+      "tags": [
+        "包装"
+      ],
+      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/08/%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0-2-e1787307629793.png?fit=300%2C225&amp;ssl=1"
+    },
+    {
+      "id": "fc6dba269a16",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-08-21",
+      "title": "Green Jacket _ Bottle, BI, Label & Package Design",
+      "source": "Packaging of the World",
+      "sourceUrl": "https://packagingoftheworld.com/2026/08/green-jacket-_-bottle-bi-label-package-design.html",
+      "image": "📦",
+      "category": "",
+      "desc": "Introduced for the first time local brand in Korea by William Grant &#38; Sons (WGS), famous for Glenfiddich &#38; Balvenie. Canadian whisky &#8220;Green Jacket&#8221; expresses the best authority and pride given to a only one single winner as a shield shaped battle of diamond...",
+      "tags": [],
+      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/08/Gemini_Generated_Image_4c67mx4c67mx4c67-1-e1787307605276.png?fit=280%2C300&amp;ssl=1"
+    },
+    {
+      "id": "24a48fc666e0",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-08-21",
+      "title": "Zero Alcohol Poiana Winery",
+      "source": "Packaging of the World",
+      "sourceUrl": "https://packagingoftheworld.com/2026/08/zero-alcohol-poiana-winery.html",
+      "image": "📦",
+      "category": "",
+      "desc": "CHALLENGE For Poiana Winery, the challenge was to create a distinctive packaging identity for an alcohol-free wine collection designed for the HoReCa segment. As alcohol-free wine continues to develop as a category, the packaging needed to move beyond the functional “zero alco...",
+      "tags": [
+        "包装"
+      ],
+      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/08/Poiana-Alcohol-Free_web1-1-e1787307583372.jpg?fit=300%2C200&amp;ssl=1"
+    },
+    {
+      "id": "eea9094e3bde",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-08-21",
+      "title": "Leftovers: Reese’s Puffs spoons up PB&J cereal | Little Bites debuts mystery ...",
+      "source": "Food Dive",
+      "sourceUrl": "https://www.fooddive.com/news/reeses-puffs-peanut-butter-jelly-little-bites-mystery-flavor-7-brew-canned-latte-energy-drinks/828487/",
+      "image": "📊",
+      "category": "",
+      "desc": "The launch from General Mills follows the success of Reese&rsquo;s PB+J cups last year, while drive-thru coffee chain 7 Brew enters retail with a lineup of caffeinated drinks.",
+      "tags": [],
+      "_imageUrl": "https://imgproxy.divecdn.com/rteJmZ-M3WkEtvszW8CEMLvQVzVnaF6ZeV_ct8OCq70/g:nowe:8:0/c:1911:1080/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9SUF9QQkpfSGVyb19JbWFnZV8xLmpwZw==.webp"
+    },
+    {
+      "id": "9528fbcdaa36",
+      "type": "newproduct",
+      "section": "newproduct",
+      "sub": "report",
+      "date": "2026-08-21",
+      "title": "Pork rinds boldly go where no fried pork snack has gone before",
+      "source": "BakeryandSnacks",
+      "sourceUrl": "https://www.bakeryandsnacks.com/Article/2026/08/21/porkrindscom-launches-pork-rinds-into-near-space/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "🆕",
+      "category": "休闲零食",
+      "desc": "PorkRinds.com has sent Southern Recipe Small Batch pork rinds 102,402 feet above Earth, returning them safely with their crunch intact.",
+      "tags": [],
+      "_imageUrl": "https://www.bakeryandsnacks.com/resizer/v2/BA35UGQP3VHWZGKPKRJVZOUR54.jpg?auth=b7b13ed191a78b4f956325c1dae68ee2dc7d5ee8145954e70e7d8c6c86cf3910&smart=true&width=750&height=563"
+    },
+    {
+      "id": "f74ab140673d",
+      "type": "newproduct",
+      "section": "newproduct",
+      "sub": "report",
+      "date": "2026-08-21",
+      "title": "Health awareness reshapes drinking habits as Americans cut back on alcohol",
+      "source": "Beverage Daily",
+      "sourceUrl": "https://www.beveragedaily.com/Article/2026/08/21/health-awareness-reshapes-drinking-habits-as-americans-cut-back-on-alcohol/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "🆕",
+      "category": "饮品",
+      "desc": "",
+      "tags": [],
+      "_imageUrl": "https://www.beveragedaily.com/resizer/v2/UYKIESKVBZFBLMRZNX445EEJVI.jpg?auth=c5cdf035482e96268a0fc9767b1564482bcb55543e2cfaf24dada4bd7e52f5b2&smart=true&width=2121&height=1414"
+    },
+    {
       "id": "c3eab1381115",
       "type": "report",
       "section": "data",
@@ -495,6 +704,23 @@
       "desc": "Lawsuits against Utz and Campbell's, and a UC Davis study raise questions about avocado oil authenticity, costs and the anti-seed-oil trend reshaping snacks.",
       "tags": [],
       "_imageUrl": "https://www.bakeryandsnacks.com/resizer/v2/N6WUCOUNMJE4BDVFDNJM2SDFLM.jpg?auth=649da5aae3c73a002e1f9e84fbfcd99ad8ee54bb28a3da50111061a1b056a18a&smart=true&width=2121&height=1414"
+    },
+    {
+      "id": "738b93d930fd",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-08-20",
+      "title": "Confectionery fraud surges as manufacturers struggle to stay ahead",
+      "source": "Food Manufacture",
+      "sourceUrl": "https://www.foodnavigator.com/Article/2026/08/20/from-cocoa-to-pistachios-confectionery-fraud-surges-as-manufacturers-fight-to-keep-up/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "📊",
+      "category": "",
+      "desc": "Confectionery fraud is rising as volatile cocoa markets, premium ingredient demand and supply chain disruption create new opportunities for adulteration, substitution and counterfeiting. Discover the biggest fraud risks facing chocolate, nuts, honey and other confectionery ing...",
+      "tags": [
+        "原料"
+      ],
+      "_imageUrl": "https://www.foodmanufacture.co.uk/resizer/v2/SPPPQU7UNZHFFJ56V7766HKFGU.jpg?auth=fa83623faa12c77e23884d1219338fe5481c95996fe5f3a40f1ecee8ba7ea96e&smart=true&width=2120&height=1414"
     },
     {
       "id": "347221aecf58",
@@ -2312,236 +2538,6 @@
         "包装"
       ],
       "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/08/4faa3886cffff4243ce64f0bdca105eb_tattoo-1-e1786530012262.png?fit=300%2C213&amp;ssl=1"
-    },
-    {
-      "id": "33fc934a63a1",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-08-12",
-      "title": "Steep and Stir",
-      "source": "Packaging of the World",
-      "sourceUrl": "https://packagingoftheworld.com/2026/08/steep-and-stir.html",
-      "image": "📦",
-      "category": "",
-      "desc": "ABOUT Steep &#38; Stir was developed as a contemporary tea brand centred around the quieter, sensory side of tea. The brief was to create packaging that could move away from the predictable visual language of tea while still respecting its long-standing ritual and craft. CONCE...",
-      "tags": [
-        "包装"
-      ],
-      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/08/1a4a083471b3a1944a24348307f14127_tattoo-1-e1786529985762.png?fit=300%2C267&amp;ssl=1"
-    },
-    {
-      "id": "7a49b3b928b3",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-08-12",
-      "title": "Maison d’Angleterre Packaging",
-      "source": "Packaging of the World",
-      "sourceUrl": "https://packagingoftheworld.com/2026/08/maison-dangleterre-packaging.html",
-      "image": "📦",
-      "category": "",
-      "desc": "Created as a complete packaging and branding collection for Maison d&#8217;Angleterre, this range was designed to reflect the brand’s refined character, natural aesthetic, and distinctive visual identity. The collection includes jute bags, glass oil bottles, custom stickers, p...",
-      "tags": [
-        "包装"
-      ],
-      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/08/FB-Maison-cake-box-3-1-scaled-e1786529908851.jpeg?fit=300%2C200&amp;ssl=1"
-    },
-    {
-      "id": "1c2717af14e6",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-08-12",
-      "title": "Repositioning a global pet food brand for growth",
-      "source": "Packaging of the World",
-      "sourceUrl": "https://packagingoftheworld.com/2026/08/repositioning-a-global-pet-food-brand-for-growth.html",
-      "image": "📦",
-      "category": "",
-      "desc": "Fish4Dogs are passionate about dogs, especially their vitality and wellbeing, and are pioneers in the use of fish, rich in Omega 3, to provide the perfect protein for dogs. We took these values and positioned Fish4Dogs as Champions of Fish, proud of their protein sources and t...",
-      "tags": [],
-      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/08/F4D_POTW_1600-1-scaled-e1786529887213.jpg?fit=300%2C213&amp;ssl=1"
-    },
-    {
-      "id": "a2c7a173838f",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-08-12",
-      "title": "Salco Therapy",
-      "source": "Packaging of the World",
-      "sourceUrl": "https://packagingoftheworld.com/2026/08/salco-therapy.html",
-      "image": "📦",
-      "category": "",
-      "desc": "For Salco a company that extracts and sells medicinal salt, we designed a premium packaging line. The products were divided into categories and three different package sizes, and our task was to create a visually consistent product range. The labels were designed to be minimal...",
-      "tags": [
-        "包装"
-      ],
-      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/08/salco6-e1786529808845.jpg?fit=240%2C300&amp;ssl=1"
-    },
-    {
-      "id": "daf1ddcddf55",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-08-12",
-      "title": "Olipop taps Electrolit head as next CEO",
-      "source": "Food Dive",
-      "sourceUrl": "https://www.fooddive.com/news/olipop-new-ceo-ben-goodwin-Christian-Patino-Webb/827716/",
-      "image": "📊",
-      "category": "",
-      "desc": "Founder Ben Goodwin will move into a more innovation focused role at the prebiotic soda brand while Christian Pati&ntilde;o Webb takes the top executive spot.",
-      "tags": [
-        "创新"
-      ],
-      "_imageUrl": "https://imgproxy.divecdn.com/56FQYZYsOqb9Kfz-xs6nK-5g_XEYIX5nsVLFWwt6cc4/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9PbGlwb3BfTGluZXVwXzEuanBn.webp"
-    },
-    {
-      "id": "773c65068a86",
-      "type": "newproduct",
-      "section": "newproduct",
-      "sub": "report",
-      "date": "2026-08-12",
-      "title": "From Grupo Bimbo to Warburtons: The billion-dollar battle for the bakery of t...",
-      "source": "BakeryandSnacks",
-      "sourceUrl": "https://www.bakeryandsnacks.com/Article/2026/08/12/bakery-manufacturing-investment-boom-why-global-baking-giants-are-rebuilding-factories/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "🆕",
-      "category": "休闲零食",
-      "desc": "Grupo Bimbo, Warburtons, ARYZTA and other bakery leaders are investing billions in factories, automation and logistics. Discover what's driving the biggest manufacturing shake-up in decades.",
-      "tags": [],
-      "_imageUrl": "https://www.bakeryandsnacks.com/resizer/v2/MMKZXB6JEZCTRBPGGUMB5CZFNU.jpg?auth=4e58bf3c0743a3b517e3b5b054fba484e887a5529652e7035491993820b87d5e&smart=true&width=2119&height=1415"
-    },
-    {
-      "id": "0c18e540a568",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-08-12",
-      "title": "From Grupo Bimbo to Warburtons: The billion-dollar battle for the bakery of t...",
-      "source": "Food Manufacture",
-      "sourceUrl": "https://www.bakeryandsnacks.com/Article/2026/08/12/bakery-manufacturing-investment-boom-why-global-baking-giants-are-rebuilding-factories/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "📊",
-      "category": "",
-      "desc": "Grupo Bimbo, Warburtons, ARYZTA and other bakery leaders are investing billions in factories, automation and logistics. Discover what's driving the biggest manufacturing shake-up in decades.",
-      "tags": [],
-      "_imageUrl": "https://www.foodmanufacture.co.uk/resizer/v2/MMKZXB6JEZCTRBPGGUMB5CZFNU.jpg?auth=4e58bf3c0743a3b517e3b5b054fba484e887a5529652e7035491993820b87d5e&smart=true&width=2119&height=1415"
-    },
-    {
-      "id": "e3d918937b01",
-      "type": "newproduct",
-      "section": "newproduct",
-      "sub": "report",
-      "date": "2026-08-12",
-      "title": "The a2 Milk Company’s new research findings to drive US growth, innovation pi...",
-      "source": "Beverage Daily",
-      "sourceUrl": "https://www.nutraingredients.com/Article/2026/08/12/the-a2-milk-companys-new-research-findings-to-drive-us-growth-innovation-pipeline/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "🆕",
-      "category": "饮品",
-      "desc": "New Zealand firm The a2 Milk Company’s recently released research results are set to drive growth in the US market and shape its innovation pipeline",
-      "tags": [
-        "创新"
-      ],
-      "_imageUrl": "https://www.beveragedaily.com/resizer/v2/3FEK54W7XREV3NPWRNNWJMTN24.jpg?auth=f9be8dcd01b4f002a24269052477ce3a74d32dba09746aab98ef66eb1c157637&smart=true&width=2308&height=1298"
-    },
-    {
-      "id": "4c9755cb8415",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-08-11",
-      "title": "Why China should matter to every alt protein company",
-      "source": "FoodNavigator-Asia",
-      "sourceUrl": "https://www.foodnavigator.com/Article/2026/08/11/why-china-should-matter-to-every-alt-protein-company/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "📊",
-      "category": "",
-      "desc": "Here’s why all alternative protein companies globally need to factor China in their production strategy to scale, compete and reduce costs",
-      "tags": [
-        "中国市场"
-      ],
-      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/AS4SAUD75FH27N22TUMXYEBPUE.jpg?auth=3539ce7928d4c26f98621b8ffad72ed4d262147d36899efd334288e8b65fd9fc&smart=true&width=2133&height=1406"
-    },
-    {
-      "id": "bd29f2a5f7f8",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-08-11",
-      "title": "Malls Might Be Dying, But Claire’s Is Reimagining Its Stores",
-      "source": "Dieline",
-      "sourceUrl": "https://thedieline.com/malls-might-be-dying-but-claires-is-reimagining-its-stores/",
-      "image": "📦",
-      "category": "",
-      "desc": "Claire's just gave the mall ear-piercing chair a full identity refresh, complete with a new signature color called Lilith, redesigned stores, and packaging built for a generation that documents everything. Here's how the twice-bankrupt retailer is betting on peak girlhood to m...",
-      "tags": [
-        "包装"
-      ],
-      "_imageUrl": "https://thedieline.com/wp-content/uploads/2026/08/Hero-Image_Claire-s_Santa-Anita-CA_Inspiration-Bar-2-ID-22d685191d73.jpg"
-    },
-    {
-      "id": "cd3deb8ccfee",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-08-11",
-      "title": "Can frozen serve as the next frontier for functional beverages?",
-      "source": "FoodNavigator-Asia",
-      "sourceUrl": "https://www.foodnavigator.com/Article/2026/08/11/functional-ice-cubes-aim-to-bring-personalized-nutrition-to-frozen/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "📊",
-      "category": "",
-      "desc": "Functional beverage brand Roxii Supercube is carving out its own space in the crowded functional beverage market by tapping into the frozen aisle as a destination for personalized nutrition.",
-      "tags": [
-        "冷冻食品"
-      ],
-      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/OG7WZXA4I5B6ZPRIMPYUVEIBJI.png?auth=6cb6be7bca52930e27d4c7af9c63340311565de1ba92b257978fb94719acf99f&smart=true&width=1915&height=1070"
-    },
-    {
-      "id": "480584e88dce",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-08-11",
-      "title": "Mondelēz targets festive growth with Christmas confectionery range",
-      "source": "FoodNavigator-USA",
-      "sourceUrl": "https://www.confectionerynews.com/Article/2026/08/11/mondelez-targets-growth-with-cadbury-toblerone-and-oreo-christmas-range/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "📊",
-      "category": "",
-      "desc": "Mondelēz unveils its 2026 Christmas confectionery range, featuring new Cadbury and Toblerone Biscoff launches alongside festive favourites.",
-      "tags": [],
-      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/UAAK7N332NBKFIDLOVDQLHB3YU.jpg?auth=9ab63e10d29ad2e525548229508cf935b4c7d05944c8f698120b7221772d00dd&smart=true&width=3500&height=3500"
-    },
-    {
-      "id": "092c57c43002",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-08-11",
-      "title": "Can frozen serve as the next frontier for functional beverages?",
-      "source": "FoodNavigator-USA",
-      "sourceUrl": "https://www.foodnavigator.com/Article/2026/08/11/functional-ice-cubes-aim-to-bring-personalized-nutrition-to-frozen/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "📊",
-      "category": "",
-      "desc": "Functional beverage brand Roxii Supercube is carving out its own space in the crowded functional beverage market by tapping into the frozen aisle as a destination for personalized nutrition.",
-      "tags": [
-        "冷冻食品"
-      ],
-      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/OG7WZXA4I5B6ZPRIMPYUVEIBJI.png?auth=6cb6be7bca52930e27d4c7af9c63340311565de1ba92b257978fb94719acf99f&smart=true&width=1915&height=1070"
-    },
-    {
-      "id": "feaed00ba16e",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-08-11",
-      "title": "Jif Peanut Butter Unveils First Brand Redesign In 30 Years",
-      "source": "Dieline",
-      "sourceUrl": "https://thedieline.com/jif-peanut-butter-unveils-first-brand-redesign-in-30-years/",
-      "image": "📦",
-      "category": "",
-      "desc": "For the first time in 30 years, Jif peanut butter is getting a major redesign. While choosy moms choose Jif for classic PB&#038;Js, the brand is modernizing its packaging to highlight peanut butter’s culinary versatility The post Jif Peanut Butter Unveils First Brand Redesign ...",
-      "tags": [
-        "包装"
-      ],
-      "_imageUrl": "https://thedieline.com/wp-content/uploads/2026/08/Jif-Family_August-2026-scaled.jpg"
     }
   ]
 }
