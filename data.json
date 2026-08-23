@@ -1,7 +1,7 @@
 {
   "meta": {
-    "updated": "2026-08-22",
-    "version": 1787358768,
+    "updated": "2026-08-23",
+    "version": 1787445295,
     "total": 150,
     "auto_generated": true,
     "sources": [
@@ -543,6 +543,21 @@
       "desc": "",
       "tags": [],
       "_imageUrl": "https://www.beveragedaily.com/resizer/v2/UYKIESKVBZFBLMRZNX445EEJVI.jpg?auth=c5cdf035482e96268a0fc9767b1564482bcb55543e2cfaf24dada4bd7e52f5b2&smart=true&width=2121&height=1414"
+    },
+    {
+      "id": "5aa3e790f4bc",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-08-21",
+      "title": "Leftovers: Reese’s Puffs leans into nostalgia with PB&J flavor | Little Bites...",
+      "source": "Food Dive",
+      "sourceUrl": "https://www.fooddive.com/news/reeses-puffs-peanut-butter-jelly-little-bites-mystery-flavor-7-brew-canned-latte-energy-drinks/828487/",
+      "image": "📊",
+      "category": "",
+      "desc": "The launch from General Mills follows the success of Reese&rsquo;s PB+J cups last year, while drive-thru coffee chain 7 Brew enters retail with a lineup of caffeinated drinks. &nbsp;",
+      "tags": [],
+      "_imageUrl": "https://imgproxy.divecdn.com/rteJmZ-M3WkEtvszW8CEMLvQVzVnaF6ZeV_ct8OCq70/g:nowe:8:0/c:1911:1080/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9SUF9QQkpfSGVyb19JbWFnZV8xLmpwZw==.webp"
     },
     {
       "id": "c3eab1381115",
@@ -2521,23 +2536,6 @@
       "desc": "Moorhouse’s Brewery is located close to Pendle Hill in Lancashire, which is infamous for its mystic legends, in particular the Pendle witches. We first rebranded the Brewery and its traditional cask range – our award winning mystical designs helped revitalise Moorhouse’s and i...",
       "tags": [],
       "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/08/Moorhouses_POTW_16002-1-scaled-e1786530025580.jpg?fit=300%2C213&amp;ssl=1"
-    },
-    {
-      "id": "b697758cee01",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-08-12",
-      "title": "Patcha Organic Juice Brand & Packaging",
-      "source": "Packaging of the World",
-      "sourceUrl": "https://packagingoftheworld.com/2026/08/patcha-organic-juice-brand-packaging.html",
-      "image": "📦",
-      "category": "",
-      "desc": "Patcha is an organic juice brand built around a simple idea: choosing something natural should not have to feel like a lifestyle statement. Within a category that often leans heavily into wellness, fitness, and health-focused communication, Patcha takes a more everyday approac...",
-      "tags": [
-        "包装"
-      ],
-      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/08/4faa3886cffff4243ce64f0bdca105eb_tattoo-1-e1786530012262.png?fit=300%2C213&amp;ssl=1"
     }
   ]
 }
