@@ -1,7 +1,7 @@
 {
   "meta": {
-    "updated": "2026-08-23",
-    "version": 1787445295,
+    "updated": "2026-08-24",
+    "version": 1787531638,
     "total": 150,
     "auto_generated": true,
     "sources": [
@@ -334,6 +334,23 @@
         "type": "工艺创新",
         "detail": "整只虾仁入馅的工业化量产技术，保水不碎"
       }
+    },
+    {
+      "id": "ab3b36090b9d",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-08-23",
+      "title": "Brill Whisky Finds Luxury on the Horizon",
+      "source": "Dieline",
+      "sourceUrl": "https://thedieline.com/brill-whisky-finds-luxury-on-the-horizon/",
+      "image": "📦",
+      "category": "",
+      "desc": "Brill by Harcus Design takes whisky packaging in a crisp, tactile direction. The golden hue of the liquid becomes part of the palette, paired with white textured paper, black type, and flashes of metallic gold that echo a sense of sunlight, refinement, and the remote landscape...",
+      "tags": [
+        "包装"
+      ],
+      "_imageUrl": "https://thedieline.com/wp-content/uploads/2026/08/9a7c47243934491.69c4f56d3435b.jpg.webp"
     },
     {
       "id": "a77cbf975f12",
@@ -2521,21 +2538,6 @@
       "desc": "A holographic pouch that shifts color with the light, turning the meaning of Lumee's name into an actual design mechanism rather than just a story. The post Lumee Turns Light Into the Whole Design appeared first on DIELINE.",
       "tags": [],
       "_imageUrl": "https://thedieline.com/wp-content/uploads/2026/08/LUMEE_1600p-a7512afb7635c237dcc00410dd8293a7.jpg"
-    },
-    {
-      "id": "175179df7e46",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-08-12",
-      "title": "Out of the shadows… a new craft beer range",
-      "source": "Packaging of the World",
-      "sourceUrl": "https://packagingoftheworld.com/2026/08/out-of-the-shadows-a-new-craft-beer-range.html",
-      "image": "📦",
-      "category": "",
-      "desc": "Moorhouse’s Brewery is located close to Pendle Hill in Lancashire, which is infamous for its mystic legends, in particular the Pendle witches. We first rebranded the Brewery and its traditional cask range – our award winning mystical designs helped revitalise Moorhouse’s and i...",
-      "tags": [],
-      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/08/Moorhouses_POTW_16002-1-scaled-e1786530025580.jpg?fit=300%2C213&amp;ssl=1"
     }
   ]
 }
