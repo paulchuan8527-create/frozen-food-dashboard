@@ -1,7 +1,7 @@
 {
   "meta": {
-    "updated": "2026-08-24",
-    "version": 1787531638,
+    "updated": "2026-08-25",
+    "version": 1787618025,
     "total": 150,
     "auto_generated": true,
     "sources": [
@@ -336,6 +336,303 @@
       }
     },
     {
+      "id": "f0522e31f8a6",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-08-24",
+      "title": "Instant without compromise: 3 startups reimagine convenience food for more th...",
+      "source": "FoodNavigator-Asia",
+      "sourceUrl": "https://www.foodnavigator.com/Article/2026/08/24/soup-to-nuts-podcast-instant-food-gets-a-flavorful-nutritious-makeover/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "📊",
+      "category": "",
+      "desc": "Food startups are reinventing instant meals with better ingredients, bold flavors, nutrition and convenience for today’s consumers.",
+      "tags": [
+        "原料"
+      ],
+      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/M2IE3XXTUVG63NIWTMKPVJ24MU.jpg?auth=07b1188d5823a44ad0e1d513f0527f55804508b83e582453d2cd6f1374f36683&smart=true&width=2121&height=1414"
+    },
+    {
+      "id": "d2f6fdb25205",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-08-24",
+      "title": "Consumers redefine beverage premiumisation as experience overtakes price",
+      "source": "FoodNavigator-Asia",
+      "sourceUrl": "https://www.beveragedaily.com/Article/2026/08/24/consumers-redefine-beverage-premiumisation-as-experience-overtakes-price/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "📊",
+      "category": "",
+      "desc": "",
+      "tags": [],
+      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/FQWTECU5K5AXHG4ZHBCMY3QDDA.jpg?auth=f8929485bfac21c2caa2dd7759a556908dcfbe9f139fb88c1410220da38d33fc&smart=true&width=2120&height=1414"
+    },
+    {
+      "id": "3454d5e05b5a",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-08-24",
+      "title": "Confectionery’s biggest trend? Looking back",
+      "source": "FoodNavigator-Asia",
+      "sourceUrl": "https://www.foodnavigator.com/Article/2026/08/24/nostalgia-fuels-confectionery-innovation-engagement-and-sales/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "📊",
+      "category": "",
+      "desc": "From retro packaging to revived favourites, discover why nostalgia has become confectionery's defining trend and what comes next for brands.",
+      "tags": [
+        "包装"
+      ],
+      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/6YR2B2ODHBGQVDBIXW6Y357FCE.jpg?auth=ed0434521179c90ae9c2ffd6ed45e05168b0f4c1fd6eba0348354bf3693f9c5c&smart=true&width=1634&height=1117"
+    },
+    {
+      "id": "78cc5da52000",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-08-24",
+      "title": "Al Rawabi CEO: Localisation, convenience key to Middle East protein boom",
+      "source": "FoodNavigator-Asia",
+      "sourceUrl": "https://www.foodnavigator.com/Article/2026/08/24/al-rawabi-ceo-localisation-convenience-key-to-middle-east-protein-boom/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "📊",
+      "category": "",
+      "desc": "Protein demand is on the rise in the Middle East just like everywhere else",
+      "tags": [],
+      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/ELJEOUU74RB3XCYNDIHAHXTBV4.jpg?auth=1e200fe449c1034ba7c97d8fff928b29906af0973ce8afcc4cc65bbc1d0e485d&smart=true&width=2121&height=1414"
+    },
+    {
+      "id": "827c011fa02b",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-08-24",
+      "title": "Lindt takes ultra-dark to the limit with 100% cocoa launch",
+      "source": "FoodNavigator-USA",
+      "sourceUrl": "https://www.confectionerynews.com/Article/2026/08/24/lindt-launches-100-cocoa-chocolate-as-premium-dark-demand-grows/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "📊",
+      "category": "",
+      "desc": "Lindt & Sprüngli has expanded its Excellence range with the launch of a new 100% cocoa dark chocolate bar, responding to growing demand for higher-cocoa products while advancing its commitment to Rainforest Alliance-certified cocoa sourcing.",
+      "tags": [],
+      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/BJMPG6T75JGVZADPD4QQPAJNYA.jpeg?auth=f86c9f59f84efbaf7ae3a00605d3e746be678b05b9ebdb202c88035a1b8b7acf&smart=true&width=1500&height=960"
+    },
+    {
+      "id": "12502eced147",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-08-24",
+      "title": "Instant without compromise: 3 startups reimagine convenience food for more th...",
+      "source": "FoodNavigator-USA",
+      "sourceUrl": "https://www.foodnavigator.com/Article/2026/08/24/soup-to-nuts-podcast-instant-food-gets-a-flavorful-nutritious-makeover/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "📊",
+      "category": "",
+      "desc": "Food startups are reinventing instant meals with better ingredients, bold flavors, nutrition and convenience for today’s consumers.",
+      "tags": [
+        "原料"
+      ],
+      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/M2IE3XXTUVG63NIWTMKPVJ24MU.jpg?auth=07b1188d5823a44ad0e1d513f0527f55804508b83e582453d2cd6f1374f36683&smart=true&width=2121&height=1414"
+    },
+    {
+      "id": "00614735e9b0",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-08-24",
+      "title": "Confectionery’s biggest trend? Looking back",
+      "source": "FoodNavigator-USA",
+      "sourceUrl": "https://www.foodnavigator.com/Article/2026/08/24/nostalgia-fuels-confectionery-innovation-engagement-and-sales/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "📊",
+      "category": "",
+      "desc": "From retro packaging to revived favourites, discover why nostalgia has become confectionery's defining trend and what comes next for brands.",
+      "tags": [
+        "包装"
+      ],
+      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/6YR2B2ODHBGQVDBIXW6Y357FCE.jpg?auth=ed0434521179c90ae9c2ffd6ed45e05168b0f4c1fd6eba0348354bf3693f9c5c&smart=true&width=1634&height=1117"
+    },
+    {
+      "id": "e8b866ba67d9",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-08-24",
+      "title": "Pola Pops Protein Popsicles Bring the Miami Heat to the Freezer",
+      "source": "Dieline",
+      "sourceUrl": "https://thedieline.com/pola-pops-protein-popsicles-bring-the-miami-heat-to-the-freezer/",
+      "image": "📦",
+      "category": "",
+      "desc": "Founders Juliana Velez and Stephanie Fajardo created Pola Pops to be the functional frozen treat they couldn't find on the market, joining forces with Isa Jaramillo and Sofia Mejia to create a retro-inspired identity centered around a striking script wordmark and bold color pa...",
+      "tags": [
+        "冷冻食品"
+      ],
+      "_imageUrl": "https://thedieline.com/wp-content/uploads/2026/08/Screenshot-2026-08-23-at-9.03.31-PM.png"
+    },
+    {
+      "id": "1bfe48892ea2",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-08-24",
+      "title": "What If Packaging Could Detect Spoiled Food AND Self-Heal?",
+      "source": "Dieline",
+      "sourceUrl": "https://thedieline.com/what-if-packaging-could-detect-spoiled-food-and-self-heal/",
+      "image": "📦",
+      "category": "",
+      "desc": "Food packaging has always served to safely store food and prevent it from spoiling for as long as possible. But new technology has the potential to make food packaging smarter, not just protecting food but also giving consumers a quick visual indicator that’s better than a “be...",
+      "tags": [
+        "包装"
+      ],
+      "_imageUrl": "https://thedieline.com/wp-content/uploads/2026/08/how-smart-hydrogel-pac-1-scaled.jpg"
+    },
+    {
+      "id": "89a7594e75a0",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-08-24",
+      "title": "Shelf Life 122:The Premium Pantry Comes for Soy Sauce",
+      "source": "Dieline",
+      "sourceUrl": "https://thedieline.com/shelf-life-122the-premium-pantry-comes-for-soy-sauce/",
+      "image": "📦",
+      "category": "",
+      "desc": "There’s nothing particularly new about the modernization of the pantry. We watched it happen with olive oil, then tinned fish; there’s even talk that dental care is due for a redesign. And while the formula of taking an everyday staple, reconsidering the packaging, and sharpen...",
+      "tags": [
+        "包装"
+      ],
+      "_imageUrl": "https://thedieline.com/wp-content/uploads/2026/08/SoySauceShelfLife.png"
+    },
+    {
+      "id": "bbe0a9e6d5e4",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-08-24",
+      "title": "Sploosh",
+      "source": "Packaging of the World",
+      "sourceUrl": "https://packagingoftheworld.com/2026/08/sploosh.html",
+      "image": "📦",
+      "category": "",
+      "desc": "ABOUT SPLOOSH is a bath foam for kids that doubles as bubble solution, turning bath time into an underwater adventure full of play. The packaging collection is inspired by sea creatures that transform an everyday routine into an imaginative experience. Each bottle features a u...",
+      "tags": [
+        "包装"
+      ],
+      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/08/1.3-scaled-e1787558799415.png?fit=300%2C230&amp;ssl=1"
+    },
+    {
+      "id": "ce588b9c8654",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-08-24",
+      "title": "Top Golden",
+      "source": "Packaging of the World",
+      "sourceUrl": "https://packagingoftheworld.com/2026/08/top-golden.html",
+      "image": "📦",
+      "category": "",
+      "desc": "Top Golden Olive Oil — Packaging Redesign Top Golden is a project that carries a special history for our studio. More than a decade ago, we worked with the brand on its original olive oil packaging. Years later, the same client returned to us—this time with a new challenge: to...",
+      "tags": [
+        "包装"
+      ],
+      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/08/05-2-e1787558781534.png?fit=225%2C300&amp;ssl=1"
+    },
+    {
+      "id": "f9204f1a2ed5",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-08-24",
+      "title": "Melatonina",
+      "source": "Packaging of the World",
+      "sourceUrl": "https://packagingoftheworld.com/2026/08/melatonina.html",
+      "image": "📦",
+      "category": "",
+      "desc": "The Project The project takes melatonin as its starting point, a hormone naturally produced by the body that plays a role in regulating the sleep-wake cycle. The aim was to rethink its packaging, making it clear, informative, and contemporary while moving away from the more pr...",
+      "tags": [
+        "包装"
+      ],
+      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/08/1-19-e1787558744816.png?fit=240%2C300&amp;ssl=1"
+    },
+    {
+      "id": "0844f883f29f",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-08-24",
+      "title": "Edamame sachet design",
+      "source": "Packaging of the World",
+      "sourceUrl": "https://packagingoftheworld.com/2026/08/edamame-sachet-design.html",
+      "image": "📦",
+      "category": "",
+      "desc": "The packaging design has a bold, youthful, and health-focused visual identity, combining strong colors with playful food illustrations. &#160;",
+      "tags": [
+        "包装"
+      ],
+      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/08/EDAMAME-PACKAGING-PPT-01-1-scaled-e1787558696186.jpg?fit=300%2C212&amp;ssl=1"
+    },
+    {
+      "id": "4af6c4ca6c64",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-08-24",
+      "title": "Tennensui — Echoes of Japan",
+      "source": "Packaging of the World",
+      "sourceUrl": "https://packagingoftheworld.com/2026/08/tennensui-echoes-of-japan.html",
+      "image": "📦",
+      "category": "",
+      "desc": "Tennensui — Echoes of Japan Tennensui is a redesign project for a Japanese-inspired infused water range, created to reposition the product with a more distinctive, premium, and culturally rooted visual identity. The original packaging relied on a conventional paper-label syste...",
+      "tags": [
+        "日本",
+        "包装"
+      ],
+      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/08/01-3-e1787558653863.png?fit=225%2C300&amp;ssl=1"
+    },
+    {
+      "id": "7af9b543b769",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-08-24",
+      "title": "With ‘shackles off’ after Unilever split, Magnum Ice Cream takes new approach...",
+      "source": "Food Dive",
+      "sourceUrl": "https://www.fooddive.com/news/with-shackles-off-after-unilever-split-magnum-ice-cream-takes-new-approa/825094/",
+      "image": "📊",
+      "category": "",
+      "desc": "The Ben &amp; Jerry&rsquo;s maker is expanding the reach of its brands by making them more than an end-of-day indulgence, pitting them against other snacks such as candy and chips.",
+      "tags": [
+        "创新"
+      ],
+      "_imageUrl": "https://imgproxy.divecdn.com/NU7uvk1OIKecyVjMX60BXgOUflAzYjsekLx1Y1lwvoM/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzE5MDkyODk1XzUtZm90b3ItMjAyNjA4MDQxMTQ5MTIuanBn.webp"
+    },
+    {
+      "id": "8fa39616899b",
+      "type": "newproduct",
+      "section": "newproduct",
+      "sub": "report",
+      "date": "2026-08-24",
+      "title": "IQBAR, Fox’s and Paris Baguette fuel pumpkin spice’s autumn takeover",
+      "source": "BakeryandSnacks",
+      "sourceUrl": "https://www.bakeryandsnacks.com/Article/2026/08/24/pumpkin-spice-products-2026-move-beyond-the-starbucks-psl/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "🆕",
+      "category": "休闲零食",
+      "desc": "Pumpkin spice is moving beyond coffee into biscuits, protein bars, pancakes, yoghurt, pastries, snacks and confectionery for autumn 2026.",
+      "tags": [],
+      "_imageUrl": "https://www.bakeryandsnacks.com/resizer/v2/5OUZI655AJEJTDV5PFVXGH2K7E.jpg?auth=efc21cb00e28141d226173f2546dab3072b32b2908d01a32bb62bd3ec5d6aace&smart=true&width=2121&height=1414"
+    },
+    {
+      "id": "1a9476167b75",
+      "type": "newproduct",
+      "section": "newproduct",
+      "sub": "report",
+      "date": "2026-08-24",
+      "title": "Consumers redefine beverage premiumisation as experience overtakes price",
+      "source": "Beverage Daily",
+      "sourceUrl": "https://www.beveragedaily.com/Article/2026/08/24/consumers-redefine-beverage-premiumisation-as-experience-overtakes-price/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "🆕",
+      "category": "饮品",
+      "desc": "",
+      "tags": [],
+      "_imageUrl": "https://www.beveragedaily.com/resizer/v2/FQWTECU5K5AXHG4ZHBCMY3QDDA.jpg?auth=f8929485bfac21c2caa2dd7759a556908dcfbe9f139fb88c1410220da38d33fc&smart=true&width=2120&height=1414"
+    },
+    {
       "id": "ab3b36090b9d",
       "type": "packaging",
       "section": "packaging",
@@ -575,6 +872,38 @@
       "desc": "The launch from General Mills follows the success of Reese&rsquo;s PB+J cups last year, while drive-thru coffee chain 7 Brew enters retail with a lineup of caffeinated drinks. &nbsp;",
       "tags": [],
       "_imageUrl": "https://imgproxy.divecdn.com/rteJmZ-M3WkEtvszW8CEMLvQVzVnaF6ZeV_ct8OCq70/g:nowe:8:0/c:1911:1080/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9SUF9QQkpfSGVyb19JbWFnZV8xLmpwZw==.webp"
+    },
+    {
+      "id": "74fbae7467e3",
+      "type": "newproduct",
+      "section": "newproduct",
+      "sub": "report",
+      "date": "2026-08-21",
+      "title": "Hershey joins confectionery megatrend with coffee crossover",
+      "source": "Beverage Daily",
+      "sourceUrl": "https://www.confectionerynews.com/Article/2026/08/21/hershey-joins-confectionery-megatrend-with-coffee-crossover/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "🆕",
+      "category": "饮品",
+      "desc": "The Hershey Company's Reese’s teams up with viral coffee brand The Nitro Bar for seasonal launch as confectionery brands embrace cross-category collaborations and beverage innovation.",
+      "tags": [
+        "创新"
+      ],
+      "_imageUrl": "https://www.beveragedaily.com/resizer/v2/WTTMTS3MHREA7IZNOBAPDIPZZ4.jpg?auth=a88e231bd6233b362923ba75764b635fd6821a80e26bebd5ef507ea906e602f6&smart=true&width=2119&height=1415"
+    },
+    {
+      "id": "35757fd5b095",
+      "type": "newproduct",
+      "section": "newproduct",
+      "sub": "report",
+      "date": "2026-08-21",
+      "title": "The rise of allulose: Can this rare sugar crack the clean-label challenge?",
+      "source": "Beverage Daily",
+      "sourceUrl": "https://www.foodnavigator.com/Article/2026/08/21/why-allulose-is-gaining-industry-attention/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "🆕",
+      "category": "饮品",
+      "desc": "Why are food manufacturers excited about allulose? Explore its health benefits, regulatory hurdles, functionality and supplier landscape.",
+      "tags": [],
+      "_imageUrl": "https://www.beveragedaily.com/resizer/v2/SZCNYAHRGBFRVKOQ6SCOQPFBIY.jpg?auth=7a9899de9ef896608a51126782e0da15d7a9e21457305390727189c68e5cf9bc&smart=true&width=2119&height=1414"
     },
     {
       "id": "c3eab1381115",
@@ -2212,332 +2541,6 @@
         "创新"
       ],
       "_imageUrl": "https://www.foodnavigator.com/resizer/v2/HLNUICA7QRFR3ML4G5JTR4VKVM.jpeg?auth=64ab459635657f32aa569b5a3350365b9c94a08250b25b15dd4fb7c16a1072d1&smart=true&width=7008&height=4672"
-    },
-    {
-      "id": "5cfcdd36fbd0",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-08-13",
-      "title": "Maybe Is the Energy Drink That Never Screams at You, and That’s a Good Thing",
-      "source": "Dieline",
-      "sourceUrl": "https://thedieline.com/maybe-is-the-energy-drink-that-never-screams-at-you-and-thats-a-good-thing/",
-      "image": "📦",
-      "category": "",
-      "desc": "Maybe swaps the usual energy drink branding and gamer graphics for poster-style fruit illustrations and soft flavor appeal. The post Maybe Is the Energy Drink That Never Screams at You, and That&#8217;s a Good Thing appeared first on DIELINE.",
-      "tags": [],
-      "_imageUrl": "https://thedieline.com/wp-content/uploads/2026/08/maybe.png"
-    },
-    {
-      "id": "6e322dcc04f7",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-08-13",
-      "title": "Limin’s Pear Cider is Inspired By Traditional Floral Textiles",
-      "source": "Dieline",
-      "sourceUrl": "https://thedieline.com/limins-pear-cider-is-inspired-by-traditional-floral-textiles/",
-      "image": "📦",
-      "category": "",
-      "desc": "A gentle pear branch pattern and honest gold foil replace sustainable minimalism, turning a whole seasonal cycle into a story you can hold. The post Limin&#8217;s Pear Cider is Inspired By Traditional Floral Textiles appeared first on DIELINE.",
-      "tags": [
-        "可持续"
-      ],
-      "_imageUrl": "https://thedieline.com/wp-content/uploads/2026/08/Limin-product-family-4863757c7615ca1f83430e2078834837.jpg"
-    },
-    {
-      "id": "9deb8e4a140e",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-08-13",
-      "title": "Chef Esther Choi Takes Her Expertise to the Pantry with Korean Essentials Bra...",
-      "source": "Dieline",
-      "sourceUrl": "https://thedieline.com/chef-esther-choi-takes-her-expertise-to-the-pantry-with-korean-essentials-brand-sessy/",
-      "image": "📦",
-      "category": "",
-      "desc": "Chef, restauranteur, and Food Network star Esther Choi breaks into CPG with a line of Korean pantry essentials that reflects her Korean-American heritage and personality. The post Chef Esther Choi Takes Her Expertise to the Pantry with Korean Essentials Brand, Sessy appeared f...",
-      "tags": [],
-      "_imageUrl": "https://thedieline.com/wp-content/uploads/2026/08/2026-05-11-Sessy1539-highres-scaled.jpg"
-    },
-    {
-      "id": "1e063bf0dc4b",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-08-13",
-      "title": "5 new snacks capitalizing on hot c-stores trends",
-      "source": "Food Dive",
-      "sourceUrl": "https://www.fooddive.com/news/5-new-snacks-hot-c-stores-trends/827691/",
-      "image": "📊",
-      "category": "",
-      "desc": "Unique offerings from both newer and popular snackmakers are rising up to meet changing customer tastes.",
-      "tags": [],
-      "_imageUrl": ""
-    },
-    {
-      "id": "e4773fe6d566",
-      "type": "newproduct",
-      "section": "newproduct",
-      "sub": "report",
-      "date": "2026-08-13",
-      "title": "New beverage launches: Rice lager, sailing champagne and more…",
-      "source": "Beverage Daily",
-      "sourceUrl": "https://www.beveragedaily.com/Article/2026/08/13/new-drink-launches-rtds-functional-drinks-whisky/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "🆕",
-      "category": "饮品",
-      "desc": "Discover the latest beverage launches from Good Peels, Curry Smugglers, Upstate Elevator, C4, Glenfiddich, Frive, Bruichladdich, Amante 1530 and Maison Telmont, as brands invest in RTD innovation, functional wellness, alcohol-free alternatives and premium spirits.",
-      "tags": [
-        "创新"
-      ],
-      "_imageUrl": "https://www.beveragedaily.com/resizer/v2/2FQID7QN3JCIFBHNR7I4AI4XUA.jpg?auth=0946527a224f3793e45cb9d60b3b82f2f7e759391aad240559b2583b3f2d7ef9&smart=true&width=6000&height=4000"
-    },
-    {
-      "id": "8b94c5089e46",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-08-13",
-      "title": "Yutrients",
-      "source": "Packaging of the World",
-      "sourceUrl": "https://packagingoftheworld.com/2026/08/yutrients.html",
-      "image": "📦",
-      "category": "",
-      "desc": "Naming, identity creation &#38; packaging design for Yutrients From founders Graham &#38; Dom Winn, Yutrients is a new DTC brand that offers a truly personalised service in the supplements category. At the intersection of AI tech + decades of supplement industry know-how, Yutr...",
-      "tags": [
-        "包装"
-      ],
-      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/08/YUTRIENTS-line-up-crop-2-scaled-e1786612719803.jpg?fit=300%2C194&amp;ssl=1"
-    },
-    {
-      "id": "851b51149fb6",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-08-13",
-      "title": "ENIGMA — Botanical Cocktail Mixer Packaging Design",
-      "source": "Packaging of the World",
-      "sourceUrl": "https://packagingoftheworld.com/2026/08/enigma-botanical-cocktail-mixer-packaging-design.html",
-      "image": "📦",
-      "category": "",
-      "desc": "ENIGMA is a premium botanical cocktail mixer brand concept designed to bring sophistication and curiosity to the ready-to-mix beverage category. The identity centers on bold typography, minimalist label architecture, and vibrant liquid colors that become part of the visual exp...",
-      "tags": [
-        "包装"
-      ],
-      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/08/Matcha_Gin_Fizz_bottle_luxury_202606171656-1-e1786612707658.jpeg?fit=300%2C224&amp;ssl=1"
-    },
-    {
-      "id": "734d9df06a29",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-08-13",
-      "title": "Rascals Brewing: Brand Identity, Packaging & Spatial Design",
-      "source": "Packaging of the World",
-      "sourceUrl": "https://packagingoftheworld.com/2026/08/rascals-brewing-brand-identity-packaging-spatial-design.html",
-      "image": "📦",
-      "category": "",
-      "desc": "Rascals Brewing: Brand Identity, Packaging &#38; Spatial Design Rascals Brewing has always had an independent streak. For its 2024 rebrand, the Dublin brewery needed an identity that could retain that personality while bringing greater clarity and consistency to a growing port...",
-      "tags": [
-        "包装"
-      ],
-      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/08/Screenshot2026-04-13at13.02.04-3-e1786612674121.webp?fit=300%2C160&amp;ssl=1"
-    },
-    {
-      "id": "38c7c084eefa",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-08-13",
-      "title": "THYSDRUS",
-      "source": "Packaging of the World",
-      "sourceUrl": "https://packagingoftheworld.com/2026/08/thysdrus.html",
-      "image": "📦",
-      "category": "",
-      "desc": "THYSDRUS — Where Heritage Becomes Form THYSDRUS is a premium extra virgin olive oil packaging concept rooted in the architectural heritage of El Jem, Tunisia. Rather than simply placing a historical reference on a label, the project transforms architecture itself into the phys...",
-      "tags": [
-        "包装"
-      ],
-      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/08/130634-1-e1786612647786.png?fit=300%2C200&amp;ssl=1"
-    },
-    {
-      "id": "8d9849cf43ac",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-08-13",
-      "title": "Godello paraxe sorellos wine – bodegas blare",
-      "source": "Packaging of the World",
-      "sourceUrl": "https://packagingoftheworld.com/2026/08/godello-paraxe-sorellos-wine-bodegas-blare.html",
-      "image": "📦",
-      "category": "",
-      "desc": "Designing the label for a Godello born in Valdeorras takes more than aesthetics: it takes an understanding of landscape, material, and #LabelEngineering. For Paraxe Sorellos · Bodegas Blare, the starting point was the territory itself. In the Sil valley, between mountains and ...",
-      "tags": [],
-      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/08/401a30ecaeb1f11df4d286bbe099c626_tattoo-1-e1786612630347.png?fit=300%2C244&amp;ssl=1"
-    },
-    {
-      "id": "832e9be9183b",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-08-13",
-      "title": "Asconi Barique Wine",
-      "source": "Packaging of the World",
-      "sourceUrl": "https://packagingoftheworld.com/2026/08/asconi-barique-wine.html",
-      "image": "📦",
-      "category": "",
-      "desc": "Some wines tell their story through aromas. Others begin telling it the moment you lay eyes on them. For this special edition, we developed the visual concept for both the wine label and the gift box, designing them as a cohesive experience where every detail reflects the eleg...",
-      "tags": [],
-      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/08/Barique_1440x1440_2-1-e1786612608474.jpg?fit=300%2C300&amp;ssl=1"
-    },
-    {
-      "id": "f7cb0ae006d7",
-      "type": "newproduct",
-      "section": "newproduct",
-      "sub": "report",
-      "date": "2026-08-13",
-      "title": "The new sustainability playbook starts with suppliers",
-      "source": "BakeryandSnacks",
-      "sourceUrl": "https://www.foodnavigator.com/Article/2026/08/13/the-growing-role-of-ingredient-suppliers-in-sustainable-food-systems/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "🆕",
-      "category": "休闲零食",
-      "desc": "The future of sustainable food may lie less with brands and more with their suppliers, which are investing in regenerative agriculture, traceability and climate-smart infrastructure to build more transparent and resilient supply chains.",
-      "tags": [
-        "可持续"
-      ],
-      "_imageUrl": "https://www.bakeryandsnacks.com/resizer/v2/MSNXRGOAXBFLHBVRBDCRHRHOOA.jpg?auth=73e7fe61c3a59cc47501a1c905c005ed318be0b8e9bd32c60b06b6e2785702b6&smart=true&width=2121&height=1414"
-    },
-    {
-      "id": "54d3fa6af6f9",
-      "type": "newproduct",
-      "section": "newproduct",
-      "sub": "report",
-      "date": "2026-08-13",
-      "title": "Romesh Ranganathan-backed bakery chain part-saved from liquidation",
-      "source": "BakeryandSnacks",
-      "sourceUrl": "https://www.foodmanufacture.co.uk/Article/2026/08/13/coughlans-bakery-has-seen-some-its-stores-rescued-by-janes-pantry/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "🆕",
-      "category": "休闲零食",
-      "desc": "",
-      "tags": [],
-      "_imageUrl": "https://www.bakeryandsnacks.com/resizer/v2/7VICLI7CUFD3FE6U2STRTKOTME.jpg?auth=59fe32e8cd8512987d2a0c9d0cabf660c5715ea06f0b329fe4849ccc36525b5f&smart=true&width=1200&height=943"
-    },
-    {
-      "id": "ae523776f2cc",
-      "type": "compliance",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-08-12",
-      "title": "PPWR implementation timeline: What manufacturers need to know",
-      "source": "FoodNavigator-Asia",
-      "sourceUrl": "https://www.foodnavigator.com/Article/2026/08/12/ppwr-timeline/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "⚖️",
-      "category": "",
-      "desc": "The EU’s Packaging and Packaging Waste Regulation (PPWR) is being implemented over time. Limits on PFAS are now enforceable, but in the future, harmonised labelling, rules on composting, and limits for reused plastic will all become applicable.",
-      "tags": [
-        "包装"
-      ],
-      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/OUUDOOR45NBI7BVRBBMOICI52I.jpg?auth=b702337968af5eca933a6b3655fcc1e88e37d12c26f5de3fe3746fb40dbf458f&smart=true&width=2122&height=1412"
-    },
-    {
-      "id": "fa7d055bc554",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-08-12",
-      "title": "Mars at 115: Shaping the future of confectionery",
-      "source": "FoodNavigator-Asia",
-      "sourceUrl": "https://www.confectionerynews.com/Article/2026/08/12/mars-celebrates-115-years-of-family-ownership-and-industry-influence/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "📊",
-      "category": "",
-      "desc": "Mars celebrates its 115th anniversary, marking five generations of family ownership as the maker of M&amp;M's, Snickers and Twix looks to shape the future of food through innovation, sustainability and long-term investment.",
-      "tags": [
-        "创新"
-      ],
-      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/I7FOCKKQ4FC5NMHLLTQ2V5PKCQ.jpg?auth=d377091001dd45b569b8cbc3943e7b0e540272e6dda9db8dfc66bf8aa8caf518&smart=true&width=2121&height=1414"
-    },
-    {
-      "id": "aefed4229786",
-      "type": "compliance",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-08-12",
-      "title": "Natural colors are creating a new supply chain reality",
-      "source": "FoodNavigator-Asia",
-      "sourceUrl": "https://www.foodnavigator.com/Article/2026/08/12/how-stakeholders-can-build-resilient-natural-color-supply-chains/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "⚖️",
-      "category": "",
-      "desc": "As FDA’s synthetic dye phaseout accelerates demand for natural colors, manufacturers, suppliers and retailers are working to overcome sourcing, scalability and cost challenges through coordinated supply chain investments and innovation",
-      "tags": [
-        "创新"
-      ],
-      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/A5PNYUPAUFGB3GTEY2FPDTRHPA.jpg?auth=beead99266bd69dadef715d787bdd0849aaaa738e91dfb22ba9b3958a93fe259&smart=true&width=2121&height=1414"
-    },
-    {
-      "id": "5c8736a42b78",
-      "type": "compliance",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-08-12",
-      "title": "PPWR: 6 things manufacturers need to know",
-      "source": "FoodNavigator-Asia",
-      "sourceUrl": "https://www.foodnavigator.com/Article/2026/08/12/ppwr-6-things-manufacturers-need-to-know/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "⚖️",
-      "category": "",
-      "desc": "The EU's Packaging and Packaging Waste Regulation (PPWR) is applicable from 12 August. The regulation introduces PFAS limits, aims to harmonise recycling and pushes for packaging to be designed for recyclability. The regulation may be costly, but the EU predicts that it will l...",
-      "tags": [
-        "包装"
-      ],
-      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/H5BX75DEVZF4HC625ZTHIVW6CU.jpg?auth=dc6c39439162353eda6f7f65fd871cde3b24ae4acfa81885ef351641e1076ae6&smart=true&width=1999&height=1499"
-    },
-    {
-      "id": "16262fbe528f",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-08-12",
-      "title": "Mars at 115: Shaping the future of confectionery",
-      "source": "FoodNavigator-USA",
-      "sourceUrl": "https://www.confectionerynews.com/Article/2026/08/12/mars-celebrates-115-years-of-family-ownership-and-industry-influence/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "📊",
-      "category": "",
-      "desc": "Mars celebrates its 115th anniversary, marking five generations of family ownership as the maker of M&amp;M's, Snickers and Twix looks to shape the future of food through innovation, sustainability and long-term investment.",
-      "tags": [
-        "创新"
-      ],
-      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/I7FOCKKQ4FC5NMHLLTQ2V5PKCQ.jpg?auth=d377091001dd45b569b8cbc3943e7b0e540272e6dda9db8dfc66bf8aa8caf518&smart=true&width=2121&height=1414"
-    },
-    {
-      "id": "2d507ef33c14",
-      "type": "compliance",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-08-12",
-      "title": "Natural colors are creating a new supply chain reality",
-      "source": "FoodNavigator-USA",
-      "sourceUrl": "https://www.foodnavigator.com/Article/2026/08/12/how-stakeholders-can-build-resilient-natural-color-supply-chains/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "⚖️",
-      "category": "",
-      "desc": "As FDA’s synthetic dye phaseout accelerates demand for natural colors, manufacturers, suppliers and retailers are working to overcome sourcing, scalability and cost challenges through coordinated supply chain investments and innovation",
-      "tags": [
-        "创新"
-      ],
-      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/A5PNYUPAUFGB3GTEY2FPDTRHPA.jpg?auth=beead99266bd69dadef715d787bdd0849aaaa738e91dfb22ba9b3958a93fe259&smart=true&width=2121&height=1414"
-    },
-    {
-      "id": "f1dc16ded04d",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-08-12",
-      "title": "Lumee Turns Light Into the Whole Design",
-      "source": "Dieline",
-      "sourceUrl": "https://thedieline.com/lumee-turns-light-into-the-whole-design/",
-      "image": "📦",
-      "category": "",
-      "desc": "A holographic pouch that shifts color with the light, turning the meaning of Lumee's name into an actual design mechanism rather than just a story. The post Lumee Turns Light Into the Whole Design appeared first on DIELINE.",
-      "tags": [],
-      "_imageUrl": "https://thedieline.com/wp-content/uploads/2026/08/LUMEE_1600p-a7512afb7635c237dcc00410dd8293a7.jpg"
     }
   ]
 }
