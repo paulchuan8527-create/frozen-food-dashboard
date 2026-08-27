@@ -1,7 +1,7 @@
 {
   "meta": {
-    "updated": "2026-08-26",
-    "version": 1787704482,
+    "updated": "2026-08-27",
+    "version": 1787808458,
     "total": 150,
     "auto_generated": true,
     "sources": [
@@ -336,6 +336,238 @@
       }
     },
     {
+      "id": "eed31950a5cf",
+      "type": "compliance",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-08-26",
+      "title": "Could FDA’s GRAS proposal chill investment in novel food ingredients?",
+      "source": "FoodNavigator-Asia",
+      "sourceUrl": "https://www.foodnavigator.com/Article/2026/08/26/fda-gras-rule-could-affect-food-innovation-investment/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "⚖️",
+      "category": "",
+      "desc": "FDA’s proposed mandatory GRAS notification rule could increase regulatory risk for novel food ingredients, affecting investment, partnerships, M&amp;A and product development.",
+      "tags": [
+        "原料"
+      ],
+      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/GCDLXGNQNBGL5HXHPJSR7DVE5Q.jpg?auth=f1f8cb95d1cec5c06220137d0f2a684ceed86e81935a819f3b0e2003ebeac787&smart=true&width=4288&height=2792"
+    },
+    {
+      "id": "8353ec58fd23",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-08-26",
+      "title": "The Gen Z Effect: Rewriting the rules of confectionery",
+      "source": "FoodNavigator-Asia",
+      "sourceUrl": "https://www.foodnavigator.com/Article/2026/08/26/what-confectionery-brands-need-to-know-about-gen-z/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "📊",
+      "category": "",
+      "desc": "Gen Z is redefining confectionery, driving demand for wellness, sustainability, social media engagement, innovation and authentic brand experiences.",
+      "tags": [
+        "创新"
+      ],
+      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/A44V4RILYNEWNEZMUAJBXLV6QY.jpg?auth=cffe5dcf642dc8d04e19d6000796c42557b99614064d792ab8ccd4fe95a5c2da&smart=true&width=2121&height=1414"
+    },
+    {
+      "id": "637f3117006e",
+      "type": "compliance",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-08-26",
+      "title": "Could FDA’s GRAS proposal chill investment in novel food ingredients?",
+      "source": "FoodNavigator-USA",
+      "sourceUrl": "https://www.foodnavigator.com/Article/2026/08/26/fda-gras-rule-could-affect-food-innovation-investment/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "⚖️",
+      "category": "",
+      "desc": "FDA’s proposed mandatory GRAS notification rule could increase regulatory risk for novel food ingredients, affecting investment, partnerships, M&amp;A and product development.",
+      "tags": [
+        "原料"
+      ],
+      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/GCDLXGNQNBGL5HXHPJSR7DVE5Q.jpg?auth=f1f8cb95d1cec5c06220137d0f2a684ceed86e81935a819f3b0e2003ebeac787&smart=true&width=4288&height=2792"
+    },
+    {
+      "id": "ac35194e74f4",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-08-26",
+      "title": "The Gen Z Effect: Rewriting the rules of confectionery",
+      "source": "FoodNavigator-USA",
+      "sourceUrl": "https://www.foodnavigator.com/Article/2026/08/26/what-confectionery-brands-need-to-know-about-gen-z/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "📊",
+      "category": "",
+      "desc": "Gen Z is redefining confectionery, driving demand for wellness, sustainability, social media engagement, innovation and authentic brand experiences.",
+      "tags": [
+        "创新"
+      ],
+      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/A44V4RILYNEWNEZMUAJBXLV6QY.jpg?auth=cffe5dcf642dc8d04e19d6000796c42557b99614064d792ab8ccd4fe95a5c2da&smart=true&width=2121&height=1414"
+    },
+    {
+      "id": "ea42adfd3827",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-08-26",
+      "title": "The 25 Best Brands We Saw At Newtopia Now 2026",
+      "source": "Dieline",
+      "sourceUrl": "https://thedieline.com/the-25-best-brands-we-saw-at-newtopia-now-2026/",
+      "image": "📦",
+      "category": "",
+      "desc": "From grumpy wizards and Scandinavian minimalism to metal-inspired mammoth graphics, the packaging at Newtopia Now 2026 proved one thing: emerging brands aren't saving design for a future budget—they’re leading with it. The post The 25 Best Brands We Saw At Newtopia Now 2026 ap...",
+      "tags": [
+        "包装"
+      ],
+      "_imageUrl": "https://thedieline.com/wp-content/uploads/2026/08/Newtopia-2-scaled.jpg"
+    },
+    {
+      "id": "cbf743c52ae7",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-08-26",
+      "title": "The Packaging for This RTD Cocktail Line Stands Out ‘All Dia’",
+      "source": "Dieline",
+      "sourceUrl": "https://thedieline.com/the-packaging-for-this-rtd-cocktail-line-stands-out-all-dia/",
+      "image": "📦",
+      "category": "",
+      "desc": "All Día is a new brand of tequila-based RTD cocktails with a lower ABV than most light beers. The post The Packaging for This RTD Cocktail Line Stands Out &#8216;All Dia&#8217; appeared first on DIELINE.",
+      "tags": [
+        "包装"
+      ],
+      "_imageUrl": "https://thedieline.com/wp-content/uploads/2026/08/DSC04628-1-scaled.jpeg"
+    },
+    {
+      "id": "b3c0e951f6bc",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-08-26",
+      "title": "Wonder Aroma Odyssey Is a Scent From the Stars",
+      "source": "Dieline",
+      "sourceUrl": "https://thedieline.com/wonder-aroma-odyssey-is-a-scent-from-the-stars/",
+      "image": "📦",
+      "category": "",
+      "desc": "Wonder Aroma Odyssey by Magno Gavancho Studio transforms fine fragrance packaging through celestial symbolism, vivid color, sculptural glass, and botanical illustration, creating a collectible perfume experience where luxury design meets playful storytelling. The post Wonder A...",
+      "tags": [
+        "包装"
+      ],
+      "_imageUrl": "https://thedieline.com/wp-content/uploads/2026/08/7fa944250522745.6a2124bb398ba.jpg-scaled.webp"
+    },
+    {
+      "id": "c89b38c1a7a6",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-08-26",
+      "title": "Keith’s Cacao Gets a Warm, Type-Driven Redesign",
+      "source": "Dieline",
+      "sourceUrl": "https://thedieline.com/keiths-cacao-gets-a-warm-type-driven-redesign/",
+      "image": "📦",
+      "category": "",
+      "desc": "Keith’s Cacao packaging by Kinoto Studio brings ceremonial cacao into a fresh CPG world through expressive typography, cacao inspired color, kraft materials and playful details rooted in its Guatemalan story. The post Keith’s Cacao Gets a Warm, Type-Driven Redesign appeared fi...",
+      "tags": [
+        "包装"
+      ],
+      "_imageUrl": "https://thedieline.com/wp-content/uploads/2026/08/Screenshot-2026-08-25-at-3.21.00-PM.png"
+    },
+    {
+      "id": "1bd0493cb66a",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-08-26",
+      "title": "How Oreo’s endless flavor innovations help keep it on top",
+      "source": "Food Dive",
+      "sourceUrl": "https://www.fooddive.com/news/Mondelez-oreo-cookie-snacking-innovation/828270/",
+      "image": "📊",
+      "category": "",
+      "desc": "From strawberry milkshake to chicken and waffles, Mondelēz International is attracting new consumers and keeping its 114-year-old cookie brand relevant with the launch of &ldquo;playful&rdquo; flavors.",
+      "tags": [
+        "创新"
+      ],
+      "_imageUrl": "https://imgproxy.divecdn.com/v_lOl98nF858HXIW0ALGi9kRebWQCcDgvloKBYDeu00/g:nowe:49:5/c:1816:1026/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9Nb25kZWzEk3otT1JFTy1Wb3RlLUZhdm9yaXRlLUZsYXZvci5qcGc=.webp"
+    },
+    {
+      "id": "b35c5347a755",
+      "type": "newproduct",
+      "section": "newproduct",
+      "sub": "report",
+      "date": "2026-08-26",
+      "title": "Why the former McVitie’s boss is betting on private label",
+      "source": "BakeryandSnacks",
+      "sourceUrl": "https://www.bakeryandsnacks.com/Article/2026/08/26/why-mcvities-ex-boss-cem-karakas-backs-private-label/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "🆕",
+      "category": "休闲零食",
+      "desc": "Former pladis CEO Cem Karakaş explains why acquisitions, retailer innovation and global expansion are increasing the value of private-label manufacturers.",
+      "tags": [
+        "创新"
+      ],
+      "_imageUrl": "https://www.bakeryandsnacks.com/resizer/v2/RTIGBSGXLFHPPAALSDYLDOG4DM.jpg?auth=26bf1071d1dc350e657ce0d0c960001bd408b28c7ad40f3debb848e8eac3aee2&smart=true&width=750&height=500"
+    },
+    {
+      "id": "f7a4c1dcde3a",
+      "type": "newproduct",
+      "section": "newproduct",
+      "sub": "report",
+      "date": "2026-08-26",
+      "title": "New Managing Director for Nestlé Waters & Premium Beverages UK",
+      "source": "Beverage Daily",
+      "sourceUrl": "https://www.beveragedaily.com/Article/2026/08/26/new-managing-director-for-nestle-waters-premium-beverages-uk/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "🆕",
+      "category": "饮品",
+      "desc": "",
+      "tags": [],
+      "_imageUrl": "https://www.beveragedaily.com/resizer/v2/LFGV35LCVZM7JBMKFJSC5AMOPA.jpg?auth=0a13c7edd335bcb4bd045384929921c048e06e8529dcc8a0d3de508515a42472&smart=true&width=684&height=449"
+    },
+    {
+      "id": "bb1a301846e3",
+      "type": "newproduct",
+      "section": "newproduct",
+      "sub": "report",
+      "date": "2026-08-26",
+      "title": "US Restaurant Beverage Trends: Drinks drive footfall and growth as Gen Z and ...",
+      "source": "Beverage Daily",
+      "sourceUrl": "https://www.beveragedaily.com/Article/2026/08/26/us-restaurant-beverage-trends-drinks-drive-footfall-and-growth-as-gen-z-and-millennials-seek-new-flavours/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "🆕",
+      "category": "饮品",
+      "desc": "",
+      "tags": [],
+      "_imageUrl": "https://www.beveragedaily.com/resizer/v2/4QVAGJC42ZF75POASWBWWU4VSE.jpg?auth=1ebba5cc717c0d059a0e6989ad7a6420e1698e79de6b463c884ae6c7f11828c2&smart=true&width=2121&height=1414"
+    },
+    {
+      "id": "3f3053b3f4c5",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-08-26",
+      "title": "Apetito appoints new director of manufacturing",
+      "source": "Food Manufacture",
+      "sourceUrl": "https://www.foodmanufacture.co.uk/Article/2026/08/26/apetito-wiltshire-farm-foods-appoints-chris-dawks-new-director-of-manufacturing/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "📊",
+      "category": "",
+      "desc": "",
+      "tags": [],
+      "_imageUrl": "https://www.foodmanufacture.co.uk/resizer/v2/GPISPHEN6ZHADJYZO444UM4HQQ.jpg?auth=b04d144ae8a3cef3b7fa127179dd395c8448a392319dad6596ee14615df1d64e&smart=true&width=8505&height=5670"
+    },
+    {
+      "id": "11add43f587a",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-08-26",
+      "title": "Why the former McVitie’s boss is betting on private label",
+      "source": "Food Manufacture",
+      "sourceUrl": "https://www.bakeryandsnacks.com/Article/2026/08/26/why-mcvities-ex-boss-cem-karakas-backs-private-label/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "📊",
+      "category": "",
+      "desc": "Former pladis CEO Cem Karakaş explains why acquisitions, retailer innovation and global expansion are increasing the value of private-label manufacturers.",
+      "tags": [
+        "创新"
+      ],
+      "_imageUrl": "https://www.foodmanufacture.co.uk/resizer/v2/RTIGBSGXLFHPPAALSDYLDOG4DM.jpg?auth=26bf1071d1dc350e657ce0d0c960001bd408b28c7ad40f3debb848e8eac3aee2&smart=true&width=750&height=500"
+    },
+    {
       "id": "8068329b213e",
       "type": "report",
       "section": "data",
@@ -655,6 +887,53 @@
         "冷冻食品"
       ],
       "_imageUrl": "https://www.foodmanufacture.co.uk/resizer/v2/IQQYOSU6WBG7PB2VRJJOULKQCM.png?auth=bb1133b315aa6d355e33e7641a4fab3dac74e008ccfb5686dc26fb2832235384&smart=true&width=1600&height=900"
+    },
+    {
+      "id": "8ae283303e74",
+      "type": "newproduct",
+      "section": "newproduct",
+      "sub": "report",
+      "date": "2026-08-25",
+      "title": "Better-for-you kids snacks expand at Target, Whole Foods and beyond",
+      "source": "BakeryandSnacks",
+      "sourceUrl": "https://www.foodnavigator.com/Article/2026/08/25/better-for-you-kids-snacks-grow-at-target-whole-foods/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "🆕",
+      "category": "休闲零食",
+      "desc": "Better-for-you kids snack brands are expanding with lower-sugar, organic and cleaner-label products at Target, Whole Foods and other retailers.",
+      "tags": [],
+      "_imageUrl": "https://www.bakeryandsnacks.com/resizer/v2/ACPOP7GKSFHMHPPBYQF4EDN7YU.png?auth=34974fc0a8f3eb6a202e03f0e57e1a5d67d65fd9110fe37e492ce9ffd3fc9e0e&smart=true&width=1280&height=720"
+    },
+    {
+      "id": "f205552d6a9d",
+      "type": "newproduct",
+      "section": "newproduct",
+      "sub": "report",
+      "date": "2026-08-25",
+      "title": "PepsiCo, Coca-Cola, Hershey & more drop into the spirit of Halloween with FOM...",
+      "source": "BakeryandSnacks",
+      "sourceUrl": "https://www.foodnavigator.com/Article/2026/08/25/halloween-is-changing-beverage-lto-strategy/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "🆕",
+      "category": "休闲零食",
+      "desc": "Fanta, Mountain Dew, Alani Nu and Reese’s are borrowing drop culture to use scarcity, exclusivity and social buzz to drive Halloween beverage sales.",
+      "tags": [],
+      "_imageUrl": "https://www.bakeryandsnacks.com/resizer/v2/JIZGSSZDVJE6TKTXQMJVINVAUE.jpg?auth=ef825ee2ee660bdbbfa51e6ad2838dd7b4453b3ef7aa7d0819ce1cea1f73e686&smart=true&width=724&height=483"
+    },
+    {
+      "id": "4209986a36a7",
+      "type": "newproduct",
+      "section": "newproduct",
+      "sub": "report",
+      "date": "2026-08-25",
+      "title": "Why relevance is shaping the snacking category",
+      "source": "BakeryandSnacks",
+      "sourceUrl": "https://www.foodnavigator.com/Article/2026/08/25/snack-and-bakery-innovation-shifts-from-reinvention-to-relevance/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "🆕",
+      "category": "休闲零食",
+      "desc": "As consumers blur the lines between health, indulgence and convenience, snack and bakery manufacturers are shifting innovation strategies toward products that solve multiple need states throughout the day.",
+      "tags": [
+        "创新"
+      ],
+      "_imageUrl": "https://www.bakeryandsnacks.com/resizer/v2/UOOZWPJLOFB4TE57D4XEUX33KI.jpg?auth=5e84a802e603b5a49e940c82c4d22190c3be59896da40835e932d1a220389043&smart=true&width=2121&height=1414"
     },
     {
       "id": "f0522e31f8a6",
@@ -2259,278 +2538,6 @@
       "desc": "Discover the latest limited-time snack launches from Oreo, Pringles, Joyride, Pepperidge Farm, Day Out Snacks and more, including autumn flavours and consumer-led creations.",
       "tags": [],
       "_imageUrl": "https://www.foodnavigator.com/resizer/v2/BMO3JOWIY5EVZHECWGOQYMMTGY.jpg?auth=5e4fd59c57a986e39db4b5cfeb20358016ff4abf2f83d69055a018f64bfd69b7&smart=true&width=724&height=483"
-    },
-    {
-      "id": "5173a7376f67",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-08-17",
-      "title": "Binaurale Goes For Contained Maximalism With Globe-Capped Perfume Bottles",
-      "source": "Dieline",
-      "sourceUrl": "https://thedieline.com/binaurale-goes-for-contained-maximalism-with-globe-capped-perfume-bottles/",
-      "image": "📦",
-      "category": "",
-      "desc": "Driven by \"contained maximalism,\" fragrance brand Binaurale is breaking away from quiet luxury with bold, playful perfume bottles topped with custom 3D-modeled globe caps, fusing fine perfumery with avant-garde product design. The post Binaurale Goes For Contained Maximalism W...",
-      "tags": [],
-      "_imageUrl": "https://thedieline.com/wp-content/uploads/2026/08/BNRL_AGROUP_2_BOBBY-DOHERTY.jpg"
-    },
-    {
-      "id": "aff29d2654c3",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-08-17",
-      "title": "Sparkling Water Enters Its Pink Era With Vitruvius",
-      "source": "Dieline",
-      "sourceUrl": "https://thedieline.com/sparkling-water-enters-its-pink-era-with-vitruvius/",
-      "image": "📦",
-      "category": "",
-      "desc": "Vitruvius Pink Yuzu trades minimalist sparkling water branding for vintage soda label energy and full volume pink, proving loud can still feel refreshing. The post Sparkling Water Enters Its Pink Era With Vitruvius appeared first on DIELINE.",
-      "tags": [],
-      "_imageUrl": "https://thedieline.com/wp-content/uploads/2026/08/SnapInsta.to_753225111_18566317573070254_8762575024170860140_n-scaled.jpg"
-    },
-    {
-      "id": "2361a4b272bb",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-08-17",
-      "title": "Kicho Matcha",
-      "source": "Packaging of the World",
-      "sourceUrl": "https://packagingoftheworld.com/2026/08/kicho-matcha.html",
-      "image": "📦",
-      "category": "",
-      "desc": "KICHO Matcha is a premium packaging identity inspired by the quiet elegance and craftsmanship of Japanese tea culture. The design combines refined typography, a restrained color palette, and subtle illustrative textures to communicate authenticity, ceremonial quality, and a co...",
-      "tags": [
-        "日本",
-        "包装"
-      ],
-      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/08/magnific_use-the-reference-img1-to_s7gV1bVl8e-2-e1786960909879.jpeg?fit=226%2C300&amp;ssl=1"
-    },
-    {
-      "id": "5d4338ba80bd",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-08-17",
-      "title": "Brandex Barrel Select wine packaging project",
-      "source": "Packaging of the World",
-      "sourceUrl": "https://packagingoftheworld.com/2026/08/brandex-barrel-select-wine-packaging-project.html",
-      "image": "📦",
-      "category": "",
-      "desc": "Some wines are made to be opened. Others are made to be discovered. Brandex Barrel Select was imagined as a bottle shaped by patience, depth, and the quiet beauty of craftsmanship. Inspired by the mystery of the sea, the embossed octopus stretches across the label like a hidde...",
-      "tags": [
-        "包装"
-      ],
-      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/08/BRANDEX3-3-e1786960883769.jpeg?fit=242%2C300&amp;ssl=1"
-    },
-    {
-      "id": "c4472f713054",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-08-17",
-      "title": "Argentine Playing Cards for Ediciones de la Montaña",
-      "source": "Packaging of the World",
-      "sourceUrl": "https://packagingoftheworld.com/2026/08/argentine-playing-cards-for-ediciones-de-la-montana.html",
-      "image": "📦",
-      "category": "",
-      "desc": "Design and illustration of Argentine Playing Cards for Ediciones de la Montaña. I’d been wanting to work on a project like this for a long time, and then the proposal from Ediciones de la Montaña came along: design and illustrate a deck of Argentine playing cards based on the ...",
-      "tags": [],
-      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/08/ED_MON_NAIPES_01-e1786960863262.jpg?fit=240%2C300&amp;ssl=1"
-    },
-    {
-      "id": "251d134edd99",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-08-17",
-      "title": "Loose Goose Brewing Co.- A Craft Brewery",
-      "source": "Packaging of the World",
-      "sourceUrl": "https://packagingoftheworld.com/2026/08/loose-goose-brewing-co-a-craft-brewery.html",
-      "image": "📦",
-      "category": "",
-      "desc": "ABOUT: Loose Goose Brewing is the craft brewery for people who don’t take life too seriously. Born from long afternoons in the sun, spontaneous catch-ups and a love of good beer, Loose Goose is all about bringing people together over quality brews and good times. INSPIRATION: ...",
-      "tags": [
-        "包装"
-      ],
-      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/08/loose-goose-22-1-e1786960817257.png?fit=300%2C225&amp;ssl=1"
-    },
-    {
-      "id": "80c986842a79",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-08-17",
-      "title": "Popahara!",
-      "source": "Packaging of the World",
-      "sourceUrl": "https://packagingoftheworld.com/2026/08/popahara.html",
-      "image": "📦",
-      "category": "",
-      "desc": "Confetti built the naming, identity, and bilingual packaging for Popahara, a Canadian makhana snack brand carrying its Indian roots into a market that had never met the ingredient before. &#160;",
-      "tags": [
-        "包装",
-        "原料"
-      ],
-      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/08/POP-THUMBNAIL-1-e1786960787765.png?fit=300%2C235&amp;ssl=1"
-    },
-    {
-      "id": "90469fb7dbc5",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-08-17",
-      "title": "Open the Door to Warto Winery",
-      "source": "Packaging of the World",
-      "sourceUrl": "https://packagingoftheworld.com/2026/08/open-the-door-to-warto-winery.html",
-      "image": "📦",
-      "category": "",
-      "desc": "Winnica Warto is a winery from Poland’s Warta Valley, where good wine is combined with encounters, experiences and reasons to return. The label was designed as an invitation into this world. Its central motif is an open door — a symbol of hospitality and one of the brand’s mos...",
-      "tags": [],
-      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/08/06A-2-scaled-e1786960642576.jpg?fit=300%2C200&amp;ssl=1"
-    },
-    {
-      "id": "ae3ba3bd4805",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-08-17",
-      "title": "Araukaria Whisky",
-      "source": "Packaging of the World",
-      "sourceUrl": "https://packagingoftheworld.com/2026/08/araukaria-whisky.html",
-      "image": "📦",
-      "category": "",
-      "desc": "In the heart of Serra da Mantiqueira in Brazil this whisky rests for 8 years in araucaria wood. The tree that symbolizes these mountains lends the spirit its character and also its shape: the bottle glass was designed after the texture of araucaria bark, with reliefs that echo...",
-      "tags": [],
-      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/08/ARAUKARIA_2_TOGNOLLO-2-scaled-e1786960730623.jpg?fit=300%2C167&amp;ssl=1"
-    },
-    {
-      "id": "f65537f4071c",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-08-17",
-      "title": "Kraft Heinz focuses innovation to address ‘unmet’ consumer diet needs",
-      "source": "Food Dive",
-      "sourceUrl": "https://www.fooddive.com/news/kraft-heinz-focuses-innovation-to-address-unmet-consumer-diet-needs/825696/",
-      "image": "📊",
-      "category": "",
-      "desc": "Lactose-free Philadelphia cream cheese and clean-label Heinz ketchup could attract consumers previously unable to engage with the food giant&rsquo;s portfolio.",
-      "tags": [
-        "创新"
-      ],
-      "_imageUrl": "https://imgproxy.divecdn.com/mTNx4W0SOkJvFeqKR915VHaN-bu4G9DDex19Jxul34Y/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9Qb3dlck1hY19IZXJvX0tleV9WaXN1YWwuanBn.webp"
-    },
-    {
-      "id": "55d900a45857",
-      "type": "newproduct",
-      "section": "newproduct",
-      "sub": "report",
-      "date": "2026-08-17",
-      "title": "Oreo, Pringles and Pepperidge Farm turn scarcity into snack theatre",
-      "source": "BakeryandSnacks",
-      "sourceUrl": "https://www.bakeryandsnacks.com/Article/2026/08/17/limited-edition-snacks-2026-the-latest-global-launches/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "🆕",
-      "category": "休闲零食",
-      "desc": "Discover the latest limited-time snack launches from Oreo, Pringles, Joyride, Pepperidge Farm, Day Out Snacks and more, including autumn flavours and consumer-led creations.",
-      "tags": [],
-      "_imageUrl": "https://www.bakeryandsnacks.com/resizer/v2/BMO3JOWIY5EVZHECWGOQYMMTGY.jpg?auth=5e4fd59c57a986e39db4b5cfeb20358016ff4abf2f83d69055a018f64bfd69b7&smart=true&width=724&height=483"
-    },
-    {
-      "id": "e8665693c386",
-      "type": "newproduct",
-      "section": "newproduct",
-      "sub": "report",
-      "date": "2026-08-17",
-      "title": "Beverage manufacturers to face aluminium market volatility through 2026",
-      "source": "Beverage Daily",
-      "sourceUrl": "https://www.beveragedaily.com/Article/2026/08/17/the-alumiuim-market-remains-volatile-for-beverage-manufacturers/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "🆕",
-      "category": "饮品",
-      "desc": "",
-      "tags": [],
-      "_imageUrl": "https://www.beveragedaily.com/resizer/v2/NXZBEKFUZFEPBL3DWSRZ6YHEX4.jpg?auth=6826db96f5441744e440c931edb940cab36ff4661f62ff30bf29cdc2f37d0f4a&smart=true&width=2120&height=1414"
-    },
-    {
-      "id": "90ffd5a00219",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-08-17",
-      "title": "UK manufacturing profit margins slashed by a third due to FX risk",
-      "source": "Food Manufacture",
-      "sourceUrl": "https://www.foodmanufacture.co.uk/Article/2026/08/17/uk-manufacturing-profit-margins-slashed-by-a-third-due-to-fx-risk/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "📊",
-      "category": "",
-      "desc": "",
-      "tags": [],
-      "_imageUrl": "https://www.foodmanufacture.co.uk/resizer/v2/GCYSRUYNTJFX5OQ2WKGRJLKC6E.jpg?auth=cd5396d1795553ac40e33cf948019a556ccc089f7da995cb1fca1bb8d788f088&smart=true&width=2122&height=1412"
-    },
-    {
-      "id": "f818c7c3769c",
-      "type": "newproduct",
-      "section": "newproduct",
-      "sub": "report",
-      "date": "2026-08-17",
-      "title": "‘Worth it’ replaces ‘more is more’ as indulgence evolves",
-      "source": "BakeryandSnacks",
-      "sourceUrl": "https://www.foodnavigator.com/Article/2026/08/17/confectionery-indulgence-evolves-from-more-is-more-to-worth-it/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "🆕",
-      "category": "休闲零食",
-      "desc": "Consumer indulgence in confectionery is evolving, with premiumisation, wellness, sustainability and sensory experiences reshaping category innovation.",
-      "tags": [
-        "创新"
-      ],
-      "_imageUrl": "https://www.bakeryandsnacks.com/resizer/v2/GJCCEAE62VEX3LJSQGZA4D4DBQ.jpg?auth=f21b82f0e70c3c9985f952166c30720f6603592381b9d49ed77628daaee86d34&smart=true&width=2121&height=1414"
-    },
-    {
-      "id": "006526e38f36",
-      "type": "newproduct",
-      "section": "newproduct",
-      "sub": "report",
-      "date": "2026-08-17",
-      "title": "Coca-Cola doubles down on localisation in China as sales grow",
-      "source": "Beverage Daily",
-      "sourceUrl": "https://www.foodnavigator.com/Article/2026/08/17/coca-cola-doubles-down-on-localisation-in-china-as-sales-grow/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "🆕",
-      "category": "饮品",
-      "desc": "Coca-Cola taps on localised product innovation, digital engagement and community initiatives to strengthen consumer connections in China, as the beverage giant posted 8% unit case volume growth across Asia Pacific in Q2.",
-      "tags": [
-        "中国市场",
-        "创新"
-      ],
-      "_imageUrl": "https://www.beveragedaily.com/resizer/v2/YVKTPYCNDBFOLHPRPJ7FZTMWEU.png?auth=8def7d9e1cec2b52832aff9aea801b310d2edec65ed7de587388b03b418df263&smart=true&width=1920&height=1080"
-    },
-    {
-      "id": "39aea3593c28",
-      "type": "compliance",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-08-14",
-      "title": "Can PFAS be kept out of food?",
-      "source": "FoodNavigator-Asia",
-      "sourceUrl": "https://www.foodnavigator.com/Article/2026/08/14/pfas-how-to-keep-them-out-of-food/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "⚖️",
-      "category": "",
-      "desc": "PFAS usually gets into food through contaminated soil, water, and animal feed, explains the European Food Safety Authority (EFSA). If food manufacturers want to keep PFAS out of food, they must remove it at the source.",
-      "tags": [],
-      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/NEJBSO2JPFGUVFL5LC4PMSHLN4.jpg?auth=2ab2905ff238c866ca181411ad1d8b849f8a77fde6ba81bb791dbba6b976c125&smart=true&width=2119&height=1414"
-    },
-    {
-      "id": "73b61ed69411",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-08-14",
-      "title": "Flipz and Dunkin’ capitalise on pumpkin spice craze as seasonal snacking heat...",
-      "source": "FoodNavigator-Asia",
-      "sourceUrl": "https://www.confectionerynews.com/Article/2026/08/14/pladis-brings-pumpkin-spice-to-flipz-in-new-dunkin-partnership/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "📊",
-      "category": "",
-      "desc": "pladis targets pumpkin spice trend with new Flipz and Dunkin’ collaboration. The limited-edition pretzels combine sweet and salty flavours as seasonal launches and cross-brand partnerships continue to drive engagement across the confectionery and snacking sectors.",
-      "tags": [],
-      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/5A7EFUXEANCCVJ2LYNZOLUXFKI.jpg?auth=7819674b25098eced6896e3fb957a70a129e1b5475d275e59f54339535f281a9&smart=true&width=2400&height=2400"
     }
   ]
 }
