@@ -1,7 +1,7 @@
 {
   "meta": {
-    "updated": "2026-08-27",
-    "version": 1787808458,
+    "updated": "2026-08-28",
+    "version": 1787901836,
     "total": 150,
     "auto_generated": true,
     "sources": [
@@ -334,6 +334,230 @@
         "type": "工艺创新",
         "detail": "整只虾仁入馅的工业化量产技术，保水不碎"
       }
+    },
+    {
+      "id": "1e36cd72c411",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-08-27",
+      "title": "PepsiCo bets on global flavors to grow beyond snacks",
+      "source": "FoodNavigator-Asia",
+      "sourceUrl": "https://www.foodnavigator.com/Article/2026/08/27/pepsico-bets-on-global-flavors-to-grow-beyond-snacks/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "📊",
+      "category": "",
+      "desc": "PepsiCo expands Fresh Experiences portfolio through global flavors and convenience",
+      "tags": [],
+      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/YGTYH5AGLZA6XFWGWBYP3LMK7Y.jpg?auth=54c22ebe0209f58d0c50e4b385844d262795ef2689de89a6afcbfdc9496c5661&smart=true&width=7008&height=4672"
+    },
+    {
+      "id": "e44163d00a5d",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-08-27",
+      "title": "Fungo Design Depicts Regional Landforms and Fruit Cross-Sections For Harvestime",
+      "source": "Dieline",
+      "sourceUrl": "https://thedieline.com/fungo-design-depicts-regional-landforms-and-fruit-cross-sections-for-harvestime/",
+      "image": "📦",
+      "category": "",
+      "desc": "Premium fruit gifting typically stays in a more refined world, but embracing earthy palettes and expressive abstraction is a different take, and Fungo Design’s Harvestime turns the packaging into a colorful portrait of seasonality. Wavy vertical bands borrow from soil, regiona...",
+      "tags": [
+        "包装"
+      ],
+      "_imageUrl": "https://thedieline.com/wp-content/uploads/2026/08/Screenshot-2026-08-24-at-12.52.58-PM-scaled.png"
+    },
+    {
+      "id": "40a788b88c7b",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-08-27",
+      "title": "Coffee Meets Lemonade With Daydrink",
+      "source": "Dieline",
+      "sourceUrl": "https://thedieline.com/coffee-meets-lemonade-with-daydrink/",
+      "image": "📦",
+      "category": "",
+      "desc": "Daydrink Coffee Lemonade turns an unexpected coffee classic into standout RTD packaging with hand drawn typography, surreal illustrations and sunny citrus color inspired by sketchbook doodles and indie design. The post Coffee Meets Lemonade With Daydrink appeared first on DIEL...",
+      "tags": [
+        "包装"
+      ],
+      "_imageUrl": "https://thedieline.com/wp-content/uploads/2026/08/Daydrink_Coffee_Lemonade_16_9-37f1e539692d5489b0844f7078dd1efd-1.jpg"
+    },
+    {
+      "id": "78fdfa90a40c",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-08-27",
+      "title": "Terrare | Wine",
+      "source": "Packaging of the World",
+      "sourceUrl": "https://packagingoftheworld.com/2026/08/terrare-wine.html",
+      "image": "📦",
+      "category": "",
+      "desc": "This project explores the visual identity and packaging for a wine collection: Blanc, Rosé, and Noir. Each variety captures a distinct moment — of light, freshness, or depth. The goal was to translate that atmosphere through form, color, and typography — avoiding clichés and o...",
+      "tags": [
+        "包装"
+      ],
+      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/08/4-16-e1787827443710.jpg?fit=300%2C242&amp;ssl=1"
+    },
+    {
+      "id": "11c93593a812",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-08-27",
+      "title": "Berry Life: Elixir of the Gods",
+      "source": "Packaging of the World",
+      "sourceUrl": "https://packagingoftheworld.com/2026/08/berry-life-elixir-of-the-gods.html",
+      "image": "📦",
+      "category": "",
+      "desc": "Berry Life: From Cranberry to Object of Desire Berry Life had spent eight years building value through the product itself: artisanal cranberry juice, free from preservatives and added sugars, with an unusual aging process in cedar barrels. The challenge for the project develop...",
+      "tags": [],
+      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/08/4-18-e1787827426223.jpg?fit=300%2C169&amp;ssl=1"
+    },
+    {
+      "id": "187aafc3686d",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-08-27",
+      "title": "Aara Spices",
+      "source": "Packaging of the World",
+      "sourceUrl": "https://packagingoftheworld.com/2026/08/aara-spices.html",
+      "image": "📦",
+      "category": "",
+      "desc": "Indian design is often reduced to a familiar set of cultural cues—ornament, heritage motifs, and nostalgia. But Indian culture in America has moved far beyond these visual conventions. Food that once lived primarily in small, family-run Indian grocery stores is now part of the...",
+      "tags": [],
+      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/08/range-full-bleed-1-e1787827401950.webp?fit=300%2C169&amp;ssl=1"
+    },
+    {
+      "id": "d608f3a2ebe0",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-08-27",
+      "title": "Marchesi Antinori: A Mythological Storytelling System",
+      "source": "Packaging of the World",
+      "sourceUrl": "https://packagingoftheworld.com/2026/08/marchesi-antinori-a-mythological-storytelling-system.html",
+      "image": "📦",
+      "category": "",
+      "desc": "What if a wine brand&#8217;s heritage could be expressed through a story that existed long before the brand itself? Marchesi Antinori is a self-initiated conceptual packaging project inspired by more than six centuries of winemaking history. Rather than relying on conventional...",
+      "tags": [
+        "包装"
+      ],
+      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/08/Natania-Doshi-01-7-scaled-e1787827138296.jpg?fit=300%2C202&amp;ssl=1"
+    },
+    {
+      "id": "82dd1207f692",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-08-27",
+      "title": "Izo",
+      "source": "Packaging of the World",
+      "sourceUrl": "https://packagingoftheworld.com/2026/08/izo.html",
+      "image": "📦",
+      "category": "",
+      "desc": "IZO Soda is packaging project inspired by mid-century beverage posters and classic citrus crate labels. The goal was to create a bold, instantly recognizable can that relies on typography, color, and composition rather than illustration overload or modern visual noise. The bra...",
+      "tags": [
+        "包装"
+      ],
+      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/08/izo_1-2-e1787826955134.jpg?fit=240%2C300&amp;ssl=1"
+    },
+    {
+      "id": "06a151f5eec6",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-08-27",
+      "title": "Tusculum Novum, Roma Rosso DOC",
+      "source": "Packaging of the World",
+      "sourceUrl": "https://packagingoftheworld.com/2026/08/tusculum-novum-roma-rosso-doc.html",
+      "image": "📦",
+      "category": "",
+      "desc": "Tusculum Novum is a self-initiated wine packaging project developed around a fictional red wine produced in Frascati, Italy. The project began with an interest in Italian illuminated manuscripts and the idea of translating their visual language into a contemporary wine label. ...",
+      "tags": [
+        "包装"
+      ],
+      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/08/SHOT_01_ProductRender-1-2-e1787827354396.png?fit=240%2C300&amp;ssl=1"
+    },
+    {
+      "id": "a948afef0bda",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-08-27",
+      "title": "Kohi – Coffee Soda",
+      "source": "Packaging of the World",
+      "sourceUrl": "https://packagingoftheworld.com/2026/08/kohi-coffee-soda.html",
+      "image": "📦",
+      "category": "",
+      "desc": "Kohi – Coffee Soda We developed the packaging design for Kohi, an innovative line of coffee sodas that blends energy, freshness, and sophistication into a contemporary offering. The challenge was to position a disruptive product within an emerging category, creating a visual i...",
+      "tags": [
+        "包装"
+      ],
+      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/08/Caso-Lata-Cafe-03-2-e1787826888137.png?fit=300%2C169&amp;ssl=1"
+    },
+    {
+      "id": "6a3fc9711035",
+      "type": "newproduct",
+      "section": "newproduct",
+      "sub": "report",
+      "date": "2026-08-27",
+      "title": "Meet Connie, Freddie and Eddie – bakery’s new decorating crew",
+      "source": "BakeryandSnacks",
+      "sourceUrl": "https://www.bakeryandsnacks.com/Article/2026/08/27/how-robots-and-edible-printers-automate-bakery-decoration/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "🆕",
+      "category": "休闲零食",
+      "desc": "Primera’s Connie, Freddie and Eddie join 3D food printing in pushing cake toppers, cookie icing and bakery decoration towards automation.",
+      "tags": [],
+      "_imageUrl": "https://www.bakeryandsnacks.com/resizer/v2/NPCROPAZ6NE3FLRQXUOVKKDAOA.jpg?auth=d145cb0d1bc32b7dcda00d780c0cc2335d70db3ee7bb81b8f1dce2e5b9d92729&smart=true&width=2008&height=1493"
+    },
+    {
+      "id": "665fb96b5b94",
+      "type": "newproduct",
+      "section": "newproduct",
+      "sub": "report",
+      "date": "2026-08-27",
+      "title": "Which food trends are big in Africa?",
+      "source": "BakeryandSnacks",
+      "sourceUrl": "https://www.foodnavigator.com/Article/2026/08/27/big-food-trends-in-africa/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "🆕",
+      "category": "休闲零食",
+      "desc": "Food trends in Africa are influenced by urbanisation, with traditional foods increasingly being developed in more convenient formats. Consumers are concerned with affordability, with pack size architecture giving them more control over spending. Younger consumers are interacti...",
+      "tags": [],
+      "_imageUrl": "https://www.bakeryandsnacks.com/resizer/v2/NG5ZJDC5N5CDDFSJ7EP2IMZLMI.jpg?auth=4ce1c68a429542234421605c0812a5afb5a707a37fe5a51cf1b4f8d722bb7967&smart=true&width=3021&height=2172"
+    },
+    {
+      "id": "6bd5c0deb8c7",
+      "type": "newproduct",
+      "section": "newproduct",
+      "sub": "report",
+      "date": "2026-08-27",
+      "title": "Nestlé coffee comeback starts beneath the surface",
+      "source": "Beverage Daily",
+      "sourceUrl": "https://www.foodnavigator.com/Article/2026/08/27/nestle-tackles-soil-degradation-and-farmer-exodus-in-bid-to-futureproof-coffee/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "🆕",
+      "category": "饮品",
+      "desc": "Nestlé is betting on regenerative agriculture to secure the future of coffee production, improving soil health, boosting farmer resilience and reducing emissions as climate change threatens global coffee supplies.",
+      "tags": [],
+      "_imageUrl": "https://www.beveragedaily.com/resizer/v2/WKJ7J3OEONCZNJSEZ27HQAUGDI.jpg?auth=6796d75f25a07f5b28b53a06529457b3bb9d268f059987433f57fa7c54ef2440&smart=true&width=2000&height=1499"
+    },
+    {
+      "id": "826255de1dab",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-08-27",
+      "title": "Could climate change force a rewrite of the world’s recipes?",
+      "source": "Food Manufacture",
+      "sourceUrl": "https://www.foodnavigator.com/Article/2026/08/27/climate-risks-push-food-makers-towards-new-ingredients/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "📊",
+      "category": "",
+      "desc": "Climate change, supply chain disruption and geopolitical tensions are pushing food manufacturers to explore cocoa alternatives, microbial proteins and climate-resilient crops.",
+      "tags": [],
+      "_imageUrl": "https://www.foodmanufacture.co.uk/resizer/v2/AAF4R3I5JND3NNFJO4XNAGIL74.jpg?auth=44589eb8f108a1e52e7be4387896e6348955f1a0900abba33fcf400cc02482d7&smart=true&width=2121&height=1414"
     },
     {
       "id": "eed31950a5cf",
@@ -2309,235 +2533,6 @@
         "创新"
       ],
       "_imageUrl": "https://www.foodnavigator.com/resizer/v2/W7GLZBW665DNNFFWI6T5C3TSZM.jpg?auth=1c25bba92c108467a31e6f44fa39bb3c2df8c29931e82fa0d2c369218bd4678e&smart=true&width=2121&height=1414"
-    },
-    {
-      "id": "93b6871d0f2a",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-08-17",
-      "title": "China puts alternative proteins at heart of future food strategy",
-      "source": "FoodNavigator-Asia",
-      "sourceUrl": "https://www.foodnavigator.com/Article/2026/08/17/china-puts-alternative-proteins-at-heart-of-future-food-strategy/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "📊",
-      "category": "",
-      "desc": "China’s future food roadmap puts alternative proteins at the centre of efforts to strengthen food security, nutrition and sustainability.",
-      "tags": [
-        "中国市场"
-      ],
-      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/ZWY6KWPY3RH4FF6DHUEFNBFQMY.jpg?auth=1a67e8f19e5ba5d94cf4a3bbad009a1b66eb12f3032a5dbfdf12d21654be0683&smart=true&width=2121&height=1414"
-    },
-    {
-      "id": "6b3572c23370",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-08-17",
-      "title": "Coca-Cola doubles down on localisation in China as sales grow",
-      "source": "FoodNavigator-Asia",
-      "sourceUrl": "https://www.foodnavigator.com/Article/2026/08/17/coca-cola-doubles-down-on-localisation-in-china-as-sales-grow/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "📊",
-      "category": "",
-      "desc": "Coca-Cola taps on localised product innovation, digital engagement and community initiatives to strengthen consumer connections in China, as the beverage giant posted 8% unit case volume growth across Asia Pacific in Q2.",
-      "tags": [
-        "中国市场",
-        "创新"
-      ],
-      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/YVKTPYCNDBFOLHPRPJ7FZTMWEU.png?auth=8def7d9e1cec2b52832aff9aea801b310d2edec65ed7de587388b03b418df263&smart=true&width=1920&height=1080"
-    },
-    {
-      "id": "c36b1262ba91",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-08-17",
-      "title": "China Focus: Coca-Cola’s localisation strategy, protein innovation and sustai...",
-      "source": "FoodNavigator-USA",
-      "sourceUrl": "https://www.foodnavigator.com/Article/2026/08/17/china-focus-coca-colas-localisation-strategy-protein-innovation-and-sustainability-push/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "📊",
-      "category": "",
-      "desc": "From Coca-Cola’s localisation efforts to China’s push for alternative proteins and food waste reduction, we explore how the country’s food and beverage sector is adapting to evolving consumer and sustainability needs.",
-      "tags": [
-        "中国市场",
-        "创新"
-      ],
-      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/W7GLZBW665DNNFFWI6T5C3TSZM.jpg?auth=1c25bba92c108467a31e6f44fa39bb3c2df8c29931e82fa0d2c369218bd4678e&smart=true&width=2121&height=1414"
-    },
-    {
-      "id": "b12954022169",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-08-17",
-      "title": "Coca-Cola doubles down on localisation in China as sales grow",
-      "source": "FoodNavigator-USA",
-      "sourceUrl": "https://www.foodnavigator.com/Article/2026/08/17/coca-cola-doubles-down-on-localisation-in-china-as-sales-grow/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "📊",
-      "category": "",
-      "desc": "Coca-Cola taps on localised product innovation, digital engagement and community initiatives to strengthen consumer connections in China, as the beverage giant posted 8% unit case volume growth across Asia Pacific in Q2.",
-      "tags": [
-        "中国市场",
-        "创新"
-      ],
-      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/YVKTPYCNDBFOLHPRPJ7FZTMWEU.png?auth=8def7d9e1cec2b52832aff9aea801b310d2edec65ed7de587388b03b418df263&smart=true&width=1920&height=1080"
-    },
-    {
-      "id": "084b818facf6",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-08-17",
-      "title": "Shelf Life 123: Nostalgia As a Band-Aid",
-      "source": "Dieline",
-      "sourceUrl": "https://thedieline.com/shelf-life-123-nostalgia-as-a-band-aid/",
-      "image": "📦",
-      "category": "",
-      "desc": "Gen Z nostalgia has become branding’s safest creative shortcut, but when every rebrand looks backward, nostalgia stops feeling strategic and starts feeling stale. Designers and strategists weigh in on why brands keep mining the past, the risks of breaking with familiarity, and...",
-      "tags": [],
-      "_imageUrl": "https://thedieline.com/wp-content/uploads/2026/08/STUDENT-WEEK-2.png"
-    },
-    {
-      "id": "8676e60908d6",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-08-17",
-      "title": "Ritter Sport and Haribo join confectionery collaboration boom",
-      "source": "FoodNavigator-Asia",
-      "sourceUrl": "https://www.confectionerynews.com/Article/2026/08/17/ritter-sport-and-haribo-launch-balla-bites-amid-confectionery-collaboration-boom/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "📊",
-      "category": "",
-      "desc": "Ritter Sport and Haribo team up for the first time to launch limited-edition Balla Bites chocolate bar amid confectionery's booming collaboration trend.",
-      "tags": [],
-      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/7AAZPAAHVJBHVIPKLYWVBUI6VE.jpg?auth=52b1cb0657afa6a45dda20554d2767e948cbfc7d82a39443cb269c52e9cdd346&smart=true&width=2100&height=1500"
-    },
-    {
-      "id": "1319c4a514b3",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-08-17",
-      "title": "No ingredient can make up for a balanced diet: Why ‘maxxing’ trends are not t...",
-      "source": "FoodNavigator-Asia",
-      "sourceUrl": "https://www.foodnavigator.com/Article/2026/08/17/maxxing-trends-focus-too-much-on-single-ingredients/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "📊",
-      "category": "",
-      "desc": "With 'sardinemaxxing', another food has exploded into prominence due to social media virality. At the heart of every 'maxxing' trend, including protein and fibre, is an overfocus on a single food ingredient that cannot provide all nutritional answers.",
-      "tags": [
-        "原料"
-      ],
-      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/KPOQEVWQZJC6BIP5J7RHAVP6PQ.jpg?auth=07a935b78f618ccd9d5a4f06d45c5698c595064216ef10c46a0992595ded46a0&smart=true&width=2121&height=1414"
-    },
-    {
-      "id": "fceb7a81618c",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-08-17",
-      "title": "Beverage manufacturers to face aluminium market volatility through 2026",
-      "source": "FoodNavigator-Asia",
-      "sourceUrl": "https://www.beveragedaily.com/Article/2026/08/17/the-alumiuim-market-remains-volatile-for-beverage-manufacturers/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "📊",
-      "category": "",
-      "desc": "",
-      "tags": [],
-      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/NXZBEKFUZFEPBL3DWSRZ6YHEX4.jpg?auth=6826db96f5441744e440c931edb940cab36ff4661f62ff30bf29cdc2f37d0f4a&smart=true&width=2120&height=1414"
-    },
-    {
-      "id": "b894ecf489ea",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-08-17",
-      "title": "‘Worth it’ replaces ‘more is more’ as indulgence evolves",
-      "source": "FoodNavigator-Asia",
-      "sourceUrl": "https://www.foodnavigator.com/Article/2026/08/17/confectionery-indulgence-evolves-from-more-is-more-to-worth-it/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "📊",
-      "category": "",
-      "desc": "Consumer indulgence in confectionery is evolving, with premiumisation, wellness, sustainability and sensory experiences reshaping category innovation.",
-      "tags": [
-        "创新"
-      ],
-      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/GJCCEAE62VEX3LJSQGZA4D4DBQ.jpg?auth=f21b82f0e70c3c9985f952166c30720f6603592381b9d49ed77628daaee86d34&smart=true&width=2121&height=1414"
-    },
-    {
-      "id": "c11afbb78897",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-08-17",
-      "title": "Oreo, Pringles and Pepperidge Farm turn scarcity into snack theatre",
-      "source": "FoodNavigator-Asia",
-      "sourceUrl": "https://www.bakeryandsnacks.com/Article/2026/08/17/limited-edition-snacks-2026-the-latest-global-launches/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "📊",
-      "category": "",
-      "desc": "Discover the latest limited-time snack launches from Oreo, Pringles, Joyride, Pepperidge Farm, Day Out Snacks and more, including autumn flavours and consumer-led creations.",
-      "tags": [],
-      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/BMO3JOWIY5EVZHECWGOQYMMTGY.jpg?auth=5e4fd59c57a986e39db4b5cfeb20358016ff4abf2f83d69055a018f64bfd69b7&smart=true&width=724&height=483"
-    },
-    {
-      "id": "5f8dfffdd511",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-08-17",
-      "title": "Ritter Sport and Haribo join confectionery collaboration boom",
-      "source": "FoodNavigator-USA",
-      "sourceUrl": "https://www.confectionerynews.com/Article/2026/08/17/ritter-sport-and-haribo-launch-balla-bites-amid-confectionery-collaboration-boom/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "📊",
-      "category": "",
-      "desc": "Ritter Sport and Haribo team up for the first time to launch limited-edition Balla Bites chocolate bar amid confectionery's booming collaboration trend.",
-      "tags": [],
-      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/7AAZPAAHVJBHVIPKLYWVBUI6VE.jpg?auth=52b1cb0657afa6a45dda20554d2767e948cbfc7d82a39443cb269c52e9cdd346&smart=true&width=2100&height=1500"
-    },
-    {
-      "id": "3cc6b4989605",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-08-17",
-      "title": "No ingredient can make up for a balanced diet: Why ‘maxxing’ trends are not t...",
-      "source": "FoodNavigator-USA",
-      "sourceUrl": "https://www.foodnavigator.com/Article/2026/08/17/maxxing-trends-focus-too-much-on-single-ingredients/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "📊",
-      "category": "",
-      "desc": "With 'sardinemaxxing', another food has exploded into prominence due to social media virality. At the heart of every 'maxxing' trend, including protein and fibre, is an overfocus on a single food ingredient that cannot provide all nutritional answers.",
-      "tags": [
-        "原料"
-      ],
-      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/KPOQEVWQZJC6BIP5J7RHAVP6PQ.jpg?auth=07a935b78f618ccd9d5a4f06d45c5698c595064216ef10c46a0992595ded46a0&smart=true&width=2121&height=1414"
-    },
-    {
-      "id": "ee7d527e40a3",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-08-17",
-      "title": "‘Worth it’ replaces ‘more is more’ as indulgence evolves",
-      "source": "FoodNavigator-USA",
-      "sourceUrl": "https://www.foodnavigator.com/Article/2026/08/17/confectionery-indulgence-evolves-from-more-is-more-to-worth-it/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "📊",
-      "category": "",
-      "desc": "Consumer indulgence in confectionery is evolving, with premiumisation, wellness, sustainability and sensory experiences reshaping category innovation.",
-      "tags": [
-        "创新"
-      ],
-      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/GJCCEAE62VEX3LJSQGZA4D4DBQ.jpg?auth=f21b82f0e70c3c9985f952166c30720f6603592381b9d49ed77628daaee86d34&smart=true&width=2121&height=1414"
-    },
-    {
-      "id": "9b36e7e11279",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-08-17",
-      "title": "Oreo, Pringles and Pepperidge Farm turn scarcity into snack theatre",
-      "source": "FoodNavigator-USA",
-      "sourceUrl": "https://www.bakeryandsnacks.com/Article/2026/08/17/limited-edition-snacks-2026-the-latest-global-launches/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "📊",
-      "category": "",
-      "desc": "Discover the latest limited-time snack launches from Oreo, Pringles, Joyride, Pepperidge Farm, Day Out Snacks and more, including autumn flavours and consumer-led creations.",
-      "tags": [],
-      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/BMO3JOWIY5EVZHECWGOQYMMTGY.jpg?auth=5e4fd59c57a986e39db4b5cfeb20358016ff4abf2f83d69055a018f64bfd69b7&smart=true&width=724&height=483"
     }
   ]
 }
