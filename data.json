@@ -1,7 +1,7 @@
 {
   "meta": {
-    "updated": "2026-08-28",
-    "version": 1787901836,
+    "updated": "2026-08-29",
+    "version": 1787978091,
     "total": 150,
     "auto_generated": true,
     "sources": [
@@ -336,6 +336,277 @@
       }
     },
     {
+      "id": "71caf8f4ecdc",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-08-28",
+      "title": "Lindt turns confectionery into couture with boundary-breaking collab",
+      "source": "FoodNavigator-Asia",
+      "sourceUrl": "https://www.confectionerynews.com/Article/2026/08/28/lindt-turns-confectionery-into-couture-with-joe-ando-collaboration/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "📊",
+      "category": "",
+      "desc": "Lindt & Sprüngli has teamed up with avant-garde fashion designer Joe Ando to turn its new Tokyo Style Matcha Strawberry Chocolate into high-fashion dresses, highlighting the growing trend for confectionery collaborations as brands seek buzzworthy consumer experiences.",
+      "tags": [],
+      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/GLLROTYLZZDIVO5VBFXH3D5A24.jpg?auth=b138335466c67167e33744fc57e7e45f499a10e90e2f363a70d901027e7704d4&smart=true&width=2000&height=1286"
+    },
+    {
+      "id": "4f07205f02c5",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-08-28",
+      "title": "Hormel’s retail segment hit by Q3 commodity turkey and snack nut declines",
+      "source": "FoodNavigator-Asia",
+      "sourceUrl": "https://www.foodnavigator.com/Article/2026/08/28/jennie-o-spam-applegate-and-hormel-chili-do-the-heavy-lifty-for-hormel-in-q3/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "📊",
+      "category": "",
+      "desc": "Hormel Foods’ retail segment faced volume softness in commodity turkey and private label snack nuts in Q3.",
+      "tags": [],
+      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/KXER3SLJ5FEK7CUUGMQHFHRZFQ.jpg?auth=98f6230476d0d7ecb291c58447e51e5fde7c7be264bbca58239a4720dc1e5c92&smart=true&width=6433&height=4391"
+    },
+    {
+      "id": "25eed6318aa9",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-08-28",
+      "title": "The 7 trends shaping the future of confectionery",
+      "source": "FoodNavigator-Asia",
+      "sourceUrl": "https://www.confectionerynews.com/Article/2026/08/28/the-7-trends-shaping-the-future-of-confectionery/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "📊",
+      "category": "",
+      "desc": "Discover the key trends shaping the future of confectionery, from premiumisation and AI to sustainability, automation and better-for-you innovation.",
+      "tags": [
+        "创新"
+      ],
+      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/4APFMMX7DREIZD2OSID2NOOPAU.jpg?auth=5c6cde2163fa50fe38acab4499e9d2433906c47a9faa2e97b3cd92312ad10ba0&smart=true&width=1944&height=1414"
+    },
+    {
+      "id": "3c3f8af40293",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-08-28",
+      "title": "Lindt turns confectionery into couture with boundary-breaking collab",
+      "source": "FoodNavigator-USA",
+      "sourceUrl": "https://www.confectionerynews.com/Article/2026/08/28/lindt-turns-confectionery-into-couture-with-joe-ando-collaboration/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "📊",
+      "category": "",
+      "desc": "Lindt & Sprüngli has teamed up with avant-garde fashion designer Joe Ando to turn its new Tokyo Style Matcha Strawberry Chocolate into high-fashion dresses, highlighting the growing trend for confectionery collaborations as brands seek buzzworthy consumer experiences.",
+      "tags": [],
+      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/GLLROTYLZZDIVO5VBFXH3D5A24.jpg?auth=b138335466c67167e33744fc57e7e45f499a10e90e2f363a70d901027e7704d4&smart=true&width=2000&height=1286"
+    },
+    {
+      "id": "19f6ca1f25bf",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-08-28",
+      "title": "The 7 trends shaping the future of confectionery",
+      "source": "FoodNavigator-USA",
+      "sourceUrl": "https://www.confectionerynews.com/Article/2026/08/28/the-7-trends-shaping-the-future-of-confectionery/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "📊",
+      "category": "",
+      "desc": "Discover the key trends shaping the future of confectionery, from premiumisation and AI to sustainability, automation and better-for-you innovation.",
+      "tags": [
+        "创新"
+      ],
+      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/4APFMMX7DREIZD2OSID2NOOPAU.jpg?auth=5c6cde2163fa50fe38acab4499e9d2433906c47a9faa2e97b3cd92312ad10ba0&smart=true&width=1944&height=1414"
+    },
+    {
+      "id": "5a3d92e21bcb",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-08-28",
+      "title": "Fortnum & Mason Deliver a Postcard From the Land of Cacao",
+      "source": "Dieline",
+      "sourceUrl": "https://thedieline.com/fortnum-mason-deliver-a-postcard-from-the-land-of-cacao/",
+      "image": "📦",
+      "category": "",
+      "desc": "Fortnum &#038; Mason and Otherway reimagine premium chocolate packaging through global cacao origins, local artist collaborations, stamp inspired graphics, and vibrant color, turning each bar into a celebration of craft, culture, and provenance. The post Fortnum &amp; Mason De...",
+      "tags": [
+        "包装"
+      ],
+      "_imageUrl": "https://thedieline.com/wp-content/uploads/2026/08/1784184038287.jpeg"
+    },
+    {
+      "id": "c6ba0698ff4c",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-08-28",
+      "title": "Tome Writes a New Chapter in Skincare",
+      "source": "Dieline",
+      "sourceUrl": "https://thedieline.com/tome-writes-a-new-chapter-in-skincare/",
+      "image": "📦",
+      "category": "",
+      "desc": "Tome Skincare by REUNION turns skincare packaging into a book inspired ritual, pairing vivid green, scientific illustration, reference typography, and reusable design to create a fresh chapter in modern beauty. The post Tome Writes a New Chapter in Skincare appeared first on D...",
+      "tags": [
+        "包装"
+      ],
+      "_imageUrl": "https://thedieline.com/wp-content/uploads/2026/08/Tome-3-6294f0f92245293a39bb8ba071bc454b-1.jpg"
+    },
+    {
+      "id": "b98e021b3b0f",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-08-28",
+      "title": "PepsiCo Design’s Refresh Of Monster Munch Is Cute-Feral Refined",
+      "source": "Dieline",
+      "sourceUrl": "https://thedieline.com/pepsico-designs-refresh-of-monster-munch-is-cute-feral-refined/",
+      "image": "📦",
+      "category": "",
+      "desc": "UK favorite Monster Munch gets a wildly charming makeover. PepsiCo Design puts everyone's favorite cutesy monsters front and center, blending playful character art with sleek design for a brand refresh that's equal parts adorable and fierce. The post PepsiCo Design&#8217;s Ref...",
+      "tags": [],
+      "_imageUrl": "https://thedieline.com/wp-content/uploads/2026/08/Monster-Munch-New-Brand-Identity-Design-PepsiCo-6.jpeg.63c46e47345e407b92e406bd8f84e15d.jpeg"
+    },
+    {
+      "id": "9f90a44a8dcf",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-08-28",
+      "title": "One Bottle , Infinite Perspectives",
+      "source": "Packaging of the World",
+      "sourceUrl": "https://packagingoftheworld.com/2026/08/one-bottle-infinite-perspectives.html",
+      "image": "📦",
+      "category": "",
+      "desc": "Most bottles are designed to be understood from the front. This one was designed to make you move around it. BRANDEX Artisanal Gin challenges the traditional structure of spirit packaging through a label that refuses to stay inside a frame. A sequence of bold circular forms wr...",
+      "tags": [
+        "包装"
+      ],
+      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/08/GinMockup9-3-scaled-e1787919076466.jpeg?fit=300%2C167&amp;ssl=1"
+    },
+    {
+      "id": "6f3c78506198",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-08-28",
+      "title": "Novak Winery Autentic Collection Redesign by 43oz",
+      "source": "Packaging of the World",
+      "sourceUrl": "https://packagingoftheworld.com/2026/08/novak-winery-autentic-collection-redesign-by-43oz.html",
+      "image": "📦",
+      "category": "",
+      "desc": "A long-term collaboration allows a visual identity to develop in ways that are difficult to achieve through isolated projects. Over the past ten years, 43oz and Novak Winery have worked together on numerous labels, collections and experimental releases, creating a relationship...",
+      "tags": [],
+      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/08/DSC00542-1-e1787919043918.jpg?fit=200%2C300&amp;ssl=1"
+    },
+    {
+      "id": "e6b25adb2896",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-08-28",
+      "title": "Ponche Kuba",
+      "source": "Packaging of the World",
+      "sourceUrl": "https://packagingoftheworld.com/2026/08/ponche-kuba.html",
+      "image": "📦",
+      "category": "",
+      "desc": "As Notting Hill Carnival prepares to fill London’s streets with colour, culture and celebration, we’re raising a glass to a project shaped by that same spirit of Caribbean conviviality: our redesign of Ponche Kuba. Created in 1942 and crafted at Mount Gay Distilleries in Barba...",
+      "tags": [],
+      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/08/Copy-of-PoncheKuba_Launch_PressImages_03-Large-1-e1787919020412.jpeg?fit=300%2C169&amp;ssl=1"
+    },
+    {
+      "id": "57cf1b646ac8",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-08-28",
+      "title": "Turning Wine’s Transformation Into A Tangible Design Experience",
+      "source": "Packaging of the World",
+      "sourceUrl": "https://packagingoftheworld.com/2026/08/turning-wines-transformation-into-a-tangible-design-experience.html",
+      "image": "📦",
+      "category": "",
+      "desc": "Turning Wine’s Transformation Into A Tangible Design Experience The name was the starting point. The concept became the destination. INVERTIDO was created as an experience that physically embodies the identity, story and transformation of the wine. A project that explores the ...",
+      "tags": [
+        "创新"
+      ],
+      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/08/CadaoINvertidoALtaRes-1-1-e1787918984287.jpg?fit=300%2C200&amp;ssl=1"
+    },
+    {
+      "id": "407100962f81",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-08-28",
+      "title": "Caves Montanha",
+      "source": "Packaging of the World",
+      "sourceUrl": "https://packagingoftheworld.com/2026/08/caves-montanha.html",
+      "image": "📦",
+      "category": "",
+      "desc": "Transforming generations of sparkling wine expertise into a premium packaging success. Montanha Real was created to position a premium sparkling wine at a significantly higher level within a competitive market. Built on Caves Montanha’s heritage and recognised expertise in pro...",
+      "tags": [
+        "包装"
+      ],
+      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/08/MACREATIVEAGENCY_CAVESMONTANHA-1-1-e1787918939183.jpg?fit=300%2C200&amp;ssl=1"
+    },
+    {
+      "id": "f3e156013b3d",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-08-28",
+      "title": "Motsalk — Brand Identity and Packaging",
+      "source": "Packaging of the World",
+      "sourceUrl": "https://packagingoftheworld.com/2026/08/motsalk-brand-identity-and-packaging.html",
+      "image": "📦",
+      "category": "",
+      "desc": "Motsalk is a last-mile logistics brand from Saudi Arabia developed around the relationship between movement, precision, and trust. The identity was created to move away from the visual clichés commonly associated with logistics and delivery brands, such as literal arrows, boxe...",
+      "tags": [
+        "包装"
+      ],
+      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/08/7-motsalk-world-brand-design-1.jpg-1-scaled-e1787918922523.jpg?fit=300%2C171&amp;ssl=1"
+    },
+    {
+      "id": "051960508788",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-08-28",
+      "title": "Leftovers: Pringles introduces thicker chips | Pop-Tarts gets buzzed with Buz...",
+      "source": "Food Dive",
+      "sourceUrl": "https://www.fooddive.com/news/buzzballs-poptarts-snoop-dogg-popsicle-thick-pringles/829061/",
+      "image": "📊",
+      "category": "",
+      "desc": "The Mars Snacking brand is launching a sturdier crisp designed for dipping, while Snoop Dogg's Dr. Bombay releases a nostalgic popsicle.",
+      "tags": [],
+      "_imageUrl": "https://imgproxy.divecdn.com/uj2ZPgDsX-N3qyNXXVoYiVLHnUo2-UawkVkdbed9__A/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8yNi1QcmluZ2xlcy1CSC1Jbm5vdmF0aW9uc19EaXBwZXJzLUNvbGxlY3Rpb24tSGVyby1WaXN1YWwtMS5qcGc=.webp"
+    },
+    {
+      "id": "c26ce5c4fc71",
+      "type": "newproduct",
+      "section": "newproduct",
+      "sub": "report",
+      "date": "2026-08-28",
+      "title": "Does sponsoring one team turn its rivals against your brand?",
+      "source": "BakeryandSnacks",
+      "sourceUrl": "https://www.bakeryandsnacks.com/Article/2026/08/28/sports-sponsorship-risks-for-food-and-snack-brands/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "🆕",
+      "category": "休闲零食",
+      "desc": "From Mondelēz and the Kansas City Chiefs to KP Snacks and The Hundred, sports sponsorship can build loyalty while exposing brands to backlash.",
+      "tags": [],
+      "_imageUrl": "https://www.bakeryandsnacks.com/resizer/v2/4ODYTOQTR5GMHJS4HZPD4CDJMI.jpg?auth=10f4503d691a7dda5cf2a1cd8de01cf76a6c2f3e6c955496fb47ab40743e632d&smart=true&width=2121&height=1414"
+    },
+    {
+      "id": "1e9ec7935dc3",
+      "type": "newproduct",
+      "section": "newproduct",
+      "sub": "report",
+      "date": "2026-08-28",
+      "title": "New beverage launches: Mate iced tea, Sierra Paloma and beer bonanza…",
+      "source": "Beverage Daily",
+      "sourceUrl": "https://www.beveragedaily.com/Article/2026/08/28/new-beer-launches-hit-the-shelves-in-npd-roundup/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "🆕",
+      "category": "饮品",
+      "desc": "Discover the latest beverage launches, including limited-edition beers, ready-to-drink cocktails, carbonated coffee and functional yerba mate drinks, as brands innovate with new flavours, formats, partnerships and sustainability initiatives.",
+      "tags": [],
+      "_imageUrl": "https://www.beveragedaily.com/resizer/v2/NTHE4ZAULVCDLMEOT6HFLTTHRA.jpg?auth=aa8cdcbe27ef2a228b1295b0c6279820c62836a53579f9db82d95eea5466ecef&smart=true&width=2508&height=1411"
+    },
+    {
       "id": "1e36cd72c411",
       "type": "report",
       "section": "data",
@@ -558,6 +829,21 @@
       "desc": "Climate change, supply chain disruption and geopolitical tensions are pushing food manufacturers to explore cocoa alternatives, microbial proteins and climate-resilient crops.",
       "tags": [],
       "_imageUrl": "https://www.foodmanufacture.co.uk/resizer/v2/AAF4R3I5JND3NNFJO4XNAGIL74.jpg?auth=44589eb8f108a1e52e7be4387896e6348955f1a0900abba33fcf400cc02482d7&smart=true&width=2121&height=1414"
+    },
+    {
+      "id": "76352f8e3e4a",
+      "type": "newproduct",
+      "section": "newproduct",
+      "sub": "report",
+      "date": "2026-08-27",
+      "title": "PepsiCo bets on global flavors to grow beyond snacks",
+      "source": "BakeryandSnacks",
+      "sourceUrl": "https://www.foodnavigator.com/Article/2026/08/27/pepsico-bets-on-global-flavors-to-grow-beyond-snacks/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "🆕",
+      "category": "休闲零食",
+      "desc": "PepsiCo expands Fresh Experiences portfolio through global flavors and convenience.",
+      "tags": [],
+      "_imageUrl": "https://www.bakeryandsnacks.com/resizer/v2/YGTYH5AGLZA6XFWGWBYP3LMK7Y.jpg?auth=54c22ebe0209f58d0c50e4b385844d262795ef2689de89a6afcbfdc9496c5661&smart=true&width=7008&height=4672"
     },
     {
       "id": "eed31950a5cf",
@@ -2244,295 +2530,6 @@
       "desc": "",
       "tags": [],
       "_imageUrl": "https://www.foodnavigator.com/resizer/v2/SE32GQTF5VDLRPD567NS6UH24A.jpg?auth=eadb03f86360151095c8fe8af324f4b3591d67efca34d3381c0607d53331d007&smart=true&width=2121&height=1414"
-    },
-    {
-      "id": "19dc789bb54d",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-08-18",
-      "title": "Cadbury breaks category boundaries with beauty launch",
-      "source": "FoodNavigator-USA",
-      "sourceUrl": "https://www.confectionerynews.com/Article/2026/08/18/cadbury-and-mcobeauty-launch-chocolate-and-cosmetics-range/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "📊",
-      "category": "",
-      "desc": "Cadbury owner Mondelēz International has partnered with Australian beauty brand MCoBeauty to launch a Dairy Milk Watermelon chocolate bar and matching cosmetics collection, highlighting the growing trend for cross-category collaborations between confectionery and beauty brands.",
-      "tags": [],
-      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/XSH2MPLZLNBTVOMVSMWNYGVC34.jpg?auth=32ff22a4e606c26387b869be31f8d60b2fe33bb7afc7b670010619908af3f639&smart=true&width=5230&height=3886"
-    },
-    {
-      "id": "654f1af25e3b",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-08-18",
-      "title": "Gen Alpha’s early eating habits offer a roadmap for the future of snacking",
-      "source": "FoodNavigator-USA",
-      "sourceUrl": "https://www.foodnavigator.com/Article/2026/08/18/what-gen-alpha-wants-from-snacks-according-to-niq/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "📊",
-      "category": "",
-      "desc": "Gen Alpha is already influencing snack purchases, with NIQ research showing a growing focus on nutrition, ingredients, health benefits and better-for-you options.",
-      "tags": [
-        "原料"
-      ],
-      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/J3OMRZ3EY5LVVJRU3QQATP5H5E.jpg?auth=7e8cac4c52ba583059fa2b6b1721d24a24db8e25203aca90d442eb783fb407a9&smart=true&width=750&height=500"
-    },
-    {
-      "id": "23c2ebd74511",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-08-18",
-      "title": "Moët Serves Up New Cocktail For US Open In an Unrecyclable Can",
-      "source": "Dieline",
-      "sourceUrl": "https://thedieline.com/moet-serves-up-new-cocktail-for-us-open-in-an-unrecyclable-can/",
-      "image": "📦",
-      "category": "",
-      "desc": "Moët is courting tennis fans at the US Open with \"The Moët Serve,\" a new RTD champagne cocktail packaged in a clear, tennis-ball-inspired \"franken-can.\" But while the plastic-and-metal design serves plenty of court-side eye candy, its unrecyclable materials miss the mark on su...",
-      "tags": [],
-      "_imageUrl": "https://thedieline.com/wp-content/uploads/2026/08/moet.png"
-    },
-    {
-      "id": "743f3e5cf446",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-08-18",
-      "title": "Are You a Student and Want to Get Your Work Seen? Submit For DIELINE Student ...",
-      "source": "Dieline",
-      "sourceUrl": "https://thedieline.com/are-you-a-student-and-want-to-get-your-work-seen-submit-for-dieline-student-week-2026/",
-      "image": "📦",
-      "category": "",
-      "desc": "Dieline's Student Week 2026 is open for submissions. For the week of September 14, 2026, we're spotlighting the best student packaging and branding work on DIELINE and across our social channels. The post Are You a Student and Want to Get Your Work Seen? Submit For DIELINE Stu...",
-      "tags": [
-        "包装"
-      ],
-      "_imageUrl": "https://thedieline.com/wp-content/uploads/2026/08/img_2924.png"
-    },
-    {
-      "id": "ceb7b8e5a992",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-08-18",
-      "title": "Concept, student and design for good: the $130 track explained",
-      "source": "Dieline",
-      "sourceUrl": "https://thedieline.com/dieline-awards-concept-student-track/",
-      "image": "📦",
-      "category": "",
-      "desc": "Unbuilt and speculative work is judged by its own jury at the DIELINE Awards, on its own terms. What the Concept track is for, and what to submit when there is no client and no production run. The post Concept, student and design for good: the $130 track explained appeared fir...",
-      "tags": [],
-      "_imageUrl": "https://thedieline.com/wp-content/uploads/2026/08/da27-blog-b4-v2-1920x1080-1.png"
-    },
-    {
-      "id": "156e30ebffc1",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-08-18",
-      "title": "Eureka Reimagines THC Beverages as Texas Reconsiders the Category",
-      "source": "Dieline",
-      "sourceUrl": "https://thedieline.com/eureka-reimagines-thc-beverages-as-texas-reconsiders-the-category/",
-      "image": "📦",
-      "category": "",
-      "desc": "Eureka THC beverage packaging by Condensed brings 1970s inspired typography, vibrant color, and playful branding to the growing cannabis drinks market, creating a fresh CPG identity that moves beyond traditional cannabis design. The post Eureka Reimagines THC Beverages as Texa...",
-      "tags": [
-        "包装"
-      ],
-      "_imageUrl": "https://thedieline.com/wp-content/uploads/2026/08/eureka-condensed-packaging_02-68014a6a87164c355dd52ea9339bd7b6-scaled-1.jpg"
-    },
-    {
-      "id": "1b87e00926d2",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-08-18",
-      "title": "Hasta Siempre Turns the Mexican Desert Into a Modern Sotol Identity",
-      "source": "Dieline",
-      "sourceUrl": "https://thedieline.com/hasta-siempre-turns-the-mexican-desert-into-a-modern-sotol-identity/",
-      "image": "📦",
-      "category": "",
-      "desc": "Hasta Siempre Sotol by HI! ESTUDIO blends Mexican desert inspiration, artisanal materials, earthy color, and contemporary branding into a distinctive spirits identity rooted in Coahuila and Cuatro Ciénegas. The post Hasta Siempre Turns the Mexican Desert Into a Modern Sotol Id...",
-      "tags": [],
-      "_imageUrl": "https://thedieline.com/wp-content/uploads/2026/08/8109d2235389929.68d5e74e580ad.png-scaled.webp"
-    },
-    {
-      "id": "c9010457f00d",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-08-18",
-      "title": "Ni-Howdy Rides Into The Soy Sauce Aisle On Its Trusty Squeeze Bottle Steed",
-      "source": "Dieline",
-      "sourceUrl": "https://thedieline.com/ni-howdy-rides-into-the-soy-sauce-aisle-on-its-trusty-squeeze-bottle-steed/",
-      "image": "📦",
-      "category": "",
-      "desc": "Ni-Howdy’s colorful packaging refresh brings personality to the soy sauce aisle with playful mascot design, bold colors, retro typography, and a clever squeeze-bottle format. The post Ni-Howdy Rides Into The Soy Sauce Aisle On Its Trusty Squeeze Bottle Steed appeared first on ...",
-      "tags": [
-        "包装"
-      ],
-      "_imageUrl": "https://thedieline.com/wp-content/uploads/2026/08/ni-howdy.png"
-    },
-    {
-      "id": "ebedc5d511d1",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-08-18",
-      "title": "Traditional Kaoliang Liquor",
-      "source": "Packaging of the World",
-      "sourceUrl": "https://packagingoftheworld.com/2026/08/traditional-kaoliang-liquor-packaging-design.html",
-      "image": "📦",
-      "category": "",
-      "desc": "Guoji Jiufang Traditional Kaoliang Liquor is a baijiu brand created by Guo Daxia, a Douyin content creator with nearly 15 million followers. Known for filming martial arts videos in his family&#8217;s traditional distillery, he has built a distinctive brand that celebrates bot...",
-      "tags": [],
-      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/08/021-e1787044569368.jpg?fit=300%2C300&amp;ssl=1"
-    },
-    {
-      "id": "2cbd54666b20",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-08-18",
-      "title": "Scotch Blue – Brand Renewal & Package Design",
-      "source": "Packaging of the World",
-      "sourceUrl": "https://packagingoftheworld.com/2026/08/scotch-blue-_-brand-renewal-package-design.html",
-      "image": "📦",
-      "category": "",
-      "desc": "We developed a rebranding project for &#8216;Scotch Blue&#8217;, the best whiskey brand in Korea. The purpose of rebranding &#8216;Scotch Blue&#8217;, an authentic Scotch whisky brand, was to reestablish the brand identity. In order to carry out the mission, we rebranded it wi...",
-      "tags": [],
-      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/08/IDNB-ScotchBlue-1-2-e1787044422387.jpg?fit=300%2C199&amp;ssl=1"
-    },
-    {
-      "id": "d3eb8e70f810",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-08-18",
-      "title": "The Syrian Mark | Brand Identity",
-      "source": "Packaging of the World",
-      "sourceUrl": "https://packagingoftheworld.com/2026/08/the-syrian-mark-brand-identity.html",
-      "image": "📦",
-      "category": "",
-      "desc": "THE SYRIAN MARK A mark of Syrian origin. The Syrian Mark is a personal initiative exploring a visual identity for Syrian-made products — a distinctive mark of origin designed to connect the country’s industrial heritage with its place in the contemporary world. For thousands o...",
-      "tags": [],
-      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/08/Syrian-Mark-POW-03-1-e1787044345232.jpg?fit=300%2C200&amp;ssl=1"
-    },
-    {
-      "id": "86c44f0db005",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-08-18",
-      "title": "Perfume Purple drop",
-      "source": "Packaging of the World",
-      "sourceUrl": "https://packagingoftheworld.com/2026/08/perfume-purple-drop.html",
-      "image": "📦",
-      "category": "",
-      "desc": "General Project Rationale Project Objective This work was developed as a student academic project in comprehensive design as part of the Packaging Design course within the Digital Graphic Design programme. The primary purpose of the proposal is to create, conceptualise and tec...",
-      "tags": [
-        "包装"
-      ],
-      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/08/mockup-4-1-e1787043690418.jpg?fit=225%2C300&amp;ssl=1"
-    },
-    {
-      "id": "d3748d9f0f4c",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-08-18",
-      "title": "Fragile",
-      "source": "Packaging of the World",
-      "sourceUrl": "https://packagingoftheworld.com/2026/08/fragile.html",
-      "image": "📦",
-      "category": "",
-      "desc": "ABOUT Fraghill is an Indian fragrance startup built around an unconventional product concept: a single device designed to hold three perfume vials. The founders approached me to create a brand identity and packaging direction that could capture the duality they wanted for the ...",
-      "tags": [
-        "包装"
-      ],
-      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/08/Fraghill-Hero-1-e1787043666857.jpg?fit=300%2C188&amp;ssl=1"
-    },
-    {
-      "id": "975d5bb7e89c",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-08-18",
-      "title": "ALIA SECRETS — Beauty Packaging Design",
-      "source": "Packaging of the World",
-      "sourceUrl": "https://packagingoftheworld.com/2026/08/alia-secrets-beauty-packaging-design.html",
-      "image": "📦",
-      "category": "",
-      "desc": "ALIA SECRETS — Beauty Packaging Design Packaging Design · Illustration · Print Production ALIA SECRETS is a beauty brand inspired by Korean beauty rituals. The goal was to create a packaging experience that feels distinctive from the moment the customer receives the order — tu...",
-      "tags": [
-        "包装"
-      ],
-      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/08/3-4-e1787043648132.png?fit=258%2C300&amp;ssl=1"
-    },
-    {
-      "id": "180bc0773a7b",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-08-18",
-      "title": "Sazerac buys UK-based canned cocktail brand Au Vodka",
-      "source": "Food Dive",
-      "sourceUrl": "https://www.fooddive.com/news/sazerac-buys-au-vodka-rtd-cocktail-expansion/828122/",
-      "image": "📊",
-      "category": "",
-      "desc": "The acquisition broadens the BuzzBallz owner's RTD portfolio while opening the door for U.S. expansion.",
-      "tags": [],
-      "_imageUrl": ""
-    },
-    {
-      "id": "cff0fc728c85",
-      "type": "newproduct",
-      "section": "newproduct",
-      "sub": "report",
-      "date": "2026-08-18",
-      "title": "Grupo Bimbo bets on the net-zero bakery",
-      "source": "BakeryandSnacks",
-      "sourceUrl": "https://www.bakeryandsnacks.com/Article/2026/08/18/how-grupo-bimbo-is-decarbonising-industrial-bakeries-with-hydrogen-and-regenerative-agriculture/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "🆕",
-      "category": "休闲零食",
-      "desc": "Grupo Bimbo is testing hydrogen-fired ovens, regenerative agriculture, renewable energy and electric vehicles as it targets net-zero emissions by 2050.",
-      "tags": [],
-      "_imageUrl": "https://www.bakeryandsnacks.com/resizer/v2/FNS4SZ735ZHXLBTARL7DBY7RUY.jpg?auth=537cc4912db1473c35083584d8155238d413100267a0e19952ff66b85a0228dd&smart=true&width=2378&height=1261"
-    },
-    {
-      "id": "bc350cd10d22",
-      "type": "newproduct",
-      "section": "newproduct",
-      "sub": "report",
-      "date": "2026-08-18",
-      "title": "Gen Alpha’s early eating habits offer a roadmap for the future of snacking",
-      "source": "BakeryandSnacks",
-      "sourceUrl": "https://www.foodnavigator.com/Article/2026/08/18/what-gen-alpha-wants-from-snacks-according-to-niq/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "🆕",
-      "category": "休闲零食",
-      "desc": "Gen Alpha is already influencing snack purchases, with NIQ research showing a growing focus on nutrition, ingredients, health benefits and better-for-you options.",
-      "tags": [
-        "原料"
-      ],
-      "_imageUrl": "https://www.bakeryandsnacks.com/resizer/v2/J3OMRZ3EY5LVVJRU3QQATP5H5E.jpg?auth=7e8cac4c52ba583059fa2b6b1721d24a24db8e25203aca90d442eb783fb407a9&smart=true&width=750&height=500"
-    },
-    {
-      "id": "a187b800a8f1",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-08-17",
-      "title": "China Focus: Coca-Cola’s localisation strategy, protein innovation and sustai...",
-      "source": "FoodNavigator-Asia",
-      "sourceUrl": "https://www.foodnavigator.com/Article/2026/08/17/china-focus-coca-colas-localisation-strategy-protein-innovation-and-sustainability-push/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "📊",
-      "category": "",
-      "desc": "From Coca-Cola’s localisation efforts to China’s push for alternative proteins and food waste reduction, we explore how the country’s food and beverage sector is adapting to evolving consumer and sustainability needs.",
-      "tags": [
-        "中国市场",
-        "创新"
-      ],
-      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/W7GLZBW665DNNFFWI6T5C3TSZM.jpg?auth=1c25bba92c108467a31e6f44fa39bb3c2df8c29931e82fa0d2c369218bd4678e&smart=true&width=2121&height=1414"
     }
   ]
 }
