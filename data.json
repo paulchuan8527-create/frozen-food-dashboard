@@ -1,7 +1,7 @@
 {
   "meta": {
-    "updated": "2026-09-04",
-    "version": 1788486207,
+    "updated": "2026-09-05",
+    "version": 1788572667,
     "total": 150,
     "auto_generated": true,
     "sources": [
@@ -334,6 +334,217 @@
         "type": "工艺创新",
         "detail": "整只虾仁入馅的工业化量产技术，保水不碎"
       }
+    },
+    {
+      "id": "57c8e56f2d68",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-09-04",
+      "title": "Barilla’s Goodles acquisition reflects growing health food M&A trend",
+      "source": "FoodNavigator-Asia",
+      "sourceUrl": "https://www.foodnavigator.com/Article/2026/09/04/barilla-goodles-deal-follows-familiar-food-industry-playbook/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "📊",
+      "category": "",
+      "desc": "Barilla’s acquisition of Goodles follows a familiar formula of pairing startup innovation with multinational scale.",
+      "tags": [
+        "创新"
+      ],
+      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/XJECORW76FIMNBYRN4JA5B3SKQ.jpg?auth=70a31d6fc103ab8eb045b2e59315dc0b7213d1df228999730e6f950340c45c88&smart=true&width=1100&height=733"
+    },
+    {
+      "id": "fb6469e0cf78",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-09-04",
+      "title": "AI identifies nearly 800 plant proteins for next generation of meat substitutes",
+      "source": "FoodNavigator-Asia",
+      "sourceUrl": "https://www.foodnavigator.com/Article/2026/09/04/ai-identifies-plant-proteins-for-use-as-enzymes/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "📊",
+      "category": "",
+      "desc": "The plant-based meat sector is in search of new enzymes, which can improve functionality, solve challenges around texture and stability, and meet clean label demands. Researchers have developed an AI that can predict which plant proteins would work as enzymes, cutting down the...",
+      "tags": [
+        "植物基"
+      ],
+      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/S5FP5QMCGJEBPCE4DJKJBFP5FI.jpg?auth=c352d92febc532840f412e73e230b33b9ea0abfe6135e39c48404e5793e285c3&smart=true&width=2105&height=1423"
+    },
+    {
+      "id": "4cb6c93439bf",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-09-04",
+      "title": "Barilla’s Goodles acquisition reflects growing health food M&A trend",
+      "source": "FoodNavigator-USA",
+      "sourceUrl": "https://www.foodnavigator.com/Article/2026/09/04/barilla-goodles-deal-follows-familiar-food-industry-playbook/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "📊",
+      "category": "",
+      "desc": "Barilla’s acquisition of Goodles follows a familiar formula of pairing startup innovation with multinational scale.",
+      "tags": [
+        "创新"
+      ],
+      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/XJECORW76FIMNBYRN4JA5B3SKQ.jpg?auth=70a31d6fc103ab8eb045b2e59315dc0b7213d1df228999730e6f950340c45c88&smart=true&width=1100&height=733"
+    },
+    {
+      "id": "eb8f9ca4a2b2",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-09-04",
+      "title": "Swizzels takes crossover craze to next level with fragrance launch",
+      "source": "FoodNavigator-USA",
+      "sourceUrl": "https://www.confectionerynews.com/Article/2026/09/04/swizzels-takes-collaborations-beyond-the-confectionery-aisle-with-fragrance-launch/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "📊",
+      "category": "",
+      "desc": "British confectionery giant Swizzels has teamed up with Spanish home fragrance specialist Cristalinas to launch a range of sweet-inspired diffusers and room sprays, bringing the scents of its iconic confectionery brands into the home fragrance category in a nostalgic cross-cat...",
+      "tags": [],
+      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/QEEBEPSAFBBE7EQTUN4T3U56AE.jpg?auth=5b4ff83412a10d1aba6abd3d860bc0e9287b9c7aadde74e715cf90f6497b2731&smart=true&width=3465&height=2000"
+    },
+    {
+      "id": "6f03a3085527",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-09-04",
+      "title": "Campbell’s Co slashes dividend, cuts jobs and raises prices in $500M savings ...",
+      "source": "FoodNavigator-USA",
+      "sourceUrl": "https://www.foodnavigator.com/Article/2026/09/04/campbells-cuts-jobs-dividend-after-weak-quarter/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "📊",
+      "category": "",
+      "desc": "Campbell’s cuts jobs, closes plants and slashes its dividend as it launches a $500 million savings plan after another weak quarter.",
+      "tags": [],
+      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/PWNLUJKZCVEZXKPK5NNNCRG2KU.jpg?auth=5cee35dd33300781ee43ff54241c8bdb033b27fed601bd776d0aaea4f745ca27&smart=true&width=1000&height=562"
+    },
+    {
+      "id": "613d47c99be3",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-09-04",
+      "title": "AI identifies nearly 800 plant proteins for next generation of meat substitutes",
+      "source": "FoodNavigator-USA",
+      "sourceUrl": "https://www.foodnavigator.com/Article/2026/09/04/ai-identifies-plant-proteins-for-use-as-enzymes/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "📊",
+      "category": "",
+      "desc": "The plant-based meat sector is in search of new enzymes, which can improve functionality, solve challenges around texture and stability, and meet clean label demands. Researchers have developed an AI that can predict which plant proteins would work as enzymes, cutting down the...",
+      "tags": [
+        "植物基"
+      ],
+      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/S5FP5QMCGJEBPCE4DJKJBFP5FI.jpg?auth=c352d92febc532840f412e73e230b33b9ea0abfe6135e39c48404e5793e285c3&smart=true&width=2105&height=1423"
+    },
+    {
+      "id": "55c5841681ee",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-09-04",
+      "title": "Run-Don’t-Walk to Check Out the Steamy Branding for the Sunscreen Designed fo...",
+      "source": "Dieline",
+      "sourceUrl": "https://thedieline.com/run-dont-walk-to-check-out-the-steamy-branding-for-the-sunscreen-designed-for-runners-runblock/",
+      "image": "📦",
+      "category": "",
+      "desc": "Runblock races into the sunscreen category with a product and brand system particularly suited for sweaty runners. The post Run-Don&#8217;t-Walk to Check Out the Steamy Branding for the Sunscreen Designed for Runners, Runblock appeared first on DIELINE.",
+      "tags": [],
+      "_imageUrl": "https://thedieline.com/wp-content/uploads/2026/09/Untitled-1-24.png"
+    },
+    {
+      "id": "230df051fe38",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-09-04",
+      "title": "Air Jordan Lux Takes Flight Via Quiet Luxury",
+      "source": "Dieline",
+      "sourceUrl": "https://thedieline.com/air-jordan-lux-takes-flight-via-quiet-luxury/",
+      "image": "📦",
+      "category": "",
+      "desc": "Tolleson reimagines Air Jordan through a quiet luxury lens, pairing tonal whites, tactile basketball textures and refined gold details with the iconic Wings mark for packaging that feels closer to a fashion collectible than a traditional sneaker box. The post Air Jordan Lux Ta...",
+      "tags": [
+        "包装"
+      ],
+      "_imageUrl": "https://thedieline.com/wp-content/uploads/2026/09/JordanLuxe_01_Hero_PackagingSystem-8acd434c3c7ad1b035b43f1bf5d700a4.jpg"
+    },
+    {
+      "id": "58fbd5e8819a",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-09-04",
+      "title": "Leftovers: Hershey’s fills up on fillings | Red Baron brings new spark to mic...",
+      "source": "Food Dive",
+      "sourceUrl": "https://www.fooddive.com/news/hershey-creme-bars-katseye-red-baron-microwave-flrt-apple-monster/829683/",
+      "image": "📊",
+      "category": "",
+      "desc": "The sweets giant is launching new chocolate bars with creamy fillings, while Monster's Flrt flirts with fall in its first flavor innovation.",
+      "tags": [
+        "创新"
+      ],
+      "_imageUrl": "https://imgproxy.divecdn.com/LSe4S2IOZBP0tNeQOSveh0O9347e1Jdu9olqvboGZuA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9oZXJzaGV5Y3JlbWUucG5n.webp"
+    },
+    {
+      "id": "4f9f73494ac3",
+      "type": "newproduct",
+      "section": "newproduct",
+      "sub": "report",
+      "date": "2026-09-04",
+      "title": "New beverage launches: Cherry rosé, Twinings, Bruichladdich and more…",
+      "source": "Beverage Daily",
+      "sourceUrl": "https://www.beveragedaily.com/Article/2026/09/04/cherry-rose-twinings-teas-and-new-plenish-in-beverage-npd/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "🆕",
+      "category": "饮品",
+      "desc": "Discover the latest beverage launches from Twinings, Bruichladdich, Vocation, Plenish and Morandé, as brands respond to demand for premium experiences, moderation, protein enrichment and product innovation.",
+      "tags": [
+        "创新"
+      ],
+      "_imageUrl": "https://www.beveragedaily.com/resizer/v2/FVX5ZQYGMZB4NBU6E75CDEJJJE.png?auth=5acc164b52bf80a4a49609a123c0f131b257c947862d2fd850bae064339c56a9&smart=true&width=2004&height=1370"
+    },
+    {
+      "id": "ebcaae320d5d",
+      "type": "newproduct",
+      "section": "newproduct",
+      "sub": "report",
+      "date": "2026-09-04",
+      "title": "Brown-Forman says innovation remains key as Q1 sales decline by 1%",
+      "source": "Beverage Daily",
+      "sourceUrl": "https://www.beveragedaily.com/Article/2026/09/04/brown-forman-says-innovation-remains-key-as-q1-sales-decline-by-1/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "🆕",
+      "category": "饮品",
+      "desc": "",
+      "tags": [
+        "创新"
+      ],
+      "_imageUrl": "https://www.beveragedaily.com/resizer/v2/VJLO544XTBAC5DR2HNPB2TTKSY.jpg?auth=be89c92e3641dc180dcdadacc428c0a5c77b14787db7ff0944ae9f3e9e9a2c9f&smart=true&width=1536&height=2048"
+    },
+    {
+      "id": "0e2d16a65a9d",
+      "type": "newproduct",
+      "section": "newproduct",
+      "sub": "report",
+      "date": "2026-09-04",
+      "title": "Asahi Beverages switches all Australian soft drink bottles to 100% recycled p...",
+      "source": "Beverage Daily",
+      "sourceUrl": "https://www.beveragedaily.com/Article/2026/09/04/asahi-beverages-switches-all-australian-soft-drink-bottles-to-100-recycled-plastic/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "🆕",
+      "category": "饮品",
+      "desc": "",
+      "tags": [],
+      "_imageUrl": "https://www.beveragedaily.com/resizer/v2/NQWZV6QACRAFDLTPOEPGSWOX7Y.jpg?auth=3a7377bc81462b37b07d8667bb12d4f26f90bea874aaf04a2c8c88d05105ca95&smart=true&width=2120&height=1414"
+    },
+    {
+      "id": "5e5b5b881f5b",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-09-04",
+      "title": "Defra warned over lack of readiness for major food supply chain disruptions",
+      "source": "Food Manufacture",
+      "sourceUrl": "https://www.foodmanufacture.co.uk/Article/2026/09/04/the-nao-has-warned-defra-over-its-lack-of-readiness-in-the-face-of-potential-food-supply-chain-disruption/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "📊",
+      "category": "",
+      "desc": "",
+      "tags": [],
+      "_imageUrl": "https://www.foodmanufacture.co.uk/resizer/v2/GCC5WF6A6VHZHMGGCA2FZLKGY4.jpg?auth=a6c845e24be8f12e383442968c953c4b4abf63b1b3a5f8d3a9dac9d270672029&smart=true&width=4032&height=2268"
     },
     {
       "id": "2723c8681381",
@@ -730,6 +941,23 @@
       "image": "📊",
       "category": "",
       "desc": "The wafer-based protein bar, which was acquired by the Nutella maker in 2025, is &ldquo;rebalancing&rdquo; its ingredients and touting its crispier texture versus its competitors.",
+      "tags": [
+        "原料"
+      ],
+      "_imageUrl": "https://imgproxy.divecdn.com/Lf_RjEGzjXkTuOQ4ThfTqNhPwAweLE4lkG7diKw8Q5s/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9lbmRmcmFtZV9UTS1jb3B5VmFuaWxsYS1mb3Rvci0yMDI2MDkwMjEwNDI0MC5qcGc=.webp"
+    },
+    {
+      "id": "78262bd7630c",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-09-02",
+      "title": "Ferrero looks to turn around Power Crunch with relaunch",
+      "source": "Food Dive",
+      "sourceUrl": "https://www.fooddive.com/news/Ferrero-snacking-acquisition-power-crunch-bar-protein/829433/",
+      "image": "📊",
+      "category": "",
+      "desc": "The wafer-based protein bar, which the Nutella maker bought in 2025, is &ldquo;rebalancing&rdquo; its ingredients and touting a crispier texture.",
       "tags": [
         "原料"
       ],
@@ -2312,230 +2540,6 @@
         "包装"
       ],
       "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/08/Codex-Image-Aug-21-2026-10_38_47-PM-3-e1787652076156.jpg?fit=224%2C300&amp;ssl=1"
-    },
-    {
-      "id": "a38e2b299c6c",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-08-25",
-      "title": "Mokjang Wooyu (Milk) _ Naming & Package Design",
-      "source": "Packaging of the World",
-      "sourceUrl": "https://packagingoftheworld.com/2026/08/mokjang-wooyu-milk-_-naming-package-design.html",
-      "image": "📦",
-      "category": "",
-      "desc": "IDNB developed the package design for &#8220;Mokjang Milk&#8221; and &#8220;Mokjang Yoghurt&#8221; a flagship product of Seoul Milk, Korea&#8217;s No. 1 dairy company. The design focuses on conveying the intrinsic value of raw milk, using the top red emblem to establish brand ...",
-      "tags": [],
-      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/08/KakaoTalk_20260824_132753382-1-e1787652010125.jpg?fit=300%2C204&amp;ssl=1"
-    },
-    {
-      "id": "0f97bd2dd32d",
-      "type": "newproduct",
-      "section": "newproduct",
-      "sub": "report",
-      "date": "2026-08-25",
-      "title": "PepsiCo, Coca-Cola, Hershey & more drop into the spirit of Halloween with FOM...",
-      "source": "Beverage Daily",
-      "sourceUrl": "https://www.foodnavigator.com/Article/2026/08/25/halloween-is-changing-beverage-lto-strategy/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "🆕",
-      "category": "饮品",
-      "desc": "Fanta, Mountain Dew, Alani Nu and Reese’s are borrowing drop culture to use scarcity, exclusivity and social buzz to drive Halloween beverage sales.",
-      "tags": [],
-      "_imageUrl": "https://www.beveragedaily.com/resizer/v2/JIZGSSZDVJE6TKTXQMJVINVAUE.jpg?auth=ef825ee2ee660bdbbfa51e6ad2838dd7b4453b3ef7aa7d0819ce1cea1f73e686&smart=true&width=724&height=483"
-    },
-    {
-      "id": "442f7b117257",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-08-25",
-      "title": "Richmond makes frozen ready meal debut",
-      "source": "Food Manufacture",
-      "sourceUrl": "https://www.foodmanufacture.co.uk/Article/2026/08/25/richmond-makes-frozen-ready-meal-debut/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "📊",
-      "category": "",
-      "desc": "",
-      "tags": [
-        "冷冻食品"
-      ],
-      "_imageUrl": "https://www.foodmanufacture.co.uk/resizer/v2/IQQYOSU6WBG7PB2VRJJOULKQCM.png?auth=bb1133b315aa6d355e33e7641a4fab3dac74e008ccfb5686dc26fb2832235384&smart=true&width=1600&height=900"
-    },
-    {
-      "id": "8ae283303e74",
-      "type": "newproduct",
-      "section": "newproduct",
-      "sub": "report",
-      "date": "2026-08-25",
-      "title": "Better-for-you kids snacks expand at Target, Whole Foods and beyond",
-      "source": "BakeryandSnacks",
-      "sourceUrl": "https://www.foodnavigator.com/Article/2026/08/25/better-for-you-kids-snacks-grow-at-target-whole-foods/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "🆕",
-      "category": "休闲零食",
-      "desc": "Better-for-you kids snack brands are expanding with lower-sugar, organic and cleaner-label products at Target, Whole Foods and other retailers.",
-      "tags": [],
-      "_imageUrl": "https://www.bakeryandsnacks.com/resizer/v2/ACPOP7GKSFHMHPPBYQF4EDN7YU.png?auth=34974fc0a8f3eb6a202e03f0e57e1a5d67d65fd9110fe37e492ce9ffd3fc9e0e&smart=true&width=1280&height=720"
-    },
-    {
-      "id": "f205552d6a9d",
-      "type": "newproduct",
-      "section": "newproduct",
-      "sub": "report",
-      "date": "2026-08-25",
-      "title": "PepsiCo, Coca-Cola, Hershey & more drop into the spirit of Halloween with FOM...",
-      "source": "BakeryandSnacks",
-      "sourceUrl": "https://www.foodnavigator.com/Article/2026/08/25/halloween-is-changing-beverage-lto-strategy/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "🆕",
-      "category": "休闲零食",
-      "desc": "Fanta, Mountain Dew, Alani Nu and Reese’s are borrowing drop culture to use scarcity, exclusivity and social buzz to drive Halloween beverage sales.",
-      "tags": [],
-      "_imageUrl": "https://www.bakeryandsnacks.com/resizer/v2/JIZGSSZDVJE6TKTXQMJVINVAUE.jpg?auth=ef825ee2ee660bdbbfa51e6ad2838dd7b4453b3ef7aa7d0819ce1cea1f73e686&smart=true&width=724&height=483"
-    },
-    {
-      "id": "4209986a36a7",
-      "type": "newproduct",
-      "section": "newproduct",
-      "sub": "report",
-      "date": "2026-08-25",
-      "title": "Why relevance is shaping the snacking category",
-      "source": "BakeryandSnacks",
-      "sourceUrl": "https://www.foodnavigator.com/Article/2026/08/25/snack-and-bakery-innovation-shifts-from-reinvention-to-relevance/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "🆕",
-      "category": "休闲零食",
-      "desc": "As consumers blur the lines between health, indulgence and convenience, snack and bakery manufacturers are shifting innovation strategies toward products that solve multiple need states throughout the day.",
-      "tags": [
-        "创新"
-      ],
-      "_imageUrl": "https://www.bakeryandsnacks.com/resizer/v2/UOOZWPJLOFB4TE57D4XEUX33KI.jpg?auth=5e84a802e603b5a49e940c82c4d22190c3be59896da40835e932d1a220389043&smart=true&width=2121&height=1414"
-    },
-    {
-      "id": "f0522e31f8a6",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-08-24",
-      "title": "Instant without compromise: 3 startups reimagine convenience food for more th...",
-      "source": "FoodNavigator-Asia",
-      "sourceUrl": "https://www.foodnavigator.com/Article/2026/08/24/soup-to-nuts-podcast-instant-food-gets-a-flavorful-nutritious-makeover/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "📊",
-      "category": "",
-      "desc": "Food startups are reinventing instant meals with better ingredients, bold flavors, nutrition and convenience for today’s consumers.",
-      "tags": [
-        "原料"
-      ],
-      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/M2IE3XXTUVG63NIWTMKPVJ24MU.jpg?auth=07b1188d5823a44ad0e1d513f0527f55804508b83e582453d2cd6f1374f36683&smart=true&width=2121&height=1414"
-    },
-    {
-      "id": "d2f6fdb25205",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-08-24",
-      "title": "Consumers redefine beverage premiumisation as experience overtakes price",
-      "source": "FoodNavigator-Asia",
-      "sourceUrl": "https://www.beveragedaily.com/Article/2026/08/24/consumers-redefine-beverage-premiumisation-as-experience-overtakes-price/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "📊",
-      "category": "",
-      "desc": "",
-      "tags": [],
-      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/FQWTECU5K5AXHG4ZHBCMY3QDDA.jpg?auth=f8929485bfac21c2caa2dd7759a556908dcfbe9f139fb88c1410220da38d33fc&smart=true&width=2120&height=1414"
-    },
-    {
-      "id": "3454d5e05b5a",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-08-24",
-      "title": "Confectionery’s biggest trend? Looking back",
-      "source": "FoodNavigator-Asia",
-      "sourceUrl": "https://www.foodnavigator.com/Article/2026/08/24/nostalgia-fuels-confectionery-innovation-engagement-and-sales/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "📊",
-      "category": "",
-      "desc": "From retro packaging to revived favourites, discover why nostalgia has become confectionery's defining trend and what comes next for brands.",
-      "tags": [
-        "包装"
-      ],
-      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/6YR2B2ODHBGQVDBIXW6Y357FCE.jpg?auth=ed0434521179c90ae9c2ffd6ed45e05168b0f4c1fd6eba0348354bf3693f9c5c&smart=true&width=1634&height=1117"
-    },
-    {
-      "id": "78cc5da52000",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-08-24",
-      "title": "Al Rawabi CEO: Localisation, convenience key to Middle East protein boom",
-      "source": "FoodNavigator-Asia",
-      "sourceUrl": "https://www.foodnavigator.com/Article/2026/08/24/al-rawabi-ceo-localisation-convenience-key-to-middle-east-protein-boom/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "📊",
-      "category": "",
-      "desc": "Protein demand is on the rise in the Middle East just like everywhere else",
-      "tags": [],
-      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/ELJEOUU74RB3XCYNDIHAHXTBV4.jpg?auth=1e200fe449c1034ba7c97d8fff928b29906af0973ce8afcc4cc65bbc1d0e485d&smart=true&width=2121&height=1414"
-    },
-    {
-      "id": "827c011fa02b",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-08-24",
-      "title": "Lindt takes ultra-dark to the limit with 100% cocoa launch",
-      "source": "FoodNavigator-USA",
-      "sourceUrl": "https://www.confectionerynews.com/Article/2026/08/24/lindt-launches-100-cocoa-chocolate-as-premium-dark-demand-grows/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "📊",
-      "category": "",
-      "desc": "Lindt & Sprüngli has expanded its Excellence range with the launch of a new 100% cocoa dark chocolate bar, responding to growing demand for higher-cocoa products while advancing its commitment to Rainforest Alliance-certified cocoa sourcing.",
-      "tags": [],
-      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/BJMPG6T75JGVZADPD4QQPAJNYA.jpeg?auth=f86c9f59f84efbaf7ae3a00605d3e746be678b05b9ebdb202c88035a1b8b7acf&smart=true&width=1500&height=960"
-    },
-    {
-      "id": "12502eced147",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-08-24",
-      "title": "Instant without compromise: 3 startups reimagine convenience food for more th...",
-      "source": "FoodNavigator-USA",
-      "sourceUrl": "https://www.foodnavigator.com/Article/2026/08/24/soup-to-nuts-podcast-instant-food-gets-a-flavorful-nutritious-makeover/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "📊",
-      "category": "",
-      "desc": "Food startups are reinventing instant meals with better ingredients, bold flavors, nutrition and convenience for today’s consumers.",
-      "tags": [
-        "原料"
-      ],
-      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/M2IE3XXTUVG63NIWTMKPVJ24MU.jpg?auth=07b1188d5823a44ad0e1d513f0527f55804508b83e582453d2cd6f1374f36683&smart=true&width=2121&height=1414"
-    },
-    {
-      "id": "00614735e9b0",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-08-24",
-      "title": "Confectionery’s biggest trend? Looking back",
-      "source": "FoodNavigator-USA",
-      "sourceUrl": "https://www.foodnavigator.com/Article/2026/08/24/nostalgia-fuels-confectionery-innovation-engagement-and-sales/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "📊",
-      "category": "",
-      "desc": "From retro packaging to revived favourites, discover why nostalgia has become confectionery's defining trend and what comes next for brands.",
-      "tags": [
-        "包装"
-      ],
-      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/6YR2B2ODHBGQVDBIXW6Y357FCE.jpg?auth=ed0434521179c90ae9c2ffd6ed45e05168b0f4c1fd6eba0348354bf3693f9c5c&smart=true&width=1634&height=1117"
-    },
-    {
-      "id": "e8b866ba67d9",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-08-24",
-      "title": "Pola Pops Protein Popsicles Bring the Miami Heat to the Freezer",
-      "source": "Dieline",
-      "sourceUrl": "https://thedieline.com/pola-pops-protein-popsicles-bring-the-miami-heat-to-the-freezer/",
-      "image": "📦",
-      "category": "",
-      "desc": "Founders Juliana Velez and Stephanie Fajardo created Pola Pops to be the functional frozen treat they couldn't find on the market, joining forces with Isa Jaramillo and Sofia Mejia to create a retro-inspired identity centered around a striking script wordmark and bold color pa...",
-      "tags": [
-        "冷冻食品"
-      ],
-      "_imageUrl": "https://thedieline.com/wp-content/uploads/2026/08/Screenshot-2026-08-23-at-9.03.31-PM.png"
     }
   ]
 }
