@@ -1,7 +1,7 @@
 {
   "meta": {
-    "updated": "2026-09-05",
-    "version": 1788572667,
+    "updated": "2026-09-06",
+    "version": 1788658693,
     "total": 150,
     "auto_generated": true,
     "sources": [
@@ -545,6 +545,122 @@
       "desc": "",
       "tags": [],
       "_imageUrl": "https://www.foodmanufacture.co.uk/resizer/v2/GCC5WF6A6VHZHMGGCA2FZLKGY4.jpg?auth=a6c845e24be8f12e383442968c953c4b4abf63b1b3a5f8d3a9dac9d270672029&smart=true&width=4032&height=2268"
+    },
+    {
+      "id": "3f7447f8ea52",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-09-04",
+      "title": "Packaging You Shouldn’t Miss #146",
+      "source": "Packaging of the World",
+      "sourceUrl": "https://packagingoftheworld.com/2026/09/packaging-you-shouldnt-miss-146.html",
+      "image": "📦",
+      "category": "",
+      "desc": "Issue #146 gathers ten packaging projects united by structural and material decisions rather than surface decoration alone. A die-cut mooncake tower with hidden paper depths, an engraved fox certifying a Chilean slang word, a matcha wordmark hiding a leaf and a disc of green, ...",
+      "tags": [
+        "包装"
+      ],
+      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/09/august-2026-t.jpg?fit=300%2C225&amp;ssl=1"
+    },
+    {
+      "id": "805edd9e5be6",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-09-04",
+      "title": "Petra Wine Label Design by 43oz",
+      "source": "Packaging of the World",
+      "sourceUrl": "https://packagingoftheworld.com/2026/09/petra-wine-label-design-by-43oz.html",
+      "image": "📦",
+      "category": "",
+      "desc": "Petra is a white wine collection developed for Frassini, a young winery with considerable winemaking experience and a strong connection to its local landscape. The brand’s existing identity is built around an ash leaf, referencing the trees growing around the winery’s vineyard...",
+      "tags": [],
+      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/09/0037-1-e1788511803735.jpg?fit=300%2C200&amp;ssl=1"
+    },
+    {
+      "id": "e45283cb834b",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-09-04",
+      "title": "Monster Burger",
+      "source": "Packaging of the World",
+      "sourceUrl": "https://packagingoftheworld.com/2026/09/monster-burger.html",
+      "image": "📦",
+      "category": "",
+      "desc": "Meet Monster Burger, a bold and playful burger packaging concept built to make every bite feel like a monster-sized experience. The packaging combines an energetic visual identity with expressive monster-inspired graphics, creating a fun and memorable look across the burger bo...",
+      "tags": [
+        "包装"
+      ],
+      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/09/Preview-Behance-212-1-e1788511786897.jpg?fit=300%2C219&amp;ssl=1"
+    },
+    {
+      "id": "95c7e65b2630",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-09-04",
+      "title": "Scoop Gelato",
+      "source": "Packaging of the World",
+      "sourceUrl": "https://packagingoftheworld.com/2026/09/scoop-gelato.html",
+      "image": "📦",
+      "category": "",
+      "desc": "Scoop Gelato is a playful and vibrant gelato packaging concept designed to capture the joy, freshness, and irresistible character of everyone&#8217;s favorite frozen treat. The packaging features a cheerful visual identity with bold typography, colorful elements, and charming ...",
+      "tags": [
+        "冷冻食品",
+        "包装"
+      ],
+      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/09/Preview-Behance-12-1-e1788511772520.jpg?fit=300%2C219&amp;ssl=1"
+    },
+    {
+      "id": "3b732afdab79",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-09-04",
+      "title": "PUA",
+      "source": "Packaging of the World",
+      "sourceUrl": "https://packagingoftheworld.com/2026/09/pua.html",
+      "image": "📦",
+      "category": "",
+      "desc": "A short case of cosmetic packaging that will set the tone for the entire line. A skincare series from the PUA brand, united by a simple and premium design. The line includes three products: Day Cream with SPF 15 – designed to protect skin from UV rays during the day and provid...",
+      "tags": [
+        "包装"
+      ],
+      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/09/%D0%B2%D0%BE%D0%BA%D1%80%D1%83%D0%B3-%D0%B3%D0%BB%D0%B0%D0%B7_%D0%BC%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C-1-e1788511754196.jpg?fit=233%2C300&amp;ssl=1"
+    },
+    {
+      "id": "c7319b42f3e2",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-09-04",
+      "title": "AETERNA VITIS",
+      "source": "Packaging of the World",
+      "sourceUrl": "https://packagingoftheworld.com/2026/09/aeterna-vitis.html",
+      "image": "📦",
+      "category": "",
+      "desc": "AETERNA VITIS Obsidian Noir wine case: three bottles of Cabernet Sauvignon and Saperavi blend from different vintages – 2018, 2020, and 2022. Key design and positioning features: Unified stylistic system. All bottles are designed in a strict black and gold color scheme – the d...",
+      "tags": [],
+      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/09/%D0%91%D0%B5%D0%B7-%D0%B8%D0%BC%D0%B5%D0%BD%D0%B8-1-1-scaled-e1788511738350.jpg?fit=300%2C198&amp;ssl=1"
+    },
+    {
+      "id": "bb7a9f02ff09",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-09-04",
+      "title": "SFUMR",
+      "source": "Packaging of the World",
+      "sourceUrl": "https://packagingoftheworld.com/2026/09/sfumr.html",
+      "image": "📦",
+      "category": "",
+      "desc": "The SFUMR wine collection brings together three distinctive red wines, each defined by its grape variety, vintage and individual style, expressed through understated yet striking packaging. SFUMR Velatura (2022), Cabernet Sauvignon is shaped by the variety’s characteristic str...",
+      "tags": [
+        "包装"
+      ],
+      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/09/1_1_1_1-2-scaled-e1788511700803.jpg?fit=300%2C225&amp;ssl=1"
     },
     {
       "id": "2723c8681381",
@@ -2424,122 +2540,6 @@
       "desc": "Pabst Blue Ribbon and Horror Inc. are bringing slasher style to the beer aisle this Halloween with limited-edition Friday the 13th 12-packs. Featuring classic franchise branding and a punch-out Jason Voorhees hockey mask built right into the box, it doubles as an instant, last...",
       "tags": [],
       "_imageUrl": "https://thedieline.com/wp-content/uploads/2026/08/PBRxJASON_PR-Social-3200x2160-02-scaled.jpg"
-    },
-    {
-      "id": "cc830eba7aff",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-08-25",
-      "title": "Betty Crocker Bakes Up a Sweet New Look",
-      "source": "Dieline",
-      "sourceUrl": "https://thedieline.com/betty-crocker-bakes-up-a-sweet-new-look/",
-      "image": "📦",
-      "category": "",
-      "desc": "Betty Crocker gets a bold makeover with her new “Bettier than Ever” identity refresh. General Mills is centering the iconic red spoon on updated, mouthwatering packaging—and taking the brand to the runway with \"Betty Ate,\" a trio of frosted, cake-slice handbags made in collabo...",
-      "tags": [
-        "包装"
-      ],
-      "_imageUrl": "https://thedieline.com/wp-content/uploads/2026/08/The-Betty-Ate-Collection-Hero-Image-1-scaled.jpg"
-    },
-    {
-      "id": "077b9489f092",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-08-25",
-      "title": "Yutrients Offers Personalized Approach In Supplements That’s As Unique As You...",
-      "source": "Dieline",
-      "sourceUrl": "https://thedieline.com/yutrients-offers-personalized-approach-in-supplements-thats-as-unique-as-your-fingerprint/",
-      "image": "📦",
-      "category": "",
-      "desc": "Supplement packaging has seen a wide range of design styles in recent years, but Mid-air Studio makes each Yutrients tin look like its own nutritional ID. Hand-drawn fingerprint swirls sweep across the matte white cans in a hazy blend of pink, orange, green, blue, and violet, ...",
-      "tags": [
-        "包装",
-        "原料"
-      ],
-      "_imageUrl": "https://thedieline.com/wp-content/uploads/2026/08/1b.YUTRIENTS-LINEUP-HR-size-2SE-df740928722014c35bbb6abc72bd7f37-scaled-2.jpg"
-    },
-    {
-      "id": "3f202b484d1d",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-08-25",
-      "title": "When Life Gives You A ZIP Code, Make Liqueur",
-      "source": "Dieline",
-      "sourceUrl": "https://thedieline.com/when-life-gives-you-a-zip-code-make-liqueur/",
-      "image": "📦",
-      "category": "",
-      "desc": "Packaging is moving toward more personal, imperfect design systems, and Riccardo Dot’s 50010, the ZIP Code-inspired name for the Liqueur brand, fits right into that shift. Yellow, orange, green, and warm browns turn the fruit into the color system, connecting Italian limoncell...",
-      "tags": [
-        "包装"
-      ],
-      "_imageUrl": "https://thedieline.com/wp-content/uploads/2026/08/Screenshot-2026-08-24-at-12.25.01-PM-scaled.png"
-    },
-    {
-      "id": "70e01bcf826f",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-08-25",
-      "title": "Nowy Kształt / A New Shape",
-      "source": "Packaging of the World",
-      "sourceUrl": "https://packagingoftheworld.com/2026/08/nowy-ksztalt-a-new-shape.html",
-      "image": "📦",
-      "category": "",
-      "desc": "Nowy Kształt is a premium wine range by Winnica Warto, matured in distinctive egg-shaped vessels. Their form encourages the natural circulation of wine and lees, creating a gentle internal movement that influences the maturation and clarification process. This shape became the...",
-      "tags": [],
-      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/08/cover-3-e1787652214203.jpg?fit=300%2C209&amp;ssl=1"
-    },
-    {
-      "id": "d4e119d537b0",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-08-25",
-      "title": "BUHGAH – British Burger House",
-      "source": "Packaging of the World",
-      "sourceUrl": "https://packagingoftheworld.com/2026/08/buhgah-british-burger-house.html",
-      "image": "📦",
-      "category": "",
-      "desc": "ABOUT BUHGAH is a contemporary burger brand that blends American-sized indulgence with British attitude and restraint. Built on the belief that burgers don&#8217;t need to shout to be bold, the brand celebrates confident simplicity over unnecessary excess. Instead of relying o...",
-      "tags": [],
-      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/08/Burger-boxes-and-chips-2-e1787652123201.png?fit=256%2C300&amp;ssl=1"
-    },
-    {
-      "id": "54d4b368c8c8",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-08-25",
-      "title": "Bowl of Broth | Healthy Soup, Food Branding & Packaging",
-      "source": "Packaging of the World",
-      "sourceUrl": "https://packagingoftheworld.com/2026/08/bowl-of-broth-healthy-soup-food-branding-packaging.html",
-      "image": "📦",
-      "category": "",
-      "desc": "ABOUT Bowl of Broth was founded in London to challenge the everyday packaged soup culture. In a city where convenience often comes at the cost of nutrition, the brand reintroduces the slower philosophy of Asian cooking—where food is prepared with patience, intention, and care ...",
-      "tags": [
-        "包装"
-      ],
-      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/08/Red-2-e1787652102834.png?fit=200%2C300&amp;ssl=1"
-    },
-    {
-      "id": "27847a1f221c",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-08-25",
-      "title": "BRUSKA gourmet spread packaging design",
-      "source": "Packaging of the World",
-      "sourceUrl": "https://packagingoftheworld.com/2026/08/bruska-gourmet-spread-packaging-design.html",
-      "image": "📦",
-      "category": "",
-      "desc": "BRUSKA is a contemporary gourmet spread brand created for convenient everyday eating without compromising on taste. The range combines familiar products with more distinctive flavor pairings, including salmon rillettes, cream cheese with pesto, roasted pepper with feta, and mu...",
-      "tags": [
-        "包装"
-      ],
-      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/08/Codex-Image-Aug-21-2026-10_38_47-PM-3-e1787652076156.jpg?fit=224%2C300&amp;ssl=1"
     }
   ]
 }
