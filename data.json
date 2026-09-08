@@ -1,7 +1,7 @@
 {
   "meta": {
-    "updated": "2026-09-07",
-    "version": 1788744990,
+    "updated": "2026-09-08",
+    "version": 1788832025,
     "total": 150,
     "auto_generated": true,
     "sources": [
@@ -21,6 +21,521 @@
     ]
   },
   "items": [
+    {
+      "id": "n1",
+      "type": "newproduct",
+      "section": "newproduct",
+      "date": "2026-08-06",
+      "title": "思念食品「微波即食小馄饨」系列",
+      "source": "天猫新品",
+      "sourceUrl": "https://xin.tmall.com/",
+      "image": "🥟",
+      "category": "冷冻食品",
+      "desc": "专利蒸汽自循环包装技术，微波加热90秒即食，无需加水，皮不干馅鲜嫩。定价19.9元/盒。",
+      "tags": [
+        "思念",
+        "微波即食",
+        "馄饨"
+      ],
+      "innovation": {
+        "type": "工艺创新",
+        "detail": "蒸汽自循环包装技术，解决微波面点干硬痛点"
+      }
+    },
+    {
+      "id": "p4",
+      "type": "packaging",
+      "section": "packaging",
+      "date": "2026-08-06",
+      "title": "透明防雾冷冻盖膜",
+      "source": "Dieline",
+      "sourceUrl": "https://www.dieline.com/",
+      "image": "🔍",
+      "category": "",
+      "desc": "PETG防雾改性膜，-25℃冷冻展示柜中保持透明无白雾。获2026 WorldStar包装大奖。",
+      "tags": [
+        "防雾",
+        "PETG",
+        "展示效果"
+      ],
+      "material": {
+        "name": "PETG防雾改性膜",
+        "feature": "-25℃保持透明，无白雾凝结",
+        "process": "共挤流延+防雾涂覆",
+        "supplier": "Sealed Air(意)/国内：浙江众成"
+      }
+    },
+    {
+      "id": "f1",
+      "type": "formulation",
+      "section": "formulation",
+      "date": "2026-08-06",
+      "title": "海藻糖在冷冻面点中的抗冻保护应用",
+      "source": "中国食品学报",
+      "sourceUrl": "https://kns.cnki.net/",
+      "image": "🧪",
+      "category": "速冻面点",
+      "desc": "添加2%-4%海藻糖可显著降低冷冻面筋蛋白冰晶损伤，冻融5次后硬度仅增12%(对照47%)。",
+      "tags": [
+        "海藻糖",
+        "抗冻",
+        "面点"
+      ],
+      "formula": {
+        "ingredient": "海藻糖",
+        "effect": "降低冰晶对面筋蛋白的损伤",
+        "applicable": "速冻面点全品类",
+        "mechanism": "海藻糖分子在冰晶表面形成玻璃态保护膜，抑制重结晶",
+        "supplier": "日本林原/国内：保龄宝生物"
+      }
+    },
+    {
+      "id": "p1",
+      "type": "packaging",
+      "section": "packaging",
+      "date": "2026-08-05",
+      "title": "可微波自排气包装袋",
+      "source": "Packaging of the World",
+      "sourceUrl": "https://www.packagingoftheworld.com/",
+      "image": "📦",
+      "category": "",
+      "desc": "PP/PE复合材料内置单向排气阀，微波加热时自动释放蒸汽。日本Toppan印刷技术。",
+      "tags": [
+        "可微波",
+        "自排气",
+        "PP/PE"
+      ],
+      "material": {
+        "name": "PP/PE复合材料",
+        "feature": "单向排气阀，微波自排气",
+        "process": "凹版印刷+覆膜",
+        "supplier": "日本Toppan/国内：紫江企业"
+      }
+    },
+    {
+      "id": "f2",
+      "type": "formulation",
+      "section": "formulation",
+      "date": "2026-08-04",
+      "title": "微胶囊包埋花椒油在预制菜中的释放控制",
+      "source": "食品科学",
+      "sourceUrl": "https://kns.cnki.net/",
+      "image": "🌶️",
+      "category": "预制菜",
+      "desc": "β-环糊精包埋花椒精油，包埋率92.3%。冷冻6个月后风味保留率87%(直接添加仅41%)。",
+      "tags": [
+        "微胶囊",
+        "包埋",
+        "花椒油"
+      ],
+      "formula": {
+        "ingredient": "β-环糊精包埋花椒精油",
+        "effect": "6个月风味保留率87%，复热释放",
+        "applicable": "麻辣风味预制菜",
+        "mechanism": "β-环糊精空腔结构包裹花椒精油，加热触发释放",
+        "supplier": "河南中大恒源/国内：天宁香料"
+      }
+    },
+    {
+      "id": "n2",
+      "type": "newproduct",
+      "section": "newproduct",
+      "date": "2026-08-03",
+      "title": "日本味之素「冷冻寿司拼盘」",
+      "source": "味之素官网",
+      "sourceUrl": "https://www.ajinomoto.co.jp/",
+      "image": "🍣",
+      "category": "冷冻食品",
+      "desc": "-60℃超低温速冻技术保留刺身口感，解冻后媲美门店现做。6贯装/980日元。",
+      "tags": [
+        "日本",
+        "味之素",
+        "超低温速冻"
+      ],
+      "innovation": {
+        "type": "工艺创新",
+        "detail": "-60℃超低温速冻，解决冷冻寿司口感还原难题"
+      }
+    },
+    {
+      "id": "n3",
+      "type": "newproduct",
+      "section": "newproduct",
+      "date": "2026-08-02",
+      "title": "三全食品「空气炸锅小酥肉」",
+      "source": "三全旗舰店",
+      "sourceUrl": "https://www.sanquan.com/",
+      "image": "🥩",
+      "category": "预制菜",
+      "desc": "专为空气炸锅优化的裹粉配方，200℃ 8分钟外酥里嫩，含油量降低40%。300g/29.9元。",
+      "tags": [
+        "三全",
+        "空气炸锅",
+        "小酥肉"
+      ],
+      "innovation": {
+        "type": "配方创新",
+        "detail": "空气炸锅专用裹粉配方，减油40%口感不妥协"
+      }
+    },
+    {
+      "id": "p2",
+      "type": "packaging",
+      "section": "packaging",
+      "date": "2026-08-02",
+      "title": "PLA可降解冷冻食品托盘",
+      "source": "Dieline",
+      "sourceUrl": "https://www.dieline.com/",
+      "image": "🌿",
+      "category": "",
+      "desc": "100% PLA植物基材料，耐-40℃低温不变脆，可家庭堆肥降解。碳足迹减少72%。",
+      "tags": [
+        "PLA",
+        "可降解",
+        "环保"
+      ],
+      "material": {
+        "name": "PLA（聚乳酸）",
+        "feature": "耐低温-40℃，家庭堆肥可降解",
+        "process": "热成型+抗冻改性",
+        "supplier": "Good Natured(美)/国内：金发科技"
+      }
+    },
+    {
+      "id": "n6",
+      "type": "newproduct",
+      "section": "newproduct",
+      "date": "2026-08-01",
+      "title": "茶颜悦色「桂花酒酿冰汤圆」",
+      "source": "天猫新品",
+      "sourceUrl": "https://xin.tmall.com/",
+      "image": "🍡",
+      "category": "休闲零食",
+      "desc": "跨界甜品+冷冻技术，酒酿风味+冰爽口感，抢占夏季冷冻甜品新赛道。200g×2盒/32.8元。",
+      "tags": [
+        "茶颜悦色",
+        "甜品",
+        "跨界"
+      ],
+      "innovation": {
+        "type": "场景创新",
+        "detail": "夏季冷冻甜品新场景，酒酿+冰爽差异化定位"
+      }
+    },
+    {
+      "id": "f3",
+      "type": "formulation",
+      "section": "formulation",
+      "date": "2026-08-01",
+      "title": "抗性糊精在低GI速冻面点中的应用方案",
+      "source": "食品工业科技",
+      "sourceUrl": "https://kns.cnki.net/",
+      "image": "🌾",
+      "category": "速冻面点",
+      "desc": "抗性糊精替代10%-15%小麦粉，可使速冻包子GI值从72降至54，复热后体积增大8%。",
+      "tags": [
+        "抗性糊精",
+        "低GI",
+        "健康"
+      ],
+      "formula": {
+        "ingredient": "抗性糊精",
+        "effect": "GI值降低25%，复热体积增大8%",
+        "applicable": "速冻包子、馒头、花卷",
+        "mechanism": "膳食纤维部分替代淀粉，降低血糖应答+改善面团持水性",
+        "supplier": "罗盖特(法)/国内：山东百龙创园"
+      }
+    },
+    {
+      "id": "n4",
+      "type": "newproduct",
+      "section": "newproduct",
+      "date": "2026-07-31",
+      "title": "美国Beyond Meat「冷冻植物肉酱意面」",
+      "source": "FoodBev",
+      "sourceUrl": "https://www.foodbev.com/",
+      "image": "🍝",
+      "category": "预制菜",
+      "desc": "植物蛋白肉酱+全麦意面一体化冷冻方案，复热后肉酱不分离。350g/$7.99。",
+      "tags": [
+        "植物基",
+        "Beyond Meat",
+        "美国"
+      ],
+      "innovation": {
+        "type": "配方创新",
+        "detail": "植物肉酱与意面一体化冷冻，复热不分层"
+      }
+    },
+    {
+      "id": "p3",
+      "type": "packaging",
+      "section": "packaging",
+      "date": "2026-07-30",
+      "title": "铝箔锁鲜自立袋",
+      "source": "Behance",
+      "sourceUrl": "https://www.behance.net/",
+      "image": "✨",
+      "category": "",
+      "desc": "PET/AL/PE三层复合结构，铝箔层提供99.9%光阻隔，底部自立设计提升货架陈列效果。",
+      "tags": [
+        "铝箔",
+        "自立袋",
+        "海鲜"
+      ],
+      "material": {
+        "name": "PET/AL/PE三层复合",
+        "feature": "99.9%光阻隔，底部自立",
+        "process": "干式复合+易撕口激光切割",
+        "supplier": "安姆科(Amcor)/国内：黄山永新"
+      }
+    },
+    {
+      "id": "f4",
+      "type": "formulation",
+      "section": "formulation",
+      "date": "2026-07-29",
+      "title": "TG酶在冷冻鱼丸弹性保持中的应用",
+      "source": "水产学报",
+      "sourceUrl": "https://kns.cnki.net/",
+      "image": "🐟",
+      "category": "冷冻调理食品",
+      "desc": "添加0.3%TG酶可使冷冻鱼丸冻藏6个月后弹性仅降8.5%(对照降32%)。",
+      "tags": [
+        "TG酶",
+        "弹性保持",
+        "鱼丸"
+      ],
+      "formula": {
+        "ingredient": "TG酶（谷氨酰胺转氨酶）",
+        "effect": "冻藏6个月弹性仅降8.5%",
+        "applicable": "冷冻鱼丸、虾滑、肉丸",
+        "mechanism": "催化蛋白分子间共价交联",
+        "supplier": "日本味之素/国内：江苏一鸣生物"
+      }
+    },
+    {
+      "id": "n5",
+      "type": "newproduct",
+      "section": "newproduct",
+      "date": "2026-07-28",
+      "title": "安井食品「麻辣小龙虾水饺」",
+      "source": "FoodTalks",
+      "sourceUrl": "https://www.foodtalks.cn/",
+      "image": "🦞",
+      "category": "冷冻食品",
+      "desc": "整只小龙虾入馅的工业化量产技术，虾仁保水处理后复热Q弹不碎。240g×3袋/45.9元。",
+      "tags": [
+        "安井",
+        "小龙虾",
+        "水饺"
+      ],
+      "innovation": {
+        "type": "工艺创新",
+        "detail": "整只虾仁入馅的工业化量产技术，保水不碎"
+      }
+    },
+    {
+      "id": "f9096147d1eb",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-09-07",
+      "title": "McVitie’s, Snickers, Cadbury and Cheez-It turn snacks into something bigger",
+      "source": "FoodNavigator-Asia",
+      "sourceUrl": "https://www.bakeryandsnacks.com/Article/2026/09/07/mcvities-snickers-and-cadbury-rethink-the-product-launch/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "📊",
+      "category": "",
+      "desc": "McVitie’s, Snickers, Cadbury, Cheez-It and five more brands are using unusual launches to create experiences, enter markets and engage shoppers.",
+      "tags": [],
+      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/XPWUR6E535BKNFIEZ5ER4PFMAQ.jpg?auth=72fe0a8d0683d003a843b0caac501061433dcde46c095776a55a754e5c158c5c&smart=true&width=2121&height=1414"
+    },
+    {
+      "id": "d571073ee8bf",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-09-07",
+      "title": "Barry Callebaut and Arla launch ambitious decarbonisation plan",
+      "source": "FoodNavigator-Asia",
+      "sourceUrl": "https://www.foodnavigator.com/Article/2026/09/07/barry-callebaut-and-arla-foods-launch-ambitious-decarbonisation-plan/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "📊",
+      "category": "",
+      "desc": "Barry Callebaut and Arla Foods launch three-year collaboration to decarbonise the dairy supply chain, starting with skimmed milk powder.",
+      "tags": [],
+      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/RSB5ZJ7HG5CARDEUGDL4PTEOLU.jpg?auth=fcb8e4ea0bde76a5df1e94dfb278b384dd201d31a61b570e9fc603d03cf7fd97&smart=true&width=2121&height=1414"
+    },
+    {
+      "id": "464fb384cd1f",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-09-07",
+      "title": "McVitie’s, Snickers, Cadbury and Cheez-It turn snacks into something bigger",
+      "source": "FoodNavigator-USA",
+      "sourceUrl": "https://www.bakeryandsnacks.com/Article/2026/09/07/mcvities-snickers-and-cadbury-rethink-the-product-launch/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "📊",
+      "category": "",
+      "desc": "McVitie’s, Snickers, Cadbury, Cheez-It and five more brands are using unusual launches to create experiences, enter markets and engage shoppers.",
+      "tags": [],
+      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/XPWUR6E535BKNFIEZ5ER4PFMAQ.jpg?auth=72fe0a8d0683d003a843b0caac501061433dcde46c095776a55a754e5c158c5c&smart=true&width=2121&height=1414"
+    },
+    {
+      "id": "9cebee400afa",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-09-07",
+      "title": "Barry Callebaut and Arla launch ambitious decarbonisation plan",
+      "source": "FoodNavigator-USA",
+      "sourceUrl": "https://www.foodnavigator.com/Article/2026/09/07/barry-callebaut-and-arla-foods-launch-ambitious-decarbonisation-plan/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "📊",
+      "category": "",
+      "desc": "Barry Callebaut and Arla Foods launch three-year collaboration to decarbonise the dairy supply chain, starting with skimmed milk powder.",
+      "tags": [],
+      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/RSB5ZJ7HG5CARDEUGDL4PTEOLU.jpg?auth=fcb8e4ea0bde76a5df1e94dfb278b384dd201d31a61b570e9fc603d03cf7fd97&smart=true&width=2121&height=1414"
+    },
+    {
+      "id": "a6cd563bd586",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-09-07",
+      "title": "Rest Stop Gives Four Walls Whiskey a ‘Sunny’ and Timeless Design",
+      "source": "Dieline",
+      "sourceUrl": "https://thedieline.com/rest-stop-gives-four-walls-whiskey-a-sunny-and-timeless-design/",
+      "image": "📦",
+      "category": "",
+      "desc": "Designed by Rest Stop, Four Walls whiskey is a nod to the ultimate neighborhood watering hole. Stripping away fancy-schmancy tropes and ornate finishes, it delivers a timeless, unpretentious bottle—crafted for anyone who spends their best nights hanging out with the gang. The ...",
+      "tags": [],
+      "_imageUrl": "https://thedieline.com/wp-content/uploads/2026/09/FW-CS-2-scaled.jpg"
+    },
+    {
+      "id": "2dd2c8e3e5ea",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-09-07",
+      "title": "Shelf Life 126: Have Private Label Brands Become More Desirable Than Their Co...",
+      "source": "Dieline",
+      "sourceUrl": "https://thedieline.com/shelf-life-126-have-private-label-brands-become-more-desirable-than-their-counterparts/",
+      "image": "📦",
+      "category": "",
+      "desc": "Store brands used to be the compromise you settled for, but now they're the thing people seek out. A new report from Pearlfisher calls it the \"cult threshold,\" the moment private label stops apologizing for itself and starts building the kind of cachet that makes Kirkland Sign...",
+      "tags": [],
+      "_imageUrl": "https://thedieline.com/wp-content/uploads/2026/09/Untitled-design.png"
+    },
+    {
+      "id": "78fd6c151fb5",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-09-07",
+      "title": "Ongi",
+      "source": "Packaging of the World",
+      "sourceUrl": "https://packagingoftheworld.com/2026/09/ongi.html",
+      "image": "📦",
+      "category": "",
+      "desc": "A kimchi brand celebrating authentic fermentation and flavours so good they&#8217;ll blow your mind. Ongi was goal is to celebrate Korean culture without leaning to heavily into stereotypes, crafting a design that would appeal to a young first-timer audience around the world. ...",
+      "tags": [
+        "包装"
+      ],
+      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/09/OngiPt.1-1-1-e1788773542139.png?fit=225%2C300&amp;ssl=1"
+    },
+    {
+      "id": "e868f4b36576",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-09-07",
+      "title": "Papitto",
+      "source": "Packaging of the World",
+      "sourceUrl": "https://packagingoftheworld.com/2026/09/papitto.html",
+      "image": "📦",
+      "category": "",
+      "desc": "PAPITTO — A Bright Identity for Everyday Indulgence PAPITTO is a snack brand created to bring energy, pleasure and instant recognition to the international market. Its identity is built around a simple idea: transforming an everyday sweet break into a joyful and emotionally me...",
+      "tags": [],
+      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/09/134346-1-e1788773464502.jpg?fit=300%2C225&amp;ssl=1"
+    },
+    {
+      "id": "c283e794f617",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-09-07",
+      "title": "The Roastery | Premium Selection Box",
+      "source": "Packaging of the World",
+      "sourceUrl": "https://packagingoftheworld.com/2026/09/the-roastery-premium-selection-box.html",
+      "image": "📦",
+      "category": "",
+      "desc": "A minimalist packaging design created for The Roastery’s premium coffee bean line, crafted to deliver an elevated unboxing and gifting experience. Printed on smooth satin-finish cardstock with metallic gold foil accents, the design balances subtle elegance with functional deta...",
+      "tags": [
+        "包装"
+      ],
+      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/09/Cover-photo-1-scaled-e1788773444770.jpg?fit=300%2C300&amp;ssl=1"
+    },
+    {
+      "id": "3657d769b490",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-09-07",
+      "title": "Cata la lata",
+      "source": "Packaging of the World",
+      "sourceUrl": "https://packagingoftheworld.com/2026/09/cata-la-lata-2.html",
+      "image": "📦",
+      "category": "",
+      "desc": "What if the product was bigger than the story around it? Cata la lata plays with proportion to shift attention where it matters.By exaggerating the scale of the product and minimizing the character, the design breaks traditional visual hierarchies and reinforces what truly mat...",
+      "tags": [],
+      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/09/CLL_SLIDE_COVER-2-e1788773421275.png?fit=300%2C169&amp;ssl=1"
+    },
+    {
+      "id": "c52e4c74b66b",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-09-07",
+      "title": "sunbase®",
+      "source": "Packaging of the World",
+      "sourceUrl": "https://packagingoftheworld.com/2026/09/sunbase.html",
+      "image": "📦",
+      "category": "",
+      "desc": "Introducing sunbase® Sunbase is a high-protection SPF 50 sunscreen line enriched with hyaluronic acid and astaxanthin, available in a standard and a waterproof formula. The packaging concept translates the effect of the product directly onto the box: a grainy gradient moves fr...",
+      "tags": [
+        "包装"
+      ],
+      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/09/4-4-e1788773397334.png?fit=240%2C300&amp;ssl=1"
+    },
+    {
+      "id": "d1db0d7d75ed",
+      "type": "newproduct",
+      "section": "newproduct",
+      "sub": "report",
+      "date": "2026-09-07",
+      "title": "McVitie’s, Snickers, Cadbury and Cheez-It turn snacks into something bigger",
+      "source": "BakeryandSnacks",
+      "sourceUrl": "https://www.bakeryandsnacks.com/Article/2026/09/07/mcvities-snickers-and-cadbury-rethink-the-product-launch/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "🆕",
+      "category": "休闲零食",
+      "desc": "McVitie’s, Snickers, Cadbury, Cheez-It and five more brands are using unusual launches to create experiences, enter markets and engage shoppers.",
+      "tags": [],
+      "_imageUrl": "https://www.bakeryandsnacks.com/resizer/v2/XPWUR6E535BKNFIEZ5ER4PFMAQ.jpg?auth=72fe0a8d0683d003a843b0caac501061433dcde46c095776a55a754e5c158c5c&smart=true&width=2121&height=1414"
+    },
+    {
+      "id": "22e6ab089782",
+      "type": "newproduct",
+      "section": "newproduct",
+      "sub": "report",
+      "date": "2026-09-07",
+      "title": "Tea yet to reach ‘Coffee Moment’ as UK consumers remain habit-driven",
+      "source": "Beverage Daily",
+      "sourceUrl": "https://www.beveragedaily.com/Article/2026/09/07/tea-yet-to-reach-coffee-moment-as-uk-consumers-remain-habit-driven/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "🆕",
+      "category": "饮品",
+      "desc": "",
+      "tags": [],
+      "_imageUrl": "https://www.beveragedaily.com/resizer/v2/D3FPZHYWF5E73FXE27FPKVB43M.jpg?auth=6eb937bf0755a724b26def4b3ddf59f2f73988c07678572f23769c16a4d3ffab&smart=true&width=2122&height=1412"
+    },
     {
       "id": "57c8e56f2d68",
       "type": "report",
@@ -2021,525 +2536,6 @@
       "desc": "",
       "tags": [],
       "_imageUrl": "https://www.beveragedaily.com/resizer/v2/LFGV35LCVZM7JBMKFJSC5AMOPA.jpg?auth=0a13c7edd335bcb4bd045384929921c048e06e8529dcc8a0d3de508515a42472&smart=true&width=684&height=449"
-    },
-    {
-      "id": "bb1a301846e3",
-      "type": "newproduct",
-      "section": "newproduct",
-      "sub": "report",
-      "date": "2026-08-26",
-      "title": "US Restaurant Beverage Trends: Drinks drive footfall and growth as Gen Z and ...",
-      "source": "Beverage Daily",
-      "sourceUrl": "https://www.beveragedaily.com/Article/2026/08/26/us-restaurant-beverage-trends-drinks-drive-footfall-and-growth-as-gen-z-and-millennials-seek-new-flavours/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "🆕",
-      "category": "饮品",
-      "desc": "",
-      "tags": [],
-      "_imageUrl": "https://www.beveragedaily.com/resizer/v2/4QVAGJC42ZF75POASWBWWU4VSE.jpg?auth=1ebba5cc717c0d059a0e6989ad7a6420e1698e79de6b463c884ae6c7f11828c2&smart=true&width=2121&height=1414"
-    },
-    {
-      "id": "3f3053b3f4c5",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-08-26",
-      "title": "Apetito appoints new director of manufacturing",
-      "source": "Food Manufacture",
-      "sourceUrl": "https://www.foodmanufacture.co.uk/Article/2026/08/26/apetito-wiltshire-farm-foods-appoints-chris-dawks-new-director-of-manufacturing/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "📊",
-      "category": "",
-      "desc": "",
-      "tags": [],
-      "_imageUrl": "https://www.foodmanufacture.co.uk/resizer/v2/GPISPHEN6ZHADJYZO444UM4HQQ.jpg?auth=b04d144ae8a3cef3b7fa127179dd395c8448a392319dad6596ee14615df1d64e&smart=true&width=8505&height=5670"
-    },
-    {
-      "id": "11add43f587a",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-08-26",
-      "title": "Why the former McVitie’s boss is betting on private label",
-      "source": "Food Manufacture",
-      "sourceUrl": "https://www.bakeryandsnacks.com/Article/2026/08/26/why-mcvities-ex-boss-cem-karakas-backs-private-label/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "📊",
-      "category": "",
-      "desc": "Former pladis CEO Cem Karakaş explains why acquisitions, retailer innovation and global expansion are increasing the value of private-label manufacturers.",
-      "tags": [
-        "创新"
-      ],
-      "_imageUrl": "https://www.foodmanufacture.co.uk/resizer/v2/RTIGBSGXLFHPPAALSDYLDOG4DM.jpg?auth=26bf1071d1dc350e657ce0d0c960001bd408b28c7ad40f3debb848e8eac3aee2&smart=true&width=750&height=500"
-    },
-    {
-      "id": "8068329b213e",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-08-25",
-      "title": "What is sardinemaxxing?",
-      "source": "FoodNavigator-Asia",
-      "sourceUrl": "https://www.foodnavigator.com/Article/2026/08/25/sardinemaxxing-nutrition-supply-and-demand/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "📊",
-      "category": "",
-      "desc": "Sardines have gained significant popularity through the 'sardinemaxxing' trend. The tinned fish is high in Vitamin A, B and D, and fits in well with health and wellness trends. Is demand being felt globally?",
-      "tags": [],
-      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/SVBD3MDW2VFBTFNO5KGDI4M6P4.jpg?auth=812e274c61cc81d314aa2bb5afe2ad645cc3534e1b9b550acac8d879e1ec98f0&smart=true&width=2121&height=1414"
-    },
-    {
-      "id": "08ef8a2ae7f8",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-08-25",
-      "title": "Better-for-you kids snacks expand at Target, Whole Foods and beyond",
-      "source": "FoodNavigator-Asia",
-      "sourceUrl": "https://www.foodnavigator.com/Article/2026/08/25/better-for-you-kids-snacks-grow-at-target-whole-foods/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "📊",
-      "category": "",
-      "desc": "Better-for-you kids snack brands are expanding with lower-sugar, organic and cleaner-label products at Target, Whole Foods and other retailers.",
-      "tags": [],
-      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/ACPOP7GKSFHMHPPBYQF4EDN7YU.png?auth=34974fc0a8f3eb6a202e03f0e57e1a5d67d65fd9110fe37e492ce9ffd3fc9e0e&smart=true&width=1280&height=720"
-    },
-    {
-      "id": "14cfd57ca3fb",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-08-25",
-      "title": "PepsiCo, Coca-Cola, Hershey & more drop into the spirit of Halloween with FOM...",
-      "source": "FoodNavigator-Asia",
-      "sourceUrl": "https://www.foodnavigator.com/Article/2026/08/25/halloween-is-changing-beverage-lto-strategy/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "📊",
-      "category": "",
-      "desc": "Fanta, Mountain Dew, Alani Nu and Reese’s are borrowing drop culture to use scarcity, exclusivity and social buzz to drive Halloween beverage sales.",
-      "tags": [],
-      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/JIZGSSZDVJE6TKTXQMJVINVAUE.jpg?auth=ef825ee2ee660bdbbfa51e6ad2838dd7b4453b3ef7aa7d0819ce1cea1f73e686&smart=true&width=724&height=483"
-    },
-    {
-      "id": "d6c6151481e1",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-08-25",
-      "title": "Why relevance is shaping the snacking category",
-      "source": "FoodNavigator-Asia",
-      "sourceUrl": "https://www.foodnavigator.com/Article/2026/08/25/snack-and-bakery-innovation-shifts-from-reinvention-to-relevance/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "📊",
-      "category": "",
-      "desc": "As consumers blur the lines between health, indulgence and convenience, snack and bakery manufacturers are shifting innovation strategies toward products that solve multiple need states throughout the day.",
-      "tags": [
-        "创新"
-      ],
-      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/UOOZWPJLOFB4TE57D4XEUX33KI.jpg?auth=5e84a802e603b5a49e940c82c4d22190c3be59896da40835e932d1a220389043&smart=true&width=2121&height=1414"
-    },
-    {
-      "id": "2eb8c949016c",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-08-25",
-      "title": "Could dropping ‘vegan’ unlock growth?",
-      "source": "FoodNavigator-Asia",
-      "sourceUrl": "https://www.foodnavigator.com/Article/2026/08/25/should-plant-based-brands-stop-marketing-themselves-as-vegan/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "📊",
-      "category": "",
-      "desc": "As veganism declines and plant-based brands struggle, could the solution be to stop marketing products as vegan? Taste, health and value may hold the key to the future success of animal-free food.",
-      "tags": [
-        "植物基"
-      ],
-      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/OEQAD4SZNBB6POEQHXCAQU4U4A.jpg?auth=055f2a18849c70e37fb3217fc9266867be0a389c520d123aadb2f36615eed538&smart=true&width=2121&height=1414"
-    },
-    {
-      "id": "10b2caf1d0f9",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-08-25",
-      "title": "What is sardinemaxxing?",
-      "source": "FoodNavigator-USA",
-      "sourceUrl": "https://www.foodnavigator.com/Article/2026/08/25/sardinemaxxing-nutrition-supply-and-demand/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "📊",
-      "category": "",
-      "desc": "Sardines have gained significant popularity through the 'sardinemaxxing' trend. The tinned fish is high in Vitamin A, B and D, and fits in well with health and wellness trends. Is demand being felt globally?",
-      "tags": [],
-      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/SVBD3MDW2VFBTFNO5KGDI4M6P4.jpg?auth=812e274c61cc81d314aa2bb5afe2ad645cc3534e1b9b550acac8d879e1ec98f0&smart=true&width=2121&height=1414"
-    },
-    {
-      "id": "39659c2ac702",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-08-25",
-      "title": "PepsiCo, Coca-Cola, Hershey & more drop into the spirit of Halloween with FOM...",
-      "source": "FoodNavigator-USA",
-      "sourceUrl": "https://www.foodnavigator.com/Article/2026/08/25/halloween-is-changing-beverage-lto-strategy/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "📊",
-      "category": "",
-      "desc": "Fanta, Mountain Dew, Alani Nu and Reese’s are borrowing drop culture to use scarcity, exclusivity and social buzz to drive Halloween beverage sales.",
-      "tags": [],
-      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/JIZGSSZDVJE6TKTXQMJVINVAUE.jpg?auth=ef825ee2ee660bdbbfa51e6ad2838dd7b4453b3ef7aa7d0819ce1cea1f73e686&smart=true&width=724&height=483"
-    },
-    {
-      "id": "93b0bc30f25e",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-08-25",
-      "title": "Why relevance is shaping the snacking category",
-      "source": "FoodNavigator-USA",
-      "sourceUrl": "https://www.foodnavigator.com/Article/2026/08/25/snack-and-bakery-innovation-shifts-from-reinvention-to-relevance/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "📊",
-      "category": "",
-      "desc": "As consumers blur the lines between health, indulgence and convenience, snack and bakery manufacturers are shifting innovation strategies toward products that solve multiple need states throughout the day.",
-      "tags": [
-        "创新"
-      ],
-      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/UOOZWPJLOFB4TE57D4XEUX33KI.jpg?auth=5e84a802e603b5a49e940c82c4d22190c3be59896da40835e932d1a220389043&smart=true&width=2121&height=1414"
-    },
-    {
-      "id": "91f28f36852b",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-08-25",
-      "title": "Could dropping ‘vegan’ unlock growth?",
-      "source": "FoodNavigator-USA",
-      "sourceUrl": "https://www.foodnavigator.com/Article/2026/08/25/should-plant-based-brands-stop-marketing-themselves-as-vegan/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "📊",
-      "category": "",
-      "desc": "As veganism declines and plant-based brands struggle, could the solution be to stop marketing products as vegan? Taste, health and value may hold the key to the future success of animal-free food.",
-      "tags": [
-        "植物基"
-      ],
-      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/OEQAD4SZNBB6POEQHXCAQU4U4A.jpg?auth=055f2a18849c70e37fb3217fc9266867be0a389c520d123aadb2f36615eed538&smart=true&width=2121&height=1414"
-    },
-    {
-      "id": "7d5072f30ef4",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-08-25",
-      "title": "PBR and ‘Friday the 13th’ Team For 12-pack Boxes That Turn Into Jason’s Hocke...",
-      "source": "Dieline",
-      "sourceUrl": "https://thedieline.com/pbr-and-friday-the-13th-team-for-12-pack-boxes-that-turn-into-jasons-hockey-mask/",
-      "image": "📦",
-      "category": "",
-      "desc": "Pabst Blue Ribbon and Horror Inc. are bringing slasher style to the beer aisle this Halloween with limited-edition Friday the 13th 12-packs. Featuring classic franchise branding and a punch-out Jason Voorhees hockey mask built right into the box, it doubles as an instant, last...",
-      "tags": [],
-      "_imageUrl": "https://thedieline.com/wp-content/uploads/2026/08/PBRxJASON_PR-Social-3200x2160-02-scaled.jpg"
-    },
-    {
-      "id": "n1",
-      "type": "newproduct",
-      "section": "newproduct",
-      "date": "2026-08-06",
-      "title": "思念食品「微波即食小馄饨」系列",
-      "source": "天猫新品",
-      "sourceUrl": "https://xin.tmall.com/",
-      "image": "🥟",
-      "category": "冷冻食品",
-      "desc": "专利蒸汽自循环包装技术，微波加热90秒即食，无需加水，皮不干馅鲜嫩。定价19.9元/盒。",
-      "tags": [
-        "思念",
-        "微波即食",
-        "馄饨"
-      ],
-      "innovation": {
-        "type": "工艺创新",
-        "detail": "蒸汽自循环包装技术，解决微波面点干硬痛点"
-      }
-    },
-    {
-      "id": "p4",
-      "type": "packaging",
-      "section": "packaging",
-      "date": "2026-08-06",
-      "title": "透明防雾冷冻盖膜",
-      "source": "Dieline",
-      "sourceUrl": "https://www.dieline.com/",
-      "image": "🔍",
-      "category": "",
-      "desc": "PETG防雾改性膜，-25℃冷冻展示柜中保持透明无白雾。获2026 WorldStar包装大奖。",
-      "tags": [
-        "防雾",
-        "PETG",
-        "展示效果"
-      ],
-      "material": {
-        "name": "PETG防雾改性膜",
-        "feature": "-25℃保持透明，无白雾凝结",
-        "process": "共挤流延+防雾涂覆",
-        "supplier": "Sealed Air(意)/国内：浙江众成"
-      }
-    },
-    {
-      "id": "f1",
-      "type": "formulation",
-      "section": "formulation",
-      "date": "2026-08-06",
-      "title": "海藻糖在冷冻面点中的抗冻保护应用",
-      "source": "中国食品学报",
-      "sourceUrl": "https://kns.cnki.net/",
-      "image": "🧪",
-      "category": "速冻面点",
-      "desc": "添加2%-4%海藻糖可显著降低冷冻面筋蛋白冰晶损伤，冻融5次后硬度仅增12%(对照47%)。",
-      "tags": [
-        "海藻糖",
-        "抗冻",
-        "面点"
-      ],
-      "formula": {
-        "ingredient": "海藻糖",
-        "effect": "降低冰晶对面筋蛋白的损伤",
-        "applicable": "速冻面点全品类",
-        "mechanism": "海藻糖分子在冰晶表面形成玻璃态保护膜，抑制重结晶",
-        "supplier": "日本林原/国内：保龄宝生物"
-      }
-    },
-    {
-      "id": "p1",
-      "type": "packaging",
-      "section": "packaging",
-      "date": "2026-08-05",
-      "title": "可微波自排气包装袋",
-      "source": "Packaging of the World",
-      "sourceUrl": "https://www.packagingoftheworld.com/",
-      "image": "📦",
-      "category": "",
-      "desc": "PP/PE复合材料内置单向排气阀，微波加热时自动释放蒸汽。日本Toppan印刷技术。",
-      "tags": [
-        "可微波",
-        "自排气",
-        "PP/PE"
-      ],
-      "material": {
-        "name": "PP/PE复合材料",
-        "feature": "单向排气阀，微波自排气",
-        "process": "凹版印刷+覆膜",
-        "supplier": "日本Toppan/国内：紫江企业"
-      }
-    },
-    {
-      "id": "f2",
-      "type": "formulation",
-      "section": "formulation",
-      "date": "2026-08-04",
-      "title": "微胶囊包埋花椒油在预制菜中的释放控制",
-      "source": "食品科学",
-      "sourceUrl": "https://kns.cnki.net/",
-      "image": "🌶️",
-      "category": "预制菜",
-      "desc": "β-环糊精包埋花椒精油，包埋率92.3%。冷冻6个月后风味保留率87%(直接添加仅41%)。",
-      "tags": [
-        "微胶囊",
-        "包埋",
-        "花椒油"
-      ],
-      "formula": {
-        "ingredient": "β-环糊精包埋花椒精油",
-        "effect": "6个月风味保留率87%，复热释放",
-        "applicable": "麻辣风味预制菜",
-        "mechanism": "β-环糊精空腔结构包裹花椒精油，加热触发释放",
-        "supplier": "河南中大恒源/国内：天宁香料"
-      }
-    },
-    {
-      "id": "n2",
-      "type": "newproduct",
-      "section": "newproduct",
-      "date": "2026-08-03",
-      "title": "日本味之素「冷冻寿司拼盘」",
-      "source": "味之素官网",
-      "sourceUrl": "https://www.ajinomoto.co.jp/",
-      "image": "🍣",
-      "category": "冷冻食品",
-      "desc": "-60℃超低温速冻技术保留刺身口感，解冻后媲美门店现做。6贯装/980日元。",
-      "tags": [
-        "日本",
-        "味之素",
-        "超低温速冻"
-      ],
-      "innovation": {
-        "type": "工艺创新",
-        "detail": "-60℃超低温速冻，解决冷冻寿司口感还原难题"
-      }
-    },
-    {
-      "id": "n3",
-      "type": "newproduct",
-      "section": "newproduct",
-      "date": "2026-08-02",
-      "title": "三全食品「空气炸锅小酥肉」",
-      "source": "三全旗舰店",
-      "sourceUrl": "https://www.sanquan.com/",
-      "image": "🥩",
-      "category": "预制菜",
-      "desc": "专为空气炸锅优化的裹粉配方，200℃ 8分钟外酥里嫩，含油量降低40%。300g/29.9元。",
-      "tags": [
-        "三全",
-        "空气炸锅",
-        "小酥肉"
-      ],
-      "innovation": {
-        "type": "配方创新",
-        "detail": "空气炸锅专用裹粉配方，减油40%口感不妥协"
-      }
-    },
-    {
-      "id": "p2",
-      "type": "packaging",
-      "section": "packaging",
-      "date": "2026-08-02",
-      "title": "PLA可降解冷冻食品托盘",
-      "source": "Dieline",
-      "sourceUrl": "https://www.dieline.com/",
-      "image": "🌿",
-      "category": "",
-      "desc": "100% PLA植物基材料，耐-40℃低温不变脆，可家庭堆肥降解。碳足迹减少72%。",
-      "tags": [
-        "PLA",
-        "可降解",
-        "环保"
-      ],
-      "material": {
-        "name": "PLA（聚乳酸）",
-        "feature": "耐低温-40℃，家庭堆肥可降解",
-        "process": "热成型+抗冻改性",
-        "supplier": "Good Natured(美)/国内：金发科技"
-      }
-    },
-    {
-      "id": "n6",
-      "type": "newproduct",
-      "section": "newproduct",
-      "date": "2026-08-01",
-      "title": "茶颜悦色「桂花酒酿冰汤圆」",
-      "source": "天猫新品",
-      "sourceUrl": "https://xin.tmall.com/",
-      "image": "🍡",
-      "category": "休闲零食",
-      "desc": "跨界甜品+冷冻技术，酒酿风味+冰爽口感，抢占夏季冷冻甜品新赛道。200g×2盒/32.8元。",
-      "tags": [
-        "茶颜悦色",
-        "甜品",
-        "跨界"
-      ],
-      "innovation": {
-        "type": "场景创新",
-        "detail": "夏季冷冻甜品新场景，酒酿+冰爽差异化定位"
-      }
-    },
-    {
-      "id": "f3",
-      "type": "formulation",
-      "section": "formulation",
-      "date": "2026-08-01",
-      "title": "抗性糊精在低GI速冻面点中的应用方案",
-      "source": "食品工业科技",
-      "sourceUrl": "https://kns.cnki.net/",
-      "image": "🌾",
-      "category": "速冻面点",
-      "desc": "抗性糊精替代10%-15%小麦粉，可使速冻包子GI值从72降至54，复热后体积增大8%。",
-      "tags": [
-        "抗性糊精",
-        "低GI",
-        "健康"
-      ],
-      "formula": {
-        "ingredient": "抗性糊精",
-        "effect": "GI值降低25%，复热体积增大8%",
-        "applicable": "速冻包子、馒头、花卷",
-        "mechanism": "膳食纤维部分替代淀粉，降低血糖应答+改善面团持水性",
-        "supplier": "罗盖特(法)/国内：山东百龙创园"
-      }
-    },
-    {
-      "id": "n4",
-      "type": "newproduct",
-      "section": "newproduct",
-      "date": "2026-07-31",
-      "title": "美国Beyond Meat「冷冻植物肉酱意面」",
-      "source": "FoodBev",
-      "sourceUrl": "https://www.foodbev.com/",
-      "image": "🍝",
-      "category": "预制菜",
-      "desc": "植物蛋白肉酱+全麦意面一体化冷冻方案，复热后肉酱不分离。350g/$7.99。",
-      "tags": [
-        "植物基",
-        "Beyond Meat",
-        "美国"
-      ],
-      "innovation": {
-        "type": "配方创新",
-        "detail": "植物肉酱与意面一体化冷冻，复热不分层"
-      }
-    },
-    {
-      "id": "p3",
-      "type": "packaging",
-      "section": "packaging",
-      "date": "2026-07-30",
-      "title": "铝箔锁鲜自立袋",
-      "source": "Behance",
-      "sourceUrl": "https://www.behance.net/",
-      "image": "✨",
-      "category": "",
-      "desc": "PET/AL/PE三层复合结构，铝箔层提供99.9%光阻隔，底部自立设计提升货架陈列效果。",
-      "tags": [
-        "铝箔",
-        "自立袋",
-        "海鲜"
-      ],
-      "material": {
-        "name": "PET/AL/PE三层复合",
-        "feature": "99.9%光阻隔，底部自立",
-        "process": "干式复合+易撕口激光切割",
-        "supplier": "安姆科(Amcor)/国内：黄山永新"
-      }
-    },
-    {
-      "id": "f4",
-      "type": "formulation",
-      "section": "formulation",
-      "date": "2026-07-29",
-      "title": "TG酶在冷冻鱼丸弹性保持中的应用",
-      "source": "水产学报",
-      "sourceUrl": "https://kns.cnki.net/",
-      "image": "🐟",
-      "category": "冷冻调理食品",
-      "desc": "添加0.3%TG酶可使冷冻鱼丸冻藏6个月后弹性仅降8.5%(对照降32%)。",
-      "tags": [
-        "TG酶",
-        "弹性保持",
-        "鱼丸"
-      ],
-      "formula": {
-        "ingredient": "TG酶（谷氨酰胺转氨酶）",
-        "effect": "冻藏6个月弹性仅降8.5%",
-        "applicable": "冷冻鱼丸、虾滑、肉丸",
-        "mechanism": "催化蛋白分子间共价交联",
-        "supplier": "日本味之素/国内：江苏一鸣生物"
-      }
-    },
-    {
-      "id": "n5",
-      "type": "newproduct",
-      "section": "newproduct",
-      "date": "2026-07-28",
-      "title": "安井食品「麻辣小龙虾水饺」",
-      "source": "FoodTalks",
-      "sourceUrl": "https://www.foodtalks.cn/",
-      "image": "🦞",
-      "category": "冷冻食品",
-      "desc": "整只小龙虾入馅的工业化量产技术，虾仁保水处理后复热Q弹不碎。240g×3袋/45.9元。",
-      "tags": [
-        "安井",
-        "小龙虾",
-        "水饺"
-      ],
-      "innovation": {
-        "type": "工艺创新",
-        "detail": "整只虾仁入馅的工业化量产技术，保水不碎"
-      }
     }
   ]
 }
