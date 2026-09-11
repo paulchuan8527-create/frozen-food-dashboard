@@ -1,7 +1,7 @@
 {
   "meta": {
-    "updated": "2026-09-10",
-    "version": 1789004974,
+    "updated": "2026-09-11",
+    "version": 1789091305,
     "total": 150,
     "auto_generated": true,
     "sources": [
@@ -334,6 +334,332 @@
         "type": "工艺创新",
         "detail": "整只虾仁入馅的工业化量产技术，保水不碎"
       }
+    },
+    {
+      "id": "7ffcd6fe6d0a",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-09-10",
+      "title": "Food inflation may look tame, but rising CPG input costs suggest otherwise",
+      "source": "FoodNavigator-Asia",
+      "sourceUrl": "https://www.foodnavigator.com/Article/2026/09/10/cpg-input-costs-rise-in-august/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "📊",
+      "category": "",
+      "desc": "August PPI data show food prices holding steady, but grains, oilseeds, packaging, diesel and freight costs are rising, creating potential margin pressure for CPG food and beverage companies.",
+      "tags": [
+        "包装"
+      ],
+      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/ZHGVVJVM7ZE45OHF3FUQG2RCI4.jpg?auth=018591755f68efc5bc5cfa1687ba9eb9c977534c5704ea8ef14a81d47cea1a3f&smart=true&width=2291&height=1309"
+    },
+    {
+      "id": "1eb99d13bb4a",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-09-10",
+      "title": "Twinings and Ovaltine expected to impact profit for Associated British Foods",
+      "source": "FoodNavigator-Asia",
+      "sourceUrl": "https://www.foodnavigator.com/Article/2026/09/10/hot-summer-hits-twinings-sales/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "📊",
+      "category": "",
+      "desc": "ABF says hot weather hit Twinings tea sales and Sugar profits, while growth in ingredients helped offset that.",
+      "tags": [
+        "原料"
+      ],
+      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/BLCQRVOATVH2BEE5HFYNZOWCOQ.jpg?auth=87cf72421389ba2d4fa5c9de5776027bb81bc36830d1d35f6d4172a9d552058f&smart=true&width=2122&height=1412"
+    },
+    {
+      "id": "75443fb33233",
+      "type": "compliance",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-09-10",
+      "title": "EFSA approves sweetener aspartame-acesulfame salt",
+      "source": "FoodNavigator-Asia",
+      "sourceUrl": "https://www.foodnavigator.com/Article/2026/09/10/efsa-approves-sweetener-salt-of-aspartame-acesulfame/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "⚖️",
+      "category": "",
+      "desc": "The European Food Safety Authority (EFSA) has approved the sweetener salt of aspartame-acesulfame for use.",
+      "tags": [],
+      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/WAW4SQ7JNNFRTPHDWBEV6GTTSQ.jpg?auth=36549c818814e615f30fd98dbcb53ded9bb832bba4472cb4df65145964da5eb4&smart=true&width=2121&height=1414"
+    },
+    {
+      "id": "097aea82b8ce",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-09-10",
+      "title": "Mondelēz ramps up investment to drive global growth",
+      "source": "FoodNavigator-Asia",
+      "sourceUrl": "https://www.foodnavigator.com/Article/2026/09/10/mondelez-ramps-up-investment-to-fuel-next-phase-of-growth/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "📊",
+      "category": "",
+      "desc": "Mondelez is shifting into growth mode, backing Oreo, Cadbury, emerging markets and innovation to capture new opportunities across global snacking.",
+      "tags": [
+        "创新"
+      ],
+      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/HNC5ORHN2VLMRGKVI53AKWQ724.jpg?auth=a567a37c4d3dd03efa0011c6e28457c77ba403a74506ab8f00f077bf75657fd5&smart=true&width=1200&height=800"
+    },
+    {
+      "id": "338a63d6e0b7",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-09-10",
+      "title": "Coca-Cola brings innovation back with new strategy",
+      "source": "FoodNavigator-Asia",
+      "sourceUrl": "https://www.foodnavigator.com/Article/2026/09/10/coca-cola-ceo-henrique-braun-outlines-new-innovation-strategy/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "📊",
+      "category": "",
+      "desc": "Coca-Cola is reviving innovation after pruning its portfolio during the pandemic, with CEO Henrique Braun outlining a more targeted strategy built around consumer insights, digital tools and AI.",
+      "tags": [
+        "创新"
+      ],
+      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/OGCWOEKYOJCIJGQONPVF25JPT4.jpg?auth=97c82a06dd21bbf97d66ff3134828d168eb82516a14f1084b7d8ba7ed99828f4&smart=true&width=724&height=483"
+    },
+    {
+      "id": "6bdb78bab53c",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-09-10",
+      "title": "Twinings and Ovaltine expected to impact profit for Associated British Foods",
+      "source": "FoodNavigator-USA",
+      "sourceUrl": "https://www.foodnavigator.com/Article/2026/09/10/hot-summer-hits-twinings-sales/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "📊",
+      "category": "",
+      "desc": "ABF says hot weather hit Twinings tea sales and Sugar profits, while growth in ingredients helped offset that.",
+      "tags": [
+        "原料"
+      ],
+      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/BLCQRVOATVH2BEE5HFYNZOWCOQ.jpg?auth=87cf72421389ba2d4fa5c9de5776027bb81bc36830d1d35f6d4172a9d552058f&smart=true&width=2122&height=1412"
+    },
+    {
+      "id": "ace16c138fa3",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-09-10",
+      "title": "Cadbury x Oreo: Do collaborations and health claims still drive growth?",
+      "source": "FoodNavigator-USA",
+      "sourceUrl": "https://www.confectionerynews.com/Article/2026/09/10/cadbury-launches-oreo-packed-delights-bar-but-health-claims-raise-questions/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "📊",
+      "category": "",
+      "desc": "Cadbury has teamed up with Oreo to launch Cadbury Delights Oreo, the latest addition to its under-100-calorie chocolate range. The collaboration highlights confectionery's ongoing appetite for brand partnerships, but raises questions about whether 'permissible indulgence' mark...",
+      "tags": [],
+      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/VHEO4TUHCFCSDCIPEUXAAMQ5SA.jpg?auth=c21762b610dd2bec86de00271ddf1bbaa6ca771a8d13bbd910867428a1a62829&smart=true&width=4918&height=2781"
+    },
+    {
+      "id": "8613f744f63a",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-09-10",
+      "title": "Mondelēz ramps up investment to drive global growth",
+      "source": "FoodNavigator-USA",
+      "sourceUrl": "https://www.foodnavigator.com/Article/2026/09/10/mondelez-ramps-up-investment-to-fuel-next-phase-of-growth/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "📊",
+      "category": "",
+      "desc": "Mondelez is shifting into growth mode, backing Oreo, Cadbury, emerging markets and innovation to capture new opportunities across global snacking.",
+      "tags": [
+        "创新"
+      ],
+      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/HNC5ORHN2VLMRGKVI53AKWQ724.jpg?auth=a567a37c4d3dd03efa0011c6e28457c77ba403a74506ab8f00f077bf75657fd5&smart=true&width=1200&height=800"
+    },
+    {
+      "id": "a94b31e6b5c7",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-09-10",
+      "title": "Coca-Cola brings innovation back with new strategy",
+      "source": "FoodNavigator-USA",
+      "sourceUrl": "https://www.foodnavigator.com/Article/2026/09/10/coca-cola-ceo-henrique-braun-outlines-new-innovation-strategy/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "📊",
+      "category": "",
+      "desc": "Coca-Cola is reviving innovation after pruning its portfolio during the pandemic, with CEO Henrique Braun outlining a more targeted strategy built around consumer insights, digital tools and AI.",
+      "tags": [
+        "创新"
+      ],
+      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/OGCWOEKYOJCIJGQONPVF25JPT4.jpg?auth=97c82a06dd21bbf97d66ff3134828d168eb82516a14f1084b7d8ba7ed99828f4&smart=true&width=724&height=483"
+    },
+    {
+      "id": "533fdaa124b5",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-09-10",
+      "title": "Arlo Introduces Culinary Argan Oil to America, Bringing it Out of the Bathroo...",
+      "source": "Dieline",
+      "sourceUrl": "https://thedieline.com/arlo-introduces-culinary-argan-oil-to-america-bringing-it-out-of-the-bathroom-and-onto-the-dinner-table/",
+      "image": "📦",
+      "category": "",
+      "desc": "Arlo founders Amine and Mehdi Maadir are on a mission to bring culinary argan oil to the American market, repositioning the product with premium pantry design conventions. The post Arlo Introduces Culinary Argan Oil to America, Bringing it Out of the Bathroom and Onto the Dinn...",
+      "tags": [],
+      "_imageUrl": "https://thedieline.com/wp-content/uploads/2026/09/Lifestyle-Vol.-2-Image-6-1.jpeg"
+    },
+    {
+      "id": "e9234a5b8d2c",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-09-10",
+      "title": "Rachel Comey and Unreal Transform the Candy Wrapper Into Runway-Ready Fashion",
+      "source": "Dieline",
+      "sourceUrl": "https://thedieline.com/rachel-comey-and-unreal-transform-the-candy-wrapper-into-runway-ready-fashion/",
+      "image": "📦",
+      "category": "",
+      "desc": "A limited edition collaboration turns UNREAL’s chocolate wrapper inside out, transforming familiar snack packaging into a collectible Rachel Comey accessory where food, fashion and clever material reuse collide. The post Rachel Comey and Unreal Transform the Candy Wrapper Into...",
+      "tags": [
+        "包装"
+      ],
+      "_imageUrl": "https://thedieline.com/wp-content/uploads/2026/09/223W-165-O1789SILVER_4599-scaled.jpg"
+    },
+    {
+      "id": "f0f9fe9c90f0",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-09-10",
+      "title": "Lara’s Redesign Lets the Cat Out of the Bag",
+      "source": "Dieline",
+      "sourceUrl": "https://thedieline.com/laras-redesign-lets-the-cat-out-of-the-bag/",
+      "image": "📦",
+      "category": "",
+      "desc": "Lara turns everyday cat food into a little world of mischief, personality and play. A sunny palette, expressive cats and charming illustrations make every pack feel like its own tiny story while keeping the range easy to navigate. The post Lara&#8217;s Redesign Lets the Cat Ou...",
+      "tags": [],
+      "_imageUrl": "https://thedieline.com/wp-content/uploads/2026/09/fd628eee146b504397cc7cecbf402168334.jpg"
+    },
+    {
+      "id": "3f7f515576ec",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-09-10",
+      "title": "Parco di Stalla",
+      "source": "Packaging of the World",
+      "sourceUrl": "https://packagingoftheworld.com/2026/09/parco-di-stalla.html",
+      "image": "📦",
+      "category": "",
+      "desc": "Parco di Stalla — A Sign Through Time When we began the redesign of Parco di Stalla, we started with a simple question: how can a historical discovery become a contemporary visual language? The answer was already there, rooted in the land. Within the estate, the remains of an ...",
+      "tags": [],
+      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/09/10-6-e1789037100230.png?fit=300%2C225&amp;ssl=1"
+    },
+    {
+      "id": "bfd5eb08936d",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-09-10",
+      "title": "O, KISUN! Brand of cat litter",
+      "source": "Packaging of the World",
+      "sourceUrl": "https://packagingoftheworld.com/2026/09/o-kisun-brand-of-cat-litter.html",
+      "image": "📦",
+      "category": "",
+      "desc": "Problem: Cat litter is primarily a functional category. Packaging usually focuses on litter type, absorbency, odour control, and other practical benefits. Because brands communicate in similar ways, many products look alike and are difficult to distinguish from one another. Th...",
+      "tags": [
+        "包装"
+      ],
+      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/09/26ea71aafb7ebf9a3c4bf8c9f378e229_tattoo-1-e1789037031285.png?fit=300%2C169&amp;ssl=1"
+    },
+    {
+      "id": "8b606db11abc",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-09-10",
+      "title": "GAMBIT XXO",
+      "source": "Packaging of the World",
+      "sourceUrl": "https://packagingoftheworld.com/2026/09/gambit-xxo.html",
+      "image": "📦",
+      "category": "",
+      "desc": "GAMBIT XXO is a premium spirits packaging concept built around the world of chess, a game of intelligence, patience, precision and calculated decisions. The bottle is conceived as more than a container. Its entire silhouette transforms the product into a monumental chess king....",
+      "tags": [
+        "包装"
+      ],
+      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/09/1-36-scaled-e1789037014830.jpg?fit=300%2C224&amp;ssl=1"
+    },
+    {
+      "id": "464a079a2475",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-09-10",
+      "title": "Jwa",
+      "source": "Packaging of the World",
+      "sourceUrl": "https://packagingoftheworld.com/2026/09/jwa.html",
+      "image": "📦",
+      "category": "",
+      "desc": "JWA — Crafting Coffee Stories Through Art and Origin JWA is a coffee brand created to celebrate the richness of coffee origins through a distinctive and immersive visual identity. The packaging takes inspiration from the idea of a journey through origin. Instead of relying on ...",
+      "tags": [
+        "包装"
+      ],
+      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/09/134594-1-e1789036958551.jpg?fit=300%2C200&amp;ssl=1"
+    },
+    {
+      "id": "0e692fff66bc",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-09-10",
+      "title": "First Bit – Morning Cafe",
+      "source": "Packaging of the World",
+      "sourceUrl": "https://packagingoftheworld.com/2026/09/first-bit-morning-cafe.html",
+      "image": "📦",
+      "category": "",
+      "desc": "What if breakfast had a brand personality as memorable as the food itself? 🥪 This concept was built around one simple idea: make every morning feel a little brighter. From the logo and playful illustrations to the packaging system, color palette, patterns, and brand touchpoint...",
+      "tags": [
+        "包装"
+      ],
+      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/09/behance-02-1-scaled-e1789036934731.jpg?fit=300%2C169&amp;ssl=1"
+    },
+    {
+      "id": "e89616bf5999",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-09-10",
+      "title": "General Mills’ CEO says M&A not a priority in challenging environment",
+      "source": "Food Dive",
+      "sourceUrl": "https://www.fooddive.com/news/general-mills-ceo-says-ma-not-a-priority-in-challenging-environment/830035/",
+      "image": "📊",
+      "category": "",
+      "desc": "Jeff Harmening said there is a &ldquo;high bar&rdquo; for acquisitions, but the food maker could consider additional divestitures.",
+      "tags": [],
+      "_imageUrl": "https://imgproxy.divecdn.com/YBAKg32M4T6gsPR3eTgz3Cz_fS0m3uj7jzZ1Qel7LKA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9jaGVlcmlvei5wbmc=.webp"
+    },
+    {
+      "id": "9e9d24c50917",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-09-10",
+      "title": "How Mondelēz wants to ‘shake up’ snacking with cookies",
+      "source": "Food Dive",
+      "sourceUrl": "https://www.fooddive.com/news/Mondelez-snacking-cookies-oreo-chipsahoy/828605/",
+      "image": "📊",
+      "category": "",
+      "desc": "The Oreo and Chips Ahoy! maker is turning to innovation and marketing to woo more consumers inundated with other choices, such as chips and candy.",
+      "tags": [
+        "创新"
+      ],
+      "_imageUrl": "https://imgproxy.divecdn.com/6vM916-fH5kQnIGIPAE3rCScFLjiArY7usOt0F1CZwQ/g:nowe:17:0/c:4014:2268/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JTUdfMDI0NC5qcGc=.webp"
+    },
+    {
+      "id": "076615272ed8",
+      "type": "newproduct",
+      "section": "newproduct",
+      "sub": "report",
+      "date": "2026-09-10",
+      "title": "Mubadala backs Luckin Coffee with $1bn minority stake",
+      "source": "Beverage Daily",
+      "sourceUrl": "https://www.beveragedaily.com/Article/2026/09/10/mubadala-backs-luckin-coffee-with-1bn-minority-stake/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "🆕",
+      "category": "饮品",
+      "desc": "",
+      "tags": [],
+      "_imageUrl": "https://www.beveragedaily.com/resizer/v2/4M6AXODMNVBJ5P4AF46LOVG4FM.jpg?auth=1e0d81afb14d88c3ca25edd2bff388b55d8543fb772902efe0a78c4a2bbfdfea&smart=true&width=2120&height=1414"
     },
     {
       "id": "0e33c0748ca5",
@@ -868,6 +1194,21 @@
       "desc": "Nestlé shares its strategy to secure supply, boost sustainability and avoid sharp price hikes in major brands like Nescafe",
       "tags": [],
       "_imageUrl": "https://www.beveragedaily.com/resizer/v2/RULHMGRSUNEXPCANVGAGW2C5TY.jpg?auth=6e9c47237f7a0e1bdaff7dae1ee0e9df499874128f6cfd3c8c19d17e84b4fe9b&smart=true&width=2121&height=1414"
+    },
+    {
+      "id": "088d3fa10d57",
+      "type": "newproduct",
+      "section": "newproduct",
+      "sub": "report",
+      "date": "2026-09-08",
+      "title": "Kendall Jenner to Tom Holland: Top celebrity-backed functional drinks brands",
+      "source": "Beverage Daily",
+      "sourceUrl": "https://www.beveragedaily.com/Article/2026/09/08/from-kendall-jenner-to-tom-holland-the-celebrity-backed-functional-drinks-brands-driving-beverage-innovation/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "🆕",
+      "category": "饮品",
+      "desc": "",
+      "tags": [],
+      "_imageUrl": "https://www.beveragedaily.com/resizer/v2/K6DPVHDYSNA6DLKEY72FS5BQHI.jpg?auth=c19b6f1f3ccd3749a1d65f5fe3b60c679a23089c2538e73f0fae476aeb1ae775&smart=true&width=1350&height=1080"
     },
     {
       "id": "f9096147d1eb",
@@ -2173,353 +2514,6 @@
         "创新"
       ],
       "_imageUrl": "https://www.foodnavigator.com/resizer/v2/7JLKXBZ2MVC35I3TKXMOQEEFIM.jpg?auth=fdc3dcb5d2dc06418b50918a09e030f7e18f5652f785a790c43d7fea785bab3a&smart=true&width=724&height=483"
-    },
-    {
-      "id": "465fa32410bf",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-08-31",
-      "title": "Can ‘touchless’ preservation extend shelf life without adding ingredients?",
-      "source": "FoodNavigator-USA",
-      "sourceUrl": "https://www.foodnavigator.com/Article/2026/08/31/touchless-food-preservation-extends-shelf-life/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "📊",
-      "category": "",
-      "desc": "Startups are developing ‘touchless’ food preservation technologies that extend shelf life without adding preservatives or ingredients to food labels.",
-      "tags": [
-        "原料"
-      ],
-      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/DCR4UBYRZNCO5C4MR4TUP6BVM4.jpg?auth=6e083c203c7c10d3339adcbd345aa72d3f6eca4ae4116bf4ecce20493e49dafd&smart=true&width=2121&height=1414"
-    },
-    {
-      "id": "44a8fbd05487",
-      "type": "compliance",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-08-31",
-      "title": "Food’s new rules: Regulation, reformulation and the reinvention of legacy brands",
-      "source": "FoodNavigator-USA",
-      "sourceUrl": "https://www.foodnavigator.com/Article/2026/08/31/news-bites-dietary-guidelines-gras-and-pepsicos-next-move/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "⚖️",
-      "category": "",
-      "desc": "August's top stories reflected a food industry increasingly shaped by greater scrutiny of nutrition policy, ingredient transparency and evolving consumer expectations around health and wellness.",
-      "tags": [
-        "原料"
-      ],
-      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/BQF6VIFNTFBQNLFKM4CY2TENYA.png?auth=30824fb4490e757ca1566c2ed47178fdec583b5cd5ebf2e2d5ecac0b7a5a206b&smart=true&width=1917&height=1078"
-    },
-    {
-      "id": "2dfba837f42f",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-08-31",
-      "title": "Follow the Fish , Turn the Bottle | Brandex",
-      "source": "Packaging of the World",
-      "sourceUrl": "https://packagingoftheworld.com/2026/08/follow-the-fish-turn-the-bottle-brandex.html",
-      "image": "📦",
-      "category": "",
-      "desc": "Every deep ocean holds a story. This one begins with a fish. Hidden inside the layered circles of the BRANDEX label, the fish is not simply an illustration. It is the central character of the packaging a symbol of movement, curiosity, and the mysterious life that exists beneat...",
-      "tags": [
-        "包装"
-      ],
-      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/08/3-1-e1788169188455.jpeg?fit=300%2C200&amp;ssl=1"
-    },
-    {
-      "id": "149f64bbd147",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-08-31",
-      "title": "Rocco’s",
-      "source": "Packaging of the World",
-      "sourceUrl": "https://packagingoftheworld.com/2026/08/roccos.html",
-      "image": "📦",
-      "category": "",
-      "desc": "Rocco’s is a nostalgic gelato brand inspired by the warmth and character of an old Italian gelateria. Built around Uncle Rocco, a beloved moustached gelato maker, the identity blends vintage Italian charm with a playful, contemporary visual language across packaging, storefron...",
-      "tags": [
-        "包装"
-      ],
-      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/08/ChatGPT-Image-Aug-18-2026-05_12_53-PM-5-e1788169042427.png?fit=224%2C300&amp;ssl=1"
-    },
-    {
-      "id": "eb3392f23e72",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-08-31",
-      "title": "Donavi — Vitaminized Drinks",
-      "source": "Packaging of the World",
-      "sourceUrl": "https://packagingoftheworld.com/2026/08/donavi-vitaminized-drinks.html",
-      "image": "📦",
-      "category": "",
-      "desc": "The DONAVI can design is built on a vibrant combination of the signature blue and distinctive background colors that define the flavor. This makes the product instantly stand out and easily recognizable. The contrasting palette creates a sense of energy, movement, and a summer...",
-      "tags": [],
-      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/08/1-26-e1788168970262.jpg?fit=300%2C193&amp;ssl=1"
-    },
-    {
-      "id": "a1a7ff4bdaec",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-08-31",
-      "title": "A Bold Celebration Of Colour, Flavour And Summer",
-      "source": "Packaging of the World",
-      "sourceUrl": "https://packagingoftheworld.com/2026/08/a-bold-celebration-of-colour-flavour-and-summer.html",
-      "image": "📦",
-      "category": "",
-      "desc": "A packaging concept designed to capture the energy of spring and summer before the bottle is even opened. For Casal Mendes, we wanted to create a visual identity that immediately communicates freshness, optimism and a sense of celebration. The starting point was simple: colour...",
-      "tags": [
-        "包装",
-        "原料"
-      ],
-      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/08/MACREATIVEAGENCY_CASALMENDES-3-1-e1788168947299.jpg?fit=300%2C200&amp;ssl=1"
-    },
-    {
-      "id": "4e768f68ec94",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-08-31",
-      "title": "Myasna Gildiya",
-      "source": "Packaging of the World",
-      "sourceUrl": "https://packagingoftheworld.com/2026/08/myasna-gildiya.html",
-      "image": "📦",
-      "category": "",
-      "desc": "The redesign of the “Myasna Gildiya” brand is aimed at creating a more modern, expressive, and memorable brand image. The new packaging moves away from a complex illustrative composition and an abundance of elements in favor of a clear visual hierarchy, where the brand and the...",
-      "tags": [
-        "包装"
-      ],
-      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/08/myasna-guldia-2025-website_12-1-e1788168909410.jpg?fit=300%2C212&amp;ssl=1"
-    },
-    {
-      "id": "776507dfa6fb",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-08-31",
-      "title": "ESSO Coffee: A Modern Brand Identity and Packaging Design",
-      "source": "Packaging of the World",
-      "sourceUrl": "https://packagingoftheworld.com/2026/08/esso-coffee-a-modern-brand-identity-and-packaging-design.html",
-      "image": "📦",
-      "category": "",
-      "desc": "ESSO Coffee is a comprehensive brand identity and packaging system meticulously created for a modern coffee shop concept based in Saudi Arabia. Inspired by everyday warmth, comfort, and the simple joy of human connection, the core objective of the project was to craft a visual...",
-      "tags": [
-        "包装"
-      ],
-      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/08/Asset-8-100-2-scaled-e1788168867721.jpg?fit=300%2C203&amp;ssl=1"
-    },
-    {
-      "id": "47038c2f925a",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-08-31",
-      "title": "Why sauces are emerging as key growth vehicle for CPG brands",
-      "source": "Food Dive",
-      "sourceUrl": "https://www.fooddive.com/spons/why-sauces-are-emerging-as-key-growth-vehicle-for-cpg-brands/829075/",
-      "image": "📊",
-      "category": "",
-      "desc": "From global flavors to customization, sauces are changing how consumers choose, experience and personalize food. Explore the trends shaping sauce culture.",
-      "tags": [],
-      "_imageUrl": ""
-    },
-    {
-      "id": "ad500c5b3cc6",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-08-31",
-      "title": "Faena Studio Delivers Healthy Character and Warmth for Deit’s Date Balls",
-      "source": "Dieline",
-      "sourceUrl": "https://thedieline.com/faena-studio-delivers-healthy-character-and-warmth-for-deits-date-balls/",
-      "image": "📦",
-      "category": "",
-      "desc": "Deit’s date ball packaging by Faena Studio turns natural snacking into a colorful design moment, pairing expressive ingredient illustrations, flavor led palettes and an oversized wordmark with a warm, approachable take on modern wellness branding. The post Faena Studio Deliver...",
-      "tags": [
-        "包装",
-        "原料"
-      ],
-      "_imageUrl": "https://thedieline.com/wp-content/uploads/2026/08/0106-1-scaled.jpg.webp"
-    },
-    {
-      "id": "13711888f6db",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-08-31",
-      "title": "A Glorious Mess, Perfectly Packaged, Courtesy of Derek&Eric",
-      "source": "Dieline",
-      "sourceUrl": "https://thedieline.com/a-glorious-mess-perfectly-packaged-courtesy-of-derekeric/",
-      "image": "📦",
-      "category": "",
-      "desc": "The Glorious Mess turns classic Eton Mess into a joyful packaging system filled with retro illustrations, vibrant colour and playful British storytelling by Derek&#038;Eric. The post A Glorious Mess, Perfectly Packaged, Courtesy of Derek&amp;Eric appeared first on DIELINE.",
-      "tags": [
-        "包装"
-      ],
-      "_imageUrl": "https://thedieline.com/wp-content/uploads/2026/08/Screenshot-2026-08-30-at-5.59.42-PM.png"
-    },
-    {
-      "id": "8f883ea070c0",
-      "type": "newproduct",
-      "section": "newproduct",
-      "sub": "report",
-      "date": "2026-08-31",
-      "title": "Raising the functional beverage bar: Drinks are becoming more specific and cr...",
-      "source": "Beverage Daily",
-      "sourceUrl": "https://www.foodnavigator.com/Article/2026/08/31/soup-to-nuts-podcast-what-consumers-want-from-functional-beverages-now/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "🆕",
-      "category": "饮品",
-      "desc": "In this episode of FoodNavigator-USA’s Soup-To-Nuts podcast, the founders of four emerging brands share where they see challenges and opportunities within the functional beverage category, including where there is white space for innovation, market saturation, how they are cut...",
-      "tags": [
-        "创新"
-      ],
-      "_imageUrl": "https://www.beveragedaily.com/resizer/v2/7JLKXBZ2MVC35I3TKXMOQEEFIM.jpg?auth=fdc3dcb5d2dc06418b50918a09e030f7e18f5652f785a790c43d7fea785bab3a&smart=true&width=724&height=483"
-    },
-    {
-      "id": "71caf8f4ecdc",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-08-28",
-      "title": "Lindt turns confectionery into couture with boundary-breaking collab",
-      "source": "FoodNavigator-Asia",
-      "sourceUrl": "https://www.confectionerynews.com/Article/2026/08/28/lindt-turns-confectionery-into-couture-with-joe-ando-collaboration/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "📊",
-      "category": "",
-      "desc": "Lindt & Sprüngli has teamed up with avant-garde fashion designer Joe Ando to turn its new Tokyo Style Matcha Strawberry Chocolate into high-fashion dresses, highlighting the growing trend for confectionery collaborations as brands seek buzzworthy consumer experiences.",
-      "tags": [],
-      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/GLLROTYLZZDIVO5VBFXH3D5A24.jpg?auth=b138335466c67167e33744fc57e7e45f499a10e90e2f363a70d901027e7704d4&smart=true&width=2000&height=1286"
-    },
-    {
-      "id": "4f07205f02c5",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-08-28",
-      "title": "Hormel’s retail segment hit by Q3 commodity turkey and snack nut declines",
-      "source": "FoodNavigator-Asia",
-      "sourceUrl": "https://www.foodnavigator.com/Article/2026/08/28/jennie-o-spam-applegate-and-hormel-chili-do-the-heavy-lifty-for-hormel-in-q3/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "📊",
-      "category": "",
-      "desc": "Hormel Foods’ retail segment faced volume softness in commodity turkey and private label snack nuts in Q3.",
-      "tags": [],
-      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/KXER3SLJ5FEK7CUUGMQHFHRZFQ.jpg?auth=98f6230476d0d7ecb291c58447e51e5fde7c7be264bbca58239a4720dc1e5c92&smart=true&width=6433&height=4391"
-    },
-    {
-      "id": "25eed6318aa9",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-08-28",
-      "title": "The 7 trends shaping the future of confectionery",
-      "source": "FoodNavigator-Asia",
-      "sourceUrl": "https://www.confectionerynews.com/Article/2026/08/28/the-7-trends-shaping-the-future-of-confectionery/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "📊",
-      "category": "",
-      "desc": "Discover the key trends shaping the future of confectionery, from premiumisation and AI to sustainability, automation and better-for-you innovation.",
-      "tags": [
-        "创新"
-      ],
-      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/4APFMMX7DREIZD2OSID2NOOPAU.jpg?auth=5c6cde2163fa50fe38acab4499e9d2433906c47a9faa2e97b3cd92312ad10ba0&smart=true&width=1944&height=1414"
-    },
-    {
-      "id": "3c3f8af40293",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-08-28",
-      "title": "Lindt turns confectionery into couture with boundary-breaking collab",
-      "source": "FoodNavigator-USA",
-      "sourceUrl": "https://www.confectionerynews.com/Article/2026/08/28/lindt-turns-confectionery-into-couture-with-joe-ando-collaboration/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "📊",
-      "category": "",
-      "desc": "Lindt & Sprüngli has teamed up with avant-garde fashion designer Joe Ando to turn its new Tokyo Style Matcha Strawberry Chocolate into high-fashion dresses, highlighting the growing trend for confectionery collaborations as brands seek buzzworthy consumer experiences.",
-      "tags": [],
-      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/GLLROTYLZZDIVO5VBFXH3D5A24.jpg?auth=b138335466c67167e33744fc57e7e45f499a10e90e2f363a70d901027e7704d4&smart=true&width=2000&height=1286"
-    },
-    {
-      "id": "19f6ca1f25bf",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-08-28",
-      "title": "The 7 trends shaping the future of confectionery",
-      "source": "FoodNavigator-USA",
-      "sourceUrl": "https://www.confectionerynews.com/Article/2026/08/28/the-7-trends-shaping-the-future-of-confectionery/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "📊",
-      "category": "",
-      "desc": "Discover the key trends shaping the future of confectionery, from premiumisation and AI to sustainability, automation and better-for-you innovation.",
-      "tags": [
-        "创新"
-      ],
-      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/4APFMMX7DREIZD2OSID2NOOPAU.jpg?auth=5c6cde2163fa50fe38acab4499e9d2433906c47a9faa2e97b3cd92312ad10ba0&smart=true&width=1944&height=1414"
-    },
-    {
-      "id": "5a3d92e21bcb",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-08-28",
-      "title": "Fortnum & Mason Deliver a Postcard From the Land of Cacao",
-      "source": "Dieline",
-      "sourceUrl": "https://thedieline.com/fortnum-mason-deliver-a-postcard-from-the-land-of-cacao/",
-      "image": "📦",
-      "category": "",
-      "desc": "Fortnum &#038; Mason and Otherway reimagine premium chocolate packaging through global cacao origins, local artist collaborations, stamp inspired graphics, and vibrant color, turning each bar into a celebration of craft, culture, and provenance. The post Fortnum &amp; Mason De...",
-      "tags": [
-        "包装"
-      ],
-      "_imageUrl": "https://thedieline.com/wp-content/uploads/2026/08/1784184038287.jpeg"
-    },
-    {
-      "id": "c6ba0698ff4c",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-08-28",
-      "title": "Tome Writes a New Chapter in Skincare",
-      "source": "Dieline",
-      "sourceUrl": "https://thedieline.com/tome-writes-a-new-chapter-in-skincare/",
-      "image": "📦",
-      "category": "",
-      "desc": "Tome Skincare by REUNION turns skincare packaging into a book inspired ritual, pairing vivid green, scientific illustration, reference typography, and reusable design to create a fresh chapter in modern beauty. The post Tome Writes a New Chapter in Skincare appeared first on D...",
-      "tags": [
-        "包装"
-      ],
-      "_imageUrl": "https://thedieline.com/wp-content/uploads/2026/08/Tome-3-6294f0f92245293a39bb8ba071bc454b-1.jpg"
-    },
-    {
-      "id": "b98e021b3b0f",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-08-28",
-      "title": "PepsiCo Design’s Refresh Of Monster Munch Is Cute-Feral Refined",
-      "source": "Dieline",
-      "sourceUrl": "https://thedieline.com/pepsico-designs-refresh-of-monster-munch-is-cute-feral-refined/",
-      "image": "📦",
-      "category": "",
-      "desc": "UK favorite Monster Munch gets a wildly charming makeover. PepsiCo Design puts everyone's favorite cutesy monsters front and center, blending playful character art with sleek design for a brand refresh that's equal parts adorable and fierce. The post PepsiCo Design&#8217;s Ref...",
-      "tags": [],
-      "_imageUrl": "https://thedieline.com/wp-content/uploads/2026/08/Monster-Munch-New-Brand-Identity-Design-PepsiCo-6.jpeg.63c46e47345e407b92e406bd8f84e15d.jpeg"
-    },
-    {
-      "id": "9f90a44a8dcf",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-08-28",
-      "title": "One Bottle , Infinite Perspectives",
-      "source": "Packaging of the World",
-      "sourceUrl": "https://packagingoftheworld.com/2026/08/one-bottle-infinite-perspectives.html",
-      "image": "📦",
-      "category": "",
-      "desc": "Most bottles are designed to be understood from the front. This one was designed to make you move around it. BRANDEX Artisanal Gin challenges the traditional structure of spirit packaging through a label that refuses to stay inside a frame. A sequence of bold circular forms wr...",
-      "tags": [
-        "包装"
-      ],
-      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/08/GinMockup9-3-scaled-e1787919076466.jpeg?fit=300%2C167&amp;ssl=1"
     }
   ]
 }
