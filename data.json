@@ -1,7 +1,7 @@
 {
   "meta": {
-    "updated": "2026-09-18",
-    "version": 1789696481,
+    "updated": "2026-09-19",
+    "version": 1789783171,
     "total": 150,
     "auto_generated": true,
     "sources": [
@@ -336,6 +336,312 @@
       }
     },
     {
+      "id": "a1458253f121",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-09-18",
+      "title": "The power generation: What Gen Z really wants from F&B",
+      "source": "FoodNavigator-Asia",
+      "sourceUrl": "https://www.foodnavigator.com/Article/2026/09/18/understanding-foods-most-influential-generation/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "📊",
+      "category": "",
+      "desc": "Wellness, global flavours and moderation: unpack the trends, values and contradictions shaping Gen Z food and drink choices",
+      "tags": [],
+      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/QET46ZBWQRAC7GWQAN6APLPQRE.jpg?auth=4144db4fd9087a84d77f12f5f010f34b7329407823c19934a48c2c09a6763dea&smart=true&width=2121&height=1414"
+    },
+    {
+      "id": "fdf867cd2cee",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-09-18",
+      "title": "Online dairy sales accelerate as yogurt and cottage cheese drive growth",
+      "source": "FoodNavigator-Asia",
+      "sourceUrl": "https://www.foodnavigator.com/Article/2026/09/18/yogurt-and-cottage-cheese-fuel-online-dairy-sales-growth/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "📊",
+      "category": "",
+      "desc": "Circana says ecommerce is driving an outsized share of dairy dollar growth as yogurt, yogurt drinks and cottage cheese lead the category.",
+      "tags": [],
+      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/XB22SQCZ3BHRTMBIFVRSGIM75Y.jpg?auth=3a40de5b3d91cc6896ba4a974c868af10889aabc3241e48896b0fbc524552748&smart=true&width=2120&height=1414"
+    },
+    {
+      "id": "9bac5bd42acd",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-09-18",
+      "title": "Nestlé Russia falls under Kremlin control",
+      "source": "FoodNavigator-Asia",
+      "sourceUrl": "https://www.foodnavigator.com/Article/2026/09/18/nestle-russia-under-state-administration-following-kremlin-decree/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "📊",
+      "category": "",
+      "desc": "Kremlin places Nestlé’s Russian business under temporary administration, prompting Swiss food and beverage giant to assess its options and legal rights.",
+      "tags": [],
+      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/LPIM2WHU5NCCVLD4FVVP4PPVPQ.jpg?auth=8e942eda84408e7781db4c6b847a13dcc2b03bf86e79f3eb6954efbc4d5e64b2&smart=true&width=2309&height=1299"
+    },
+    {
+      "id": "e2d83bcc8d15",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-09-18",
+      "title": "The power generation: What Gen Z really wants from F&B",
+      "source": "FoodNavigator-USA",
+      "sourceUrl": "https://www.foodnavigator.com/Article/2026/09/18/understanding-foods-most-influential-generation/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "📊",
+      "category": "",
+      "desc": "Wellness, global flavours and moderation: unpack the trends, values and contradictions shaping Gen Z food and drink choices",
+      "tags": [],
+      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/QET46ZBWQRAC7GWQAN6APLPQRE.jpg?auth=4144db4fd9087a84d77f12f5f010f34b7329407823c19934a48c2c09a6763dea&smart=true&width=2121&height=1414"
+    },
+    {
+      "id": "45ee09897a2e",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-09-18",
+      "title": "Freda Gu’s Aesop Concept ‘Eidesis’ Reflects the Myth of Narcissus in Every Fold",
+      "source": "Dieline",
+      "sourceUrl": "https://thedieline.com/freda-gus-aesop-concept-eidesis-reflects-the-myth-of-narcissus-in-every-fold/",
+      "image": "📦",
+      "category": "",
+      "desc": "Aesop’s Eidesis turns the myth of Narcissus into an unfolding packaging ritual, using rippling water patterns and layered construction to explore reflection, discovery and the quiet drama of opening a fragrance. The post Freda Gu&#8217;s Aesop Concept &#8216;Eidesis&#8217; Ref...",
+      "tags": [
+        "包装"
+      ],
+      "_imageUrl": "https://thedieline.com/wp-content/uploads/2026/09/Aesop01_Freda-2407e4377f35332a55e445e4054cd879-1.jpg"
+    },
+    {
+      "id": "2b9b62ca9cd4",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-09-18",
+      "title": "Boreal Points North Through Stone and Scent",
+      "source": "Dieline",
+      "sourceUrl": "https://thedieline.com/boreal-points-north-through-stone-and-scent/",
+      "image": "📦",
+      "category": "",
+      "desc": "Boreal brings the northern world into home fragrance packaging, drawing on forests, cool air and untouched landscapes for a clean, understated visual identity. Natural forms and subtle navigation symbols turn each candle and fragrance into a quiet invitation to explore. The po...",
+      "tags": [
+        "包装"
+      ],
+      "_imageUrl": "https://thedieline.com/wp-content/uploads/2026/09/9-b98dcb76d231240c406c6446e6110851-1.png"
+    },
+    {
+      "id": "3c81dd488274",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-09-18",
+      "title": "Aara Turns the Spice Jar Into an Invitation to Indian Cuisine",
+      "source": "Dieline",
+      "sourceUrl": "https://thedieline.com/aara-turns-the-spice-jar-into-an-invitation-to-indian-cuisine/",
+      "image": "📦",
+      "category": "",
+      "desc": "Aara turns Indian spice packaging into a point of discovery, pairing folk inspired illustration with pronunciation guides, flavor notes and cooking ideas. Each jar makes ingredients like coriander, cumin and turmeric more approachable while keeping their cultural story firmly ...",
+      "tags": [
+        "包装",
+        "原料"
+      ],
+      "_imageUrl": "https://thedieline.com/wp-content/uploads/2026/09/range-full-bleed-b1db3f13ab7ea33356bf3b2e665fe153.webp"
+    },
+    {
+      "id": "87792245859c",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-09-18",
+      "title": "Arumerta Javanese black tea",
+      "source": "Packaging of the World",
+      "sourceUrl": "https://packagingoftheworld.com/2026/09/arumerta-javanese-black-tea.html",
+      "image": "📦",
+      "category": "",
+      "desc": "In this Curator&#8217;s Insight, we take a look at Arumerta designed by Studio Moara Arumerta is an artisan Javanese black tea brand that turns everyday tea drinking into a small piece of folklore. Its name blends &#8220;arum&#8221; (fragrance) and &#8220;amerta&#8221; (elixir...",
+      "tags": [],
+      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/09/ARUMERTA-10-t.jpg?fit=300%2C223&amp;ssl=1"
+    },
+    {
+      "id": "e0ac1b5c6498",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-09-18",
+      "title": "A Mediterranean Harvest | Brandex Coffee",
+      "source": "Packaging of the World",
+      "sourceUrl": "https://packagingoftheworld.com/2026/09/a-mediterranean-harvest-brandex-coffee.html",
+      "image": "📦",
+      "category": "",
+      "desc": "Inspired by the warmth, craftsmanship, and timeless charm of Sicily, Brandex Coffee was created to feel like a story preserved through packaging. The design combines vintage inspired illustration with coffee cherries, botanical details, a traditional grinder, and a flying eagl...",
+      "tags": [
+        "包装"
+      ],
+      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/09/1-11-scaled-e1789720164999.jpeg?fit=300%2C167&amp;ssl=1"
+    },
+    {
+      "id": "fef1b8fcca6b",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-09-18",
+      "title": "Casa de Rose Wine Label Design by 43oz",
+      "source": "Packaging of the World",
+      "sourceUrl": "https://packagingoftheworld.com/2026/09/casa-de-rose-wine-label-design.html",
+      "image": "📦",
+      "category": "",
+      "desc": "Casa de Rose is a collection of exclusively rosé wines developed for Zarea, one of Romania’s established wine producers. From the beginning, the project was strongly connected to the physical presence of the bottle. A distinctive bottle shape was selected specifically for the ...",
+      "tags": [],
+      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/09/DSC04481-1-e1789720129499.jpg?fit=300%2C200&amp;ssl=1"
+    },
+    {
+      "id": "b9765e5f7de8",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-09-18",
+      "title": "Steep & Stir tea",
+      "source": "Packaging of the World",
+      "sourceUrl": "https://packagingoftheworld.com/2026/09/steep-stir-tea.html",
+      "image": "📦",
+      "category": "",
+      "desc": "“Steep &#38; Stir” reimagines the art of the British afternoon tea with a refined, mature design made for true Discerning drinkers. Loose leaf tea isn’t just a brew, it’s a sensory ritual where full, unbroken leaves unfurl to release an unmatched depth of aroma and flavor that...",
+      "tags": [],
+      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/09/Artboard-10-100-3-e1789720067764.jpg?fit=240%2C300&amp;ssl=1"
+    },
+    {
+      "id": "e7d212495df3",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-09-18",
+      "title": "Droplet | Branding",
+      "source": "Packaging of the World",
+      "sourceUrl": "https://packagingoftheworld.com/2026/09/droplet-branding-2.html",
+      "image": "📦",
+      "category": "",
+      "desc": "DROPLET is a premium sparkling-water brand defined by its distinctive bottle silhouette, bright visual identity and character-led packaging. Modern Theory created the brand to deliver a fresh, playful and contemporary experience for modern consumers. The packaging collection i...",
+      "tags": [
+        "包装"
+      ],
+      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/09/Artboard-1-1-e1789720041649.png?fit=300%2C169&amp;ssl=1"
+    },
+    {
+      "id": "352e7365ecf8",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-09-18",
+      "title": "OWNEVER Packaging | The Art of Savoir-faire",
+      "source": "Packaging of the World",
+      "sourceUrl": "https://packagingoftheworld.com/2026/09/ownever-packaging-the-art-of-savoir-faire.html",
+      "image": "📦",
+      "category": "",
+      "desc": "A Box Made to Last If a bag is made to last a lifetime, shouldn&#8217;t the box that holds it be made with the same intention? For Ownever, a Portuguese luxury handbag brand built around craftsmanship and longevity, packaging was never meant to be just a vessel. It was an oppo...",
+      "tags": [
+        "包装"
+      ],
+      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/09/9d5efcc1bda64af77d182db3bfa1d4d2_tattoo-1-e1789720012914.png?fit=272%2C300&amp;ssl=1"
+    },
+    {
+      "id": "eb60e182951e",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-09-18",
+      "title": "Saadhak- A Spiritual Accessories Brand",
+      "source": "Packaging of the World",
+      "sourceUrl": "https://packagingoftheworld.com/2026/09/saadhak-a-spiritual-accessories-brand.html",
+      "image": "📦",
+      "category": "",
+      "desc": "ABOUT Saadhak is a spiritual jewellery brand rooted in Indian traditions of devotion and faith. The packaging was designed to make the product feel less like conventional religious merchandise and more like a contemporary expression of Indian spirituality. THE BRIEF Rudraksha—...",
+      "tags": [
+        "包装"
+      ],
+      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/09/ChatGPT-Image-Sep-18-2026-02_35_58-AM-1-e1789719994304.png?fit=300%2C225&amp;ssl=1"
+    },
+    {
+      "id": "82bd42ba3c11",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-09-18",
+      "title": "Shazar | Branding & Packaging",
+      "source": "Packaging of the World",
+      "sourceUrl": "https://packagingoftheworld.com/2026/09/shazar-branding-packaging.html",
+      "image": "📦",
+      "category": "",
+      "desc": "Shazar is a women’s jewelry and accessories brand built around a simple idea: beauty is not defined by a single piece, but by the details that come together to create something greater. The name and identity are inspired by the concept of small, precious fragments individual p...",
+      "tags": [
+        "包装"
+      ],
+      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/09/b15979857828a16cf231e98c18e23378_tattoo-1-e1789719961184.png?fit=300%2C148&amp;ssl=1"
+    },
+    {
+      "id": "964f12f810d7",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-09-18",
+      "title": "McCain Foods taps PepsiCo exec as chief manufacturing and operations officer",
+      "source": "Food Dive",
+      "sourceUrl": "https://www.fooddive.com/news/mccain-foods-taps-pepsico-exec-as-chief-manufacturing-and-operations-office/830771/",
+      "image": "📊",
+      "category": "",
+      "desc": "Victoriano Perez Mies joins the frozen food producer after nearly two decades at PepsiCo, assuming leadership of several areas of operation.",
+      "tags": [
+        "冷冻食品"
+      ],
+      "_imageUrl": "https://imgproxy.divecdn.com/-IvofDL-3FWq1PH8relBu_aSBJXc6CqedUTn-3Mw5Sw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9NY0NhaW5fRm9vZHNfZnJlbmNoX2ZyaWVzLkpQRw==.webp"
+    },
+    {
+      "id": "246d16cb2a4a",
+      "type": "newproduct",
+      "section": "newproduct",
+      "sub": "report",
+      "date": "2026-09-18",
+      "title": "The power generation: What Gen Z really wants from F&B",
+      "source": "Beverage Daily",
+      "sourceUrl": "https://www.foodnavigator.com/Article/2026/09/18/understanding-foods-most-influential-generation/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "🆕",
+      "category": "饮品",
+      "desc": "Wellness, global flavours and moderation: unpack the trends, values and contradictions shaping Gen Z food and drink choices",
+      "tags": [],
+      "_imageUrl": "https://www.beveragedaily.com/resizer/v2/QET46ZBWQRAC7GWQAN6APLPQRE.jpg?auth=4144db4fd9087a84d77f12f5f010f34b7329407823c19934a48c2c09a6763dea&smart=true&width=2121&height=1414"
+    },
+    {
+      "id": "e4135b79b6d1",
+      "type": "newproduct",
+      "section": "newproduct",
+      "sub": "report",
+      "date": "2026-09-18",
+      "title": "New beverage launches: The Macallan, innocent, MOJU, Plenish and more…",
+      "source": "Beverage Daily",
+      "sourceUrl": "https://www.beveragedaily.com/Article/2026/09/18/new-drinks-launches-whisky-wellness-and-plant-based/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "🆕",
+      "category": "饮品",
+      "desc": "Discover the latest beverage launches from The Macallan, MadTree, innocent, MOJU and Plenish, spanning premium whisky, RTD cocktails, functional wellness drinks and plant-based dairy alternatives.",
+      "tags": [
+        "植物基"
+      ],
+      "_imageUrl": "https://www.beveragedaily.com/resizer/v2/554V5NFE6FFWXDJ7GF3VITD4OY.jpg?auth=da37c28d53c4135fdf9a875dda0de02ec7903014af5886d293f3cdff92a62a8a&smart=true&width=1920&height=1080"
+    },
+    {
+      "id": "72a41b7aab77",
+      "type": "newproduct",
+      "section": "newproduct",
+      "sub": "report",
+      "date": "2026-09-18",
+      "title": "Nestlé Russia falls under Kremlin control",
+      "source": "Beverage Daily",
+      "sourceUrl": "https://www.foodnavigator.com/Article/2026/09/18/nestle-russia-under-state-administration-following-kremlin-decree/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "🆕",
+      "category": "饮品",
+      "desc": "Kremlin places Nestlé’s Russian business under temporary administration, prompting Swiss food and beverage giant to assess its options and legal rights.",
+      "tags": [],
+      "_imageUrl": "https://www.beveragedaily.com/resizer/v2/LPIM2WHU5NCCVLD4FVVP4PPVPQ.jpg?auth=8e942eda84408e7781db4c6b847a13dcc2b03bf86e79f3eb6954efbc4d5e64b2&smart=true&width=2309&height=1299"
+    },
+    {
       "id": "4e9b68829e38",
       "type": "report",
       "section": "data",
@@ -546,7 +852,7 @@
       "category": "饮品",
       "desc": "",
       "tags": [],
-      "_imageUrl": ""
+      "_imageUrl": "https://www.beveragedaily.com/resizer/v2/DO3T42ZSI5AX7DWPFEDM5D6HSA.jpg?auth=f494a2e23c5ba39391ec8904e88629698792e50ff03bbf7022e5092711c8b3a8&smart=true&width=1950&height=1338"
     },
     {
       "id": "7576dd9ba6bb",
@@ -562,6 +868,38 @@
       "desc": "",
       "tags": [],
       "_imageUrl": "https://www.beveragedaily.com/resizer/v2/QVOEB4YHY5FYFAACXFFZM4VX2Y.jpeg?auth=de15200877a6e8439d11af2a10001a556f8c8f86059dbb4ea83d6660d3627fc2&smart=true&width=300&height=194"
+    },
+    {
+      "id": "56034b7d35cc",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-09-17",
+      "title": "Chroma by Corpus Makes a Sleek Statement for Target Beauty Studio with a Colo...",
+      "source": "Dieline",
+      "sourceUrl": "https://thedieline.com/chroma-by-corpus-makes-a-sleek-statement-for-target-beauty-studio-with-a-color-forward-system/",
+      "image": "📦",
+      "category": "",
+      "desc": "Corpus Naturals has just launched a new, design-forward line of deodorant and body wash for Target called Chroma, where color reigns supreme. The post Chroma by Corpus Makes a Sleek Statement for Target Beauty Studio with a Color-Forward System appeared first on DIELINE.",
+      "tags": [],
+      "_imageUrl": "https://thedieline.com/wp-content/uploads/2026/09/Screenshot-2026-09-16-at-9.03.08-PM.png"
+    },
+    {
+      "id": "8268870bb372",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-09-17",
+      "title": "Nymph Turns the Cicada’s Long Sleep Into Cannabis Packaging",
+      "source": "Dieline",
+      "sourceUrl": "https://thedieline.com/nymph-turns-the-cicadas-long-sleep-into-cannabis-packaging/",
+      "image": "📦",
+      "category": "",
+      "desc": "Nymph turns the cicada’s remarkable dormancy into a fresh visual language for cannabis sleep drinks, mixing soft psychedelic illustration with medicinal cues to make rest look mysterious, considered and inviting. The post Nymph Turns the Cicada’s Long Sleep Into Cannabis Packa...",
+      "tags": [
+        "包装"
+      ],
+      "_imageUrl": "https://thedieline.com/wp-content/uploads/2026/09/NymphHi-Res-f85d8f1d9f668be352a88d775ba5edc0-1.png"
     },
     {
       "id": "7b28371b3ec5",
@@ -2218,337 +2556,6 @@
       "desc": "Somewhere between growing up and getting through each day, we begin to overlook color. The green outside our window. The sky changing on our way home. The small, extraordinary things that once made us stop and stare. This design is an invitation to notice them again&#8230; At ...",
       "tags": [],
       "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/09/11-1-scaled-e1788941143343.jpeg?fit=300%2C159&amp;ssl=1"
-    },
-    {
-      "id": "2038911f7fe3",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-09-09",
-      "title": "Ignardis Brandy",
-      "source": "Packaging of the World",
-      "sourceUrl": "https://packagingoftheworld.com/2026/09/ignardis-brandy.html",
-      "image": "📦",
-      "category": "",
-      "desc": "IGNARDIS &#8211; Plum Brandy Ignardis is a Serbian plum brandy that unites heritage with modern strength. Its name, “warrior of fire,” speaks of a spirit forged in flame and time.The design is bold and ornate with a simple black and light blue color scheme and gold details. He...",
-      "tags": [],
-      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/09/da12082bc1bdd5d1d27dade2f9ea756c_tattoo-1-e1788941071289.png?fit=300%2C258&amp;ssl=1"
-    },
-    {
-      "id": "e9e695e74cab",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-09-09",
-      "title": "Tequila Rosaluz – Reposado (The Golden Peak)",
-      "source": "Packaging of the World",
-      "sourceUrl": "https://packagingoftheworld.com/2026/09/tequila-rosaluz-reposado-the-golden-peak.html",
-      "image": "📦",
-      "category": "",
-      "desc": "TEQUILA ROSALUZ A tequila designed as a meeting point between sun and sea, where glass textures and light reveal the brand story. Tequila Rosaluz is born from the precise moment the sun meets the ocean at sunset. Moving away from the “loud” branding typical of the category, ou...",
-      "tags": [],
-      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/09/BeatriceGilboph-13896-scaled-e1788941050487.jpg?fit=199%2C300&amp;ssl=1"
-    },
-    {
-      "id": "7a80dbb62e0e",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-09-09",
-      "title": "广德堂 GDTON｜Ancient‑Herbal New‑Chinese Hair‑care Packaging",
-      "source": "Packaging of the World",
-      "sourceUrl": "https://packagingoftheworld.com/2026/09/%e5%b9%bf%e5%be%b7%e5%a0%82-gdton%ef%bd%9cancient-herbal-new-chinese-hair-care-packaging.html",
-      "image": "📦",
-      "category": "",
-      "desc": "广德堂 GDTON｜Ancient‑Herbal New‑Chinese Hair‑care Packaging &#160; 发布平台：Packaging Of The World Design Agency：宏洛图品牌设计（HONGLT Brand Design） Project Type：Brand Visual Positioning + Full‑range Product Packaging Realisation Core Products：Herbal shampoo &#38; hair conditioner Applicati...",
-      "tags": [
-        "包装"
-      ],
-      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/09/A8-e1788941033650.jpg?fit=300%2C190&amp;ssl=1"
-    },
-    {
-      "id": "0fa21f1b5113",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-09-09",
-      "title": "1 AM",
-      "source": "Packaging of the World",
-      "sourceUrl": "https://packagingoftheworld.com/2026/09/1-am.html",
-      "image": "📦",
-      "category": "",
-      "desc": "ABOUT THE PROJECT 1 AM is a cold coffee brand created for a generation that does its best work when the rest of the world switches off. More than a beverage, the brand represents momentum, ambition, and the late-night mindset of creators, founders, gamers, coders, and dreamers...",
-      "tags": [],
-      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/09/coverrr-2-e1788940836261.jpg?fit=300%2C169&amp;ssl=1"
-    },
-    {
-      "id": "44de23f55031",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-09-09",
-      "title": "Tepelene | A Drop Is All It Takes",
-      "source": "Packaging of the World",
-      "sourceUrl": "https://packagingoftheworld.com/2026/09/tepelene-a-drop-is-all-it-takes.html",
-      "image": "📦",
-      "category": "",
-      "desc": "For Tepelene, a water brand tied to a spring with a documented history of over 2,500 years in southern Albania, BoldCrest set out to move beyond a routine packaging refresh into a full identity rebuild the brand could carry for years. The bottle takes its slim, cylindrical for...",
-      "tags": [
-        "包装"
-      ],
-      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/09/tepelene-01-hero-e1788940783531.jpg?fit=300%2C200&amp;ssl=1"
-    },
-    {
-      "id": "33c9e4aed448",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-09-09",
-      "title": "Coca-Cola’s bet to relaunch Mr Pibb is paying off",
-      "source": "Food Dive",
-      "sourceUrl": "https://www.fooddive.com/news/mr-pibb-relaunch-top-growing-brand-morning-consult/829866/",
-      "image": "📊",
-      "category": "",
-      "desc": "The recently revived brand was the fastest growing soda in 2026, according to Morning Consult.",
-      "tags": [],
-      "_imageUrl": "https://imgproxy.divecdn.com/mIpVluQsP2SfG62rvuVtTO_f83IKBanBtgFw8ezMV1A/g:nowe:0:0/c:1911:1080/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9OQU9VLU1SLVBJQkItS1YtUkdCX01yX1BpYmJfS1ZfSG9yaXpvbnRhbF8zNTVtbF9DYW4uanBn.webp"
-    },
-    {
-      "id": "e57400af50cd",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-09-09",
-      "title": "Beyond adds protein bars, powders in portfolio expansion",
-      "source": "Food Dive",
-      "sourceUrl": "https://www.fooddive.com/news/beyond-new-protein-bars-poweders-plant-based/829554/",
-      "image": "📊",
-      "category": "",
-      "desc": "The plant-based meat company is entering adjacent categories&nbsp;to tap into more lucrative opportunities within protein.",
-      "tags": [
-        "植物基"
-      ],
-      "_imageUrl": "https://imgproxy.divecdn.com/JvZiYN4EEH4-DkaeYSmIrhLQMwYbBXTK_LC9SrtiR7Y/g:nowe:0:0/c:2500:1412/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9QaHl0b3NwaGVyZV9IZXJvLmpwZw==.webp"
-    },
-    {
-      "id": "945ce77e6658",
-      "type": "newproduct",
-      "section": "newproduct",
-      "sub": "report",
-      "date": "2026-09-09",
-      "title": "Inside the leadership strategies reshaping British baking",
-      "source": "BakeryandSnacks",
-      "sourceUrl": "https://www.bakeryandsnacks.com/Article/2026/09/09/british-baker-reveals-2026-bakery-leader-of-the-year-finalists/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "🆕",
-      "category": "休闲零食",
-      "desc": "Five British bakery leaders reveal how investment in people, resilient supply chains and purpose-led growth are reshaping the industry.",
-      "tags": [],
-      "_imageUrl": "https://www.bakeryandsnacks.com/resizer/v2/MLOG5JC7QFBHPENIMHWJ7ICFHE.png?auth=4952776e3d471ca7fba8ce7cd9d40f3b0e6e04f145cb4eb65df19eca4cccee4c&smart=true&width=780&height=520"
-    },
-    {
-      "id": "1c99347df0b3",
-      "type": "newproduct",
-      "section": "newproduct",
-      "sub": "report",
-      "date": "2026-09-09",
-      "title": "Nestlé shifts strategy from scale to execution",
-      "source": "Beverage Daily",
-      "sourceUrl": "https://www.foodnavigator.com/Article/2026/09/09/nestle-shifts-growth-strategy-from-scale-to-execution/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "🆕",
-      "category": "饮品",
-      "desc": "Nestlé is shifting from growth through scale to growth through execution. CFO Anna Manz outlines how AI, emerging markets, Coffee, Petcare and targeted investment will drive the company's future.",
-      "tags": [],
-      "_imageUrl": "https://www.beveragedaily.com/resizer/v2/NGOESWPCKREBBITVEN5B7CVD6I.jpg?auth=db9406a2ae3d3910c7562c58bacfb8a5e297b59c63d321d9381edf0a06b66c4a&smart=true&width=1999&height=1499"
-    },
-    {
-      "id": "5010eb6190f1",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-09-08",
-      "title": "Terry’s Chocolate Orange x Baileys fuel confectionery’s hottest trend",
-      "source": "FoodNavigator-Asia",
-      "sourceUrl": "https://www.confectionerynews.com/Article/2026/09/08/terrys-chocolate-orange-and-baileys-team-up-for-festive-confectionery-collab/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "📊",
-      "category": "",
-      "desc": "Terry’s Chocolate Orange and Baileys join forces for a festive collaboration, highlighting the growing role of brand partnerships in driving confectionery sales, consumer excitement and Christmas spending.",
-      "tags": [],
-      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/2WUAJA6CGRBILM4AFSI7NPGGJA.png?auth=61b6e8b4d2735e0c25730237f5bf50fd7e51f1099b1c18d3f9cd50054682e3ec&smart=true&width=800&height=450"
-    },
-    {
-      "id": "1b56d3b62c62",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-09-08",
-      "title": "Odd-couple marketing is having a moment in beverage",
-      "source": "FoodNavigator-Asia",
-      "sourceUrl": "https://www.foodnavigator.com/Article/2026/09/08/from-pepsi-to-mountain-dew-the-rise-of-unlikely-brand-partnerships/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "📊",
-      "category": "",
-      "desc": "What do soda, salons and soap have in common? A growing wave of unlikely brand partnerships like, Pepsi and Drybar or Mountain Dew and Duke Cannon, shows how odd-couple pairings are part of a new marketing playbook to reach consumers new ways.",
-      "tags": [],
-      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/I762FA6QPFEC5KLHKOACV67ZPE.jpg?auth=d2ee81efa40bbd89d158fb40f5c9523e7c7cb35f2425811c94a422a361a2e747&smart=true&width=400&height=225"
-    },
-    {
-      "id": "76583c237254",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-09-08",
-      "title": "Food and beverage’s collaboration craze gains momentum",
-      "source": "FoodNavigator-Asia",
-      "sourceUrl": "https://www.foodnavigator.com/Article/2026/09/08/why-food-and-beverage-brand-collaborations-are-booming-in-2026/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "📊",
-      "category": "",
-      "desc": "Food and beverage collaborations are booming in 2026. From Ritter Sport x Haribo to Heinz x Absolut, discover what's driving the trend and where brand partnerships are headed next.",
-      "tags": [],
-      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/PUNT3TNEORHBPF2JZDL6NFVAL4.jpg?auth=510a315458ea33f9c9d5288f84cd936c18cd91f1196028614b1eaa8ae2250aae&smart=true&width=2119&height=1414"
-    },
-    {
-      "id": "f135f91a5eb3",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-09-08",
-      "title": "What the EU’s ‘meaty’ names ban means for hybrid meat",
-      "source": "FoodNavigator-Asia",
-      "sourceUrl": "https://www.foodnavigator.com/Article/2026/09/08/hybrid-meat-threatened-by-meaty-names-ban/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "📊",
-      "category": "",
-      "desc": "New proposals to expand the ban on meat-related terms for meat substitutes have suggested that in order to use these terms, products, barring ingredients essential for production, must be made 'exclusively' from meat. How could this affect the burgeoning hybrid meat sector?",
-      "tags": [
-        "原料"
-      ],
-      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/BB2ESQ3G7VHOVGMPKYEPIKYAYA.jpg?auth=0fa39ec694090e81bce9d1d8b26bcbfeb4ebbff5bc0cbd0237ba89afb4ceddda&smart=true&width=1408&height=768"
-    },
-    {
-      "id": "8f6df225e61b",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-09-08",
-      "title": "Terry’s Chocolate Orange x Baileys fuel confectionery’s hottest trend",
-      "source": "FoodNavigator-USA",
-      "sourceUrl": "https://www.confectionerynews.com/Article/2026/09/08/terrys-chocolate-orange-and-baileys-team-up-for-festive-confectionery-collab/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "📊",
-      "category": "",
-      "desc": "Terry’s Chocolate Orange and Baileys join forces for a festive collaboration, highlighting the growing role of brand partnerships in driving confectionery sales, consumer excitement and Christmas spending.",
-      "tags": [],
-      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/2WUAJA6CGRBILM4AFSI7NPGGJA.png?auth=61b6e8b4d2735e0c25730237f5bf50fd7e51f1099b1c18d3f9cd50054682e3ec&smart=true&width=800&height=450"
-    },
-    {
-      "id": "691e2b4534f6",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-09-08",
-      "title": "Food and beverage’s collaboration craze gains momentum",
-      "source": "FoodNavigator-USA",
-      "sourceUrl": "https://www.foodnavigator.com/Article/2026/09/08/why-food-and-beverage-brand-collaborations-are-booming-in-2026/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "📊",
-      "category": "",
-      "desc": "Food and beverage collaborations are booming in 2026. From Ritter Sport x Haribo to Heinz x Absolut, discover what's driving the trend and where brand partnerships are headed next.",
-      "tags": [],
-      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/PUNT3TNEORHBPF2JZDL6NFVAL4.jpg?auth=510a315458ea33f9c9d5288f84cd936c18cd91f1196028614b1eaa8ae2250aae&smart=true&width=2119&height=1414"
-    },
-    {
-      "id": "48b586303516",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-09-08",
-      "title": "What the EU’s ‘meaty’ names ban means for hybrid meat",
-      "source": "FoodNavigator-USA",
-      "sourceUrl": "https://www.foodnavigator.com/Article/2026/09/08/hybrid-meat-threatened-by-meaty-names-ban/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "📊",
-      "category": "",
-      "desc": "New proposals to expand the ban on meat-related terms for meat substitutes have suggested that in order to use these terms, products, barring ingredients essential for production, must be made 'exclusively' from meat. How could this affect the burgeoning hybrid meat sector?",
-      "tags": [
-        "原料"
-      ],
-      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/BB2ESQ3G7VHOVGMPKYEPIKYAYA.jpg?auth=0fa39ec694090e81bce9d1d8b26bcbfeb4ebbff5bc0cbd0237ba89afb4ceddda&smart=true&width=1408&height=768"
-    },
-    {
-      "id": "0207bb709c1d",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-09-08",
-      "title": "Are Americans Ready For Sparkling Wine In a Can? Liquid Death’s Mike Cessario...",
-      "source": "Dieline",
-      "sourceUrl": "https://thedieline.com/are-americans-ready-for-sparkling-wine-in-a-can-liquid-deaths-mike-cessario-thinks-so/",
-      "image": "📦",
-      "category": "",
-      "desc": "Liquid Death’s Mike Cessario takes his irreverent, disruption-filled playbook to alcohol. Partnering with Sazerac and Crush Labs, the founder is launching Mr. Fancy, a canned, 5.5% ABV \"American Bubbly\" designed to swap out your go-to beer or hard seltzer. The post Are America...",
-      "tags": [],
-      "_imageUrl": "https://thedieline.com/wp-content/uploads/2026/09/MF_Launch-Image-scaled.jpg"
-    },
-    {
-      "id": "3a896f88f958",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-09-08",
-      "title": "Santoni L’Apertivo Delivers On the Art of the Aperitivo",
-      "source": "Dieline",
-      "sourceUrl": "https://thedieline.com/santoni-lapertivo-delivers-on-the-art-of-the-aperitivo/",
-      "image": "📦",
-      "category": "",
-      "desc": "Santoni L’Aperitivo turns the ritual of the Italian aperitivo into a jewel like packaging moment, mixing rosy glass, vintage references and playful elegance for a bottle made to linger on the bar cart. The post Santoni L&#8217;Apertivo Delivers On the Art of the Aperitivo appe...",
-      "tags": [
-        "包装"
-      ],
-      "_imageUrl": "https://thedieline.com/wp-content/uploads/2026/09/SnapInsta.to_754015436_18608784628054451_2480691863253313206_n-1.jpeg"
-    },
-    {
-      "id": "8616e15439cd",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-09-08",
-      "title": "Sorbe’s Sherbet Gets a Fresh Pour From Designer Cansu Merdamert",
-      "source": "Dieline",
-      "sourceUrl": "https://thedieline.com/sorbes-sherbet-gets-a-fresh-pour-from-designer-cansu-merdamert/",
-      "image": "📦",
-      "category": "",
-      "desc": "Sorbe gives traditional sherbet a colorful new chapter, mixing playful character design, cultural references and contemporary CPG energy into a drinks range made for modern shelves. The post Sorbe&#8217;s Sherbet Gets a Fresh Pour From Designer Cansu Merdamert appeared first o...",
-      "tags": [],
-      "_imageUrl": "https://thedieline.com/wp-content/uploads/2026/09/05142d252969197.6a5cea03cd2b0.jpg-1.png"
-    },
-    {
-      "id": "0440ea7255cc",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-09-08",
-      "title": "SYNERA — Functional Drink Brand Identity & Packaging",
-      "source": "Packaging of the World",
-      "sourceUrl": "https://packagingoftheworld.com/2026/09/synera-functional-drink-brand-identity-packaging.html",
-      "image": "📦",
-      "category": "",
-      "desc": "Most functional drinks promise performance. SYNERA was designed to deliver balance. A complete brand identity and packaging system for a premium functional drink brand — four products, four functional states, one coherent system designed to support focus, energy, relaxation, a...",
-      "tags": [
-        "包装"
-      ],
-      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/09/coverpage-e1788867361810.jpg?fit=300%2C235&amp;ssl=1"
-    },
-    {
-      "id": "a9eee7e777db",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-09-08",
-      "title": "THE PRISM – Beverages Branding & Packaging | Drink | Can",
-      "source": "Packaging of the World",
-      "sourceUrl": "https://packagingoftheworld.com/2026/09/the-prism-beverages-branding-packaging-drink-can.html",
-      "image": "📦",
-      "category": "",
-      "desc": "ABOUT The Prism was born from a simple observation: the most beautiful things aren&#8217;t always created—they&#8217;re simply uncovered. Just as a prism reveals the hidden spectrum within a single beam of light, the brand is built around the idea that extraordinary experience...",
-      "tags": [
-        "包装"
-      ],
-      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/09/282bea414158102fc6ec8de8437fd6c5_tattoo-1-e1788867342999.png?fit=257%2C300&amp;ssl=1"
     }
   ]
 }
