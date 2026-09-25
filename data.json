@@ -1,7 +1,7 @@
 {
   "meta": {
-    "updated": "2026-09-24",
-    "version": 1790215000,
+    "updated": "2026-09-25",
+    "version": 1790302404,
     "total": 150,
     "auto_generated": true,
     "sources": [
@@ -334,6 +334,333 @@
         "type": "工艺创新",
         "detail": "整只虾仁入馅的工业化量产技术，保水不碎"
       }
+    },
+    {
+      "id": "6fe0caec2d70",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-09-24",
+      "title": "Growth by acquisition: 5 megadeals transforming food and drink",
+      "source": "FoodNavigator-Asia",
+      "sourceUrl": "https://www.foodnavigator.com/Article/2026/09/24/growth-by-acquisition-5-megadeals-transforming-food-and-drink/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "📊",
+      "category": "",
+      "desc": "From Mars and Ferrero to Danone and KDP, explore five of the biggest recent food and beverage M&amp;A deals and the strategic goals behind them.",
+      "tags": [],
+      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/5NEGZ5NCXBD7XMAZDJX4NVZUYI.jpg?auth=02258508ed2d3dd8bf7485912fe02487fe671f3104ddf2a9561f8283c71fc25a&smart=true&width=2308&height=1298"
+    },
+    {
+      "id": "2d1e57828a90",
+      "type": "compliance",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-09-24",
+      "title": "Big Food warns growing scrutiny of ultra-processed foods could hit sales and ...",
+      "source": "FoodNavigator-Asia",
+      "sourceUrl": "https://www.foodnavigator.com/Article/2026/09/24/big-food-warns-of-risks-from-ultra-processed-foods/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "⚖️",
+      "category": "",
+      "desc": "Campbell’s, PepsiCo and other food giants warn that UPF scrutiny could drive new regulations, litigation, reformulation costs and weaker demand.",
+      "tags": [],
+      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/HFSOQ2UBBVDQFCNZLWXVDCN4GQ.jpg?auth=0fb8e202755f9f58fd3a5431e0041428ccd773f0969fd35d4866d5e549d38803&smart=true&width=3264&height=2448"
+    },
+    {
+      "id": "a1f1703d06f6",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-09-24",
+      "title": "General Mills rebuilds retail momentum with price cuts, innovation & marketing",
+      "source": "FoodNavigator-Asia",
+      "sourceUrl": "https://www.foodnavigator.com/Article/2026/09/24/general-mills-builds-momentum-with-price-cuts-innovation/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "📊",
+      "category": "",
+      "desc": "General Mills sees improving retail sales after price cuts, product innovation and stepped-up marketing aimed at driving growth.",
+      "tags": [
+        "创新"
+      ],
+      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/3GS3TNCVMNEUXHSOZLX7GA3DAY.png?auth=5075b25e417f002285b24edd0d2ec971738f5ff81a9375ff12440ddda4f41ed5&smart=true&width=1280&height=720"
+    },
+    {
+      "id": "c209715725f9",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-09-24",
+      "title": "Protein, coffee and convenience drive Chobani’s next phase of expansion",
+      "source": "FoodNavigator-Asia",
+      "sourceUrl": "https://www.dairyreporter.com/Article/2026/09/24/chobani-targets-protein-and-coffee-growth-as-demand-for-natural-foods-rises/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "📊",
+      "category": "",
+      "desc": "Chobani says demand for high-protein, natural foods continues to accelerate, with yogurt and RTD coffee driving growth as the company expands manufacturing capacity.",
+      "tags": [],
+      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/RHXZGPTBGFGLLLWOWVKGD44MWM.jpg?auth=8536c09624078a9b3347e50221bd1d3e3f34d32422da5faa197953315804b102&smart=true&width=6686&height=4457"
+    },
+    {
+      "id": "d7a625e19b8e",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-09-24",
+      "title": "Are consumers really asking AI what snacks to eat?",
+      "source": "FoodNavigator-Asia",
+      "sourceUrl": "https://www.bakeryandsnacks.com/Article/2026/09/24/how-ai-is-influencing-snack-discovery-and-shopping/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "📊",
+      "category": "",
+      "desc": "Conagra’s analysis of AI queries suggests shoppers are asking for snacks that meet specific needs. What does the evidence reveal about discovery and sales?",
+      "tags": [],
+      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/HGB3MUIYUJPHXFQMWD6EQV6RQA.jpg?auth=694f4747483fc1d1f17d3901caca6540a17bd64ee0b211d452521647f85a7154&smart=true&width=724&height=482"
+    },
+    {
+      "id": "a9c39b105804",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-09-24",
+      "title": "Foodex Ingredients on why flavour still matters in snacking",
+      "source": "FoodNavigator-Asia",
+      "sourceUrl": "https://www.foodnavigator.com/Article/2026/09/24/foodex-ingredients-on-why-flavour-still-matters-in-snacking/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "📊",
+      "category": "",
+      "desc": "Foodex Ingredients sees flavour as key to snack innovation, with ube, matcha and peach among the profiles it is exploring across markets.",
+      "tags": [
+        "创新",
+        "原料"
+      ],
+      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/RA633YA5NZA7DLTPIUBWKTA4H4.jpg?auth=a3f39875c9b0d22a1862bd18019ace5f4f837b75e8ace5372226c1e61f3e57b6&smart=true&width=2121&height=1414"
+    },
+    {
+      "id": "2c68f0bcb91c",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-09-24",
+      "title": "Looking beyond healthy: Why better-for-you isn’t enough for snacks",
+      "source": "FoodNavigator-Asia",
+      "sourceUrl": "https://www.foodnavigator.com/Article/2026/09/24/looking-beyond-healthy-why-better-for-you-isnt-enough-for-snacks/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "📊",
+      "category": "",
+      "desc": "Better-for-you snacks must deliver more than health as consumers continue to seek indulgence, familiarity, convenience and value.",
+      "tags": [],
+      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/PSTNJSOWRZB65OYATLC246RADM.jpg?auth=29b006c98c17dbaf88821b84051866b18bfd12d82676b86846f78d4e0ce9b850&smart=true&width=2121&height=1414"
+    },
+    {
+      "id": "2e29c0f6d64c",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-09-24",
+      "title": "General Mills rebuilds retail momentum with price cuts, innovation & marketing",
+      "source": "FoodNavigator-USA",
+      "sourceUrl": "https://www.foodnavigator.com/Article/2026/09/24/general-mills-builds-momentum-with-price-cuts-innovation/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "📊",
+      "category": "",
+      "desc": "General Mills sees improving retail sales after price cuts, product innovation and stepped-up marketing aimed at driving growth.",
+      "tags": [
+        "创新"
+      ],
+      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/3GS3TNCVMNEUXHSOZLX7GA3DAY.png?auth=5075b25e417f002285b24edd0d2ec971738f5ff81a9375ff12440ddda4f41ed5&smart=true&width=1280&height=720"
+    },
+    {
+      "id": "affc3809b0c7",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-09-24",
+      "title": "Foodex Ingredients on why flavour still matters in snacking",
+      "source": "FoodNavigator-USA",
+      "sourceUrl": "https://www.foodnavigator.com/Article/2026/09/24/foodex-ingredients-on-why-flavour-still-matters-in-snacking/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "📊",
+      "category": "",
+      "desc": "Foodex Ingredients sees flavour as key to snack innovation, with ube, matcha and peach among the profiles it is exploring across markets.",
+      "tags": [
+        "创新",
+        "原料"
+      ],
+      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/RA633YA5NZA7DLTPIUBWKTA4H4.jpg?auth=a3f39875c9b0d22a1862bd18019ace5f4f837b75e8ace5372226c1e61f3e57b6&smart=true&width=2121&height=1414"
+    },
+    {
+      "id": "b251a0f6da05",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-09-24",
+      "title": "Leckerlee Turns 15 Years of Lebkuchen Tins Into a Collectible Tradition",
+      "source": "Dieline",
+      "sourceUrl": "https://thedieline.com/leckerlee-turns-15-years-of-lebkuchen-tins-into-a-collectible-tradition/",
+      "image": "📦",
+      "category": "",
+      "desc": "For fifteen years, Leckerlee and Strohl have turned traditional lebkuchen tins into an ever growing collection of illustrated keepsakes. Across 46 designs, German references meet folk art, Alpine scenes, botanical ornament and playful modern illustration, making each holiday r...",
+      "tags": [],
+      "_imageUrl": "https://thedieline.com/wp-content/uploads/2026/09/Leckerlee_Lifestyle10-5711ed8723ff990a6dc5a98cef0af3f5-2.jpg"
+    },
+    {
+      "id": "18a0f9de2c4f",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-09-24",
+      "title": "Good Apple Gives Apple Juice Its Cool Back",
+      "source": "Dieline",
+      "sourceUrl": "https://thedieline.com/good-apple-gives-apple-juice-its-cool-back/",
+      "image": "📦",
+      "category": "",
+      "desc": "Good Apple gives a nostalgic staple a fresh place in today’s beverage aisle, pairing a classic glass milk bottle with playful fruit illustrations and vintage inspired typography. Drawing from orchard labels and roadside signage, the packaging makes apple juice feel wonderfully...",
+      "tags": [
+        "包装"
+      ],
+      "_imageUrl": "https://thedieline.com/wp-content/uploads/2026/09/IMG_9839-re-scaled.jpg"
+    },
+    {
+      "id": "3b395c1afa93",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-09-24",
+      "title": "AVIARY — Beyond What Holds Us",
+      "source": "Packaging of the World",
+      "sourceUrl": "https://packagingoftheworld.com/2026/09/aviary-beyond-what-holds-us.html",
+      "image": "📦",
+      "category": "",
+      "desc": "The story begins with a bird that refuses to stay within the frame. Aviary was created around a simple idea: what if the packaging itself could become part of the story? At the center of the label, a bird rests within a carefully composed botanical scene. Its dark silhouette r...",
+      "tags": [
+        "包装"
+      ],
+      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/09/image-gen-320260922-114112-gigapixel-e1790252724200.jpg?fit=300%2C212&amp;ssl=1"
+    },
+    {
+      "id": "564a521c1de6",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-09-24",
+      "title": "Bakul. Hand Cosmetics Packaging Design",
+      "source": "Packaging of the World",
+      "sourceUrl": "https://packagingoftheworld.com/2026/09/bakul-hand-cosmetics-packaging-design.html",
+      "image": "📦",
+      "category": "",
+      "desc": "Bakul. — Hand Cosmetics Brand &#38; Packaging Design Case Study ABOUT This was a creative branding and packaging project where we developed a distinct visual identity and packaging system for Bakul. Hand Cosmetics. The goal was to establish a premium hand care brand that commu...",
+      "tags": [
+        "包装"
+      ],
+      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/09/6-bakul-1-scaled-e1790252686662.jpg?fit=300%2C193&amp;ssl=1"
+    },
+    {
+      "id": "c69f7ec5cc26",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-09-24",
+      "title": "RESIDUE | Deodorant Brand Identity & Packaging Design",
+      "source": "Packaging of the World",
+      "sourceUrl": "https://packagingoftheworld.com/2026/09/residue-deodorant-brand-identity-packaging-design.html",
+      "image": "📦",
+      "category": "",
+      "desc": "THE BRIEF Residue is a natural deodorant concept developed from a Designer Briefs: Residue is an on-trend natural deodorant brand focused on natural protection. Moving away from boring drugstore sticks, they combine clean, honest ingredients with sleek packaging designed to le...",
+      "tags": [
+        "包装",
+        "原料"
+      ],
+      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/09/Behance_cover_RESIDUE-e1790252661258.png?fit=300%2C235&amp;ssl=1"
+    },
+    {
+      "id": "a5dba23978fe",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-09-24",
+      "title": "Litoral Lab — Challenging the Visual Conventions of Cannabis",
+      "source": "Packaging of the World",
+      "sourceUrl": "https://packagingoftheworld.com/2026/09/litoral-lab-challenging-the-visual-conventions-of-cannabis.html",
+      "image": "📦",
+      "category": "",
+      "desc": "Litoral Lab — Challenging the Visual Conventions of Medical Cannabis. Can design change the way we perceive an entire industry? The way a brand presents itself can reinforce existing prejudices or become a tool for challenging them. In industries shaped by stigma, visual ident...",
+      "tags": [],
+      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/09/Litoral-Lab-VB-blog-11-3-scaled-e1790252646592.jpg?fit=240%2C300&amp;ssl=1"
+    },
+    {
+      "id": "90ce151782bd",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-09-24",
+      "title": "Stelisa Garda DOP Olive Oil",
+      "source": "Packaging of the World",
+      "sourceUrl": "https://packagingoftheworld.com/2026/09/stelisa-garda-dop-olive-oil.html",
+      "image": "📦",
+      "category": "",
+      "desc": "There are projects where the challenge isn&#8217;t to create something new, but to evolve consciously. This vision is behind the new packaging for Olio Stelisa (IG profile: @oliostelisa), a project in which every detail speaks of selection, care, and value. In reimagining its ...",
+      "tags": [
+        "包装"
+      ],
+      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/09/1aa6a4e1a60f691f0085fbdbea572804_tattoo-1-e1790252625291.png?fit=300%2C271&amp;ssl=1"
+    },
+    {
+      "id": "282d731cb3ef",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-09-24",
+      "title": "YUZU: A Little Citrus, A Lot More Personality",
+      "source": "Packaging of the World",
+      "sourceUrl": "https://packagingoftheworld.com/2026/09/yuzu-a-little-citrus-a-lot-more-personality.html",
+      "image": "📦",
+      "category": "",
+      "desc": "YUZU is a concept for a sparkling alcoholic citrus drink inspired by the bright, distinctive flavour of Japanese yuzu. Positioned between a hard lemonade and a citrus seltzer, the brand is designed around the idea of making citrus feel more contemporary, energetic, and visuall...",
+      "tags": [
+        "日本"
+      ],
+      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/09/yuzu-5-4-e1790252605208.png?fit=240%2C300&amp;ssl=1"
+    },
+    {
+      "id": "b4f376a885e6",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-09-24",
+      "title": "Why food rating systems can miss the mark on nutrition",
+      "source": "Food Dive",
+      "sourceUrl": "https://www.fooddive.com/news/food-rating-systems-nutrition-ai-oped/831278/",
+      "image": "📊",
+      "category": "",
+      "desc": "Apps and other technology options designed to provide more clarity behind the ingredients in food actually deliver confusion, writes the CEO of Perfect Snacks.",
+      "tags": [
+        "原料"
+      ],
+      "_imageUrl": "https://imgproxy.divecdn.com/TOchDBaDGvIYgF0EmehjKI5H0queOfnW86kNGTwqEmQ/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjU1MjIwNDg3LmpwZw==.webp"
+    },
+    {
+      "id": "fd5063495dab",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-09-24",
+      "title": "General Mills prioritizes innovation following recent price cuts",
+      "source": "Food Dive",
+      "sourceUrl": "https://www.fooddive.com/news/general-mills-innovation-price-cuts-win-consumers/831140/",
+      "image": "📊",
+      "category": "",
+      "desc": "The Cheerios maker is trying to make its products stand out with protein, clean labels and other consumer trends.",
+      "tags": [
+        "创新"
+      ],
+      "_imageUrl": "https://imgproxy.divecdn.com/QDNPXMRMilOgXFn9iVcV30ztr8JdXs5uCXYIgTqvtiA/g:nowe:0:144/c:2500:1412/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy04NTAyMzY0NTYuanBn.webp"
+    },
+    {
+      "id": "417bcd8d032d",
+      "type": "newproduct",
+      "section": "newproduct",
+      "sub": "report",
+      "date": "2026-09-24",
+      "title": "Are consumers really asking AI what snacks to eat?",
+      "source": "BakeryandSnacks",
+      "sourceUrl": "https://www.bakeryandsnacks.com/Article/2026/09/24/how-ai-is-influencing-snack-discovery-and-shopping/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "🆕",
+      "category": "休闲零食",
+      "desc": "Conagra’s analysis of AI queries suggests shoppers are asking for snacks that meet specific needs. What does the evidence reveal about discovery and sales?",
+      "tags": [],
+      "_imageUrl": "https://www.bakeryandsnacks.com/resizer/v2/HGB3MUIYUJPHXFQMWD6EQV6RQA.jpg?auth=694f4747483fc1d1f17d3901caca6540a17bd64ee0b211d452521647f85a7154&smart=true&width=724&height=482"
     },
     {
       "id": "fb16f9189b6e",
@@ -703,6 +1030,23 @@
         "创新"
       ],
       "_imageUrl": "https://www.foodmanufacture.co.uk/resizer/v2/QHJYGO24OJG4BM5BC5YXPUK3UM.jpg?auth=f695b855f0156fa0c2d44b559911b50d84fe5104716692ef16ee83793bb5f454&smart=true&width=2308&height=1299"
+    },
+    {
+      "id": "3d6f88265e8c",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-09-23",
+      "title": "Do consumers actually like pumpkin spice?",
+      "source": "Food Manufacture",
+      "sourceUrl": "https://www.foodnavigator.com/Article/2026/09/23/do-consumers-like-pumpkin-spice/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "📊",
+      "category": "",
+      "desc": "Every Autumn, pumpkin spice is omnipresent. Is the ingredient just a fad, or is it a mainstay. Do consumers actually like it?",
+      "tags": [
+        "原料"
+      ],
+      "_imageUrl": "https://www.foodmanufacture.co.uk/resizer/v2/3ZN73F3PIRBPPC3Y3F5ZKN4XYI.jpg?auth=94c80852250f43f513e7a16bf65d49831663b2e33e45be7eadab1636473e520a&smart=true&width=2120&height=1414"
     },
     {
       "id": "f2d13e97659e",
@@ -2189,362 +2533,6 @@
       "desc": "The gut health trend is everywhere. But when consumers see the 'gut health' label, what do they actually expect from it? How has this changed over time?",
       "tags": [],
       "_imageUrl": "https://www.foodnavigator.com/resizer/v2/J5T65RW5ZVAMZHPAD7XMJQR77U.jpg?auth=c862f758b63ba452811a21e0afd7c131f07a7e7635c964e238cb9579e8b02ba3&smart=true&width=2121&height=1414"
-    },
-    {
-      "id": "c0b6d8607659",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-09-15",
-      "title": "From aspartame to allulose: The future of sweeteners takes shape",
-      "source": "FoodNavigator-Asia",
-      "sourceUrl": "https://www.foodnavigator.com/Article/2026/09/15/from-aspartame-to-allulose-the-future-of-sweeteners-takes-shape/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "📊",
-      "category": "",
-      "desc": "The sweetener market is evolving as manufacturers balance sugar reduction targets, health concerns, consumer preferences, regulatory pressures and new ingredient innovation.",
-      "tags": [
-        "创新",
-        "原料"
-      ],
-      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/SLVLDVBVZNHZHP7MTSCNGL73IY.jpg?auth=f2c07f5c6d68c5e02524d1696858deab806866e097310f5a08a02f7e5d7e489f&smart=true&width=2121&height=1414"
-    },
-    {
-      "id": "d089dbe9ace0",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-09-15",
-      "title": "AI, algae and agentic commerce: food tech’s next frontiers",
-      "source": "FoodNavigator-USA",
-      "sourceUrl": "https://www.foodnavigator.com/Article/2026/09/15/food-tech-innovations-driving-industry-change/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "📊",
-      "category": "",
-      "desc": "Explore five food-tech innovations, from AI and agentic commerce to microalgae proteins, gluten-free biotech and next-generation preservation.",
-      "tags": [
-        "创新"
-      ],
-      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/IZ5ZFK3635HVROYCNHM2NEN2WY.jpg?auth=31c0a885e3828efa4d1eea70cd5cf8a88aa7b6603ff56f47d5a1c32099ae661f&smart=true&width=2121&height=1414"
-    },
-    {
-      "id": "a2f4fbb6c326",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-09-15",
-      "title": "What do consumers expect from ‘gut health’?",
-      "source": "FoodNavigator-USA",
-      "sourceUrl": "https://www.foodnavigator.com/Article/2026/09/15/gut-health-consumer-expectations/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "📊",
-      "category": "",
-      "desc": "The gut health trend is everywhere. But when consumers see the 'gut health' label, what do they actually expect from it? How has this changed over time?",
-      "tags": [],
-      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/J5T65RW5ZVAMZHPAD7XMJQR77U.jpg?auth=c862f758b63ba452811a21e0afd7c131f07a7e7635c964e238cb9579e8b02ba3&smart=true&width=2121&height=1414"
-    },
-    {
-      "id": "ec2b5d010306",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-09-15",
-      "title": "From aspartame to allulose: The future of sweeteners takes shape",
-      "source": "FoodNavigator-USA",
-      "sourceUrl": "https://www.foodnavigator.com/Article/2026/09/15/from-aspartame-to-allulose-the-future-of-sweeteners-takes-shape/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "📊",
-      "category": "",
-      "desc": "The sweetener market is evolving as manufacturers balance sugar reduction targets, health concerns, consumer preferences, regulatory pressures and new ingredient innovation.",
-      "tags": [
-        "创新",
-        "原料"
-      ],
-      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/SLVLDVBVZNHZHP7MTSCNGL73IY.jpg?auth=f2c07f5c6d68c5e02524d1696858deab806866e097310f5a08a02f7e5d7e489f&smart=true&width=2121&height=1414"
-    },
-    {
-      "id": "961e91b1a002",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-09-15",
-      "title": "Colgate Made a Better Toothpaste Tube. Now They’re Getting Sued for It",
-      "source": "Dieline",
-      "sourceUrl": "https://thedieline.com/colgate-made-a-better-toothpaste-tube-now-theyre-getting-sued-for-it/",
-      "image": "📦",
-      "category": "",
-      "desc": "Should we put a giant asterisk next to \"recyclable\"? As a lawsuit against Colgate moves forward, the packaging industry faces a potentially uncomfortable truth: there is a world of difference between a package that is technically recyclable and one that the system actually acc...",
-      "tags": [
-        "包装"
-      ],
-      "_imageUrl": "https://thedieline.com/wp-content/uploads/2026/09/a7e77975-5e43-487f-9fda-937f861bb36e_Colgate.jpeg"
-    },
-    {
-      "id": "eea4d4881513",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-09-15",
-      "title": "In-house teams have their own category — and one award decided on sales data",
-      "source": "Dieline",
-      "sourceUrl": "https://thedieline.com/dieline-awards-2027-in-house-teams/",
-      "image": "📦",
-      "category": "",
-      "desc": "In-House is category 10 at the DIELINE Awards 2027, and the Designalytics Effectiveness Award is free to enter. Fall Entry closes September 30. The post In-house teams have their own category — and one award decided on sales data appeared first on DIELINE.",
-      "tags": [],
-      "_imageUrl": "https://thedieline.com/wp-content/uploads/2026/09/da27-sep-21-winner-burn-rate.jpg"
-    },
-    {
-      "id": "4a5c0b1f23fc",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-09-15",
-      "title": "Gambit XXO Makes a Grandmaster Move in Spirits Design",
-      "source": "Dieline",
-      "sourceUrl": "https://thedieline.com/gambit-xxo-makes-a-grandmaster-move-in-spirits-design/",
-      "image": "📦",
-      "category": "",
-      "desc": "GAMBIT XXO turns the strategy and symbolism of chess into a sculptural spirits bottle, pairing king inspired architecture with warm wood, amber glass and restrained typography for a collectible take on premium packaging. The post Gambit XXO Makes a Grandmaster Move in Spirits ...",
-      "tags": [
-        "包装"
-      ],
-      "_imageUrl": "https://thedieline.com/wp-content/uploads/2026/09/ALL-PURPOSE-OIL-2.png"
-    },
-    {
-      "id": "068df5cbfd92",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-09-15",
-      "title": "Shiho Karino’s Mah Jong Concept is Where Play Becomes Ritual",
-      "source": "Dieline",
-      "sourceUrl": "https://thedieline.com/shiho-karinos-mah-jong-concept-is-where-play-becomes-ritual/",
-      "image": "📦",
-      "category": "",
-      "desc": "MAH JONG turns the familiar game box into a lasting part of play, using bamboo, deep green accents, and engraved details to celebrate the rituals around the table. Designed by Shiho Karino, it is a thoughtful reminder that packaging can be kept, used, and enjoyed long after op...",
-      "tags": [
-        "包装"
-      ],
-      "_imageUrl": "https://thedieline.com/wp-content/uploads/2026/09/Image2-e09d4730e8cbb0fdc52604c702556434-1.png"
-    },
-    {
-      "id": "dd5751331c0c",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-09-15",
-      "title": "Paciencia – Brand Design",
-      "source": "Packaging of the World",
-      "sourceUrl": "https://packagingoftheworld.com/2026/09/paciencia-brand-design.html",
-      "image": "📦",
-      "category": "",
-      "desc": "PACIENCIA — Agua de Manguera is a self-initiated beverage branding and packaging project by Santiago / WANANDA, inspired by a simple childhood memory: playing outside on a hot summer day and being offered water from a hose in the unfamiliar garden of a neighbor. Before water h...",
-      "tags": [
-        "包装"
-      ],
-      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/09/Vibrant-Agua-de-Manguera-Bottle-1-e1789467806169.png?fit=240%2C300&amp;ssl=1"
-    },
-    {
-      "id": "ff60981ea7c2",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-09-15",
-      "title": "Damiano Gin CGI",
-      "source": "Packaging of the World",
-      "sourceUrl": "https://packagingoftheworld.com/2026/09/damiano-gin-cgi.html",
-      "image": "📦",
-      "category": "",
-      "desc": "Project &#8211; Damiano Country &#8211; Italy (Venice) Bottle &#8211; The Duomo Bottle. This design enhance the overall height and presence of the bottle, thanks to exclusive double base. &#160; &#160;",
-      "tags": [],
-      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/09/3-36-e1789467646729.jpg?fit=300%2C300&amp;ssl=1"
-    },
-    {
-      "id": "4f1129d6719e",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-09-15",
-      "title": "CHIPSON Concept Packaging Design",
-      "source": "Packaging of the World",
-      "sourceUrl": "https://packagingoftheworld.com/2026/09/chipson-concept-packaging-design.html",
-      "image": "📦",
-      "category": "",
-      "desc": "ABOUT CHIPSON is a fictional potato chips brand created as a packaging design concept focused on building a bold, energetic and instantly recognizable snack identity. The concept explores how a simple potato chip product can become a visually expressive brand through strong ty...",
-      "tags": [
-        "包装"
-      ],
-      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/09/-%D0%B8%D0%BD%D1%81%D1%82%D0%B0-05-1-scaled-e1789466874526.jpg?fit=240%2C300&amp;ssl=1"
-    },
-    {
-      "id": "9e6773c1be9f",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-09-15",
-      "title": "Mondelēz set to relaunch ‘star brand’ Oreo in 2027",
-      "source": "Food Dive",
-      "sourceUrl": "https://www.fooddive.com/news/snacking-mondelez-relaunch-oreo-2027-chips-ahoy/830320/",
-      "image": "📊",
-      "category": "",
-      "desc": "The snacking giant said the overhaul of the 100-year-old cookie brand, with nearly $5 billion in sales, will include new packaging, price points and formulas.",
-      "tags": [
-        "包装"
-      ],
-      "_imageUrl": "https://imgproxy.divecdn.com/HEHkjGkcTUeTBDpLs32ddwbRxjfG5B1R6k2E4T7SxDU/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTg5NDQ3NDUzLmpwZw==.webp"
-    },
-    {
-      "id": "980726ab7de6",
-      "type": "newproduct",
-      "section": "newproduct",
-      "sub": "report",
-      "date": "2026-09-15",
-      "title": "From aspartame to allulose: The future of sweeteners takes shape",
-      "source": "BakeryandSnacks",
-      "sourceUrl": "https://www.foodnavigator.com/Article/2026/09/15/from-aspartame-to-allulose-the-future-of-sweeteners-takes-shape/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "🆕",
-      "category": "休闲零食",
-      "desc": "The sweetener market is evolving as manufacturers balance sugar reduction targets, health concerns, consumer preferences, regulatory pressures and new ingredient innovation.",
-      "tags": [
-        "创新",
-        "原料"
-      ],
-      "_imageUrl": "https://www.bakeryandsnacks.com/resizer/v2/SLVLDVBVZNHZHP7MTSCNGL73IY.jpg?auth=f2c07f5c6d68c5e02524d1696858deab806866e097310f5a08a02f7e5d7e489f&smart=true&width=2121&height=1414"
-    },
-    {
-      "id": "a8fe3890f6c5",
-      "type": "newproduct",
-      "section": "newproduct",
-      "sub": "report",
-      "date": "2026-09-15",
-      "title": "From aspartame to allulose: The future of sweeteners takes shape",
-      "source": "Beverage Daily",
-      "sourceUrl": "https://www.foodnavigator.com/Article/2026/09/15/from-aspartame-to-allulose-the-future-of-sweeteners-takes-shape/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "🆕",
-      "category": "饮品",
-      "desc": "The sweetener market is evolving as manufacturers balance sugar reduction targets, health concerns, consumer preferences, regulatory pressures and new ingredient innovation.",
-      "tags": [
-        "创新",
-        "原料"
-      ],
-      "_imageUrl": "https://www.beveragedaily.com/resizer/v2/SLVLDVBVZNHZHP7MTSCNGL73IY.jpg?auth=f2c07f5c6d68c5e02524d1696858deab806866e097310f5a08a02f7e5d7e489f&smart=true&width=2121&height=1414"
-    },
-    {
-      "id": "16ff6b0a637a",
-      "type": "newproduct",
-      "section": "newproduct",
-      "sub": "report",
-      "date": "2026-09-15",
-      "title": "PepsiCo, Hormel and Knorr turn up the heat",
-      "source": "BakeryandSnacks",
-      "sourceUrl": "https://www.foodnavigator.com/Article/2026/09/15/knorr-mountain-dew-and-spam-to-release-heat-forward-products/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "🆕",
-      "category": "休闲零食",
-      "desc": "New launches from Knorr, Mountain Dew and Spam highlight food brands’ continued push into spicy, sweet-heat and heat-forward flavors.",
-      "tags": [],
-      "_imageUrl": "https://www.bakeryandsnacks.com/resizer/v2/YON3LEEOFJAOFCFBSKLCF7FIKY.jpg?auth=2e41b926dcdf07453ed985c3b17b1eb39f81f77383ee4e4d4dac90cf4105e588&smart=true&width=3031&height=1950"
-    },
-    {
-      "id": "b9f1de2a1b29",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-09-14",
-      "title": "Plant-based milk brands double down on simplified ingredient lists amid proce...",
-      "source": "FoodNavigator-Asia",
-      "sourceUrl": "https://www.foodnavigator.com/Article/2026/09/14/clean-label-demands-reshape-plant-based-milk-innovation/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "📊",
-      "category": "",
-      "desc": "As consumers increasingly scrutinize processing and ingredient labels, Planet Oat is joining a growing group of plant-based milk brands launching minimalist formulations free of gums, oils and other additives.",
-      "tags": [
-        "植物基",
-        "原料"
-      ],
-      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/XWTJG7G3NFAUPKWOKCKASVZEQI.jpeg?auth=1276d2e5fa4a44960750df020a0a5f7088ed20c655510b59dcee8ffff51e845a&smart=true&width=1078&height=809"
-    },
-    {
-      "id": "f14e8c647c77",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-09-14",
-      "title": "Japan Focus: Kumamoto’s food label reprieve, the cost of decarbonisation for ...",
-      "source": "FoodNavigator-Asia",
-      "sourceUrl": "https://www.foodnavigator.com/Article/2026/09/14/japan-focus-kumamotos-food-label-reprieve-the-cost-of-decarbonisation-for-kirin-roku-gins-summer-story-and-more/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "📊",
-      "category": "",
-      "desc": "This week’s Japan Focus covers emergency food labelling measures in earthquake-struck Kumamoto, Kirin’s low-carbon transition costs, Suntory’s seasonal Roku Gin packaging, and the latest developments in premium beer and dairy-free ice cream.",
-      "tags": [
-        "日本",
-        "包装"
-      ],
-      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/ISUFI3F6LVE2TNC63OOSOTXXY4.jpg?auth=f2576f503a5b959fa1322766f96f0b049918ca20c2acd88c7383ce3671f3160e&smart=true&width=2944&height=1856"
-    },
-    {
-      "id": "41119adf4f89",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-09-14",
-      "title": "Plant-based milk brands double down on simplified ingredient lists amid proce...",
-      "source": "FoodNavigator-USA",
-      "sourceUrl": "https://www.foodnavigator.com/Article/2026/09/14/clean-label-demands-reshape-plant-based-milk-innovation/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "📊",
-      "category": "",
-      "desc": "As consumers increasingly scrutinize processing and ingredient labels, Planet Oat is joining a growing group of plant-based milk brands launching minimalist formulations free of gums, oils and other additives.",
-      "tags": [
-        "植物基",
-        "原料"
-      ],
-      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/XWTJG7G3NFAUPKWOKCKASVZEQI.jpeg?auth=1276d2e5fa4a44960750df020a0a5f7088ed20c655510b59dcee8ffff51e845a&smart=true&width=1078&height=809"
-    },
-    {
-      "id": "74ddc9c8ac3d",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-09-14",
-      "title": "HallPass Wants Permission to Cheat, But In a Good Way",
-      "source": "Dieline",
-      "sourceUrl": "https://thedieline.com/hallpass-wants-permission-to-cheat-but-in-a-good-way/",
-      "image": "📦",
-      "category": "",
-      "desc": "From the makers of David Protein comes HallPass, a 70-calorie candy brand boasting Day Job-designed packaging and a heavy dose of EPG. The post HallPass Wants Permission to Cheat, But In a Good Way appeared first on DIELINE.",
-      "tags": [
-        "包装"
-      ],
-      "_imageUrl": "https://thedieline.com/wp-content/uploads/2026/09/banner-candy-scaled.webp"
-    },
-    {
-      "id": "77177065a1ab",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-09-14",
-      "title": "Milky Band Brings The Joy Of Childhood Rituals To Yogurt",
-      "source": "Dieline",
-      "sourceUrl": "https://thedieline.com/milky-band-brings-the-joy-of-childhood-rituals-to-yogurt/",
-      "image": "📦",
-      "category": "",
-      "desc": "Milky Band turns everyday yogurt into a tiny moment of play, with collectible animal caps, cheerful colors and wonderfully simple packaging made for little hands. The post Milky Band Brings The Joy Of Childhood Rituals To Yogurt appeared first on DIELINE.",
-      "tags": [
-        "包装"
-      ],
-      "_imageUrl": "https://thedieline.com/wp-content/uploads/2026/09/15-6b6c31b468cd4b7a3c2e02c89451b7da-1.jpg"
-    },
-    {
-      "id": "1a4ec992c124",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-09-14",
-      "title": "Pluto Is Perfume Without the Guesswork",
-      "source": "Dieline",
-      "sourceUrl": "https://thedieline.com/pluto-is-perfume-without-the-guesswork/",
-      "image": "📦",
-      "category": "",
-      "desc": "Pluto makes perfume easier to decode, turning familiar scent references, playful illustrations and everyday language into packaging that invites you in rather than keeping you guessing. The post Pluto Is Perfume Without the Guesswork appeared first on DIELINE.",
-      "tags": [
-        "包装"
-      ],
-      "_imageUrl": "https://thedieline.com/wp-content/uploads/2026/09/pluto_hero-45bc6a02ad098a1c1e1373d5c1231a1a.jpg"
     }
   ]
 }
