@@ -1,7 +1,7 @@
 {
   "meta": {
-    "updated": "2026-09-30",
-    "version": 1790736269,
+    "updated": "2026-10-01",
+    "version": 1790823016,
     "total": 150,
     "auto_generated": true,
     "sources": [
@@ -336,6 +336,121 @@
       }
     },
     {
+      "id": "12f678ec73a4",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-09-30",
+      "title": "Hershey boosts Reese’s portfolio in bid to accelerate growth",
+      "source": "FoodNavigator-Asia",
+      "sourceUrl": "https://www.confectionerynews.com/Article/2026/09/30/hershey-boosts-reeses-portfolio-in-bid-to-accelerate-growth/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "📊",
+      "category": "",
+      "desc": "Hershey doubles down on Reese’s with caramel and white chocolate innovations designed to tap into growing demand for indulgent flavour twists and drive growth through one of its most valuable brands.",
+      "tags": [
+        "创新"
+      ],
+      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/V5WWYB6ORVAPPP2DSSABWLPJ5I.jpg?auth=a141e70466465dfda5fd53e55f5c15543360f3aab3d014e83a522a5fce4527bc&smart=true&width=2121&height=1414"
+    },
+    {
+      "id": "c6521b5bdd09",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-09-30",
+      "title": "92% want to eat better. Only 14% think they do",
+      "source": "FoodNavigator-Asia",
+      "sourceUrl": "https://www.foodnavigator.com/Article/2026/09/30/closing-the-healthy-eating-intention-gap/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "📊",
+      "category": "",
+      "desc": "Consumers want healthier diets, but affordability, confusion and convenience barriers are preventing action. Retailers can help close the gap through pricing, labelling and tailored solutions.",
+      "tags": [],
+      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/E3RMGAFA4ZABZDVA7XU4QTENWA.jpg?auth=9c17e153dd3314a64224087db2b4bbd35ae1768cdd6bff0b7b8164510a1f2e2b&smart=true&width=1999&height=1499"
+    },
+    {
+      "id": "f20dfde330f5",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-09-30",
+      "title": "Hershey boosts Reese’s portfolio in bid to accelerate growth",
+      "source": "FoodNavigator-USA",
+      "sourceUrl": "https://www.confectionerynews.com/Article/2026/09/30/hershey-boosts-reeses-portfolio-in-bid-to-accelerate-growth/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "📊",
+      "category": "",
+      "desc": "Hershey doubles down on Reese’s with caramel and white chocolate innovations designed to tap into growing demand for indulgent flavour twists and drive growth through one of its most valuable brands.",
+      "tags": [
+        "创新"
+      ],
+      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/V5WWYB6ORVAPPP2DSSABWLPJ5I.jpg?auth=a141e70466465dfda5fd53e55f5c15543360f3aab3d014e83a522a5fce4527bc&smart=true&width=2121&height=1414"
+    },
+    {
+      "id": "195dacd7c0fe",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-09-30",
+      "title": "Bubs Turns the Shape of its Candy Into a Sweet New Identity",
+      "source": "Dieline",
+      "sourceUrl": "https://thedieline.com/bubs-turns-the-shape-of-its-candy-into-a-sweet-new-identity/",
+      "image": "📦",
+      "category": "",
+      "desc": "Bubs turns its much loved oval candy into the centerpiece of a colorful new packaging identity. Squishy custom lettering, electric color combinations and oversized graphics make the sweets instantly recognizable before the bag is even opened. The post Bubs Turns the Shape of i...",
+      "tags": [
+        "包装"
+      ],
+      "_imageUrl": "https://thedieline.com/wp-content/uploads/2026/09/BUBS_38.jpg"
+    },
+    {
+      "id": "9472e08c9099",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-09-30",
+      "title": "House Guests Gives Juice Packaging a Little Tactile Twist",
+      "source": "Dieline",
+      "sourceUrl": "https://thedieline.com/house-guests-gives-juice-packaging-a-little-tactile-twist/",
+      "image": "📦",
+      "category": "",
+      "desc": "House Guests turns a simple juice bottle into something wonderfully tactile, pairing scalloped paper labels with tiny fruit illustrations and restrained typography. The minimal design lets the color of the juice become part of the packaging itself, giving “good fruit, good jui...",
+      "tags": [
+        "包装"
+      ],
+      "_imageUrl": "https://thedieline.com/wp-content/uploads/2026/09/SnapInsta.to_801149541_18024801824901339_3686015405545985627_n-scaled.jpg"
+    },
+    {
+      "id": "181a86337b02",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-09-30",
+      "title": "How PepsiCo uses chefs to think differently about innovation",
+      "source": "Food Dive",
+      "sourceUrl": "https://www.fooddive.com/news/pepsico-innovation-snacking-chefs-doritos-lays-chipsnk-differently-about-innovation-flavors/830085/",
+      "image": "📊",
+      "category": "",
+      "desc": "The snacks giant is tapping into culinary expertise to remain competitive and uncover the next flavors that resonate with fickle consumers.",
+      "tags": [
+        "创新"
+      ],
+      "_imageUrl": "https://imgproxy.divecdn.com/U9jZ1ZBUaNGXa8GAZJ6B_PUcf5L3wf6bDRO_mPBeetk/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9QUl9GbGF2b3JfU3dhcDk4NTUuanBn.webp"
+    },
+    {
+      "id": "ab29a4376d9c",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-09-30",
+      "title": "Hormel expands deeper into protein with $1B purchase of chicken processor",
+      "source": "Food Dive",
+      "sourceUrl": "https://www.fooddive.com/news/hormel-expands-deeper-protein-purchase-chicken-brakebush-brothers/831750/",
+      "image": "📊",
+      "category": "",
+      "desc": "The acquisition of Brakebush Brothers gives the Spam producer a larger presence in value-added chicken and further strengthens its growing foodservice operations.",
+      "tags": [],
+      "_imageUrl": "https://imgproxy.divecdn.com/Jjk7RwRJnzNg-KQUFFVO45VuZdX5hJbkzHEdesfksfU/g:nowe:0:490/c:3099:1751/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JTUdfMDg4My1mb3Rvci0yMDI1MDgyNDIyMjcyNy5qcGc=.webp"
+    },
+    {
       "id": "b90fda79d068",
       "type": "report",
       "section": "data",
@@ -663,6 +778,23 @@
       "desc": "",
       "tags": [],
       "_imageUrl": "https://www.beveragedaily.com/resizer/v2/OXDQKEE3ZJFTFPCQKBHUKC7BTE.jpg?auth=500d26332a006537d820381e60f4bf41fad55cdc7440297193c0f1d82d276205&smart=true&width=3840&height=2160"
+    },
+    {
+      "id": "b6d079522f7e",
+      "type": "newproduct",
+      "section": "newproduct",
+      "sub": "report",
+      "date": "2026-09-29",
+      "title": "Pladis sales pass £3.3bn but profits take a hit",
+      "source": "BakeryandSnacks",
+      "sourceUrl": "https://www.foodnavigator.com/Article/2026/09/29/pladis-sales-top-33bn-but-profits-take-a-hit/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "🆕",
+      "category": "休闲零食",
+      "desc": "pladis Global grew sales to £3.3bn in 2025, but inflation and macroeconomic pressures weighed on profits. Strong branded sales, manufacturing investments and innovation initiatives are expected to support long-term growth.",
+      "tags": [
+        "创新"
+      ],
+      "_imageUrl": "https://www.bakeryandsnacks.com/resizer/v2/MH6AVUSGYJEV7C3ZB325DLVJCA.jpg?auth=0419b9464636887634a7319b7791156bb5f2ff1a52c566b9b3d37b31e215c661&smart=true&width=5495&height=3663"
     },
     {
       "id": "26ddab89d32f",
@@ -2415,130 +2547,6 @@
       "desc": "The launch comes as Mondelez&rsquo;s collaboration with the cookie brand in Europe and other regions &ldquo;surpassed even our expectations,&rdquo; according to an executive.",
       "tags": [],
       "_imageUrl": "https://imgproxy.divecdn.com/PsSUF7H45U7Xr4trAglVnhfsSR4UuaNqKI8171TkcwI/g:nowe:445:99/c:2554:1443/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy00NTczNDg1MDYuanBn.webp"
-    },
-    {
-      "id": "f0e85eb69046",
-      "type": "newproduct",
-      "section": "newproduct",
-      "sub": "report",
-      "date": "2026-09-22",
-      "title": "Why is energy drink dependency so high among Swedish teenagers?",
-      "source": "Beverage Daily",
-      "sourceUrl": "https://www.beveragedaily.com/Article/2026/09/22/why-is-energy-drink-dependency-so-high-among-swedish-teenagers/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "🆕",
-      "category": "饮品",
-      "desc": "",
-      "tags": [],
-      "_imageUrl": "https://www.beveragedaily.com/resizer/v2/USZDS5WYHREHVCAMUX6PXGGQXA.jpg?auth=b4b1efcdd9f249ec6edd266dd46a9a4cfc6036253fe37a44cd4ccad79cd48c0a&smart=true&width=3357&height=2238"
-    },
-    {
-      "id": "8e67e24d6904",
-      "type": "newproduct",
-      "section": "newproduct",
-      "sub": "report",
-      "date": "2026-09-22",
-      "title": "Guinness tops UK alcoholic drinks rankings for consideration, value and quality",
-      "source": "Beverage Daily",
-      "sourceUrl": "https://www.beveragedaily.com/Article/2026/09/22/guinness-tops-uk-alcoholic-drinks-rankings-for-consideration-value-and-quality/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "🆕",
-      "category": "饮品",
-      "desc": "",
-      "tags": [],
-      "_imageUrl": "https://www.beveragedaily.com/resizer/v2/CJ3RXNY7KBAPXKYVYOZZXAZLH4.jpg?auth=a08b410832798e47c614b111265ea8e1f1af713454aba6a885fa1902f8816962&smart=true&width=1999&height=1499"
-    },
-    {
-      "id": "2612ffa23cce",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-09-22",
-      "title": "Multivac UK to open new CX and innovation centre in Manchester",
-      "source": "Food Manufacture",
-      "sourceUrl": "https://www.foodmanufacture.co.uk/Article/2026/09/22/multivac-uk-is-set-to-open-a-new-innovation-centre-in-manchester-next-year/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "📊",
-      "category": "",
-      "desc": "",
-      "tags": [
-        "创新"
-      ],
-      "_imageUrl": "https://www.foodmanufacture.co.uk/resizer/v2/WAYQ67NCBZFKFKLOO322KAWEZQ.jpg?auth=0d4ea886d51a8bc18c888a351c8cfe9bea1436d848ae39d4f3d36f6a9a7e718d&smart=true&width=1670&height=942"
-    },
-    {
-      "id": "c0f991ccb096",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-09-21",
-      "title": "Nestlé Russia under state control: What happens next?",
-      "source": "FoodNavigator-Asia",
-      "sourceUrl": "https://www.foodnavigator.com/Article/2026/09/21/nestle-russia-seizure-what-next-for-the-food-and-beverage-giant-and-foreign-businesses/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "📊",
-      "category": "",
-      "desc": "Five days after the Kremlin seized control of Nestlé Russia, analysts, industry leaders and the Swiss government are assessing the implications for the food and beverage giant, foreign investors and the future of multinational business in Russia.",
-      "tags": [],
-      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/IWMIU6WUCFA4JHCXK7F7IZK22M.jpg?auth=2106a8bc4f0439058f9c5daed8651418f7d4c92124e45333e8ddcde8e63b1121&smart=true&width=2118&height=1415"
-    },
-    {
-      "id": "b7d710cd1f3f",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-09-21",
-      "title": "From protein to lactose-free: US dairy’s growth engines",
-      "source": "FoodNavigator-Asia",
-      "sourceUrl": "https://www.dairyreporter.com/Article/2026/09/21/from-protein-to-lactose-free-the-dairy-categories-driving-growth/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "📊",
-      "category": "",
-      "desc": "Protein, whole milk and value-added products such as lactose-free, ultra-filtered and A2 milk are powering US dairy growth. Explore the latest consumer and retail trends shaping the category.",
-      "tags": [],
-      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/OBVN2MPEYNE57CHKUYB2WYEBUY.jpg?auth=0b30e2e11d9d471e27e9a80d3132a1b118de543d24287355d22dc26deecd1581&smart=true&width=2120&height=1414"
-    },
-    {
-      "id": "f39b0b3a1c6b",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-09-21",
-      "title": "From protein to lactose-free: US dairy’s growth engines",
-      "source": "FoodNavigator-USA",
-      "sourceUrl": "https://www.dairyreporter.com/Article/2026/09/21/from-protein-to-lactose-free-the-dairy-categories-driving-growth/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "📊",
-      "category": "",
-      "desc": "Protein, whole milk and value-added products such as lactose-free, ultra-filtered and A2 milk are powering US dairy growth. Explore the latest consumer and retail trends shaping the category.",
-      "tags": [],
-      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/OBVN2MPEYNE57CHKUYB2WYEBUY.jpg?auth=0b30e2e11d9d471e27e9a80d3132a1b118de543d24287355d22dc26deecd1581&smart=true&width=2120&height=1414"
-    },
-    {
-      "id": "c8121670fc9f",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-09-21",
-      "title": "C4 launches beer-flavored energy drink",
-      "source": "Food Dive",
-      "sourceUrl": "https://www.fooddive.com/news/c4-energy-drink-beer-all-hopped-up/830891/",
-      "image": "📊",
-      "category": "",
-      "desc": "The Nutrabolt-owned brand is making a big bet to enter an emerging wellness niche within the nonalcoholic beer sector.",
-      "tags": [],
-      "_imageUrl": "https://imgproxy.divecdn.com/Lr9p7vzSfggHgP3bw2m6Du7x5cWjF84ar1jOAMUiEgc/g:nowe:0:750/c:3000:1694/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9BbGxIb3BwZWRVcF9CYXNpY1BEUC0xMnBhY2stV2hpdGUucG5n.webp"
-    },
-    {
-      "id": "8e0af62e62b1",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-09-21",
-      "title": "Unloved brands offloaded by Big Food are a tasty snack for startups, PE firms",
-      "source": "Food Dive",
-      "sourceUrl": "https://www.fooddive.com/news/big-food-mergers-castoffs-private-equity-conagra-campbells/825603/",
-      "image": "📊",
-      "category": "",
-      "desc": "Castoffs from Conagra, Campbell&rsquo;s and other companies are thriving under private owners who can devote more energy to innovation and growth.",
-      "tags": [
-        "创新"
-      ],
-      "_imageUrl": "https://imgproxy.divecdn.com/pRjggFm_PO3JYkkns2CFSxYAUZvIal3zuYOLTxuaxck/g:nowe:0:187/c:3198:1807/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JTUdfMzgzMC1mb3Rvci0yMDI2MDkyMTEwMjUzXzIuanBn.webp"
     }
   ]
 }
