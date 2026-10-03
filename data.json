@@ -1,7 +1,7 @@
 {
   "meta": {
-    "updated": "2026-10-02",
-    "version": 1790909557,
+    "updated": "2026-10-03",
+    "version": 1790995160,
     "total": 150,
     "auto_generated": true,
     "sources": [
@@ -334,6 +334,242 @@
         "type": "工艺创新",
         "detail": "整只虾仁入馅的工业化量产技术，保水不碎"
       }
+    },
+    {
+      "id": "05160843905a",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-10-02",
+      "title": "Weight-loss maintenance: The next GLP-1 innovation frontier?",
+      "source": "FoodNavigator-Asia",
+      "sourceUrl": "https://www.foodnavigator.com/Article/2026/10/02/glp-1-users-weight-loss-maintenance-could-be-next-frontier/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "📊",
+      "category": "",
+      "desc": "When GLP-1 users stop taking the drugs, they often regain significant levels of the weight that they lost. This could be the next frontier of food innovation. But as GLP-1 pills become more popular, could consumers see the drugs as a permanent, rather than temporary, solution?",
+      "tags": [
+        "创新"
+      ],
+      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/EXK57X65GBFEFIF4DHCWVU5WYE.jpg?auth=1cf15fcb10030579d8feb6b2c55100f1c347476635222d670fbcd4600cf05a8d&smart=true&width=2145&height=1398"
+    },
+    {
+      "id": "2f3e6d1b30a3",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-10-02",
+      "title": "Mondelēz bets on familiar favourites to drive growth",
+      "source": "FoodNavigator-Asia",
+      "sourceUrl": "https://www.confectionerynews.com/Article/2026/10/02/cadbury-launches-twirl-golden-dipped-as-brand-extensions-drive-confectionery-innovation/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "📊",
+      "category": "",
+      "desc": "Cadbury launches Twirl Golden Dipped, adding caramelised white chocolate to its iconic bar as brand extensions and indulgence trends reshape confectionery innovation.",
+      "tags": [
+        "创新"
+      ],
+      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/VQW2KJ3CFJEZ5OOQ676K5HIVGI.jpg?auth=67b21314468ddc1e917dcf48663ac30b611623989cc9acbafa9120e37deca431&smart=true&width=2121&height=1414"
+    },
+    {
+      "id": "1a6d8a1d6c79",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-10-02",
+      "title": "The future of food innovation lies in diversifying, not replacing, supply chains",
+      "source": "FoodNavigator-Asia",
+      "sourceUrl": "https://www.foodnavigator.com/Article/2026/10/02/why-supply-chain-resilience-is-reshaping-food-innovation/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "📊",
+      "category": "",
+      "desc": "Climate-driven supply chain pressures are pushing food companies to treat resilience as a business imperative, with retailers emerging as key adoption gatekeepers while challenges around data transparency and supply chain visibility persist.",
+      "tags": [
+        "创新"
+      ],
+      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/Z4MBORVHY5F3VLJTAXPRG43TBI.jpg?auth=60bebf10b5007cee61558963bb3673a4be770dcb1f74e8a8f109ea39ddf352c8&smart=true&width=2159&height=1388"
+    },
+    {
+      "id": "98fdd5e683e8",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-10-02",
+      "title": "How Boston Dynamics’ robot dog is helping food factories run smarter",
+      "source": "FoodNavigator-Asia",
+      "sourceUrl": "https://www.foodnavigator.com/Article/2026/10/02/boston-dynamics-robot-dog-can-help-run-food-factories/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "📊",
+      "category": "",
+      "desc": "Boston Dynamics' robot dog Spot can play a key role in food factories - detecting product leaks, overheating equipment and ventilation faults, and feeding the data back to humans. The dog not only helps a factory operate efficiently, but it can also draws young people in to wo...",
+      "tags": [
+        "原料"
+      ],
+      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/INX2IBOVSZFS7CU4DB7WCKHIMI.jpg?auth=c7207693d17bc9ade7badabf812c5c46b2df7a11b313a1e399a7154df91a204b&smart=true&width=3500&height=2333"
+    },
+    {
+      "id": "1a7789d71988",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-10-02",
+      "title": "Weight-loss maintenance: The next GLP-1 innovation frontier?",
+      "source": "FoodNavigator-USA",
+      "sourceUrl": "https://www.foodnavigator.com/Article/2026/10/02/glp-1-users-weight-loss-maintenance-could-be-next-frontier/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "📊",
+      "category": "",
+      "desc": "When GLP-1 users stop taking the drugs, they often regain significant levels of the weight that they lost. This could be the next frontier of food innovation. But as GLP-1 pills become more popular, could consumers see the drugs as a permanent, rather than temporary, solution?",
+      "tags": [
+        "创新"
+      ],
+      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/EXK57X65GBFEFIF4DHCWVU5WYE.jpg?auth=1cf15fcb10030579d8feb6b2c55100f1c347476635222d670fbcd4600cf05a8d&smart=true&width=2145&height=1398"
+    },
+    {
+      "id": "2cb4ee6eeb09",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-10-02",
+      "title": "Mondelēz bets on familiar favourites to drive growth",
+      "source": "FoodNavigator-USA",
+      "sourceUrl": "https://www.confectionerynews.com/Article/2026/10/02/cadbury-launches-twirl-golden-dipped-as-brand-extensions-drive-confectionery-innovation/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "📊",
+      "category": "",
+      "desc": "Cadbury launches Twirl Golden Dipped, adding caramelised white chocolate to its iconic bar as brand extensions and indulgence trends reshape confectionery innovation.",
+      "tags": [
+        "创新"
+      ],
+      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/VQW2KJ3CFJEZ5OOQ676K5HIVGI.jpg?auth=67b21314468ddc1e917dcf48663ac30b611623989cc9acbafa9120e37deca431&smart=true&width=2121&height=1414"
+    },
+    {
+      "id": "d1d264236a56",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-10-02",
+      "title": "The future of food innovation lies in diversifying, not replacing, supply chains",
+      "source": "FoodNavigator-USA",
+      "sourceUrl": "https://www.foodnavigator.com/Article/2026/10/02/why-supply-chain-resilience-is-reshaping-food-innovation/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "📊",
+      "category": "",
+      "desc": "Climate-driven supply chain pressures are pushing food companies to treat resilience as a business imperative, with retailers emerging as key adoption gatekeepers while challenges around data transparency and supply chain visibility persist.",
+      "tags": [
+        "创新"
+      ],
+      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/Z4MBORVHY5F3VLJTAXPRG43TBI.jpg?auth=60bebf10b5007cee61558963bb3673a4be770dcb1f74e8a8f109ea39ddf352c8&smart=true&width=2159&height=1388"
+    },
+    {
+      "id": "a9fe39494698",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-10-02",
+      "title": "How Boston Dynamics’ robot dog is helping food factories run smarter",
+      "source": "FoodNavigator-USA",
+      "sourceUrl": "https://www.foodnavigator.com/Article/2026/10/02/boston-dynamics-robot-dog-can-help-run-food-factories/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "📊",
+      "category": "",
+      "desc": "Boston Dynamics' robot dog Spot can play a key role in food factories - detecting product leaks, overheating equipment and ventilation faults, and feeding the data back to humans. The dog not only helps a factory operate efficiently, but it can also draws young people in to wo...",
+      "tags": [
+        "原料"
+      ],
+      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/INX2IBOVSZFS7CU4DB7WCKHIMI.jpg?auth=c7207693d17bc9ade7badabf812c5c46b2df7a11b313a1e399a7154df91a204b&smart=true&width=3500&height=2333"
+    },
+    {
+      "id": "b30f215ccaa0",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-10-02",
+      "title": "Packaging You Shouldn’t Miss #147",
+      "source": "Packaging of the World",
+      "sourceUrl": "https://packagingoftheworld.com/2026/10/packaging-you-shouldnt-miss-147.html",
+      "image": "📦",
+      "category": "",
+      "desc": "Issue #147 brings together ten packaging projects where one strong idea shapes every decision, from structure and material to tone of voice. A Javanese tea box turns folklore into a mythical ride, a garden hose becomes the prestigious source of a bottled water parody, an ancie...",
+      "tags": [
+        "包装"
+      ],
+      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/10/sept-2026-t.jpg?fit=300%2C225&amp;ssl=1"
+    },
+    {
+      "id": "d3f29c478321",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-10-02",
+      "title": "Banam – 100% Banana Water",
+      "source": "Packaging of the World",
+      "sourceUrl": "https://packagingoftheworld.com/2026/10/banam-100-banana-water.html",
+      "image": "📦",
+      "category": "",
+      "desc": "ABOUT Banam is Europe’s first banana water, made from 100% bananas and nothing else. It offers natural hydration with naturally occurring functional benefits, but entering an increasingly crowded functional drinks category meant it needed to feel like more than just another we...",
+      "tags": [
+        "包装"
+      ],
+      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/10/Banam-Cans-1-e1790928709677.jpg?fit=300%2C169&amp;ssl=1"
+    },
+    {
+      "id": "570216fb1090",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-10-02",
+      "title": "Mamato & Co. – Preserving the Taste of the Orchard",
+      "source": "Packaging of the World",
+      "sourceUrl": "https://packagingoftheworld.com/2026/10/mamato-co-preserving-the-taste-of-the-orchard.html",
+      "image": "📦",
+      "category": "",
+      "desc": "Mamato &#38; Co. was created around a simple idea: turn the feeling of a traditional orchard into a jar. Inspired by sun-ripened fruit, handmade preserves, and the warmth of countryside kitchens, the packaging combines classic typography, natural fruit imagery, and a soft, tim...",
+      "tags": [
+        "包装"
+      ],
+      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/10/10Mamato-Jam-1-scaled-e1790928640893.jpeg?fit=300%2C167&amp;ssl=1"
+    },
+    {
+      "id": "07319253b80b",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-10-02",
+      "title": "NOLIA",
+      "source": "Packaging of the World",
+      "sourceUrl": "https://packagingoftheworld.com/2026/10/nolia.html",
+      "image": "📦",
+      "category": "",
+      "desc": "NOLIA Turns Olive Leaves Into Living Brand Emotion NOLIA was created from a simple observation: before olive oil becomes a product, it begins with a leaf, a tree and a landscape. The packaging transforms that natural origin into the very structure of the brand. Instead of plac...",
+      "tags": [
+        "包装"
+      ],
+      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/10/137216-2-e1790928600133.jpg?fit=300%2C225&amp;ssl=1"
+    },
+    {
+      "id": "da178d6bc068",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-10-02",
+      "title": "Leftovers: Skittles gives gummies some crunch | Cup Noodles bites back for Ha...",
+      "source": "Food Dive",
+      "sourceUrl": "https://www.fooddive.com/news/leftovers-skittles-gives-gummies-some-crunch-cup-noodles-bites-back-for/832000/",
+      "image": "📊",
+      "category": "",
+      "desc": "The Mars-owned brand leans into multi-textural experiences with Skittles Gummy Crystals, while the founders of THC cocktail brand Nowadays launch a relaxation-focused functional beverage.",
+      "tags": [],
+      "_imageUrl": "https://imgproxy.divecdn.com/O0ZtVKENV5vOoN5_bvCPVDBOgLjzjrVEfF8tJWfCOh4/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9VbnRpdGxlZF9kZXNpZ25fT05oOWZJUy5wbmc=.webp"
+    },
+    {
+      "id": "0e33767c03a5",
+      "type": "newproduct",
+      "section": "newproduct",
+      "sub": "report",
+      "date": "2026-10-02",
+      "title": "New beverage launches: Grey Goose, MOMO and more...",
+      "source": "Beverage Daily",
+      "sourceUrl": "https://www.beveragedaily.com/Article/2026/10/02/new-drinks-launches-vodka-wellness-and-premium-wine/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "🆕",
+      "category": "饮品",
+      "desc": "Explore the latest beverage launches from DropWorks, MOMO Kombucha, GREY GOOSE and De Bortoli Wines, as brands tap into flavour innovation, premiumisation, limited editions and new retail opportunities.",
+      "tags": [
+        "创新"
+      ],
+      "_imageUrl": "https://www.beveragedaily.com/resizer/v2/EYUSLR57SNHQHACEBOBIYIAPKA.png?auth=cc57ec4cdffce1d794077965ba331634969a22b8b226bbe18a8453d1c9990f35&smart=true&width=1181&height=787"
     },
     {
       "id": "b9302c95be7a",
@@ -2333,230 +2569,6 @@
         "包装"
       ],
       "_imageUrl": "https://thedieline.com/wp-content/uploads/2026/09/Wave_Mudge_2.png"
-    },
-    {
-      "id": "5677925a5326",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-09-23",
-      "title": "Peppa Please",
-      "source": "Packaging of the World",
-      "sourceUrl": "https://packagingoftheworld.com/2026/09/peppa-please.html",
-      "image": "📦",
-      "category": "",
-      "desc": "Peppa Please is a bold and playful hot sauce brand built around a simple idea: every flavor has a personality of its own. The project started as a branding challenge by Designer Briefs, with the goal of creating a distinctive hot sauce brand with a strong personality and memor...",
-      "tags": [
-        "包装"
-      ],
-      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/09/1-65-e1790155091482.jpg?fit=300%2C169&amp;ssl=1"
-    },
-    {
-      "id": "ffd2b379414a",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-09-23",
-      "title": "CHAOS COLA",
-      "source": "Packaging of the World",
-      "sourceUrl": "https://packagingoftheworld.com/2026/09/chaos-cola.html",
-      "image": "📦",
-      "category": "",
-      "desc": "CHAOS COLA is an aggressive energy soda and streetwear label built as a direct response to the sterile sameness of the soft drink aisle. Every beverage brand seems to compete on the same visual territory: bright, clean, safe. CHAOS COLA rejects that language outright. The visu...",
-      "tags": [],
-      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/09/20-2-e1790154961745.jpeg?fit=300%2C224&amp;ssl=1"
-    },
-    {
-      "id": "2baa554d8d49",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-09-23",
-      "title": "No Side Pickle",
-      "source": "Packaging of the World",
-      "sourceUrl": "https://packagingoftheworld.com/2026/09/no-side-pickle-2.html",
-      "image": "📦",
-      "category": "",
-      "desc": "A packaging refresh for No Side Pickle, created to give the brand a bolder, more distinctive presence while keeping its playful and irreverent personality at the core. The new identity combines vibrant color, expressive typography, and character-driven visuals to create packag...",
-      "tags": [
-        "包装"
-      ],
-      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/09/magnific_upscale_UPnkJHBwny-1-scaled-e1790154865978.jpeg?fit=240%2C300&amp;ssl=1"
-    },
-    {
-      "id": "5e5bab55ebb6",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-09-23",
-      "title": "Wild Lady Eggs",
-      "source": "Packaging of the World",
-      "sourceUrl": "https://packagingoftheworld.com/2026/09/wild-lady-eggs.html",
-      "image": "📦",
-      "category": "",
-      "desc": "Kingdom &#38;amp; Sparrow craft a premium brand for Wild Lady Eggs Wild Lady Eggs is a premium egg brand aimed at a discerning food shopper who values food provenance, animal welfare, and sustainability. They approached us to design and create a unique brand and packaging desi...",
-      "tags": [
-        "包装"
-      ],
-      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/09/Credit-Milly-Fletcher-KS-Wild-Lady-Mar-2624181-EDIT-scaled-e1790154886889.jpg?fit=240%2C300&amp;ssl=1"
-    },
-    {
-      "id": "a8a4d74ba343",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-09-23",
-      "title": "Gooey Goose — Brand Identity & Packaging Design",
-      "source": "Packaging of the World",
-      "sourceUrl": "https://packagingoftheworld.com/2026/09/gooey-goose-brand-identity-packaging-design.html",
-      "image": "📦",
-      "category": "",
-      "desc": "Gooey Goose™ is a playful, personality-driven artisanal food brand specializing in fresh, small-batch condiments. Its flagship product is a 100% Natural Fresh Basil Pesto Sauce (220g) packaged in a premium hexagonal glass jar with a cork lid and a green fabric ribbon tied arou...",
-      "tags": [
-        "包装"
-      ],
-      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/09/9-22-scaled-e1790154840551.jpg?fit=300%2C169&amp;ssl=1"
-    },
-    {
-      "id": "c4270436ebb5",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-09-23",
-      "title": "Clan: once we were wolves",
-      "source": "Packaging of the World",
-      "sourceUrl": "https://packagingoftheworld.com/2026/09/clan-once-we-were-wolves.html",
-      "image": "📦",
-      "category": "",
-      "desc": "Clan: Once we were wolves The power of design… and a humble label. Today, design can sometimes look easy. With AI tools, templates, and a constant stream of references, it can feel as though everything comes together effortlessly. It doesn’t. Good design is often harder when b...",
-      "tags": [],
-      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/09/clan-4-1-e1790154807999.jpg?fit=300%2C182&amp;ssl=1"
-    },
-    {
-      "id": "7dfdca8efa8c",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-09-23",
-      "title": "Montecaño",
-      "source": "Packaging of the World",
-      "sourceUrl": "https://packagingoftheworld.com/2026/09/montecano.html",
-      "image": "📦",
-      "category": "",
-      "desc": "Montecaño is a limited-edition red wine created with the ambition of being a unique piece. Hailing from Rioja Alavesa, this project was conceived to project exclusivity and an undeniable artisanal character, highlighted by the hand-numbering of every single bottle. The design ...",
-      "tags": [],
-      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/09/montecano-4-1-e1790154786908.jpg?fit=300%2C169&amp;ssl=1"
-    },
-    {
-      "id": "67dbb69508a9",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-09-23",
-      "title": "Ferrero relaunches Wonka candy brand",
-      "source": "Food Dive",
-      "sourceUrl": "https://www.fooddive.com/news/ferrero-relaunches-wonka-candy-brand-netflix/831147/",
-      "image": "📊",
-      "category": "",
-      "desc": "The food giant is releasing a line of limited-edition treats with unexpected colors and texture combinations to attract a new generation of consumers.",
-      "tags": [],
-      "_imageUrl": "https://imgproxy.divecdn.com/DlPcvlHcfKdj3gd0k5SgF8LAxwX99Z54pUOWvD9djiY/g:nowe:0:1001/c:2700:1525/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9GZXJyZXJvLUdyb3VwLUxUTy1Xb25rYS1Qcm9kdWN0cy5qcGc=.webp"
-    },
-    {
-      "id": "ea1ee2889ff4",
-      "type": "newproduct",
-      "section": "newproduct",
-      "sub": "report",
-      "date": "2026-09-23",
-      "title": "Are GLP-1s creating Big Food’s next valuation trap?",
-      "source": "BakeryandSnacks",
-      "sourceUrl": "https://www.bakeryandsnacks.com/Article/2026/09/23/how-glp-1-drugs-are-reshaping-food-ma-valuations/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "🆕",
-      "category": "休闲零食",
-      "desc": "GLP-1 drugs are influencing food M&amp;A, but buyers risk overvaluing health-led assets and underpricing adaptable bakery and snack businesses.",
-      "tags": [],
-      "_imageUrl": "https://www.bakeryandsnacks.com/resizer/v2/2VQXZND5BBBDFC4EQLXEVHKZWA.jpg?auth=58afd218044e668759ea68334b4f9ee390f513688a9d3f6b61c9b83882764653&smart=true&width=3840&height=2160"
-    },
-    {
-      "id": "fa1152a1f9f3",
-      "type": "newproduct",
-      "section": "newproduct",
-      "sub": "report",
-      "date": "2026-09-23",
-      "title": "Can zero-waste snacking survive the leap to scale?",
-      "source": "BakeryandSnacks",
-      "sourceUrl": "https://www.bakeryandsnacks.com/Article/2026/09/23/how-earthnutz-turns-peanuts-into-protein-crisps-and-oil/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "🆕",
-      "category": "休闲零食",
-      "desc": "Earthnutz founder Abby Singh explains how the startup transforms peanuts into protein crisps and virgin oil while preparing to scale production.",
-      "tags": [],
-      "_imageUrl": "https://www.bakeryandsnacks.com/resizer/v2/RCGYKXKYUNDNTHSDMPMO6J2SNA.jpg?auth=49cf91aa07b19d5d8305b82b443a15bc083e06c1f8fd196c5c95054451960cec&smart=true&width=750&height=500"
-    },
-    {
-      "id": "6de3ca6ab2de",
-      "type": "newproduct",
-      "section": "newproduct",
-      "sub": "report",
-      "date": "2026-09-23",
-      "title": "Diageo names Joanne Wilson as CFO as drinks giant accelerates transformation ...",
-      "source": "Beverage Daily",
-      "sourceUrl": "https://www.beveragedaily.com/Article/2026/09/23/diageo-names-joanne-wilson-cfo-as-drinks-giant-accelerates-transformation-plan/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "🆕",
-      "category": "饮品",
-      "desc": "",
-      "tags": [],
-      "_imageUrl": "https://www.beveragedaily.com/resizer/v2/CJ3RXNY7KBAPXKYVYOZZXAZLH4.jpg?auth=a08b410832798e47c614b111265ea8e1f1af713454aba6a885fa1902f8816962&smart=true&width=1999&height=1499"
-    },
-    {
-      "id": "f67cd4ea79cc",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-09-23",
-      "title": "CP Foods taps protein boom with chicken and egg push",
-      "source": "Food Manufacture",
-      "sourceUrl": "https://www.foodnavigator.com/Article/2026/09/23/cp-foods-taps-protein-boom-with-chicken-and-egg-push/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "📊",
-      "category": "",
-      "desc": "CP Foods is determined to grow conventional chicken and egg sectors via format innovation and accessibility enhancement",
-      "tags": [
-        "创新"
-      ],
-      "_imageUrl": "https://www.foodmanufacture.co.uk/resizer/v2/QHJYGO24OJG4BM5BC5YXPUK3UM.jpg?auth=f695b855f0156fa0c2d44b559911b50d84fe5104716692ef16ee83793bb5f454&smart=true&width=2308&height=1299"
-    },
-    {
-      "id": "3d6f88265e8c",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-09-23",
-      "title": "Do consumers actually like pumpkin spice?",
-      "source": "Food Manufacture",
-      "sourceUrl": "https://www.foodnavigator.com/Article/2026/09/23/do-consumers-like-pumpkin-spice/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "📊",
-      "category": "",
-      "desc": "Every Autumn, pumpkin spice is omnipresent. Is the ingredient just a fad, or is it a mainstay. Do consumers actually like it?",
-      "tags": [
-        "原料"
-      ],
-      "_imageUrl": "https://www.foodmanufacture.co.uk/resizer/v2/3ZN73F3PIRBPPC3Y3F5ZKN4XYI.jpg?auth=94c80852250f43f513e7a16bf65d49831663b2e33e45be7eadab1636473e520a&smart=true&width=2120&height=1414"
-    },
-    {
-      "id": "f2d13e97659e",
-      "type": "compliance",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-09-22",
-      "title": "FDA’s GRAS overhaul could add pressure to agency – can AI help?",
-      "source": "FoodNavigator-Asia",
-      "sourceUrl": "https://www.foodnavigator.com/Article/2026/09/22/scipinion-launches-ai-tool-for-fda-gras-overhaul/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "⚖️",
-      "category": "",
-      "desc": "SciPinion says its new AI-assisted SciBridge tool can help companies assess ingredient similarity as FDA proposes mandatory GRAS notifications.",
-      "tags": [
-        "原料"
-      ],
-      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/LYUGCUYC6RA4VKWTKH2XPJWEU4.jpg?auth=f1d3c304738e23c5d2bc3bf011d04971b0bf996e8730ca93a7d63e799c0bf63d&smart=true&width=2119&height=1415"
     }
   ]
 }
