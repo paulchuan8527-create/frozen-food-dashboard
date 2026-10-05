@@ -1,7 +1,7 @@
 {
   "meta": {
-    "updated": "2026-10-04",
-    "version": 1791083440,
+    "updated": "2026-10-05",
+    "version": 1791168318,
     "total": 150,
     "auto_generated": true,
     "sources": [
@@ -637,6 +637,21 @@
         "包装"
       ],
       "_imageUrl": "https://thedieline.com/wp-content/uploads/2026/10/SnapInsta.to_831726063_18632902450034852_7512978924567529658_n.jpg"
+    },
+    {
+      "id": "1dcf42de021b",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-10-02",
+      "title": "Leftovers: Skittles give gummies some crunch | Cup Noodles bites back for Hal...",
+      "source": "Food Dive",
+      "sourceUrl": "https://www.fooddive.com/news/leftovers-skittles-give-gummies-some-crunch-cup-noodles-bites-back-for-h/832000/",
+      "image": "📊",
+      "category": "",
+      "desc": "The Mars-owned brand leans into multi-textural experiences with Skittles Gummy Crystals, while the founders of THC cocktail brand Nowadays launch a relaxation-focused functional beverage.",
+      "tags": [],
+      "_imageUrl": "https://imgproxy.divecdn.com/O0ZtVKENV5vOoN5_bvCPVDBOgLjzjrVEfF8tJWfCOh4/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9VbnRpdGxlZF9kZXNpZ25fT05oOWZJUy5wbmc=.webp"
     },
     {
       "id": "b9302c95be7a",
@@ -2553,23 +2568,6 @@
       "desc": "Private label has embraced numerous popular food trends. One of these is functional foods. Private label products are boasting high protein and fibre, and targeting gut health and brain health. Could private label beat brands in this area?",
       "tags": [],
       "_imageUrl": "https://www.foodnavigator.com/resizer/v2/H2RHE7Y355AQ3BUVV4WZ52PE5Y.jpg?auth=7628cc098ae1206f85b113def32d88f09e0f2fdcf768ca4cb1c964b9dc1b3b52&smart=true&width=2121&height=1414"
-    },
-    {
-      "id": "9f24de490329",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-09-23",
-      "title": "Toblerone Biscoff and the trends transforming confectionery",
-      "source": "FoodNavigator-USA",
-      "sourceUrl": "https://www.confectionerynews.com/Article/2026/09/23/toblerone-x-biscoff-signals-the-next-chapter-for-confectionery-growth/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "📊",
-      "category": "",
-      "desc": "Toblerone and Biscoff's latest collaboration highlights the growing power of premiumisation and brand partnerships in confectionery, as manufacturers increasingly turn to innovation, indulgence and iconic collaborations to drive future growth.",
-      "tags": [
-        "创新"
-      ],
-      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/XO6W6F4JJ5BNNHXNYOHDM7UWXU.jpg?auth=d44bb07d425d0f3a9d28b453ca9b1fd128bcfa903045c0f9dd9c7f50646d59be&smart=true&width=2121&height=1414"
     }
   ]
 }
