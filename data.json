@@ -1,7 +1,7 @@
 {
   "meta": {
-    "updated": "2026-10-09",
-    "version": 1791516291,
+    "updated": "2026-10-10",
+    "version": 1791601473,
     "total": 150,
     "auto_generated": true,
     "sources": [
@@ -336,6 +336,36 @@
       }
     },
     {
+      "id": "0fdfd7a6b32d",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-10-10",
+      "title": "Nestlé launches its first-ever cookie Advent calendar",
+      "source": "FoodNavigator-Asia",
+      "sourceUrl": "https://www.confectionerynews.com/Article/2026/10/10/nestle-launches-its-first-ever-cookie-advent-calendar/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "📊",
+      "category": "",
+      "desc": "Nestlé has launched its first-ever cookie Advent calendar, tapping into the growing importance of festive snacking with 12 days of seasonal cookie dough flavours, fan favourites and holiday baking treats.",
+      "tags": [],
+      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/3V5X242UDZETHK2FPLK6YJIUEU.jpg?auth=0c5855bdc2415d02b8c37bd7a2f4962e15eca08821f1c76ad40be6a373f4c091&smart=true&width=8192&height=4608"
+    },
+    {
+      "id": "66eb00a21bc5",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-10-10",
+      "title": "Nestlé launches its first-ever cookie Advent calendar",
+      "source": "FoodNavigator-USA",
+      "sourceUrl": "https://www.confectionerynews.com/Article/2026/10/10/nestle-launches-its-first-ever-cookie-advent-calendar/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "📊",
+      "category": "",
+      "desc": "Nestlé has launched its first-ever cookie Advent calendar, tapping into the growing importance of festive snacking with 12 days of seasonal cookie dough flavours, fan favourites and holiday baking treats.",
+      "tags": [],
+      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/3V5X242UDZETHK2FPLK6YJIUEU.jpg?auth=0c5855bdc2415d02b8c37bd7a2f4962e15eca08821f1c76ad40be6a373f4c091&smart=true&width=8192&height=4608"
+    },
+    {
       "id": "bc350cafdbdf",
       "type": "packaging",
       "section": "packaging",
@@ -368,6 +398,249 @@
         "包装"
       ],
       "_imageUrl": "https://thedieline.com/wp-content/uploads/2026/10/01_Biotamra_full_range-09229f36569034d796955f4e389b09db.jpg"
+    },
+    {
+      "id": "6a8ae4c3750e",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-10-09",
+      "title": "Meal replacements may satisfy demand for satiety as well as convenience",
+      "source": "FoodNavigator-Asia",
+      "sourceUrl": "https://www.foodnavigator.com/Article/2026/10/09/meal-replacement-drinks-can-they-replace-diets/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "📊",
+      "category": "",
+      "desc": "Meal replacement drinks are often advertised as 'nutritionally complete', containing all the nutrients a human being needs to survive. But can consumers really replace diets with such drinks?",
+      "tags": [],
+      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/C76NUWFCLRF23DPSPNWI2MWPEQ.jpg?auth=49d0bb6e7d67cf0d06bcde75a4e48567483cc4065a25e06cd5b51cd16d8bf94e&smart=true&width=2384&height=1257"
+    },
+    {
+      "id": "a687cad946b2",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-10-09",
+      "title": "How can CPG brands stand out as private label expands?",
+      "source": "FoodNavigator-Asia",
+      "sourceUrl": "https://www.foodnavigator.com/Article/2026/10/09/private-label-moves-beyond-value-to-rival-national-brands/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "📊",
+      "category": "",
+      "desc": "Faster innovation, stronger brand building and closer attention to consumer trends can help national brands compete, says Centric Software’s Reid Swanson.",
+      "tags": [
+        "创新"
+      ],
+      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/7ROHOPACRJHHZOW5Z2XMOJEEVQ.jpg?auth=2d977e8b3b6efebf7ef667afdab93ffd7a2b8889f02499cd2b6fa49aeea300c1&smart=true&width=2309&height=1298"
+    },
+    {
+      "id": "603f7dbfa908",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-10-09",
+      "title": "Could PepsiCo’s snack turnaround offer a blueprint for its struggling beverag...",
+      "source": "FoodNavigator-Asia",
+      "sourceUrl": "https://www.foodnavigator.com/Article/2026/10/09/pepsicos-snack-strategy-faces-a-beverage-test/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "📊",
+      "category": "",
+      "desc": "PepsiCo’s snack turnaround offers a potential blueprint for beverages, but soft-drink struggles, shifting consumer preferences and a lower 2026 earnings outlook raise questions.",
+      "tags": [],
+      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/GN6XAQJXPBCZTADANIJBSYQ5XU.jpg?auth=814feddd17986562ecfeaabe29077f227d2a6de01348cee04c5b743cd58cc139&smart=true&width=2121&height=1414"
+    },
+    {
+      "id": "ab2040330362",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-10-09",
+      "title": "Barry Callebaut’s move beyond chocolate fails to convince investors",
+      "source": "FoodNavigator-Asia",
+      "sourceUrl": "https://www.foodnavigator.com/Article/2026/10/09/barry-callebauts-move-beyond-chocolate-fails-to-convince-investors/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "📊",
+      "category": "",
+      "desc": "Barry Callebaut's expansion beyond chocolate into complete product solutions signals a new direction for the ingredients industry. But as cocoa market volatility continues to dominate investor thinking, can growth ambitions outweigh near-term challenges?",
+      "tags": [
+        "原料"
+      ],
+      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/CBFPYEWIG5AMZN443FTSCYX4YM.jpg?auth=09ad7938f240ef05992e4c88674083761e2d9b6794180d9a31ccd6d56fe2d562&smart=true&width=1774&height=1689"
+    },
+    {
+      "id": "46d657aa8011",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-10-09",
+      "title": "Ghirardelli enters snack aisle in major move beyond chocolate",
+      "source": "FoodNavigator-Asia",
+      "sourceUrl": "https://www.confectionerynews.com/Article/2026/10/09/ghirardelli-enters-snack-aisle-in-major-move-beyond-chocolate/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "📊",
+      "category": "",
+      "desc": "Ghirardelli enters the cookie category with new Crispy Cookies, marking a major expansion beyond chocolate for the Lindt & Sprüngli-owned brand.",
+      "tags": [],
+      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/HJCSPBNPA5AVTLL3IVVZKVZSIU.jpg?auth=7d820f21818a7303612700857253d4525c6e861b08e03128c27125bb81883bf1&smart=true&width=3033&height=2221"
+    },
+    {
+      "id": "7d812508d21c",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-10-09",
+      "title": "How can CPG brands stand out as private label expands?",
+      "source": "FoodNavigator-USA",
+      "sourceUrl": "https://www.foodnavigator.com/Article/2026/10/09/private-label-moves-beyond-value-to-rival-national-brands/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "📊",
+      "category": "",
+      "desc": "Faster innovation, stronger brand building and closer attention to consumer trends can help national brands compete, says Centric Software’s Reid Swanson.",
+      "tags": [
+        "创新"
+      ],
+      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/7ROHOPACRJHHZOW5Z2XMOJEEVQ.jpg?auth=2d977e8b3b6efebf7ef667afdab93ffd7a2b8889f02499cd2b6fa49aeea300c1&smart=true&width=2309&height=1298"
+    },
+    {
+      "id": "a3ed2c817b45",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-10-09",
+      "title": "Barry Callebaut’s move beyond chocolate fails to convince investors",
+      "source": "FoodNavigator-USA",
+      "sourceUrl": "https://www.foodnavigator.com/Article/2026/10/09/barry-callebauts-move-beyond-chocolate-fails-to-convince-investors/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "📊",
+      "category": "",
+      "desc": "Barry Callebaut's expansion beyond chocolate into complete product solutions signals a new direction for the ingredients industry. But as cocoa market volatility continues to dominate investor thinking, can growth ambitions outweigh near-term challenges?",
+      "tags": [
+        "原料"
+      ],
+      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/CBFPYEWIG5AMZN443FTSCYX4YM.jpg?auth=09ad7938f240ef05992e4c88674083761e2d9b6794180d9a31ccd6d56fe2d562&smart=true&width=1774&height=1689"
+    },
+    {
+      "id": "abe89857ea73",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-10-09",
+      "title": "Oase Juice",
+      "source": "Packaging of the World",
+      "sourceUrl": "https://packagingoftheworld.com/2026/10/oase-juice.html",
+      "image": "📦",
+      "category": "",
+      "desc": "Oase is a juice branding mockup collection created for fresh beverage concepts, juice bars, and modern food &#38; drink brands. The collection features realistic applications across juice bottles, cups, packaging, labels, takeaway bags, menus, and promotional materials. Rather...",
+      "tags": [
+        "包装"
+      ],
+      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/10/i-Preview-Behance-23-2-e1791544086223.jpg?fit=300%2C219&amp;ssl=1"
+    },
+    {
+      "id": "83370260e0e2",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-10-09",
+      "title": "Boring Cat",
+      "source": "Packaging of the World",
+      "sourceUrl": "https://packagingoftheworld.com/2026/10/boring-cat.html",
+      "image": "📦",
+      "category": "",
+      "desc": "BORING CAT is a feline cognitive nutrition brand built around a single observation: a genuinely intelligent cat is no longer amused by human tricks. It&#8217;s independent, analytical, and blissfully bored. That idea drives the packaging as much as the positioning. The NEURO-K...",
+      "tags": [
+        "包装"
+      ],
+      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/10/08-2-e1791544051299.jpg?fit=300%2C224&amp;ssl=1"
+    },
+    {
+      "id": "a9ee0f77928f",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-10-09",
+      "title": "Hunger Station identity & Packaging | Fried Chicken",
+      "source": "Packaging of the World",
+      "sourceUrl": "https://packagingoftheworld.com/2026/10/hunger-station-identity-packaging-fried-chicken.html",
+      "image": "📦",
+      "category": "",
+      "desc": "CLIENT Hunger Station is a bold, Gen Z–centric fast-food brand built on energy, attitude, and cultural relevance. Its identity thrives on emotional intensity, visual dominance, and a fearless communication style — speaking directly to a generation that values authenticity over...",
+      "tags": [
+        "包装"
+      ],
+      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/10/21-5-e1791544011405.png?fit=300%2C168&amp;ssl=1"
+    },
+    {
+      "id": "dea6599da013",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-10-09",
+      "title": "Miracle Beauty Cream",
+      "source": "Packaging of the World",
+      "sourceUrl": "https://packagingoftheworld.com/2026/10/miracle-beauty-cream.html",
+      "image": "📦",
+      "category": "",
+      "desc": "Miracle is a cosmetic packaging mockup collection designed to showcase beauty and skincare cream through clean, refined product presentations. Built around contemporary beauty aesthetics, Miracle balances soft compositions with detailed materials and realistic lighting. Each s...",
+      "tags": [
+        "包装"
+      ],
+      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/10/i-Preview-Behance-12-1-e1791543993920.jpg?fit=300%2C219&amp;ssl=1"
+    },
+    {
+      "id": "861a6e35b02d",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-10-09",
+      "title": "Leftovers: BeatBox jams with Cinnabon | Topo Chico launches premium canned water",
+      "source": "Food Dive",
+      "sourceUrl": "https://www.fooddive.com/news/leftovers-beatbox-cinnabon-topo-chico-canned-water-Bauducco-skippy/832606/",
+      "image": "📊",
+      "category": "",
+      "desc": "The party punch brand is bringing an April Fools' joke to life, while Bauducco looks to introduce panettone to Americans with Skippy peanut butter.",
+      "tags": [],
+      "_imageUrl": "https://imgproxy.divecdn.com/iOhVitnqlYa_WLBq0tfbotmFkHIkabEoMxwFDr32gLM/g:nowe:0:723/c:2650:1497/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9DaW5uYWJvbl9CQl9TZXQyXzV4NF8xLWZvdG9yLTIwMjYxMDA5OTMzMTMuanBn.webp"
+    },
+    {
+      "id": "0b36a12608a0",
+      "type": "newproduct",
+      "section": "newproduct",
+      "sub": "report",
+      "date": "2026-10-09",
+      "title": "Could PepsiCo’s snack turnaround offer a blueprint for its struggling beverag...",
+      "source": "Beverage Daily",
+      "sourceUrl": "https://www.foodnavigator.com/Article/2026/10/09/pepsicos-snack-strategy-faces-a-beverage-test/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "🆕",
+      "category": "饮品",
+      "desc": "PepsiCo’s snack turnaround offers a potential blueprint for beverages, but soft-drink struggles, shifting consumer preferences and a lower 2026 earnings outlook raise questions.",
+      "tags": [],
+      "_imageUrl": "https://www.beveragedaily.com/resizer/v2/GN6XAQJXPBCZTADANIJBSYQ5XU.jpg?auth=814feddd17986562ecfeaabe29077f227d2a6de01348cee04c5b743cd58cc139&smart=true&width=2121&height=1414"
+    },
+    {
+      "id": "9e826d08f84e",
+      "type": "newproduct",
+      "section": "newproduct",
+      "sub": "report",
+      "date": "2026-10-09",
+      "title": "New beverage launches: Rude Health, three whiskey releases and more",
+      "source": "Beverage Daily",
+      "sourceUrl": "https://www.beveragedaily.com/Article/2026/10/09/new-drinks-launches-coffee-whisky-spirits-and-more/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "🆕",
+      "category": "饮品",
+      "desc": "",
+      "tags": [],
+      "_imageUrl": "https://www.beveragedaily.com/resizer/v2/4WV4EANXMZBULLZOBR2FR6K7LY.JPG?auth=edd9eaf19e756a0e7a19c346876bb371c439f34ea6444ba759d6add23a3536d8&smart=true&width=6000&height=4000"
+    },
+    {
+      "id": "2c97ee12c4b4",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-10-09",
+      "title": "Major wholesaler embraces innovation with TikTok Shop",
+      "source": "Food Manufacture",
+      "sourceUrl": "https://www.foodmanufacture.co.uk/Article/2026/10/09/major-uk-wholesaler-embraces-tiktok-shop-innovation/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "📊",
+      "category": "",
+      "desc": "",
+      "tags": [
+        "创新"
+      ],
+      "_imageUrl": "https://www.foodmanufacture.co.uk/resizer/v2/WM43V2BLQFHY5KL7AUR7ZGQAKI.jpg?auth=d5dc64dc302268d9c60229c7fcca395c1baef8ea733480e28e78efdd124167c9&smart=true&width=2000&height=1349"
     },
     {
       "id": "aed847338874",
@@ -709,6 +982,21 @@
         "创新"
       ],
       "_imageUrl": "https://www.bakeryandsnacks.com/resizer/v2/IWG42NVOBRDW3H3O4H7GBNW764.jpg?auth=fb522fa44749ed7a0b5a68e7f7154678d553ad285ff60ee1ec0ef0bbc7971640&smart=true&width=750&height=422"
+    },
+    {
+      "id": "e20bc2023ebc",
+      "type": "newproduct",
+      "section": "newproduct",
+      "sub": "report",
+      "date": "2026-10-08",
+      "title": "The minification of beverages",
+      "source": "Beverage Daily",
+      "sourceUrl": "https://www.foodnavigator.com/Article/2026/10/08/mini-drinks-gain-traction-across-categories/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "🆕",
+      "category": "饮品",
+      "desc": "Mini drinks are booming, from fibre shots to cocktails, driven by convenience, wellness and premiumisation",
+      "tags": [],
+      "_imageUrl": "https://www.beveragedaily.com/resizer/v2/7NLKXW3ANBABVB2W3YJGTZXUKM.jpg?auth=9cc1088e418f478655bd093cc4a80a92b75adbd634f626531441295ba9a1d086&smart=true&width=2121&height=1414"
     },
     {
       "id": "9008028a7b78",
@@ -2252,298 +2540,6 @@
       "desc": "El Quinto Sol is a fully custom playing card project created by Mexican illustrator and designer Juan Erazo under The Mythographer. The deck transforms Mesoamerican cosmology, mythology, and visual traditions into a contemporary object designed to be played with, explored, and...",
       "tags": [],
       "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/10/IMG_4592-1-scaled-e1790846786195.jpg?fit=300%2C225&amp;ssl=1"
-    },
-    {
-      "id": "2c1df4f94cb7",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-10-01",
-      "title": "Saputo creates ingredients division to capitalize on protein demand",
-      "source": "Food Dive",
-      "sourceUrl": "https://www.fooddive.com/news/saputo-ingredients-whey-protein/831924/",
-      "image": "📊",
-      "category": "",
-      "desc": "The new business unit comes as the cheesemaker invests to increase production of whey protein amid industry-wide shortages.",
-      "tags": [
-        "原料"
-      ],
-      "_imageUrl": "https://imgproxy.divecdn.com/NWz9vdseHvvwVYsmlVpce4N0sqWy-QbLKSMDdfBsDok/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzQ0NDE0NTIxLmpwZw==.webp"
-    },
-    {
-      "id": "2840faffe245",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-10-01",
-      "title": "Conagra slims down portfolio while investing more in popcorn, meat sticks",
-      "source": "Food Dive",
-      "sourceUrl": "https://www.fooddive.com/news/conagra-shrinks-portfolio-invest-more-popcorn-meat-sticks/831814/",
-      "image": "📊",
-      "category": "",
-      "desc": "The Healthy Choice maker is exiting Celeste frozen pizza as it reviews its business for other brands and SKUs to cut.",
-      "tags": [
-        "冷冻食品"
-      ],
-      "_imageUrl": "https://imgproxy.divecdn.com/cVUYCCM5fkK_OkyvRjhpV3yvZEioS9Yhqe76gHa9fm0/g:nowe:0:0/c:3632:2052/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JTUdfMjc3NC5qcGc=.webp"
-    },
-    {
-      "id": "01a83b903529",
-      "type": "newproduct",
-      "section": "newproduct",
-      "sub": "report",
-      "date": "2026-10-01",
-      "title": "What are the top trends in flavoured alcoholic beverages?",
-      "source": "Beverage Daily",
-      "sourceUrl": "https://www.beveragedaily.com/Article/2026/10/01/what-are-the-top-trends-in-flavoured-alcoholic-beverages/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "🆕",
-      "category": "饮品",
-      "desc": "",
-      "tags": [],
-      "_imageUrl": ""
-    },
-    {
-      "id": "4e3b02ad834e",
-      "type": "newproduct",
-      "section": "newproduct",
-      "sub": "report",
-      "date": "2026-10-01",
-      "title": "Nestlé’s Coffee mate doubles down on flavor and texture with brand refresh",
-      "source": "Beverage Daily",
-      "sourceUrl": "https://www.foodnavigator.com/Article/2026/10/01/coffee-mates-packaging-refresh-and-campaign-center-around-coffee-customization/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "🆕",
-      "category": "饮品",
-      "desc": "As consumers increasingly look to flavors and textures to customize their coffee drinks, Coffee mate is pairing a packaging refresh with a culture-driven campaign that celebrates personalization, discovery and self-expression.",
-      "tags": [
-        "包装"
-      ],
-      "_imageUrl": "https://www.beveragedaily.com/resizer/v2/3WYZXJ4YDFEDPKCWH2WRNDKU74.jpg?auth=d546eee87d5bb96bd785a0cad15729c7dcdf783928555354f78f9b8b72a85c98&smart=true&width=1920&height=1080"
-    },
-    {
-      "id": "c4116df9ae00",
-      "type": "newproduct",
-      "section": "newproduct",
-      "sub": "report",
-      "date": "2026-10-01",
-      "title": "How Molson Coors is capitalising on growing demand for alcohol-free drinks in US",
-      "source": "Beverage Daily",
-      "sourceUrl": "https://www.beveragedaily.com/Article/2026/10/01/how-molson-coors-is-capitalising-on-growing-demand-for-alcohol-free-drinks-in-us/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "🆕",
-      "category": "饮品",
-      "desc": "",
-      "tags": [],
-      "_imageUrl": "https://www.beveragedaily.com/resizer/v2/O3GSHI3KRRHA3BH3AHHN2NYFFE.jpg?auth=cce1155aa284393081c5597e3890dc1b427a243203a357244b30b3899e0444bf&smart=true&width=2121&height=1414"
-    },
-    {
-      "id": "5a5d5f87576a",
-      "type": "newproduct",
-      "section": "newproduct",
-      "sub": "report",
-      "date": "2026-10-01",
-      "title": "What are the major factors impacting flavoured alcoholic beverages",
-      "source": "Beverage Daily",
-      "sourceUrl": "https://www.beveragedaily.com/Article/2026/10/01/what-are-the-top-trends-in-flavoured-alcoholic-beverages/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "🆕",
-      "category": "饮品",
-      "desc": "",
-      "tags": [],
-      "_imageUrl": "https://www.beveragedaily.com/resizer/v2/HO26NTHKKBAC3G4GVV36TCTIVU.jpg?auth=f174254bdfb58dbd9ed0fcef5b5430ffadf3530a20500542aefb7d80cbd42daa&smart=true&width=5579&height=3719"
-    },
-    {
-      "id": "12f678ec73a4",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-09-30",
-      "title": "Hershey boosts Reese’s portfolio in bid to accelerate growth",
-      "source": "FoodNavigator-Asia",
-      "sourceUrl": "https://www.confectionerynews.com/Article/2026/09/30/hershey-boosts-reeses-portfolio-in-bid-to-accelerate-growth/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "📊",
-      "category": "",
-      "desc": "Hershey doubles down on Reese’s with caramel and white chocolate innovations designed to tap into growing demand for indulgent flavour twists and drive growth through one of its most valuable brands.",
-      "tags": [
-        "创新"
-      ],
-      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/V5WWYB6ORVAPPP2DSSABWLPJ5I.jpg?auth=a141e70466465dfda5fd53e55f5c15543360f3aab3d014e83a522a5fce4527bc&smart=true&width=2121&height=1414"
-    },
-    {
-      "id": "c6521b5bdd09",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-09-30",
-      "title": "92% want to eat better. Only 14% think they do",
-      "source": "FoodNavigator-Asia",
-      "sourceUrl": "https://www.foodnavigator.com/Article/2026/09/30/closing-the-healthy-eating-intention-gap/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "📊",
-      "category": "",
-      "desc": "Consumers want healthier diets, but affordability, confusion and convenience barriers are preventing action. Retailers can help close the gap through pricing, labelling and tailored solutions.",
-      "tags": [],
-      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/E3RMGAFA4ZABZDVA7XU4QTENWA.jpg?auth=9c17e153dd3314a64224087db2b4bbd35ae1768cdd6bff0b7b8164510a1f2e2b&smart=true&width=1999&height=1499"
-    },
-    {
-      "id": "f20dfde330f5",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-09-30",
-      "title": "Hershey boosts Reese’s portfolio in bid to accelerate growth",
-      "source": "FoodNavigator-USA",
-      "sourceUrl": "https://www.confectionerynews.com/Article/2026/09/30/hershey-boosts-reeses-portfolio-in-bid-to-accelerate-growth/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "📊",
-      "category": "",
-      "desc": "Hershey doubles down on Reese’s with caramel and white chocolate innovations designed to tap into growing demand for indulgent flavour twists and drive growth through one of its most valuable brands.",
-      "tags": [
-        "创新"
-      ],
-      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/V5WWYB6ORVAPPP2DSSABWLPJ5I.jpg?auth=a141e70466465dfda5fd53e55f5c15543360f3aab3d014e83a522a5fce4527bc&smart=true&width=2121&height=1414"
-    },
-    {
-      "id": "195dacd7c0fe",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-09-30",
-      "title": "Bubs Turns the Shape of its Candy Into a Sweet New Identity",
-      "source": "Dieline",
-      "sourceUrl": "https://thedieline.com/bubs-turns-the-shape-of-its-candy-into-a-sweet-new-identity/",
-      "image": "📦",
-      "category": "",
-      "desc": "Bubs turns its much loved oval candy into the centerpiece of a colorful new packaging identity. Squishy custom lettering, electric color combinations and oversized graphics make the sweets instantly recognizable before the bag is even opened. The post Bubs Turns the Shape of i...",
-      "tags": [
-        "包装"
-      ],
-      "_imageUrl": "https://thedieline.com/wp-content/uploads/2026/09/BUBS_38.jpg"
-    },
-    {
-      "id": "9472e08c9099",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-09-30",
-      "title": "House Guests Gives Juice Packaging a Little Tactile Twist",
-      "source": "Dieline",
-      "sourceUrl": "https://thedieline.com/house-guests-gives-juice-packaging-a-little-tactile-twist/",
-      "image": "📦",
-      "category": "",
-      "desc": "House Guests turns a simple juice bottle into something wonderfully tactile, pairing scalloped paper labels with tiny fruit illustrations and restrained typography. The minimal design lets the color of the juice become part of the packaging itself, giving “good fruit, good jui...",
-      "tags": [
-        "包装"
-      ],
-      "_imageUrl": "https://thedieline.com/wp-content/uploads/2026/09/SnapInsta.to_801149541_18024801824901339_3686015405545985627_n-scaled.jpg"
-    },
-    {
-      "id": "181a86337b02",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-09-30",
-      "title": "How PepsiCo uses chefs to think differently about innovation",
-      "source": "Food Dive",
-      "sourceUrl": "https://www.fooddive.com/news/pepsico-innovation-snacking-chefs-doritos-lays-chipsnk-differently-about-innovation-flavors/830085/",
-      "image": "📊",
-      "category": "",
-      "desc": "The snacks giant is tapping into culinary expertise to remain competitive and uncover the next flavors that resonate with fickle consumers.",
-      "tags": [
-        "创新"
-      ],
-      "_imageUrl": "https://imgproxy.divecdn.com/U9jZ1ZBUaNGXa8GAZJ6B_PUcf5L3wf6bDRO_mPBeetk/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9QUl9GbGF2b3JfU3dhcDk4NTUuanBn.webp"
-    },
-    {
-      "id": "ab29a4376d9c",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-09-30",
-      "title": "Hormel expands deeper into protein with $1B purchase of chicken processor",
-      "source": "Food Dive",
-      "sourceUrl": "https://www.fooddive.com/news/hormel-expands-deeper-protein-purchase-chicken-brakebush-brothers/831750/",
-      "image": "📊",
-      "category": "",
-      "desc": "The acquisition of Brakebush Brothers gives the Spam producer a larger presence in value-added chicken and further strengthens its growing foodservice operations.",
-      "tags": [],
-      "_imageUrl": "https://imgproxy.divecdn.com/Jjk7RwRJnzNg-KQUFFVO45VuZdX5hJbkzHEdesfksfU/g:nowe:0:490/c:3099:1751/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JTUdfMDg4My1mb3Rvci0yMDI1MDgyNDIyMjcyNy5qcGc=.webp"
-    },
-    {
-      "id": "b90fda79d068",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-09-29",
-      "title": "Lindt launches ultra-indulgent festive range as snacking ambitions grow",
-      "source": "FoodNavigator-Asia",
-      "sourceUrl": "https://www.confectionerynews.com/Article/2026/09/29/lindt-boosts-christmas-2026-range-with-premium-gifting-and-snacking-innovation/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "📊",
-      "category": "",
-      "desc": "Lindt & Sprüngli is strengthening its Christmas 2026 offering with premium gifting formats, indulgent new flavours and a strategic push into snacking, including Lindor Cinnamon Roll and Shortbread.",
-      "tags": [],
-      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/KUZN5QIZLRA2PHXFHXST4C7U5Y.png?auth=f20f205497d7d6e36f66e0c75f2d45e12af47f6e52d340ca2fed455940e18140&smart=true&width=1920&height=1080"
-    },
-    {
-      "id": "72bdec3b1845",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-09-29",
-      "title": "pladis sales pass £3.3bn but profits take a hit",
-      "source": "FoodNavigator-Asia",
-      "sourceUrl": "https://www.foodnavigator.com/Article/2026/09/29/pladis-sales-top-33bn-but-profits-take-a-hit/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "📊",
-      "category": "",
-      "desc": "pladis Global grew sales to £3.3bn in 2025, but inflation and macroeconomic pressures weighed on profits. Strong branded sales, manufacturing investments and innovation initiatives are expected to support long-term growth.",
-      "tags": [
-        "创新"
-      ],
-      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/MH6AVUSGYJEV7C3ZB325DLVJCA.jpg?auth=0419b9464636887634a7319b7791156bb5f2ff1a52c566b9b3d37b31e215c661&smart=true&width=5495&height=3663"
-    },
-    {
-      "id": "216fb42d1164",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-09-29",
-      "title": "6 food-tech breakthroughs changing the future of food",
-      "source": "FoodNavigator-Asia",
-      "sourceUrl": "https://www.foodnavigator.com/Article/2026/09/29/6-food-tech-trends-shaping-the-future-of-food/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "📊",
-      "category": "",
-      "desc": "Discover the six biggest insights from Future Food-Tech London, including GLP-1's impact on food innovation, AI in R&amp;D, ultra-processed foods, consumer trust, investment challenges and why taste remains the industry's most powerful driver.",
-      "tags": [
-        "创新"
-      ],
-      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/XLJGXFI7UVE7ZJIUYIMSK4OADQ.jpg?auth=7b718a16e35c2488479816801ef745befde2038ed7d733b121a6b2a0907613be&smart=true&width=1600&height=1066"
-    },
-    {
-      "id": "225f445ec430",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-09-29",
-      "title": "Lindt launches ultra-indulgent festive range as snacking ambitions grow",
-      "source": "FoodNavigator-USA",
-      "sourceUrl": "https://www.confectionerynews.com/Article/2026/09/29/lindt-boosts-christmas-2026-range-with-premium-gifting-and-snacking-innovation/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "📊",
-      "category": "",
-      "desc": "Lindt & Sprüngli is strengthening its Christmas 2026 offering with premium gifting formats, indulgent new flavours and a strategic push into snacking, including Lindor Cinnamon Roll and Shortbread.",
-      "tags": [],
-      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/KUZN5QIZLRA2PHXFHXST4C7U5Y.png?auth=f20f205497d7d6e36f66e0c75f2d45e12af47f6e52d340ca2fed455940e18140&smart=true&width=1920&height=1080"
-    },
-    {
-      "id": "33194b9ac13e",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-09-29",
-      "title": "pladis sales pass £3.3bn but profits take a hit",
-      "source": "FoodNavigator-USA",
-      "sourceUrl": "https://www.foodnavigator.com/Article/2026/09/29/pladis-sales-top-33bn-but-profits-take-a-hit/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "📊",
-      "category": "",
-      "desc": "pladis Global grew sales to £3.3bn in 2025, but inflation and macroeconomic pressures weighed on profits. Strong branded sales, manufacturing investments and innovation initiatives are expected to support long-term growth.",
-      "tags": [
-        "创新"
-      ],
-      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/MH6AVUSGYJEV7C3ZB325DLVJCA.jpg?auth=0419b9464636887634a7319b7791156bb5f2ff1a52c566b9b3d37b31e215c661&smart=true&width=5495&height=3663"
     }
   ]
 }
