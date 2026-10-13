@@ -1,7 +1,7 @@
 {
   "meta": {
-    "updated": "2026-10-12",
-    "version": 1791773999,
+    "updated": "2026-10-13",
+    "version": 1791864918,
     "total": 150,
     "auto_generated": true,
     "sources": [
@@ -21,6 +21,638 @@
     ]
   },
   "items": [
+    {
+      "id": "n1",
+      "type": "newproduct",
+      "section": "newproduct",
+      "date": "2026-08-06",
+      "title": "思念食品「微波即食小馄饨」系列",
+      "source": "天猫新品",
+      "sourceUrl": "https://xin.tmall.com/",
+      "image": "🥟",
+      "category": "冷冻食品",
+      "desc": "专利蒸汽自循环包装技术，微波加热90秒即食，无需加水，皮不干馅鲜嫩。定价19.9元/盒。",
+      "tags": [
+        "思念",
+        "微波即食",
+        "馄饨"
+      ],
+      "innovation": {
+        "type": "工艺创新",
+        "detail": "蒸汽自循环包装技术，解决微波面点干硬痛点"
+      }
+    },
+    {
+      "id": "p4",
+      "type": "packaging",
+      "section": "packaging",
+      "date": "2026-08-06",
+      "title": "透明防雾冷冻盖膜",
+      "source": "Dieline",
+      "sourceUrl": "https://www.dieline.com/",
+      "image": "🔍",
+      "category": "",
+      "desc": "PETG防雾改性膜，-25℃冷冻展示柜中保持透明无白雾。获2026 WorldStar包装大奖。",
+      "tags": [
+        "防雾",
+        "PETG",
+        "展示效果"
+      ],
+      "material": {
+        "name": "PETG防雾改性膜",
+        "feature": "-25℃保持透明，无白雾凝结",
+        "process": "共挤流延+防雾涂覆",
+        "supplier": "Sealed Air(意)/国内：浙江众成"
+      }
+    },
+    {
+      "id": "f1",
+      "type": "formulation",
+      "section": "formulation",
+      "date": "2026-08-06",
+      "title": "海藻糖在冷冻面点中的抗冻保护应用",
+      "source": "中国食品学报",
+      "sourceUrl": "https://kns.cnki.net/",
+      "image": "🧪",
+      "category": "速冻面点",
+      "desc": "添加2%-4%海藻糖可显著降低冷冻面筋蛋白冰晶损伤，冻融5次后硬度仅增12%(对照47%)。",
+      "tags": [
+        "海藻糖",
+        "抗冻",
+        "面点"
+      ],
+      "formula": {
+        "ingredient": "海藻糖",
+        "effect": "降低冰晶对面筋蛋白的损伤",
+        "applicable": "速冻面点全品类",
+        "mechanism": "海藻糖分子在冰晶表面形成玻璃态保护膜，抑制重结晶",
+        "supplier": "日本林原/国内：保龄宝生物"
+      }
+    },
+    {
+      "id": "p1",
+      "type": "packaging",
+      "section": "packaging",
+      "date": "2026-08-05",
+      "title": "可微波自排气包装袋",
+      "source": "Packaging of the World",
+      "sourceUrl": "https://www.packagingoftheworld.com/",
+      "image": "📦",
+      "category": "",
+      "desc": "PP/PE复合材料内置单向排气阀，微波加热时自动释放蒸汽。日本Toppan印刷技术。",
+      "tags": [
+        "可微波",
+        "自排气",
+        "PP/PE"
+      ],
+      "material": {
+        "name": "PP/PE复合材料",
+        "feature": "单向排气阀，微波自排气",
+        "process": "凹版印刷+覆膜",
+        "supplier": "日本Toppan/国内：紫江企业"
+      }
+    },
+    {
+      "id": "f2",
+      "type": "formulation",
+      "section": "formulation",
+      "date": "2026-08-04",
+      "title": "微胶囊包埋花椒油在预制菜中的释放控制",
+      "source": "食品科学",
+      "sourceUrl": "https://kns.cnki.net/",
+      "image": "🌶️",
+      "category": "预制菜",
+      "desc": "β-环糊精包埋花椒精油，包埋率92.3%。冷冻6个月后风味保留率87%(直接添加仅41%)。",
+      "tags": [
+        "微胶囊",
+        "包埋",
+        "花椒油"
+      ],
+      "formula": {
+        "ingredient": "β-环糊精包埋花椒精油",
+        "effect": "6个月风味保留率87%，复热释放",
+        "applicable": "麻辣风味预制菜",
+        "mechanism": "β-环糊精空腔结构包裹花椒精油，加热触发释放",
+        "supplier": "河南中大恒源/国内：天宁香料"
+      }
+    },
+    {
+      "id": "n2",
+      "type": "newproduct",
+      "section": "newproduct",
+      "date": "2026-08-03",
+      "title": "日本味之素「冷冻寿司拼盘」",
+      "source": "味之素官网",
+      "sourceUrl": "https://www.ajinomoto.co.jp/",
+      "image": "🍣",
+      "category": "冷冻食品",
+      "desc": "-60℃超低温速冻技术保留刺身口感，解冻后媲美门店现做。6贯装/980日元。",
+      "tags": [
+        "日本",
+        "味之素",
+        "超低温速冻"
+      ],
+      "innovation": {
+        "type": "工艺创新",
+        "detail": "-60℃超低温速冻，解决冷冻寿司口感还原难题"
+      }
+    },
+    {
+      "id": "n3",
+      "type": "newproduct",
+      "section": "newproduct",
+      "date": "2026-08-02",
+      "title": "三全食品「空气炸锅小酥肉」",
+      "source": "三全旗舰店",
+      "sourceUrl": "https://www.sanquan.com/",
+      "image": "🥩",
+      "category": "预制菜",
+      "desc": "专为空气炸锅优化的裹粉配方，200℃ 8分钟外酥里嫩，含油量降低40%。300g/29.9元。",
+      "tags": [
+        "三全",
+        "空气炸锅",
+        "小酥肉"
+      ],
+      "innovation": {
+        "type": "配方创新",
+        "detail": "空气炸锅专用裹粉配方，减油40%口感不妥协"
+      }
+    },
+    {
+      "id": "p2",
+      "type": "packaging",
+      "section": "packaging",
+      "date": "2026-08-02",
+      "title": "PLA可降解冷冻食品托盘",
+      "source": "Dieline",
+      "sourceUrl": "https://www.dieline.com/",
+      "image": "🌿",
+      "category": "",
+      "desc": "100% PLA植物基材料，耐-40℃低温不变脆，可家庭堆肥降解。碳足迹减少72%。",
+      "tags": [
+        "PLA",
+        "可降解",
+        "环保"
+      ],
+      "material": {
+        "name": "PLA（聚乳酸）",
+        "feature": "耐低温-40℃，家庭堆肥可降解",
+        "process": "热成型+抗冻改性",
+        "supplier": "Good Natured(美)/国内：金发科技"
+      }
+    },
+    {
+      "id": "n6",
+      "type": "newproduct",
+      "section": "newproduct",
+      "date": "2026-08-01",
+      "title": "茶颜悦色「桂花酒酿冰汤圆」",
+      "source": "天猫新品",
+      "sourceUrl": "https://xin.tmall.com/",
+      "image": "🍡",
+      "category": "休闲零食",
+      "desc": "跨界甜品+冷冻技术，酒酿风味+冰爽口感，抢占夏季冷冻甜品新赛道。200g×2盒/32.8元。",
+      "tags": [
+        "茶颜悦色",
+        "甜品",
+        "跨界"
+      ],
+      "innovation": {
+        "type": "场景创新",
+        "detail": "夏季冷冻甜品新场景，酒酿+冰爽差异化定位"
+      }
+    },
+    {
+      "id": "f3",
+      "type": "formulation",
+      "section": "formulation",
+      "date": "2026-08-01",
+      "title": "抗性糊精在低GI速冻面点中的应用方案",
+      "source": "食品工业科技",
+      "sourceUrl": "https://kns.cnki.net/",
+      "image": "🌾",
+      "category": "速冻面点",
+      "desc": "抗性糊精替代10%-15%小麦粉，可使速冻包子GI值从72降至54，复热后体积增大8%。",
+      "tags": [
+        "抗性糊精",
+        "低GI",
+        "健康"
+      ],
+      "formula": {
+        "ingredient": "抗性糊精",
+        "effect": "GI值降低25%，复热体积增大8%",
+        "applicable": "速冻包子、馒头、花卷",
+        "mechanism": "膳食纤维部分替代淀粉，降低血糖应答+改善面团持水性",
+        "supplier": "罗盖特(法)/国内：山东百龙创园"
+      }
+    },
+    {
+      "id": "n4",
+      "type": "newproduct",
+      "section": "newproduct",
+      "date": "2026-07-31",
+      "title": "美国Beyond Meat「冷冻植物肉酱意面」",
+      "source": "FoodBev",
+      "sourceUrl": "https://www.foodbev.com/",
+      "image": "🍝",
+      "category": "预制菜",
+      "desc": "植物蛋白肉酱+全麦意面一体化冷冻方案，复热后肉酱不分离。350g/$7.99。",
+      "tags": [
+        "植物基",
+        "Beyond Meat",
+        "美国"
+      ],
+      "innovation": {
+        "type": "配方创新",
+        "detail": "植物肉酱与意面一体化冷冻，复热不分层"
+      }
+    },
+    {
+      "id": "p3",
+      "type": "packaging",
+      "section": "packaging",
+      "date": "2026-07-30",
+      "title": "铝箔锁鲜自立袋",
+      "source": "Behance",
+      "sourceUrl": "https://www.behance.net/",
+      "image": "✨",
+      "category": "",
+      "desc": "PET/AL/PE三层复合结构，铝箔层提供99.9%光阻隔，底部自立设计提升货架陈列效果。",
+      "tags": [
+        "铝箔",
+        "自立袋",
+        "海鲜"
+      ],
+      "material": {
+        "name": "PET/AL/PE三层复合",
+        "feature": "99.9%光阻隔，底部自立",
+        "process": "干式复合+易撕口激光切割",
+        "supplier": "安姆科(Amcor)/国内：黄山永新"
+      }
+    },
+    {
+      "id": "f4",
+      "type": "formulation",
+      "section": "formulation",
+      "date": "2026-07-29",
+      "title": "TG酶在冷冻鱼丸弹性保持中的应用",
+      "source": "水产学报",
+      "sourceUrl": "https://kns.cnki.net/",
+      "image": "🐟",
+      "category": "冷冻调理食品",
+      "desc": "添加0.3%TG酶可使冷冻鱼丸冻藏6个月后弹性仅降8.5%(对照降32%)。",
+      "tags": [
+        "TG酶",
+        "弹性保持",
+        "鱼丸"
+      ],
+      "formula": {
+        "ingredient": "TG酶（谷氨酰胺转氨酶）",
+        "effect": "冻藏6个月弹性仅降8.5%",
+        "applicable": "冷冻鱼丸、虾滑、肉丸",
+        "mechanism": "催化蛋白分子间共价交联",
+        "supplier": "日本味之素/国内：江苏一鸣生物"
+      }
+    },
+    {
+      "id": "n5",
+      "type": "newproduct",
+      "section": "newproduct",
+      "date": "2026-07-28",
+      "title": "安井食品「麻辣小龙虾水饺」",
+      "source": "FoodTalks",
+      "sourceUrl": "https://www.foodtalks.cn/",
+      "image": "🦞",
+      "category": "冷冻食品",
+      "desc": "整只小龙虾入馅的工业化量产技术，虾仁保水处理后复热Q弹不碎。240g×3袋/45.9元。",
+      "tags": [
+        "安井",
+        "小龙虾",
+        "水饺"
+      ],
+      "innovation": {
+        "type": "工艺创新",
+        "detail": "整只虾仁入馅的工业化量产技术，保水不碎"
+      }
+    },
+    {
+      "id": "4aa0eab76aca",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-10-13",
+      "title": "APLOMB Sends a Love Letter to Perfume Packaging",
+      "source": "Dieline",
+      "sourceUrl": "https://thedieline.com/aplomb-sends-a-love-letter-to-perfume-packaging/",
+      "image": "📦",
+      "category": "",
+      "desc": "Studio Lotta Nieminen brings the art of letter writing to APLOMB’s luxury perfume packaging, pairing wax sealed caps, elegant typography and illustrated postage stamps with subtle postal references. Each fragrance becomes a personal letter, turning fine stationery traditions i...",
+      "tags": [
+        "包装"
+      ],
+      "_imageUrl": "https://thedieline.com/wp-content/uploads/2026/10/ap-28-2048x.jpg"
+    },
+    {
+      "id": "45f93a7e90e9",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-10-13",
+      "title": "Sockerbit Gives Swedish Candy a Sweet Spot in Grown Up Design",
+      "source": "Dieline",
+      "sourceUrl": "https://thedieline.com/sockerbit-gives-swedish-candy-a-sweet-spot-in-grown-up-design/",
+      "image": "📦",
+      "category": "",
+      "desc": "Meike Design gives Sockerbit’s Swedish candy packaging a playful, grown up twist with colorful geometric patterns, expressive typography and charming seasonal illustrations. From spring tulips to Halloween skulls and snakes, the designs bring Scandinavian simplicity and a gift...",
+      "tags": [
+        "包装"
+      ],
+      "_imageUrl": "https://thedieline.com/wp-content/uploads/2026/10/3bagstogether-copy-0b75aee0a200bf6d03e7da3988c83d73-scaled-1.jpg"
+    },
+    {
+      "id": "89d4d52c7e93",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-10-12",
+      "title": "Japan Focus: Health, innovation and the forces shaping food and drink",
+      "source": "FoodNavigator-Asia",
+      "sourceUrl": "https://www.foodnavigator.com/Article/2026/10/12/japan-focus-health-innovation-and-the-forces-shaping-food-and-drink/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "📊",
+      "category": "",
+      "desc": "In this edition of Japan Focus, we explore the health and nutrition trends, market drivers and sustainability challenges shaping Japan’s food and drink industry — and the wider Asian food landscape",
+      "tags": [
+        "日本",
+        "创新"
+      ],
+      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/ISUFI3F6LVE2TNC63OOSOTXXY4.jpg?auth=f2576f503a5b959fa1322766f96f0b049918ca20c2acd88c7383ce3671f3160e&smart=true&width=2944&height=1856"
+    },
+    {
+      "id": "8234220d4c6f",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-10-12",
+      "title": "Mashiro taps beauty-from-within growth with collagen, GABA, and placenta",
+      "source": "FoodNavigator-Asia",
+      "sourceUrl": "https://www.foodnavigator.com/Article/2026/10/12/mashiro-taps-beauty-from-within-growth-with-collagen-gaba-and-placenta/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "📊",
+      "category": "",
+      "desc": "The Oita-based brand is expanding in Southeast Asia with its collagen GABA and placenta collagen drinks, leveraging growth in the beauty and sleep wellness sectors.",
+      "tags": [],
+      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/3XRWFZ6SMFDJFBANDDA3BXUJYM.png?auth=0d4e9d263a645302b286d002e0abc8f5f3c68ae1d777af7a6e2b698eb40da422&smart=true&width=1920&height=1080"
+    },
+    {
+      "id": "f3dbe81e4aa4",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-10-12",
+      "title": "Growth drivers in Japan’s food and drink landscape",
+      "source": "FoodNavigator-Asia",
+      "sourceUrl": "https://www.foodnavigator.com/Article/2026/10/12/growth-drivers-in-japans-food-and-drink-landscape/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "📊",
+      "category": "",
+      "desc": "Affordability, health, product safety, and convenience as important considerations shaping Japanese consumers’ purchasing decisions.",
+      "tags": [
+        "日本"
+      ],
+      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/VLLYWEV3RVAGHOSHT36ENRKQTI.jpg?auth=ae401551d32229c947060b4ba0af359e4386d85f0cb8b000c913aa284ae5983d&smart=true&width=4096&height=2160"
+    },
+    {
+      "id": "41ef7d9ac7ed",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-10-12",
+      "title": "Japan Focus: Health, innovation and the forces shaping food and drink",
+      "source": "FoodNavigator-USA",
+      "sourceUrl": "https://www.foodnavigator.com/Article/2026/10/12/japan-focus-health-innovation-and-the-forces-shaping-food-and-drink/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "📊",
+      "category": "",
+      "desc": "In this edition of Japan Focus, we explore the health and nutrition trends, market drivers and sustainability challenges shaping Japan’s food and drink industry — and the wider Asian food landscape",
+      "tags": [
+        "日本",
+        "创新"
+      ],
+      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/ISUFI3F6LVE2TNC63OOSOTXXY4.jpg?auth=f2576f503a5b959fa1322766f96f0b049918ca20c2acd88c7383ce3671f3160e&smart=true&width=2944&height=1856"
+    },
+    {
+      "id": "f2ac785cb6c8",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-10-12",
+      "title": "Tanica and Its Distinctly Australian Aperitif Packaging",
+      "source": "Dieline",
+      "sourceUrl": "https://thedieline.com/tanica-and-its-distinctly-australian-aperitif-packaging/",
+      "image": "📦",
+      "category": "",
+      "desc": "Soft Machine refreshes Tanica’s Australian aperitif packaging with a custom ribbed glass bottle, Sydney Blue accents and playful rounded typography. Inspired by Sydney’s coastal spritz culture, the redesign brings a fresh Australian perspective to traditional European aperitif...",
+      "tags": [
+        "包装"
+      ],
+      "_imageUrl": "https://thedieline.com/wp-content/uploads/2026/10/0-e53ea632501b9b87bf9f1eb8e3016da6.png"
+    },
+    {
+      "id": "b627956fa25d",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-10-12",
+      "title": "Criterium Gives Vanilla Extract the Look of Old Quebec Currency",
+      "source": "Dieline",
+      "sourceUrl": "https://thedieline.com/criterium-gives-vanilla-extract-the-look-of-old-quebec-currency/",
+      "image": "📦",
+      "category": "",
+      "desc": "Criterium gives vanilla extract an unexpectedly rich identity through dense typography inspired by old Quebec signage, apothecaries and coin engravings. Simple black ink and textured paper turn the tiny bottle into a premium pantry object with one foot in the past and the othe...",
+      "tags": [
+        "包装"
+      ],
+      "_imageUrl": "https://thedieline.com/wp-content/uploads/2026/09/5_F530_03-2-scaled.jpg"
+    },
+    {
+      "id": "4bbea8fbec1f",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-10-12",
+      "title": "Shelf Life 131: Frozen Meals Are Getting Better And Here’s Why",
+      "source": "Dieline",
+      "sourceUrl": "https://thedieline.com/shelf-life-131-frozen-meals-are-getting-better-and-heres-why/",
+      "image": "📦",
+      "category": "",
+      "desc": "Frozen meals are getting a fresh start. From bold flavors and high-protein recipes to playful packaging and air-fryer-ready options, a new wave of brands is making the freezer aisle a more appealing, and affordable, answer to weeknight dinner The post Shelf Life 131: Frozen Me...",
+      "tags": [
+        "冷冻食品",
+        "包装"
+      ],
+      "_imageUrl": "https://thedieline.com/wp-content/uploads/2026/10/Subheading-3.png"
+    },
+    {
+      "id": "ad9ea7b0f22f",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-10-12",
+      "title": "Affogato Brand Design Creates Two Ingredients, an Artisan Pasta",
+      "source": "Packaging of the World",
+      "sourceUrl": "https://packagingoftheworld.com/2026/10/affogato-brand-design-creates-two-ingredients-an-artisan-pasta.html",
+      "image": "📦",
+      "category": "",
+      "desc": "For Two Ingredients, we created a handmade visual identity inspired by the simplicity of pasta made with just semolina and water. When we started working on Two Ingredients, we kept coming back to the simplicity of the product itself. Made with just semolina and water, the pas...",
+      "tags": [
+        "原料"
+      ],
+      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/10/9_1-2-e1791794433331.jpg?fit=300%2C250&amp;ssl=1"
+    },
+    {
+      "id": "bc56893937ac",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-10-12",
+      "title": "Marking Time",
+      "source": "Packaging of the World",
+      "sourceUrl": "https://packagingoftheworld.com/2026/10/marking-time.html",
+      "image": "📦",
+      "category": "",
+      "desc": "As the first Irish design studio to take part in Make a Mark, and one of just 12 studios selected globally this year, we felt it was important to create something that was inherently Irish. It was an opportunity to celebrate our heritage, showcase Irish creativity on a global ...",
+      "tags": [],
+      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/10/Fid-Irish-Whiskey-backbarstudios-05-1-e1791794110801.jpg?fit=300%2C175&amp;ssl=1"
+    },
+    {
+      "id": "7f6dc9b4bf0d",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-10-12",
+      "title": "Agonist – Ritual Fighter",
+      "source": "Packaging of the World",
+      "sourceUrl": "https://packagingoftheworld.com/2026/10/agonist-ritual-fighter.html",
+      "image": "📦",
+      "category": "",
+      "desc": "What if coffee is not a pause, but a way to keep moving? Specialty coffee often speaks through origin, processing, and flavor notes, but this brand needed a character of its own. Strategy, positioning, naming, and communication were built around the Agonist hero: he keeps goin...",
+      "tags": [
+        "包装"
+      ],
+      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/10/packaging_design_for_tea_and_coffee_agonist_0-3-e1791793870938.png?fit=300%2C240&amp;ssl=1"
+    },
+    {
+      "id": "f8548a9c2e95",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-10-12",
+      "title": "El Gaucho",
+      "source": "Packaging of the World",
+      "sourceUrl": "https://packagingoftheworld.com/2026/10/el-gaucho-2.html",
+      "image": "📦",
+      "category": "",
+      "desc": "🍷 EL GAUCHO — Branding &#38; Packaging An identity inspired by the figure of the gaucho, his character, his roots, and the traditions that are an integral part of our culture &#160;",
+      "tags": [
+        "包装"
+      ],
+      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/10/7-6-e1791793550244.jpg?fit=224%2C300&amp;ssl=1"
+    },
+    {
+      "id": "1f3188c86696",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-10-12",
+      "title": "Marlow Whiskey – Label Design",
+      "source": "Packaging of the World",
+      "sourceUrl": "https://packagingoftheworld.com/2026/10/marlow-whiskey-label-design.html",
+      "image": "📦",
+      "category": "",
+      "desc": "Marlow is a packaging project for a single malt whiskey from Buckinghamshire, England. The idea was to create a brand that felt as though it had been there much longer than you have, belonging to a small English town with a history of its own. The identity centres on a blackle...",
+      "tags": [
+        "包装"
+      ],
+      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/10/3y-2-scaled-e1791793353461.jpg?fit=225%2C300&amp;ssl=1"
+    },
+    {
+      "id": "5618799eb86e",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-10-12",
+      "title": "Ozeretskoye | Butter, Piece By Piece",
+      "source": "Packaging of the World",
+      "sourceUrl": "https://packagingoftheworld.com/2026/10/ozeretskoye-butter-piece-by-piece.html",
+      "image": "📦",
+      "category": "",
+      "desc": "THE IDEA Butter is an everyday product, yet its format has remained unchanged for decades. It is often difficult to measure, inconvenient to portion, and wrapped in packaging that quickly loses its shape. The OZERETSKOYE concept reimagines butter as a chocolate bar. The famili...",
+      "tags": [
+        "包装"
+      ],
+      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/10/01-10-e1791793248908.png?fit=300%2C179&amp;ssl=1"
+    },
+    {
+      "id": "85d4135ca65b",
+      "type": "newproduct",
+      "section": "newproduct",
+      "sub": "report",
+      "date": "2026-10-12",
+      "title": "Cheetos, Hostess and Chips Ahoy! take Halloween beyond sweets",
+      "source": "BakeryandSnacks",
+      "sourceUrl": "https://www.bakeryandsnacks.com/Article/2026/10/12/halloween-snacks-from-cheetos-hostess-chips-ahoy-and-more/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "🆕",
+      "category": "休闲零食",
+      "desc": "xplore how Cheetos, Hostess, Chips Ahoy! and other brands are taking Halloween beyond sweets with seasonal snacks, spooky bakes and autumn desserts.",
+      "tags": [],
+      "_imageUrl": "https://www.bakeryandsnacks.com/resizer/v2/JJKC2LFIZNCJRFEISOUFVH3ME4.jpg?auth=810a1e008c684e8136f76b4244d13c3cc94fa88d4e30ffc1aebcd060e9cd5776&smart=true&width=2309&height=1299"
+    },
+    {
+      "id": "d5afe592816e",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-10-12",
+      "title": "McVities manufacturer appoints new chief supply chain officer",
+      "source": "Food Manufacture",
+      "sourceUrl": "https://www.foodmanufacture.co.uk/Article/2026/10/12/mcvities-manufacturer-pladis-global-appoints-frankgerald-stepp-as-chief-supply-chain-officer/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "📊",
+      "category": "",
+      "desc": "",
+      "tags": [],
+      "_imageUrl": "https://www.foodmanufacture.co.uk/resizer/v2/BLKJDH6JH5DDJGNUAOL2W44XKY.jpg?auth=f416aa197c65682d51aa9f93ed71ebc23a272a06025e2d67b70af316859312eb&smart=true&width=1024&height=1024"
+    },
+    {
+      "id": "b7c31627a099",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-10-12",
+      "title": "Welsh ingredients manufacturer boosts fleet and production capabilities",
+      "source": "Food Manufacture",
+      "sourceUrl": "https://www.foodmanufacture.co.uk/Article/2026/10/12/beacon-foods-invests-in-fleet-and-production-capabilities/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "📊",
+      "category": "",
+      "desc": "",
+      "tags": [
+        "原料"
+      ],
+      "_imageUrl": "https://www.foodmanufacture.co.uk/resizer/v2/CO5L3H7PAVG4ZLCKQIBYN2IMVE.jpg?auth=41ab3e015919100a54f117af2415a21f588d83231adeab7a67e989e9b9a82df6&smart=true&width=2362&height=1404"
+    },
+    {
+      "id": "ba2df60ce1c1",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-10-12",
+      "title": "Regulatory uncertainty blocking food innovation says European FSA",
+      "source": "Food Manufacture",
+      "sourceUrl": "https://www.foodmanufacture.co.uk/Article/2026/10/12/efsa-says-regulatory-uncertainty-hindering-food-innovation/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "📊",
+      "category": "",
+      "desc": "",
+      "tags": [
+        "创新"
+      ],
+      "_imageUrl": "https://www.foodmanufacture.co.uk/resizer/v2/S57KYUA66RBBFM6FZ4J3WVPFIU.jpg?auth=3e6a0ecc7b9fe14d30345ff09a63d68cd24104b45cd4035402acc41d14613b98&smart=true&width=2121&height=1414"
+    },
     {
       "id": "0fdfd7a6b32d",
       "type": "report",
@@ -327,6 +959,36 @@
         "创新"
       ],
       "_imageUrl": "https://www.foodmanufacture.co.uk/resizer/v2/WM43V2BLQFHY5KL7AUR7ZGQAKI.jpg?auth=d5dc64dc302268d9c60229c7fcca395c1baef8ea733480e28e78efdd124167c9&smart=true&width=2000&height=1349"
+    },
+    {
+      "id": "5eb32a3e0f4a",
+      "type": "newproduct",
+      "section": "newproduct",
+      "sub": "report",
+      "date": "2026-10-09",
+      "title": "Could PepsiCo’s snack turnaround offer a blueprint for its struggling beverag...",
+      "source": "BakeryandSnacks",
+      "sourceUrl": "https://www.foodnavigator.com/Article/2026/10/09/pepsicos-snack-strategy-faces-a-beverage-test/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "🆕",
+      "category": "休闲零食",
+      "desc": "PepsiCo’s snack turnaround offers a potential blueprint for beverages, but soft-drink struggles, shifting consumer preferences and a lower 2026 earnings outlook raise questions.",
+      "tags": [],
+      "_imageUrl": "https://www.bakeryandsnacks.com/resizer/v2/GN6XAQJXPBCZTADANIJBSYQ5XU.jpg?auth=814feddd17986562ecfeaabe29077f227d2a6de01348cee04c5b743cd58cc139&smart=true&width=2121&height=1414"
+    },
+    {
+      "id": "244afb478113",
+      "type": "newproduct",
+      "section": "newproduct",
+      "sub": "report",
+      "date": "2026-10-09",
+      "title": "Meal replacements may satisfy demand for satiety as well as convenience",
+      "source": "Beverage Daily",
+      "sourceUrl": "https://www.foodnavigator.com/Article/2026/10/09/meal-replacement-drinks-can-they-replace-diets/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "🆕",
+      "category": "饮品",
+      "desc": "Meal replacement drinks are often advertised as 'nutritionally complete', containing all the nutrients a human being needs to survive. But can consumers really replace diets with such drinks?",
+      "tags": [],
+      "_imageUrl": "https://www.beveragedaily.com/resizer/v2/C76NUWFCLRF23DPSPNWI2MWPEQ.jpg?auth=49d0bb6e7d67cf0d06bcde75a4e48567483cc4065a25e06cd5b51cd16d8bf94e&smart=true&width=2384&height=1257"
     },
     {
       "id": "aed847338874",
@@ -1881,665 +2543,6 @@
       "desc": "Eye Coffee offers a solution to enjoying a quality cup of Joe on the go, as a single-serve pour-over made from compostable materials. The post Eye Coffee Rethinks To-Go Joe as a Compostable Pour-Over appeared first on DIELINE.",
       "tags": [],
       "_imageUrl": "https://thedieline.com/wp-content/uploads/2026/09/EYE_Coffee_Kettle_Filter_Mug.jpg"
-    },
-    {
-      "id": "f9f382fa421c",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-10-02",
-      "title": "Pack Of The Month: Kateřina Milatová Gives Pluto a Clear Orbit",
-      "source": "Dieline",
-      "sourceUrl": "https://thedieline.com/pack-of-the-month-katerina-milatova-gives-pluto-a-clear-orbit/",
-      "image": "📦",
-      "category": "",
-      "desc": "For a student week feature, designer Kateřina Milatová created a packaging system for her concept project, Pluto, that makes fragrance more accessible and approachable through illustrations that describe the products in an easy-to-understand way. The post Pack Of The Month: Ka...",
-      "tags": [
-        "包装"
-      ],
-      "_imageUrl": "https://thedieline.com/wp-content/uploads/2026/10/pluto_closeup-bad3a939c1590d1695531c59da39e07e.jpg.webp"
-    },
-    {
-      "id": "37f49940782c",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-10-02",
-      "title": "ImaginaryFriend Gives MATCHALITA’s Matcha a Nightlife Ready Makeover",
-      "source": "Dieline",
-      "sourceUrl": "https://thedieline.com/imaginaryfriend-gives-matchalitas-matcha-a-nightlife-ready-makeover/",
-      "image": "📦",
-      "category": "",
-      "desc": "MATCHALITA brings matcha into the world of music and nightlife with packaging by ImaginaryFriend that pairs Japanese visual references with electric color and a waveform inspired graphic language. The result gives ceremonial matcha a fresh cultural context built for creative l...",
-      "tags": [
-        "日本",
-        "包装"
-      ],
-      "_imageUrl": "https://thedieline.com/wp-content/uploads/2026/09/461e4b254202135.6a95a3cd76a6d-scaled.jpg"
-    },
-    {
-      "id": "ccbcc1a701b8",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-10-02",
-      "title": "Nonna’s and Lucali Collab To Bring Pizzeria Style to Hot EVOO",
-      "source": "Dieline",
-      "sourceUrl": "https://thedieline.com/nonnas-and-lucali-collab-to-bring-pizzeria-style-to-hot-evoo/",
-      "image": "📦",
-      "category": "",
-      "desc": "Nonna’s and Lucali turn Hot EVOO into a celebration of old school pizzeria graphics, pairing bright red packaging, checkerboard borders and playful chile illustrations with Nonna Gracie’s familiar portrait. The collaboration brings a warm, personal spin to premium olive oil pa...",
-      "tags": [
-        "包装"
-      ],
-      "_imageUrl": "https://thedieline.com/wp-content/uploads/2026/10/SnapInsta.to_831726063_18632902450034852_7512978924567529658_n.jpg"
-    },
-    {
-      "id": "1dcf42de021b",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-10-02",
-      "title": "Leftovers: Skittles give gummies some crunch | Cup Noodles bites back for Hal...",
-      "source": "Food Dive",
-      "sourceUrl": "https://www.fooddive.com/news/leftovers-skittles-give-gummies-some-crunch-cup-noodles-bites-back-for-h/832000/",
-      "image": "📊",
-      "category": "",
-      "desc": "The Mars-owned brand leans into multi-textural experiences with Skittles Gummy Crystals, while the founders of THC cocktail brand Nowadays launch a relaxation-focused functional beverage.",
-      "tags": [],
-      "_imageUrl": "https://imgproxy.divecdn.com/O0ZtVKENV5vOoN5_bvCPVDBOgLjzjrVEfF8tJWfCOh4/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9VbnRpdGxlZF9kZXNpZ25fT05oOWZJUy5wbmc=.webp"
-    },
-    {
-      "id": "12585cb15ef1",
-      "type": "newproduct",
-      "section": "newproduct",
-      "sub": "report",
-      "date": "2026-10-02",
-      "title": "Weight-loss maintenance: The next GLP-1 innovation frontier?",
-      "source": "BakeryandSnacks",
-      "sourceUrl": "https://www.foodnavigator.com/Article/2026/10/02/glp-1-users-weight-loss-maintenance-could-be-next-frontier/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "🆕",
-      "category": "休闲零食",
-      "desc": "When GLP-1 users stop taking the drugs, they often regain significant levels of the weight that they lost. This could be the next frontier of food innovation. But as GLP-1 pills become more popular, could consumers see the drugs as a permanent, rather than temporary, solution?",
-      "tags": [
-        "创新"
-      ],
-      "_imageUrl": "https://www.bakeryandsnacks.com/resizer/v2/EXK57X65GBFEFIF4DHCWVU5WYE.jpg?auth=1cf15fcb10030579d8feb6b2c55100f1c347476635222d670fbcd4600cf05a8d&smart=true&width=2145&height=1398"
-    },
-    {
-      "id": "46aaa889f7be",
-      "type": "newproduct",
-      "section": "newproduct",
-      "sub": "report",
-      "date": "2026-10-02",
-      "title": "Mondelēz bets on familiar favourites to drive growth",
-      "source": "BakeryandSnacks",
-      "sourceUrl": "https://www.confectionerynews.com/Article/2026/10/02/cadbury-launches-twirl-golden-dipped-as-brand-extensions-drive-confectionery-innovation/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "🆕",
-      "category": "休闲零食",
-      "desc": "Cadbury launches Twirl Golden Dipped, adding caramelised white chocolate to its iconic bar as brand extensions and indulgence trends reshape confectionery innovation.",
-      "tags": [
-        "创新"
-      ],
-      "_imageUrl": "https://www.bakeryandsnacks.com/resizer/v2/VQW2KJ3CFJEZ5OOQ676K5HIVGI.jpg?auth=67b21314468ddc1e917dcf48663ac30b611623989cc9acbafa9120e37deca431&smart=true&width=2121&height=1414"
-    },
-    {
-      "id": "17d69db65c6c",
-      "type": "newproduct",
-      "section": "newproduct",
-      "sub": "report",
-      "date": "2026-10-02",
-      "title": "Weight-loss maintenance: The next GLP-1 innovation frontier?",
-      "source": "Beverage Daily",
-      "sourceUrl": "https://www.foodnavigator.com/Article/2026/10/02/glp-1-users-weight-loss-maintenance-could-be-next-frontier/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "🆕",
-      "category": "饮品",
-      "desc": "When GLP-1 users stop taking the drugs, they often regain significant levels of the weight that they lost. This could be the next frontier of food innovation. But as GLP-1 pills become more popular, could consumers see the drugs as a permanent, rather than temporary, solution?",
-      "tags": [
-        "创新"
-      ],
-      "_imageUrl": "https://www.beveragedaily.com/resizer/v2/EXK57X65GBFEFIF4DHCWVU5WYE.jpg?auth=1cf15fcb10030579d8feb6b2c55100f1c347476635222d670fbcd4600cf05a8d&smart=true&width=2145&height=1398"
-    },
-    {
-      "id": "b9302c95be7a",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-10-01",
-      "title": "‘The world is changing faster than we can keep up with’: Arthur D Little’s Si...",
-      "source": "FoodNavigator-Asia",
-      "sourceUrl": "https://www.foodnavigator.com/Article/2026/10/01/arthur-d-littles-simon-guoyard-norman-on-food-innovation/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "📊",
-      "category": "",
-      "desc": "Arthur D Little's Simon Guoyard-Norman explains what's holding the food industry back from innovating, and what he sees as promising areas of food innovation.",
-      "tags": [
-        "创新"
-      ],
-      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/OINKNMQABFBZPJAERRHL6BOYQQ.jpg?auth=b58efd67d962e493d5fb6e1f755a072e774ddec54d44d0e4e51994a20a93fa3b&smart=true&width=2123&height=1413"
-    },
-    {
-      "id": "52dd7083e316",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-10-01",
-      "title": "Mondelēz reveals the trends shaping the future of confectionery and snacking",
-      "source": "FoodNavigator-Asia",
-      "sourceUrl": "https://www.foodnavigator.com/Article/2026/10/01/mondelez-reveals-the-trends-shaping-the-future-of-confectionery-and-snacking/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "📊",
-      "category": "",
-      "desc": "Mondelēz International on the future of confectionery and snacking. From personalised nutrition and GLP-1s to premiumisation and digital discovery, discover the forces set to define the next decade.",
-      "tags": [],
-      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/5K4FDEGXWZDK5HXZK5YPLGXXHI.jpg?auth=da9a7d190baf01f62ebb28b96abcbe2b2b13527945c8abab6f88adf2f941116a&smart=true&width=2121&height=1414"
-    },
-    {
-      "id": "9ca297147c0e",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-10-01",
-      "title": "‘The world is changing faster than we can keep up with’: Arthur D Little’s Si...",
-      "source": "FoodNavigator-USA",
-      "sourceUrl": "https://www.foodnavigator.com/Article/2026/10/01/arthur-d-littles-simon-guoyard-norman-on-food-innovation/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "📊",
-      "category": "",
-      "desc": "Arthur D Little's Simon Guoyard-Norman explains what's holding the food industry back from innovating, and what he sees as promising areas of food innovation.",
-      "tags": [
-        "创新"
-      ],
-      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/OINKNMQABFBZPJAERRHL6BOYQQ.jpg?auth=b58efd67d962e493d5fb6e1f755a072e774ddec54d44d0e4e51994a20a93fa3b&smart=true&width=2123&height=1413"
-    },
-    {
-      "id": "4cae6632bb67",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-10-01",
-      "title": "Mondelēz reveals the trends shaping the future of confectionery and snacking",
-      "source": "FoodNavigator-USA",
-      "sourceUrl": "https://www.foodnavigator.com/Article/2026/10/01/mondelez-reveals-the-trends-shaping-the-future-of-confectionery-and-snacking/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "📊",
-      "category": "",
-      "desc": "Mondelēz International on the future of confectionery and snacking. From personalised nutrition and GLP-1s to premiumisation and digital discovery, discover the forces set to define the next decade.",
-      "tags": [],
-      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/5K4FDEGXWZDK5HXZK5YPLGXXHI.jpg?auth=da9a7d190baf01f62ebb28b96abcbe2b2b13527945c8abab6f88adf2f941116a&smart=true&width=2121&height=1414"
-    },
-    {
-      "id": "672bbd877864",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-10-01",
-      "title": "Derek&Eric Give Olive Oil Brand DRZZL a Fresh Squeeze",
-      "source": "Dieline",
-      "sourceUrl": "https://thedieline.com/derekeric-give-olive-oil-brand-drzzl-a-fresh-squeeze/",
-      "image": "📦",
-      "category": "",
-      "desc": "Derek &#038; Eric unveil their latest project, DRZZL, featuring a playful squeeze on olive oil packaging that pairs deep green bottles with juicy orange and yellow typography. The post Derek&amp;Eric Give Olive Oil Brand DRZZL a Fresh Squeeze appeared first on DIELINE.",
-      "tags": [
-        "包装"
-      ],
-      "_imageUrl": "https://thedieline.com/wp-content/uploads/2026/10/Screenshot-2026-10-01-at-9.10.12-AM-1-scaled.png"
-    },
-    {
-      "id": "34cd8dc50bfb",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-10-01",
-      "title": "Absolut and KAWS Turn Vodka Bottles Into Collectible Works of Art",
-      "source": "Dieline",
-      "sourceUrl": "https://thedieline.com/absolut-and-kaws-turn-vodka-bottles-into-collectible-works-of-art/",
-      "image": "📦",
-      "category": "",
-      "desc": "Absolut and KAWS transform the iconic vodka bottle into a collectible art piece, bringing the artist’s CHUM character, signature XX eyes and street art roots to the packaging. The limited edition continues Absolut’s decades long tradition of putting contemporary art directly i...",
-      "tags": [
-        "包装"
-      ],
-      "_imageUrl": "https://thedieline.com/wp-content/uploads/2026/09/XX-presso-martini-Absolut_Kaws_BottleServe_16-9_1920x1080_Clean7-scaled.jpg"
-    },
-    {
-      "id": "871a4e40b266",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-10-01",
-      "title": "The Dieline’s Best of September 2026",
-      "source": "Dieline",
-      "sourceUrl": "https://thedieline.com/the-dielines-best-of-september-2026/",
-      "image": "📦",
-      "category": "",
-      "desc": "September's best packaging design stories: Colgate's lawsuit, Chef Boyardee's refresh, glow-in-the-dark ranch, canned sparkling wine, and more from The Dieline. The post The Dieline&#8217;s Best of September 2026 appeared first on DIELINE.",
-      "tags": [
-        "包装"
-      ],
-      "_imageUrl": "https://thedieline.com/wp-content/uploads/2026/09/Subheading-2.png"
-    },
-    {
-      "id": "2c57e9dca2b5",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-10-01",
-      "title": "Tanica",
-      "source": "Packaging of the World",
-      "sourceUrl": "https://packagingoftheworld.com/2026/10/tanica.html",
-      "image": "📦",
-      "category": "",
-      "desc": "Creative Direction, Structural Design &#38; Graphic Design by Soft Machine® ABOUT Tanica is Australia&#8217;s answer to the aperitif. Founder Adriane McDermott had a great liquid, crafted with native plum and strawberry gum leaf, and a great idea: an aperitif that&#8217;s dist...",
-      "tags": [],
-      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/10/0-1-e1790847035148.jpg?fit=300%2C219&amp;ssl=1"
-    },
-    {
-      "id": "9e920d5fe54b",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-10-01",
-      "title": "The Golden Bird — Scotch Whisky Packaging Design",
-      "source": "Packaging of the World",
-      "sourceUrl": "https://packagingoftheworld.com/2026/10/the-golden-bird-scotch-whisky-packaging-design.html",
-      "image": "📦",
-      "category": "",
-      "desc": "Brandex Single Malt Scotch Whisky was created as a celebration of craftsmanship, heritage, and visual storytelling. The packaging combines the warmth and authenticity of traditional whisky culture with a refined contemporary identity, creating a bottle that feels established, ...",
-      "tags": [
-        "包装"
-      ],
-      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/09/2wisky-1-scaled-e1790846919660.jpeg?fit=300%2C167&amp;ssl=1"
-    },
-    {
-      "id": "d5d26c47c1c5",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-10-01",
-      "title": "CYNARA",
-      "source": "Packaging of the World",
-      "sourceUrl": "https://packagingoftheworld.com/2026/10/cynara.html",
-      "image": "📦",
-      "category": "",
-      "desc": "When Botanical Nature Becomes a Ritual of Wellness CYNARA — Artichoke Botanical Concentrate CYNARA transforms digestive wellness into a sensory experience rooted in nature. Inspired by the artichoke, the packaging moves beyond traditional botanical codes to make the ingredient...",
-      "tags": [
-        "包装",
-        "原料"
-      ],
-      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/09/137067-2-e1790846887246.jpg?fit=300%2C225&amp;ssl=1"
-    },
-    {
-      "id": "d08b1d45b45a",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-10-01",
-      "title": "Herbal Wonders",
-      "source": "Packaging of the World",
-      "sourceUrl": "https://packagingoftheworld.com/2026/10/herbal-wonders.html",
-      "image": "📦",
-      "category": "",
-      "desc": "Herbal Wonders is Egypt’s first loose tea brand, created to turn everyday tea drinking into a colorful, mood-led ritual. Built around the idea that one sip can shift your mood, the brand brings together a range of homegrown herbs and botanicals, from peppermint and lemongrass ...",
-      "tags": [],
-      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/09/hw-3-1-e1790846844718.jpeg?fit=238%2C300&amp;ssl=1"
-    },
-    {
-      "id": "55c32442c95a",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-10-01",
-      "title": "PH 4.1 – Artisan Panettone Packaging",
-      "source": "Packaging of the World",
-      "sourceUrl": "https://packagingoftheworld.com/2026/10/ph-4-1-artisan-panettone-packaging.html",
-      "image": "📦",
-      "category": "",
-      "desc": "ABOUT PH 4.1 is an artisanal bakery based in Velo Veronese, in the Lessinia mountains of northern Italy. The project started from the desire to create a visual identity for their traditional Christmas bakery products, including Panettone and Nadalin, while expressing their str...",
-      "tags": [
-        "包装"
-      ],
-      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/10/1_Hero_PH4.1_AndreaRubele%C2%A92026-1-e1790846828532.jpg?fit=300%2C169&amp;ssl=1"
-    },
-    {
-      "id": "7f1fe49d3cb3",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-10-01",
-      "title": "Poco Vino",
-      "source": "Packaging of the World",
-      "sourceUrl": "https://packagingoftheworld.com/2026/10/poco-vino.html",
-      "image": "📦",
-      "category": "",
-      "desc": "Creative Direction, Structural Design and Graphic Design by Soft Machine® ABOUT Poco Vino started with a simple question: what if wine was made for the way people actually drink it now? Australian Vintage came to us with an appetite to do something different in a category that...",
-      "tags": [],
-      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/10/Poco_Hero-1-e1790846809239.jpg?fit=300%2C169&amp;ssl=1"
-    },
-    {
-      "id": "63678b0e5575",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-10-01",
-      "title": "El Quinto Sol: The Mesoamerican Cosmos",
-      "source": "Packaging of the World",
-      "sourceUrl": "https://packagingoftheworld.com/2026/10/el-quinto-sol-the-mesoamerican-cosmos.html",
-      "image": "📦",
-      "category": "",
-      "desc": "El Quinto Sol is a fully custom playing card project created by Mexican illustrator and designer Juan Erazo under The Mythographer. The deck transforms Mesoamerican cosmology, mythology, and visual traditions into a contemporary object designed to be played with, explored, and...",
-      "tags": [],
-      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/10/IMG_4592-1-scaled-e1790846786195.jpg?fit=300%2C225&amp;ssl=1"
-    },
-    {
-      "id": "n1",
-      "type": "newproduct",
-      "section": "newproduct",
-      "date": "2026-08-06",
-      "title": "思念食品「微波即食小馄饨」系列",
-      "source": "天猫新品",
-      "sourceUrl": "https://xin.tmall.com/",
-      "image": "🥟",
-      "category": "冷冻食品",
-      "desc": "专利蒸汽自循环包装技术，微波加热90秒即食，无需加水，皮不干馅鲜嫩。定价19.9元/盒。",
-      "tags": [
-        "思念",
-        "微波即食",
-        "馄饨"
-      ],
-      "innovation": {
-        "type": "工艺创新",
-        "detail": "蒸汽自循环包装技术，解决微波面点干硬痛点"
-      }
-    },
-    {
-      "id": "p4",
-      "type": "packaging",
-      "section": "packaging",
-      "date": "2026-08-06",
-      "title": "透明防雾冷冻盖膜",
-      "source": "Dieline",
-      "sourceUrl": "https://www.dieline.com/",
-      "image": "🔍",
-      "category": "",
-      "desc": "PETG防雾改性膜，-25℃冷冻展示柜中保持透明无白雾。获2026 WorldStar包装大奖。",
-      "tags": [
-        "防雾",
-        "PETG",
-        "展示效果"
-      ],
-      "material": {
-        "name": "PETG防雾改性膜",
-        "feature": "-25℃保持透明，无白雾凝结",
-        "process": "共挤流延+防雾涂覆",
-        "supplier": "Sealed Air(意)/国内：浙江众成"
-      }
-    },
-    {
-      "id": "f1",
-      "type": "formulation",
-      "section": "formulation",
-      "date": "2026-08-06",
-      "title": "海藻糖在冷冻面点中的抗冻保护应用",
-      "source": "中国食品学报",
-      "sourceUrl": "https://kns.cnki.net/",
-      "image": "🧪",
-      "category": "速冻面点",
-      "desc": "添加2%-4%海藻糖可显著降低冷冻面筋蛋白冰晶损伤，冻融5次后硬度仅增12%(对照47%)。",
-      "tags": [
-        "海藻糖",
-        "抗冻",
-        "面点"
-      ],
-      "formula": {
-        "ingredient": "海藻糖",
-        "effect": "降低冰晶对面筋蛋白的损伤",
-        "applicable": "速冻面点全品类",
-        "mechanism": "海藻糖分子在冰晶表面形成玻璃态保护膜，抑制重结晶",
-        "supplier": "日本林原/国内：保龄宝生物"
-      }
-    },
-    {
-      "id": "p1",
-      "type": "packaging",
-      "section": "packaging",
-      "date": "2026-08-05",
-      "title": "可微波自排气包装袋",
-      "source": "Packaging of the World",
-      "sourceUrl": "https://www.packagingoftheworld.com/",
-      "image": "📦",
-      "category": "",
-      "desc": "PP/PE复合材料内置单向排气阀，微波加热时自动释放蒸汽。日本Toppan印刷技术。",
-      "tags": [
-        "可微波",
-        "自排气",
-        "PP/PE"
-      ],
-      "material": {
-        "name": "PP/PE复合材料",
-        "feature": "单向排气阀，微波自排气",
-        "process": "凹版印刷+覆膜",
-        "supplier": "日本Toppan/国内：紫江企业"
-      }
-    },
-    {
-      "id": "f2",
-      "type": "formulation",
-      "section": "formulation",
-      "date": "2026-08-04",
-      "title": "微胶囊包埋花椒油在预制菜中的释放控制",
-      "source": "食品科学",
-      "sourceUrl": "https://kns.cnki.net/",
-      "image": "🌶️",
-      "category": "预制菜",
-      "desc": "β-环糊精包埋花椒精油，包埋率92.3%。冷冻6个月后风味保留率87%(直接添加仅41%)。",
-      "tags": [
-        "微胶囊",
-        "包埋",
-        "花椒油"
-      ],
-      "formula": {
-        "ingredient": "β-环糊精包埋花椒精油",
-        "effect": "6个月风味保留率87%，复热释放",
-        "applicable": "麻辣风味预制菜",
-        "mechanism": "β-环糊精空腔结构包裹花椒精油，加热触发释放",
-        "supplier": "河南中大恒源/国内：天宁香料"
-      }
-    },
-    {
-      "id": "n2",
-      "type": "newproduct",
-      "section": "newproduct",
-      "date": "2026-08-03",
-      "title": "日本味之素「冷冻寿司拼盘」",
-      "source": "味之素官网",
-      "sourceUrl": "https://www.ajinomoto.co.jp/",
-      "image": "🍣",
-      "category": "冷冻食品",
-      "desc": "-60℃超低温速冻技术保留刺身口感，解冻后媲美门店现做。6贯装/980日元。",
-      "tags": [
-        "日本",
-        "味之素",
-        "超低温速冻"
-      ],
-      "innovation": {
-        "type": "工艺创新",
-        "detail": "-60℃超低温速冻，解决冷冻寿司口感还原难题"
-      }
-    },
-    {
-      "id": "n3",
-      "type": "newproduct",
-      "section": "newproduct",
-      "date": "2026-08-02",
-      "title": "三全食品「空气炸锅小酥肉」",
-      "source": "三全旗舰店",
-      "sourceUrl": "https://www.sanquan.com/",
-      "image": "🥩",
-      "category": "预制菜",
-      "desc": "专为空气炸锅优化的裹粉配方，200℃ 8分钟外酥里嫩，含油量降低40%。300g/29.9元。",
-      "tags": [
-        "三全",
-        "空气炸锅",
-        "小酥肉"
-      ],
-      "innovation": {
-        "type": "配方创新",
-        "detail": "空气炸锅专用裹粉配方，减油40%口感不妥协"
-      }
-    },
-    {
-      "id": "p2",
-      "type": "packaging",
-      "section": "packaging",
-      "date": "2026-08-02",
-      "title": "PLA可降解冷冻食品托盘",
-      "source": "Dieline",
-      "sourceUrl": "https://www.dieline.com/",
-      "image": "🌿",
-      "category": "",
-      "desc": "100% PLA植物基材料，耐-40℃低温不变脆，可家庭堆肥降解。碳足迹减少72%。",
-      "tags": [
-        "PLA",
-        "可降解",
-        "环保"
-      ],
-      "material": {
-        "name": "PLA（聚乳酸）",
-        "feature": "耐低温-40℃，家庭堆肥可降解",
-        "process": "热成型+抗冻改性",
-        "supplier": "Good Natured(美)/国内：金发科技"
-      }
-    },
-    {
-      "id": "n6",
-      "type": "newproduct",
-      "section": "newproduct",
-      "date": "2026-08-01",
-      "title": "茶颜悦色「桂花酒酿冰汤圆」",
-      "source": "天猫新品",
-      "sourceUrl": "https://xin.tmall.com/",
-      "image": "🍡",
-      "category": "休闲零食",
-      "desc": "跨界甜品+冷冻技术，酒酿风味+冰爽口感，抢占夏季冷冻甜品新赛道。200g×2盒/32.8元。",
-      "tags": [
-        "茶颜悦色",
-        "甜品",
-        "跨界"
-      ],
-      "innovation": {
-        "type": "场景创新",
-        "detail": "夏季冷冻甜品新场景，酒酿+冰爽差异化定位"
-      }
-    },
-    {
-      "id": "f3",
-      "type": "formulation",
-      "section": "formulation",
-      "date": "2026-08-01",
-      "title": "抗性糊精在低GI速冻面点中的应用方案",
-      "source": "食品工业科技",
-      "sourceUrl": "https://kns.cnki.net/",
-      "image": "🌾",
-      "category": "速冻面点",
-      "desc": "抗性糊精替代10%-15%小麦粉，可使速冻包子GI值从72降至54，复热后体积增大8%。",
-      "tags": [
-        "抗性糊精",
-        "低GI",
-        "健康"
-      ],
-      "formula": {
-        "ingredient": "抗性糊精",
-        "effect": "GI值降低25%，复热体积增大8%",
-        "applicable": "速冻包子、馒头、花卷",
-        "mechanism": "膳食纤维部分替代淀粉，降低血糖应答+改善面团持水性",
-        "supplier": "罗盖特(法)/国内：山东百龙创园"
-      }
-    },
-    {
-      "id": "n4",
-      "type": "newproduct",
-      "section": "newproduct",
-      "date": "2026-07-31",
-      "title": "美国Beyond Meat「冷冻植物肉酱意面」",
-      "source": "FoodBev",
-      "sourceUrl": "https://www.foodbev.com/",
-      "image": "🍝",
-      "category": "预制菜",
-      "desc": "植物蛋白肉酱+全麦意面一体化冷冻方案，复热后肉酱不分离。350g/$7.99。",
-      "tags": [
-        "植物基",
-        "Beyond Meat",
-        "美国"
-      ],
-      "innovation": {
-        "type": "配方创新",
-        "detail": "植物肉酱与意面一体化冷冻，复热不分层"
-      }
-    },
-    {
-      "id": "p3",
-      "type": "packaging",
-      "section": "packaging",
-      "date": "2026-07-30",
-      "title": "铝箔锁鲜自立袋",
-      "source": "Behance",
-      "sourceUrl": "https://www.behance.net/",
-      "image": "✨",
-      "category": "",
-      "desc": "PET/AL/PE三层复合结构，铝箔层提供99.9%光阻隔，底部自立设计提升货架陈列效果。",
-      "tags": [
-        "铝箔",
-        "自立袋",
-        "海鲜"
-      ],
-      "material": {
-        "name": "PET/AL/PE三层复合",
-        "feature": "99.9%光阻隔，底部自立",
-        "process": "干式复合+易撕口激光切割",
-        "supplier": "安姆科(Amcor)/国内：黄山永新"
-      }
-    },
-    {
-      "id": "f4",
-      "type": "formulation",
-      "section": "formulation",
-      "date": "2026-07-29",
-      "title": "TG酶在冷冻鱼丸弹性保持中的应用",
-      "source": "水产学报",
-      "sourceUrl": "https://kns.cnki.net/",
-      "image": "🐟",
-      "category": "冷冻调理食品",
-      "desc": "添加0.3%TG酶可使冷冻鱼丸冻藏6个月后弹性仅降8.5%(对照降32%)。",
-      "tags": [
-        "TG酶",
-        "弹性保持",
-        "鱼丸"
-      ],
-      "formula": {
-        "ingredient": "TG酶（谷氨酰胺转氨酶）",
-        "effect": "冻藏6个月弹性仅降8.5%",
-        "applicable": "冷冻鱼丸、虾滑、肉丸",
-        "mechanism": "催化蛋白分子间共价交联",
-        "supplier": "日本味之素/国内：江苏一鸣生物"
-      }
-    },
-    {
-      "id": "n5",
-      "type": "newproduct",
-      "section": "newproduct",
-      "date": "2026-07-28",
-      "title": "安井食品「麻辣小龙虾水饺」",
-      "source": "FoodTalks",
-      "sourceUrl": "https://www.foodtalks.cn/",
-      "image": "🦞",
-      "category": "冷冻食品",
-      "desc": "整只小龙虾入馅的工业化量产技术，虾仁保水处理后复热Q弹不碎。240g×3袋/45.9元。",
-      "tags": [
-        "安井",
-        "小龙虾",
-        "水饺"
-      ],
-      "innovation": {
-        "type": "工艺创新",
-        "detail": "整只虾仁入馅的工业化量产技术，保水不碎"
-      }
     }
   ]
 }
