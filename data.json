@@ -1,7 +1,7 @@
 {
   "meta": {
-    "updated": "2026-10-14",
-    "version": 1791944839,
+    "updated": "2026-10-15",
+    "version": 1792030084,
     "total": 150,
     "auto_generated": true,
     "sources": [
@@ -334,6 +334,253 @@
         "type": "工艺创新",
         "detail": "整只虾仁入馅的工业化量产技术，保水不碎"
       }
+    },
+    {
+      "id": "9db337408a31",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-10-14",
+      "title": "Less is more for food brands trying to meet modern shoppers’ health & safety ...",
+      "source": "FoodNavigator-Asia",
+      "sourceUrl": "https://www.foodnavigator.com/Article/2026/10/14/consumers-willing-to-pay-more-for-simpler-food/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "📊",
+      "category": "",
+      "desc": "Consumers increasingly value simpler ingredients and minimal processing and new research suggests many are willing to pay a premium for them.",
+      "tags": [
+        "原料"
+      ],
+      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/ENW6T3RXK5A2NJP5EOH5ATNIAE.jpg?auth=48a48051487d182e94ba86261c1c9b82ae6610c1b0074b07c1b8a4d7e9c3ba34&smart=true&width=2121&height=1414"
+    },
+    {
+      "id": "3be92271a784",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-10-14",
+      "title": "As Thanksgiving budgets tighten, brands must justify their price",
+      "source": "FoodNavigator-Asia",
+      "sourceUrl": "https://www.foodnavigator.com/Article/2026/10/14/why-brands-must-prove-value-this-thanksgiving-season/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "📊",
+      "category": "",
+      "desc": "As Thanksgiving shoppers navigate higher food costs, NIQ data suggests consumers are becoming more selective about what earns a place on the holiday table, rewarding brands that can justify their price through convenience, quality, nostalgia, health benefits or other meaningfu...",
+      "tags": [],
+      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/I7T7PXXSJVA73DX42X4D2UHNNY.jpg?auth=f93d9f9a9b17ee234acde79447c30380ec83c5daed5cc013d1450cfebee2a634&smart=true&width=2000&height=1500"
+    },
+    {
+      "id": "559b3c29ca3a",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-10-14",
+      "title": "Mars bets big on confectionery and snacking’s hottest trends",
+      "source": "FoodNavigator-Asia",
+      "sourceUrl": "https://www.confectionerynews.com/Article/2026/10/14/mars-bets-big-on-confectionery-and-snackings-hottest-trends/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "📊",
+      "category": "",
+      "desc": "Mars unveils trend-led autumn/winter innovations as key sales season approaches.",
+      "tags": [
+        "创新"
+      ],
+      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/ZGALUWMILNDSPAIAIC4QT3QRRI.jpg?auth=fda9caf2b6d2b2acae97949ee3d1fe820ab8602a85feab809fd5cbba18c03974&smart=true&width=2048&height=1367"
+    },
+    {
+      "id": "142750cbe8de",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-10-14",
+      "title": "Less is more for food brands trying to meet modern shoppers’ health & safety ...",
+      "source": "FoodNavigator-USA",
+      "sourceUrl": "https://www.foodnavigator.com/Article/2026/10/14/consumers-willing-to-pay-more-for-simpler-food/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "📊",
+      "category": "",
+      "desc": "Consumers increasingly value simpler ingredients and minimal processing and new research suggests many are willing to pay a premium for them.",
+      "tags": [
+        "原料"
+      ],
+      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/ENW6T3RXK5A2NJP5EOH5ATNIAE.jpg?auth=48a48051487d182e94ba86261c1c9b82ae6610c1b0074b07c1b8a4d7e9c3ba34&smart=true&width=2121&height=1414"
+    },
+    {
+      "id": "bc41e66c5196",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-10-14",
+      "title": "Mars bets big on confectionery and snacking’s hottest trends",
+      "source": "FoodNavigator-USA",
+      "sourceUrl": "https://www.confectionerynews.com/Article/2026/10/14/mars-bets-big-on-confectionery-and-snackings-hottest-trends/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "📊",
+      "category": "",
+      "desc": "Mars unveils trend-led autumn/winter innovations as key sales season approaches.",
+      "tags": [
+        "创新"
+      ],
+      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/ZGALUWMILNDSPAIAIC4QT3QRRI.jpg?auth=fda9caf2b6d2b2acae97949ee3d1fe820ab8602a85feab809fd5cbba18c03974&smart=true&width=2048&height=1367"
+    },
+    {
+      "id": "c8bf0a926b0f",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-10-14",
+      "title": "Kraft Pocket Parm Takes Cheese to Grate New Places",
+      "source": "Dieline",
+      "sourceUrl": "https://thedieline.com/kraft-pocket-parm-takes-cheese-to-grate-new-places/",
+      "image": "📦",
+      "category": "",
+      "desc": "Kraft Natural Cheese turns its iconic grated cheese shaker into Pocket Parm, a miniature, clip on accessory complete with colorful collectible charms. Featuring three new cheese flavors, the limited edition packaging taps into the miniatures trend and brings a playful twist to...",
+      "tags": [
+        "包装"
+      ],
+      "_imageUrl": "https://thedieline.com/wp-content/uploads/2026/10/Pocket_Parm-scaled.jpg"
+    },
+    {
+      "id": "a715d464ba16",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-10-14",
+      "title": "Tour de Type: Vintage-Inspired Logotype, Satisfying Lockups, and a Brand Name...",
+      "source": "Dieline",
+      "sourceUrl": "https://thedieline.com/tour-de-type-vintage-inspired-logotype-satisfying-lockups-and-a-brand-name-written-with-a-ribbon/",
+      "image": "📦",
+      "category": "",
+      "desc": "Another assortment of noteworthy typographic moments found last month, from wordmarks in projects we covered, to a title design for a book from the 80s. The post Tour de Type: Vintage-Inspired Logotype, Satisfying Lockups, and a Brand Name Written with a Ribbon appeared first ...",
+      "tags": [],
+      "_imageUrl": "https://thedieline.com/wp-content/uploads/2026/10/1790064533675.jpg"
+    },
+    {
+      "id": "4aa561ce3cad",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-10-14",
+      "title": "Maison Myrthus Wraps the Art of Giving in a Ribbon Inspired Identity",
+      "source": "Dieline",
+      "sourceUrl": "https://thedieline.com/maison-myrthus-wraps-the-art-of-giving-in-a-ribbon-inspired-identity/",
+      "image": "📦",
+      "category": "",
+      "desc": "Amertume Studio brings the art of gifting to life for Maison Myrthus through ribbon inspired typography, botanical illustrations and tactile olive green packaging. Embossed details, textured printing and locally sourced Swiss materials give the identity a thoughtful, handcraft...",
+      "tags": [
+        "包装"
+      ],
+      "_imageUrl": "https://thedieline.com/wp-content/uploads/2026/10/Amertume-studio-x-Maison-Myrthus-Sticker-scaled.jpg"
+    },
+    {
+      "id": "6b0444ed7706",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-10-14",
+      "title": "Blumo Gives Deodorant a Fresh Twist With Cocktail Inspired Refills",
+      "source": "Dieline",
+      "sourceUrl": "https://thedieline.com/blumo-gives-deodorant-a-fresh-twist-with-cocktail-inspired-refills/",
+      "image": "📦",
+      "category": "",
+      "desc": "Dolrid gives Blumo’s refillable deodorant packaging a fresh twist with minimalist reusable cases, vibrant blue and green refills, and fragrances inspired by drinks like Icy Lemon Vodka and Matcha on Cloud. Playful color contrasts and clean typography turn everyday personal car...",
+      "tags": [
+        "包装"
+      ],
+      "_imageUrl": "https://thedieline.com/wp-content/uploads/2026/10/Blumo_Hero-769756eab3fc519a5c5d33c408c66b8d.jpg"
+    },
+    {
+      "id": "a58aae235807",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-10-14",
+      "title": "GRUV // Energy Drink",
+      "source": "Packaging of the World",
+      "sourceUrl": "https://packagingoftheworld.com/2026/10/gruv-energy-drink.html",
+      "image": "📦",
+      "category": "",
+      "desc": "GRUV // Energy Drink Design GRUV is an energy drink concept inspired by the atmosphere of techno music, underground club culture, and the visual language of DJ equipment. The design captures the energy of electronic music, translating the rhythm, intensity, and industrial aest...",
+      "tags": [
+        "包装"
+      ],
+      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/10/509-1-e1791972755131.png?fit=300%2C169&amp;ssl=1"
+    },
+    {
+      "id": "828c59bc4efd",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-10-14",
+      "title": "Olive Oil | The Flow of Flavor Captured in Optical Waves",
+      "source": "Packaging of the World",
+      "sourceUrl": "https://packagingoftheworld.com/2026/10/olive-oil-the-flow-of-flavor-captured-in-optical-waves.html",
+      "image": "📦",
+      "category": "",
+      "desc": "OVERVIEW: Gustalia Olive Oil presents a modern, dynamic approach to premium culinary oil packaging. Moving away from traditional, rustic Mediterranean aesthetic tropes, the design integrates a hypnotic optical wave pattern that symbolizes the flowing richness, smooth texture, ...",
+      "tags": [
+        "包装"
+      ],
+      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/10/09-10-e1791972607414.png?fit=300%2C200&amp;ssl=1"
+    },
+    {
+      "id": "649974985fee",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-10-14",
+      "title": "Sugar Free Candy | Packaging Design",
+      "source": "Packaging of the World",
+      "sourceUrl": "https://packagingoftheworld.com/2026/10/sugar-free-candy-packaging-design.html",
+      "image": "📦",
+      "category": "",
+      "desc": "To develop the concept for this set of four packaging designs, I debated between following a safe and guideline-compliant approach, in line with The Skinny Food&#8217;s existing style, or opting for images related to the type of candy inside. After extensive consideration and ...",
+      "tags": [
+        "包装"
+      ],
+      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/10/7-9-e1791972521530.jpg?fit=300%2C188&amp;ssl=1"
+    },
+    {
+      "id": "778f2e7d4f31",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-10-14",
+      "title": "Monster tries again on protein shakes",
+      "source": "Food Dive",
+      "sourceUrl": "https://www.fooddive.com/news/monster-energy-returns-protein-drinks/832954/",
+      "image": "📊",
+      "category": "",
+      "desc": "The energy giant is returning to the category as innovation becomes a key piece of its growth strategy.",
+      "tags": [
+        "创新"
+      ],
+      "_imageUrl": "https://imgproxy.divecdn.com/oTmQH9GUXQw9m1nseB6pjkaeI3al9-vkpUSRqJfgCRo/g:nowe:0:185/c:2500:1412/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjEwNjE1MTY2X3BHZlNCQ20uanBn.webp"
+    },
+    {
+      "id": "975993657f0a",
+      "type": "newproduct",
+      "section": "newproduct",
+      "sub": "report",
+      "date": "2026-10-14",
+      "title": "Fibre targets, sugar caps and lunchbox rules: Is school snacking heading for ...",
+      "source": "BakeryandSnacks",
+      "sourceUrl": "https://www.bakeryandsnacks.com/Article/2026/10/14/school-food-standards-2027-fibre-sugar-and-bakery-rules/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "🆕",
+      "category": "休闲零食",
+      "desc": "England’s school food reforms bring fibre targets, sugar caps and tighter promotion rules. Here’s what they mean for bakery and snack manufacturers.",
+      "tags": [],
+      "_imageUrl": "https://www.bakeryandsnacks.com/resizer/v2/HW4NXAEU3ZES5IJOQFCOS6SXJ4.jpg?auth=843475290d73142d060054c3deace7f8c73369e0b37f0b9f9dfafcba2942f3b8&smart=true&width=2121&height=1414"
+    },
+    {
+      "id": "a5b3e654b6e6",
+      "type": "newproduct",
+      "section": "newproduct",
+      "sub": "report",
+      "date": "2026-10-14",
+      "title": "Caffè Nero and Myprotein launch new protein lattes",
+      "source": "Beverage Daily",
+      "sourceUrl": "https://www.beveragedaily.com/Article/2026/10/14/caffe-nero-and-myprotein-launch-protein-lattes/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "🆕",
+      "category": "饮品",
+      "desc": "",
+      "tags": [],
+      "_imageUrl": "https://www.beveragedaily.com/resizer/v2/AN7L3TQXPFCBVM7XU32UBEGWJU.jpg?auth=3d5f8b0cc5a191bd7f3fb84508948d1f4c0828145cbdcdfed5e051cc6999fe35&smart=true&width=2121&height=1414"
     },
     {
       "id": "4aa0eab76aca",
@@ -2286,253 +2533,6 @@
       "desc": "The launch comes as owner Kraft Heinz invests $700 million into marketing, sales, and R&amp;D under CEO Steve Cahillane to drive growth.",
       "tags": [],
       "_imageUrl": "https://imgproxy.divecdn.com/fYbUizQnuDsUsdPb6mnky8rh1h3s4L5CeZIwOMDu9R0/g:nowe:0:0/c:1911:1080/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9LTUNfUmFtZW5fUGFja19TaG90cy5qcGc=.webp"
-    },
-    {
-      "id": "0f95255df9f6",
-      "type": "compliance",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-10-05",
-      "title": "The EUDR is on the horizon – could it change again?",
-      "source": "FoodNavigator-Asia",
-      "sourceUrl": "https://www.foodnavigator.com/Article/2026/10/05/eudr-will-it-be-simplified-further/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "⚖️",
-      "category": "",
-      "desc": "The deadline for the European Union Deforestation Regulation (EUDR) is fast approaching, and with the regulation's history, it's natural to speculate: will it see further simplifications or even another delay? While most of industry is behind it, including companies like Barry...",
-      "tags": [],
-      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/5ISYCZKTBFHSLG4KD75XOMBPQU.jpg?auth=bd8788a18d2b8f59aa951fc6f840b529de5be997a7218da79e6b5880bc3a5fe7&smart=true&width=2000&height=1500"
-    },
-    {
-      "id": "c0d388fdd93b",
-      "type": "compliance",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-10-05",
-      "title": "Responding to climate change is no longer about rhetoric",
-      "source": "FoodNavigator-Asia",
-      "sourceUrl": "https://www.foodnavigator.com/Article/2026/10/05/industry-response-to-climate-change-no-longer-about-rhetoric/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "⚖️",
-      "category": "",
-      "desc": "As regulation increasingly restricts what sustainability claims the food industry can make, responding to climate change is less and less about rhetoric. The food industry is even developing products that can help consumers deal with the effects of climate change.",
-      "tags": [],
-      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/3DVM55RT3JHIZPDBUJGBB7IRL4.jpg?auth=07abc352a2933175687ae8f4fc675a4a224573a9f5a07ab7b69b27c89163ad5c&smart=true&width=2121&height=1414"
-    },
-    {
-      "id": "674c88c947ac",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-10-05",
-      "title": "Mars gives Skittles a crystal crunch as texture trend accelerates",
-      "source": "FoodNavigator-Asia",
-      "sourceUrl": "https://www.confectionerynews.com/Article/2026/10/05/mars-gives-skittles-crystal-crunch-as-texture-trend-accelerates/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "📊",
-      "category": "",
-      "desc": "Mars is tapping into the booming multisensory confectionery trend with Skittles Gummy Crystals, combining chewy gummies and crunchy candy crystals as texture-driven innovation reshapes the category.",
-      "tags": [
-        "创新"
-      ],
-      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/NO4KI44WDRF4HHSUX4CVOL7A6U.jpg?auth=b0cfdf94294c485aa3cd325c1471eba824b091ae9413c2300b0367327ee8bf11&smart=true&width=2120&height=1414"
-    },
-    {
-      "id": "4ce331f4140e",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-10-05",
-      "title": "Creatine moves into weight management",
-      "source": "FoodNavigator-Asia",
-      "sourceUrl": "https://www.foodnavigator.com/Article/2026/10/05/creatine-enters-weight-management-space-as-research-reveals-fat-loss-potential/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "📊",
-      "category": "",
-      "desc": "New research links creatine to lower body fat and increased lean mass, opening new opportunities for food and beverage brands in weight management.",
-      "tags": [],
-      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/PW6PDVJMXBBNLKXNXYGDWJPZGY.jpg?auth=0b0f54e0c67c31a15aa19aa67bfd5b13352a21123963ad93ed4fc4893a267d27&smart=true&width=2121&height=1413"
-    },
-    {
-      "id": "e8d11a79b60a",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-10-05",
-      "title": "China’s alternative protein investment offers lessons for the UK",
-      "source": "FoodNavigator-Asia",
-      "sourceUrl": "https://www.foodnavigator.com/Article/2026/10/05/uk-alternative-protein-sector-needs-backing/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "📊",
-      "category": "",
-      "desc": "China’s protein lead leaves UK playing catch-up as industry warns of scale-up bottlenecks and calls for greater investment",
-      "tags": [
-        "中国市场"
-      ],
-      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/IMWZKF4DHFAUTOGGDJR7GDNEZU.jpg?auth=9a023d60db343185e57823913a6b53ade2d9b54dcbd906e66d48175f768073e0&smart=true&width=2121&height=1414"
-    },
-    {
-      "id": "7ac9329bc666",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-10-05",
-      "title": "Mars gives Skittles a crystal crunch as texture trend accelerates",
-      "source": "FoodNavigator-USA",
-      "sourceUrl": "https://www.confectionerynews.com/Article/2026/10/05/mars-gives-skittles-crystal-crunch-as-texture-trend-accelerates/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "📊",
-      "category": "",
-      "desc": "Mars is tapping into the booming multisensory confectionery trend with Skittles Gummy Crystals, combining chewy gummies and crunchy candy crystals as texture-driven innovation reshapes the category.",
-      "tags": [
-        "创新"
-      ],
-      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/NO4KI44WDRF4HHSUX4CVOL7A6U.jpg?auth=b0cfdf94294c485aa3cd325c1471eba824b091ae9413c2300b0367327ee8bf11&smart=true&width=2120&height=1414"
-    },
-    {
-      "id": "2f1eecb3e493",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-10-05",
-      "title": "Beecee Brings Clean Beauty to a Younger Audience with Genuinely Cool Design",
-      "source": "Dieline",
-      "sourceUrl": "https://thedieline.com/beecee-brings-clean-beauty-to-a-younger-audience-with-genuinely-cool-design/",
-      "image": "📦",
-      "category": "",
-      "desc": "Beecee swaggers into the beauty space as clean beauty brand geared toward a younger demo. Established created a nonchalant yet carefully considered brand that achieves that elusive essence of cool. The post Beecee Brings Clean Beauty to a Younger Audience with Genuinely Cool D...",
-      "tags": [],
-      "_imageUrl": "https://thedieline.com/wp-content/uploads/2026/10/BEECEE_1B.jpg"
-    },
-    {
-      "id": "b9ce03fccd3c",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-10-05",
-      "title": "Why Is Food Packaging Starting to Look Like Toothpaste?",
-      "source": "Dieline",
-      "sourceUrl": "https://thedieline.com/why-is-food-packaging-starting-to-look-like-toothpaste/",
-      "image": "📦",
-      "category": "",
-      "desc": "Honey, peanut butter, and chili paste are showing up in aluminum tubes. Here's why the format, born in 1841 for artists' paint, fits how we cook and snack today. The post Why Is Food Packaging Starting to Look Like Toothpaste? appeared first on DIELINE.",
-      "tags": [
-        "包装"
-      ],
-      "_imageUrl": "https://thedieline.com/wp-content/uploads/2026/10/Subheading-1.png"
-    },
-    {
-      "id": "e40b7b50c0af",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-10-05",
-      "title": "Interact Gives Misfits a Candy-Coated Refresh",
-      "source": "Dieline",
-      "sourceUrl": "https://thedieline.com/interact-gives-misfits-a-candy-coated-refresh/",
-      "image": "📦",
-      "category": "",
-      "desc": "Misfits gets a candy coated refresh from Interact, pairing electric color, playful typography and indulgent flavor illustrations with clear protein callouts. The new packaging brings protein bars closer to the visual world of confectionery while keeping the range energetic, re...",
-      "tags": [
-        "包装"
-      ],
-      "_imageUrl": "https://thedieline.com/wp-content/uploads/2026/09/Misfits_07-2616918_3x2-6865438738f110804ff97ed8c603b05f-scaled-1.jpg"
-    },
-    {
-      "id": "8faa88afd9e1",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-10-05",
-      "title": "Saint Anthony. Honey of the monastery",
-      "source": "Packaging of the World",
-      "sourceUrl": "https://packagingoftheworld.com/2026/10/saint-anthony-honey-of-the-monastery.html",
-      "image": "📦",
-      "category": "",
-      "desc": "The packaging concept for “Saint Anthony” monastery honey is based on the image of the halo — one of the key symbols of the saint’s iconography. The absence of a back label allows light to pass through the glass: under certain lighting conditions, the halo seems to glow from w...",
-      "tags": [
-        "包装"
-      ],
-      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/10/454555-2-e1791190368402.png?fit=300%2C169&amp;ssl=1"
-    },
-    {
-      "id": "abfdc56bfc2a",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-10-05",
-      "title": "Shiwa Matcha Selection",
-      "source": "Packaging of the World",
-      "sourceUrl": "https://packagingoftheworld.com/2026/10/shiwa-matcha-selection.html",
-      "image": "📦",
-      "category": "",
-      "desc": "Can simplicity convey quality? SHIWA Premium Selection is a collection of carefully selected matchas presented through a restrained and sophisticated visual language. The packaging reflects the premium character of the product through a minimalist aesthetic, moving away from t...",
-      "tags": [
-        "日本",
-        "包装"
-      ],
-      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/10/01_SHIWA_HERO_16x9-1-scaled-e1791189794254.jpg?fit=300%2C169&amp;ssl=1"
-    },
-    {
-      "id": "984b1352d41e",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-10-05",
-      "title": "Ithaca — Olive Packaging Design",
-      "source": "Packaging of the World",
-      "sourceUrl": "https://packagingoftheworld.com/2026/10/ithaca-olive-packaging-design.html",
-      "image": "📦",
-      "category": "",
-      "desc": "Ithaca is a conceptual olive packaging project inspired by Homer’s Odyssey and Odysseus’ journey back home. The concept connects Greek heritage, the Mediterranean Sea and the idea of returning home. A simple glass olive jar is transformed into a sculptural object through a rem...",
-      "tags": [
-        "包装"
-      ],
-      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/10/428fd8039d686cfff901a300d70bb529_tattoo-1-e1791189746599.png?fit=300%2C297&amp;ssl=1"
-    },
-    {
-      "id": "d3c9aa17cdbc",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-10-05",
-      "title": "Denty | Packaging & 3D Modeling",
-      "source": "Packaging of the World",
-      "sourceUrl": "https://packagingoftheworld.com/2026/10/denty-packaging-3d-modeling.html",
-      "image": "📦",
-      "category": "",
-      "desc": "Denty is an oral care brand with a Fresh Mint mouthwash, a color corrector serum and a pack that brings them together. Oral care shelves are usually white, teal and full of claims. We gave Denty a skincare look instead: a soft gradient, one bold wordmark and bilingual labels i...",
-      "tags": [
-        "包装"
-      ],
-      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/10/denty-09-1-scaled-e1791189697623.jpg?fit=240%2C300&amp;ssl=1"
-    },
-    {
-      "id": "35bd45bcde93",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-10-05",
-      "title": "Wené branding",
-      "source": "Packaging of the World",
-      "sourceUrl": "https://packagingoftheworld.com/2026/10/wene-branding.html",
-      "image": "📦",
-      "category": "",
-      "desc": "Wene Arake is a modern, refined expression of Ethiopian craft — rooted in heritage, but designed with global relevance. The identity draws from the boldness, resilience and self-possession embedded in Ethiopia’s history, particularly its enduring spirit of independence and res...",
-      "tags": [],
-      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/10/7-scaled-1-e1791189578712.jpg?fit=300%2C218&amp;ssl=1"
-    },
-    {
-      "id": "bb121d6c898e",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-10-05",
-      "title": "Ferrero launches Nutella-filled frozen waffles",
-      "source": "Food Dive",
-      "sourceUrl": "https://www.fooddive.com/news/ferrero-nutella-waffles-breakfast-innovation/832036/",
-      "image": "📊",
-      "category": "",
-      "desc": "The product, set to launch in the U.S. next spring, is meant to be a premium option in a space that has lacked meaningful innovation, an executive said.",
-      "tags": [
-        "冷冻食品",
-        "创新"
-      ],
-      "_imageUrl": ""
     }
   ]
 }
