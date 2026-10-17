@@ -1,7 +1,7 @@
 {
   "meta": {
-    "updated": "2026-10-16",
-    "version": 1792115921,
+    "updated": "2026-10-17",
+    "version": 1792202003,
     "total": 150,
     "auto_generated": true,
     "sources": [
@@ -334,6 +334,335 @@
         "type": "工艺创新",
         "detail": "整只虾仁入馅的工业化量产技术，保水不碎"
       }
+    },
+    {
+      "id": "0771848110de",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-10-16",
+      "title": "Ghirardelli joins Dubai chocolate craze with new-look Squares",
+      "source": "FoodNavigator-Asia",
+      "sourceUrl": "https://www.confectionerynews.com/Article/2026/10/16/ghirardelli-joins-dubai-chocolate-trend-with-revamped-squares/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "📊",
+      "category": "",
+      "desc": "Ghirardelli has joined the Dubai chocolate trend, redesigning its iconic Squares with a thicker format to accommodate the viral treat's signature pistachio filling and crispy kataifi. The launch highlights the growing influence of Dubai-style chocolate on confectionery innovat...",
+      "tags": [
+        "创新"
+      ],
+      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/7V4EXYEBWRHH5PLSU5GXRG35DE.jpg?auth=9ae2c367477639845894e5b9ccaf0023a528ef4527a4ca2ac0eb3517f4b0b87d&smart=true&width=4002&height=3002"
+    },
+    {
+      "id": "b97f4580b76d",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-10-16",
+      "title": "What is next for food and beverage cargo thefts after the surge in 2025?",
+      "source": "FoodNavigator-Asia",
+      "sourceUrl": "https://www.foodnavigator.com/Article/2026/10/16/food-and-beverage-cargo-theft-trends-in-2026/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "📊",
+      "category": "",
+      "desc": "Food and beverage cargo theft declined in 2026 after a 2025 surge. Explore targeted products, cargo theft hotspots and security strategies for CPG companies.",
+      "tags": [],
+      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/AXZBPKE3SZG4DBQVZCUL3U5IHM.jpg?auth=415c7bcfc486a7f99950101bcfb75f93e0395af47737fbd8f4338d4b1f0f3000&smart=true&width=2119&height=1415"
+    },
+    {
+      "id": "55aac44ec6fc",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-10-16",
+      "title": "Protein boom powers confectionery growth",
+      "source": "FoodNavigator-Asia",
+      "sourceUrl": "https://www.confectionerynews.com/Article/2026/10/16/protein-powers-confectionerys-next-growth-wave/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "📊",
+      "category": "",
+      "desc": "Protein is reshaping confectionery as brands blend indulgence with functionality. From bars and gummies to chocolate and cookies, discover the trends, ingredients and innovations defining the future of sweet snacking.",
+      "tags": [
+        "创新",
+        "原料"
+      ],
+      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/ZMYXJPY33RCT5I7VR2AFIY6VZI.jpg?auth=dc99a1435485ec7201a3a3c2f9aefb5c8e997ca790c1c9e9098269677844bf84&smart=true&width=2121&height=1414"
+    },
+    {
+      "id": "c5dcd942d12d",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-10-16",
+      "title": "What do GLP-1 users want to eat and drink when they’re out?",
+      "source": "FoodNavigator-Asia",
+      "sourceUrl": "https://www.foodnavigator.com/Article/2026/10/16/the-glp-1-diner-is-changing-the-menu/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "📊",
+      "category": "",
+      "desc": "GLP-1 users must have their needs met outside the home. Here's how foodservice and snacks can adapt with smaller portions, protein-rich options and smarter menus.",
+      "tags": [],
+      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/MVNYJ2M7Z5C4BDHVKQ2AZYEGWU.jpg?auth=ecb4e6c6b1a868c75653a4831522742520ccbb25167375cc33aa84cae7f493ef&smart=true&width=2121&height=1414"
+    },
+    {
+      "id": "524d05a415e4",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-10-16",
+      "title": "Ghirardelli joins Dubai chocolate craze with new-look Squares",
+      "source": "FoodNavigator-USA",
+      "sourceUrl": "https://www.confectionerynews.com/Article/2026/10/16/ghirardelli-joins-dubai-chocolate-trend-with-revamped-squares/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "📊",
+      "category": "",
+      "desc": "Ghirardelli has joined the Dubai chocolate trend, redesigning its iconic Squares with a thicker format to accommodate the viral treat's signature pistachio filling and crispy kataifi. The launch highlights the growing influence of Dubai-style chocolate on confectionery innovat...",
+      "tags": [
+        "创新"
+      ],
+      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/7V4EXYEBWRHH5PLSU5GXRG35DE.jpg?auth=9ae2c367477639845894e5b9ccaf0023a528ef4527a4ca2ac0eb3517f4b0b87d&smart=true&width=4002&height=3002"
+    },
+    {
+      "id": "6afad3fe464e",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-10-16",
+      "title": "Protein boom powers confectionery growth",
+      "source": "FoodNavigator-USA",
+      "sourceUrl": "https://www.confectionerynews.com/Article/2026/10/16/protein-powers-confectionerys-next-growth-wave/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "📊",
+      "category": "",
+      "desc": "Protein is reshaping confectionery as brands blend indulgence with functionality. From bars and gummies to chocolate and cookies, discover the trends, ingredients and innovations defining the future of sweet snacking.",
+      "tags": [
+        "创新",
+        "原料"
+      ],
+      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/ZMYXJPY33RCT5I7VR2AFIY6VZI.jpg?auth=dc99a1435485ec7201a3a3c2f9aefb5c8e997ca790c1c9e9098269677844bf84&smart=true&width=2121&height=1414"
+    },
+    {
+      "id": "ec2733cef9f5",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-10-16",
+      "title": "Fernet-Branca Celebrates the Art of the Tattoo With Austin England-Designed B...",
+      "source": "Dieline",
+      "sourceUrl": "https://thedieline.com/fernet-branca-celebrates-the-art-of-the-tattoo-with-austin-england-designed-bottle/",
+      "image": "📦",
+      "category": "",
+      "desc": "As part of its US limited-edition series, Fernet-Branca has partnered with LA-based artist Austin England to reimagine its iconic bottle in the style of flash tattoos. The post Fernet-Branca Celebrates the Art of the Tattoo With Austin England-Designed Bottle appeared first on...",
+      "tags": [],
+      "_imageUrl": "https://thedieline.com/wp-content/uploads/2026/10/DSC01058-scaled.jpg"
+    },
+    {
+      "id": "cacad17cf05b",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-10-16",
+      "title": "Thirst Gives Snazzy Cocktails the Gatsby Treatment",
+      "source": "Dieline",
+      "sourceUrl": "https://thedieline.com/thirst-gives-snazzy-cocktails-the-gatsby-treatment/",
+      "image": "📦",
+      "category": "",
+      "desc": "Thirst gives Snazzy canned cocktails a glamorous Art Deco makeover, pairing metallic gold geometry, vibrant colors and theatrical typography with the decadence of the Roaring Twenties. The refreshed packaging brings Gatsby style sophistication and playful personality to whiske...",
+      "tags": [
+        "包装"
+      ],
+      "_imageUrl": "https://thedieline.com/wp-content/uploads/2026/10/SNAZ-KV-1-Large-11ef92c9a97b41e60262d2313dd0e549.jpeg"
+    },
+    {
+      "id": "89e3157eccaf",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-10-16",
+      "title": "Rest Religion Gives Skincare a Heavenly Glow With Its Holy Halo Packaging",
+      "source": "Dieline",
+      "sourceUrl": "https://thedieline.com/rest-religion-gives-skincare-a-heavenly-glow-with-its-holy-halo-packaging/",
+      "image": "📦",
+      "category": "",
+      "desc": "Orchidea Agency gives Rest Religion skincare packaging a celestial glow with dreamy lavender and pink gradients, elegant typography and its signature Holy Halo concept. The design moves beyond traditional minimalist skincare aesthetics, turning the brand’s focus on rest and re...",
+      "tags": [
+        "包装"
+      ],
+      "_imageUrl": "https://thedieline.com/wp-content/uploads/2026/10/IMG_7802-a50f55a3b1f1ca430c5d2f21170c20c7-scaled-1.jpeg"
+    },
+    {
+      "id": "30cef989acba",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-10-16",
+      "title": "Amaro Di Luni",
+      "source": "Packaging of the World",
+      "sourceUrl": "https://packagingoftheworld.com/2026/10/amaro-di-luni.html",
+      "image": "📦",
+      "category": "",
+      "desc": "Born from an ancient family recipe, Amaro di Luni celebrates the heritage of a land where Roman history meets Mediterranean nature. Its packaging translates this legacy into contemporary design. The irregular label evokes archaeological fragments, while textured paper, refined...",
+      "tags": [
+        "包装"
+      ],
+      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/10/Amaro-di-Luni-00082-1-e1792143844762.jpg?fit=217%2C300&amp;ssl=1"
+    },
+    {
+      "id": "c27626cf1998",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-10-16",
+      "title": "PLIÉ",
+      "source": "Packaging of the World",
+      "sourceUrl": "https://packagingoftheworld.com/2026/10/plie.html",
+      "image": "📦",
+      "category": "",
+      "desc": "PLIÉ is a conceptual branding and packaging project for a light ice cream brand inspired by the grace and elegance of ballet. The concept explores the connection between the lightness of ice cream and the fluidity of dance, translating this idea into a refined yet playful visu...",
+      "tags": [
+        "包装"
+      ],
+      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/10/01-15-e1792143828264.png?fit=300%2C205&amp;ssl=1"
+    },
+    {
+      "id": "8970a5e27b52",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-10-16",
+      "title": "VIVALO — The Art of Purity",
+      "source": "Packaging of the World",
+      "sourceUrl": "https://packagingoftheworld.com/2026/10/vivalo-the-art-of-purity.html",
+      "image": "📦",
+      "category": "",
+      "desc": "Crafted by Nature. Bottled in Luxury. What if the purest form of luxury was simply water? VIVALO was born from the idea that true elegance needs no excess. Inspired by the clarity, movement, and timeless beauty of water, the packaging transforms an everyday essential into a re...",
+      "tags": [
+        "包装"
+      ],
+      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/10/1-5283-1-e1792143811625.jpg?fit=300%2C167&amp;ssl=1"
+    },
+    {
+      "id": "a20c96f30a47",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-10-16",
+      "title": "Greco Gum_Packaging Redesign",
+      "source": "Packaging of the World",
+      "sourceUrl": "https://packagingoftheworld.com/2026/10/greco-gum_packaging-redesign.html",
+      "image": "📦",
+      "category": "",
+      "desc": "Greco Gum — Packaging Redesign ABOUT Greco Gum is a brand specializing in natural mastic gum products, sourced from the Greek island of Chios. Known for its unique origin and traditional cultivation, Chios mastic is the central ingredient in the brand&#8217;s dietary supplemen...",
+      "tags": [
+        "包装",
+        "原料"
+      ],
+      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/10/22-3-e1792139735553.jpg?fit=300%2C300&amp;ssl=1"
+    },
+    {
+      "id": "49069027d6fe",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-10-16",
+      "title": "Character",
+      "source": "Packaging of the World",
+      "sourceUrl": "https://packagingoftheworld.com/2026/10/character.html",
+      "image": "📦",
+      "category": "",
+      "desc": "CHARACTER — Eau de Parfum for Him CHARACTER was imagined as more than a fragrance bottle. It was designed as a physical expression of instinct, presence and identity. The starting point was simple: how can a perfume communicate personality before it is even opened? The answer ...",
+      "tags": [],
+      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/10/138900-1-e1792139716612.jpg?fit=300%2C179&amp;ssl=1"
+    },
+    {
+      "id": "e4c15ea5858f",
+      "type": "newproduct",
+      "section": "newproduct",
+      "sub": "report",
+      "date": "2026-10-16",
+      "title": "Is snacking too obsessed with Gen Z?",
+      "source": "BakeryandSnacks",
+      "sourceUrl": "https://www.bakeryandsnacks.com/Article/2026/10/16/are-snack-brands-missing-shoppers-beyond-gen-z/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "🆕",
+      "category": "休闲零食",
+      "desc": "Generational targeting can narrow snack innovation. Explore why eating occasions, household needs and shared appetites deserve more attention.",
+      "tags": [
+        "创新"
+      ],
+      "_imageUrl": "https://www.bakeryandsnacks.com/resizer/v2/2U7KC2TWQNAEJHUSMCO7KGEDSE.jpg?auth=f92ccc23f2d6cfd52fe9de37b9efa4ca0ad30d2b62c91a6b03c41a5d0b0aefae&smart=true&width=2121&height=1414"
+    },
+    {
+      "id": "de846fbbd4c5",
+      "type": "newproduct",
+      "section": "newproduct",
+      "sub": "report",
+      "date": "2026-10-16",
+      "title": "Will Vandemoortele and Délifrance’s integration squeeze bakery buyers?",
+      "source": "BakeryandSnacks",
+      "sourceUrl": "https://www.bakeryandsnacks.com/Article/2026/10/16/vandemoortele-delifrance-puts-bakery-buying-power-to-the-test/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "🆕",
+      "category": "休闲零食",
+      "desc": "Vandemoortele’s integration of Délifrance raises questions about supplier choice, negotiating power and who benefits from frozen bakery consolidation.",
+      "tags": [
+        "冷冻食品"
+      ],
+      "_imageUrl": "https://www.bakeryandsnacks.com/resizer/v2/WF43HI37LVGNTPTUV32JBRMQ34.jpg?auth=41f679bc8b194a46666542eb630e6854f68c61555c3a90ae01da9cd08aa9cedf&smart=true&width=2121&height=1414"
+    },
+    {
+      "id": "6018c3a68e60",
+      "type": "newproduct",
+      "section": "newproduct",
+      "sub": "report",
+      "date": "2026-10-16",
+      "title": "Why Coke and Pepsi are using soda to win sports fans",
+      "source": "Beverage Daily",
+      "sourceUrl": "https://www.foodnavigator.com/Article/2026/10/16/why-coke-and-pepsi-are-using-soda-to-win-sports-fans/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "🆕",
+      "category": "饮品",
+      "desc": "As sports drinks and water own performance occasions, Coca-Cola and PepsiCo are increasingly using soda partnerships to tap into fandom and the broader sports zeitgeist.",
+      "tags": [],
+      "_imageUrl": "https://www.beveragedaily.com/resizer/v2/JV3QQHTXCJD5THG5NEBWBBSQFM.jpg?auth=3910d580f301c44c02f7f443fb1dfdd73d9c689b819dbf8a0e0fd7c8c60dc2b1&smart=true&width=2121&height=1414"
+    },
+    {
+      "id": "446e4ba39673",
+      "type": "newproduct",
+      "section": "newproduct",
+      "sub": "report",
+      "date": "2026-10-16",
+      "title": "New beverage launches: Malibu, Hebridean Cream Liqueur and more...",
+      "source": "Beverage Daily",
+      "sourceUrl": "https://www.beveragedaily.com/Article/2026/10/16/new-drinks-launches-rtd-cocktails-wellness-and-liquer/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "🆕",
+      "category": "饮品",
+      "desc": "Discover the latest beverage launches from Malibu, Revibed, Artelium Wine Estate, Isle of Mull Cheese and Montebelo Brasil. New products across RTDs, functional drinks, wine, cream liqueurs and juice showcase key industry trends including premiumisation, wellness, sustainabili...",
+      "tags": [],
+      "_imageUrl": "https://www.beveragedaily.com/resizer/v2/IG3VONUNF5BKRABMS34XVSDGHI.png?auth=f2b7eda1d3bafe66c4f8d7dceffa562e68a85aec3a7b21aebd217ee9e88fe9f7&smart=true&width=2064&height=1376"
+    },
+    {
+      "id": "d6468e46280f",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-10-16",
+      "title": "Government to back English organic farming as supply chain worries mount",
+      "source": "Food Manufacture",
+      "sourceUrl": "https://www.foodmanufacture.co.uk/Article/2026/10/16/government-to-back-english-organic-farming-as-supply-chain-worries-mount/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "📊",
+      "category": "",
+      "desc": "",
+      "tags": [],
+      "_imageUrl": "https://www.foodmanufacture.co.uk/resizer/v2/3LJ2GI2X2JFUTOVSHFGUKKJNFU.jpg?auth=04f7b4e7ba5d64d049ca52002e6690cdb24690521375d828bcce53aecab5b6d5&smart=true&width=2121&height=1414"
+    },
+    {
+      "id": "39b65c8a0495",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-10-16",
+      "title": "Will Vandemoortele and Délifrance’s integration squeeze bakery buyers?",
+      "source": "Food Manufacture",
+      "sourceUrl": "https://www.bakeryandsnacks.com/Article/2026/10/16/vandemoortele-delifrance-puts-bakery-buying-power-to-the-test/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "📊",
+      "category": "",
+      "desc": "Vandemoortele’s integration of Délifrance raises questions about supplier choice, negotiating power and who benefits from frozen bakery consolidation.",
+      "tags": [
+        "冷冻食品"
+      ],
+      "_imageUrl": "https://www.foodmanufacture.co.uk/resizer/v2/WF43HI37LVGNTPTUV32JBRMQ34.jpg?auth=41f679bc8b194a46666542eb630e6854f68c61555c3a90ae01da9cd08aa9cedf&smart=true&width=2121&height=1414"
     },
     {
       "id": "4ea9fc3a756d",
@@ -765,6 +1094,53 @@
         "原料"
       ],
       "_imageUrl": "https://www.foodmanufacture.co.uk/resizer/v2/LJJDYUQZM5DALCCQRESABHVKLU.jpg?auth=e7cf82bf283173bc68bbce4614396b94ec57ea817c8ad39d5254c7dd6c4bad86&smart=true&width=2121&height=1414"
+    },
+    {
+      "id": "ac595b72ecae",
+      "type": "newproduct",
+      "section": "newproduct",
+      "sub": "report",
+      "date": "2026-10-15",
+      "title": "Can GLP-1 innovation benefit all consumers?",
+      "source": "BakeryandSnacks",
+      "sourceUrl": "https://www.foodnavigator.com/Article/2026/10/15/can-glp-1-innovation-benefit-all-consumers/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "🆕",
+      "category": "休闲零食",
+      "desc": "While GLP-1 medications are driving demand for foods rich in protein and fiber, formulators like Ardent Mills' Anke Gold see a broader opportunity: developing nutrient-dense products that deliver multiple health benefits for mainstream consumers, not just those taking weight-l...",
+      "tags": [
+        "创新"
+      ],
+      "_imageUrl": "https://www.bakeryandsnacks.com/resizer/v2/P52LJXDAYJCXBO55WK7EI4VPZE.jpg?auth=5d3f29b9a39cb7a67eaca6c233a872eadf2bf79b79906b8835c64cef53cc2fe1&smart=true&width=2121&height=1414"
+    },
+    {
+      "id": "0d87d71b0c6d",
+      "type": "newproduct",
+      "section": "newproduct",
+      "sub": "report",
+      "date": "2026-10-15",
+      "title": "Low-cal snack brand pulls product over mislabelled allergen risk",
+      "source": "BakeryandSnacks",
+      "sourceUrl": "https://www.foodmanufacture.co.uk/Article/2026/10/15/low-cal-snack-brand-withdraws-product-over-undeclared-allergen/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "🆕",
+      "category": "休闲零食",
+      "desc": "",
+      "tags": [],
+      "_imageUrl": "https://www.bakeryandsnacks.com/resizer/v2/MA2EYR4E7FCPPNHRJ7QWAPQEPU.jpg?auth=0cbbd943bf678a835f50db763198fb72354a9291da6919ecc08c6aeaf5c31bd8&smart=true&width=2121&height=1414"
+    },
+    {
+      "id": "37165c7cfdcf",
+      "type": "newproduct",
+      "section": "newproduct",
+      "sub": "report",
+      "date": "2026-10-15",
+      "title": "Learning platform for EU novel foods launched by think tank",
+      "source": "BakeryandSnacks",
+      "sourceUrl": "https://www.foodnavigator.com/Article/2026/10/15/eu-novel-food-regulatory-sandbox-launched-by-think-tank/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "🆕",
+      "category": "休闲零食",
+      "desc": "The Ministry of Future Affairs, a European think tank, has launched a learning platform for European novel foods. It aims to promote knowledge sharing on the approval of novel foods in the EU, and encourages UK companies to join as well.",
+      "tags": [],
+      "_imageUrl": "https://www.bakeryandsnacks.com/resizer/v2/CJHC3WOGXREXRD3MZOUBOMQVFA.jpg?auth=1a0627b0974a0564f04c7f24b375981b7d7cc6d056e228bdaae5b6b918d55711&smart=true&width=2121&height=1414"
     },
     {
       "id": "9db337408a31",
@@ -2183,373 +2559,6 @@
         "包装"
       ],
       "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/10/Rectangle-334-e1791456971957.png?fit=266%2C300&amp;ssl=1"
-    },
-    {
-      "id": "f2da31004da8",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-10-08",
-      "title": "ELIXIR",
-      "source": "Packaging of the World",
-      "sourceUrl": "https://packagingoftheworld.com/2026/10/elixir.html",
-      "image": "📦",
-      "category": "",
-      "desc": "Design name: ELIXIR ELIXIR refers to a liquid substance once believed to possess magical or healing properties, often associated with immortality or miraculous healing. In a broader sense, an ELIXIR is considered the quintessence of something: a concentrated extract that repre...",
-      "tags": [],
-      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/10/Elixir-1-1-e1791456580575.jpg?fit=300%2C225&amp;ssl=1"
-    },
-    {
-      "id": "a40f587f2949",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-10-08",
-      "title": "Oterra teams with HowGood to track sustainability of natural colors",
-      "source": "Food Dive",
-      "sourceUrl": "https://www.fooddive.com/news/oterra-howgood-sustainability-natural-colors/832530/",
-      "image": "📊",
-      "category": "",
-      "desc": "As demand for natural dyes grows, companies are investing in environmental reporting metrics common within mainstream ingredients.",
-      "tags": [
-        "原料"
-      ],
-      "_imageUrl": ""
-    },
-    {
-      "id": "0ba0f3b65fa1",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-10-08",
-      "title": "Keurig Dr Pepper bets on iced coffee with espresso concentrate",
-      "source": "Food Dive",
-      "sourceUrl": "https://www.fooddive.com/news/keurig-dr-pepper-liquid-espress-concentrate-cpg-cold-brew/832502/",
-      "image": "📊",
-      "category": "",
-      "desc": "The coffee giant&rsquo;s new innovation will be available across four of its global coffee brands in black, caramel and mocha flavors.",
-      "tags": [
-        "创新"
-      ],
-      "_imageUrl": "https://imgproxy.divecdn.com/C9XP-UXoE0uYhYeK1Ip_Sur8z8h8ROPvh-wOsKscqdQ/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8xOTIweDY4MC5qcGVn.webp"
-    },
-    {
-      "id": "ff2848106f78",
-      "type": "newproduct",
-      "section": "newproduct",
-      "sub": "report",
-      "date": "2026-10-08",
-      "title": "What makes a snack worth the price?",
-      "source": "BakeryandSnacks",
-      "sourceUrl": "https://www.foodnavigator.com/Article/2026/10/08/what-value-seeking-consumers-want-from-snack-brands-according-to-deloitte/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "🆕",
-      "category": "休闲零食",
-      "desc": "New data from Deloitte shows snack brands perceived as delivering more value than expected for their price are outperforming lower-value peers.",
-      "tags": [],
-      "_imageUrl": "https://www.bakeryandsnacks.com/resizer/v2/HMWMYYY5YRA5ZAFGAF5PIPMVYE.jpg?auth=9411c310fad33e051248ad0fbb02b35d9b2e0857de5a9d84d952271a1cecaef9&smart=true&width=2121&height=1414"
-    },
-    {
-      "id": "031168bcbd5e",
-      "type": "newproduct",
-      "section": "newproduct",
-      "sub": "report",
-      "date": "2026-10-08",
-      "title": "Mars’ vision for 2036: The trends set to transform food and nutrition",
-      "source": "BakeryandSnacks",
-      "sourceUrl": "https://www.foodnavigator.com/Article/2026/10/08/mars-maps-the-future-of-food-fibre-ai-and-personalised-nutrition-set-to-reshape-eating-habits/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "🆕",
-      "category": "休闲零食",
-      "desc": "Mars is betting on fibre, AI, personalised nutrition and the rise of solo meals to shape the future of food. The food giant reveals how changing consumer habits, health priorities and technology are driving its innovation strategy through to 2035.",
-      "tags": [
-        "创新"
-      ],
-      "_imageUrl": "https://www.bakeryandsnacks.com/resizer/v2/IWG42NVOBRDW3H3O4H7GBNW764.jpg?auth=fb522fa44749ed7a0b5a68e7f7154678d553ad285ff60ee1ec0ef0bbc7971640&smart=true&width=750&height=422"
-    },
-    {
-      "id": "e20bc2023ebc",
-      "type": "newproduct",
-      "section": "newproduct",
-      "sub": "report",
-      "date": "2026-10-08",
-      "title": "The minification of beverages",
-      "source": "Beverage Daily",
-      "sourceUrl": "https://www.foodnavigator.com/Article/2026/10/08/mini-drinks-gain-traction-across-categories/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "🆕",
-      "category": "饮品",
-      "desc": "Mini drinks are booming, from fibre shots to cocktails, driven by convenience, wellness and premiumisation",
-      "tags": [],
-      "_imageUrl": "https://www.beveragedaily.com/resizer/v2/7NLKXW3ANBABVB2W3YJGTZXUKM.jpg?auth=9cc1088e418f478655bd093cc4a80a92b75adbd634f626531441295ba9a1d086&smart=true&width=2121&height=1414"
-    },
-    {
-      "id": "9008028a7b78",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-10-07",
-      "title": "The functional boom: 5 lessons for beverage brands",
-      "source": "FoodNavigator-Asia",
-      "sourceUrl": "https://www.beveragedaily.com/Article/2026/10/07/5-lessons-from-the-functional-beverage-boom/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "📊",
-      "category": "",
-      "desc": "From taste to branding, discover five lessons beverage brands can take from the rapid growth of the functional drinks category.",
-      "tags": [],
-      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/IR5SB34LDNEUBOTL4EQLEGWXKA.jpg?auth=64504997468295f3bc7c5e8fa93489ab1c2416aa6945b97b5ac14c72c5476ee1&smart=true&width=2119&height=1414"
-    },
-    {
-      "id": "e415a1f5ffb9",
-      "type": "compliance",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-10-07",
-      "title": "USDA official warns of legal risks as MAHA leans on ‘government by signal’",
-      "source": "FoodNavigator-Asia",
-      "sourceUrl": "https://www.foodnavigator.com/Article/2026/10/07/usda-warns-of-risks-from-maha-food-policy-signals/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "⚖️",
-      "category": "",
-      "desc": "USDA General Counsel Tyler Clarkson warns that MAHA’s reliance on voluntary commitments and agency guidance could expose food companies to litigation and state regulation.",
-      "tags": [],
-      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/KM55O57JRFPUZD5EPDYJLGHOGI.jpg?auth=6cde3e1b258589534f808d8c92b58899653f3d99383636e395182bf34d7df84a&smart=true&width=724&height=483"
-    },
-    {
-      "id": "d399b99d8667",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-10-07",
-      "title": "Rip Van appoints former Hershey president to power next phase of growth",
-      "source": "FoodNavigator-Asia",
-      "sourceUrl": "https://www.confectionerynews.com/Article/2026/10/07/rip-van-names-former-hershey-executive-ceo-as-growth-accelerates/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "📊",
-      "category": "",
-      "desc": "Former Hershey US president Todd Tillemans joins Rip Van as CEO as the fast-growing better-for-you confectionery and snack brand surpasses $100m sales.",
-      "tags": [],
-      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/VOO7NJ24EVANDB3ZEQ2IGRVJYA.jpg?auth=4cc582aadb864e0fb9f5e4d4b47cf2c2f56651e5ec86407a8220078e52f77341&smart=true&width=2448&height=1224"
-    },
-    {
-      "id": "9616242ab8b3",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-10-07",
-      "title": "Consumers don’t trust influencers on food – or do they?",
-      "source": "FoodNavigator-Asia",
-      "sourceUrl": "https://www.foodnavigator.com/Article/2026/10/07/influencers-widely-distrusted-yet-influential-in-food/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "📊",
-      "category": "",
-      "desc": "Consumers widely distrust online influencers when it comes to food, according to multiple datasets. Yet they seem to have an outsize influence on food trends, and the food industry as a whole. How can this be?",
-      "tags": [],
-      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/XT266YYEDVERDA3VKGNKJ73WAQ.jpg?auth=c0e2a034a026c09468289516c74f820bac70ca8c6379a0fb3f45e4780501023c&smart=true&width=2121&height=1414"
-    },
-    {
-      "id": "6483503e89ad",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-10-07",
-      "title": "Consumers don’t trust influencers on food – or do they?",
-      "source": "FoodNavigator-USA",
-      "sourceUrl": "https://www.foodnavigator.com/Article/2026/10/07/influencers-widely-distrusted-yet-influential-in-food/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "📊",
-      "category": "",
-      "desc": "Consumers widely distrust online influencers when it comes to food, according to multiple datasets. Yet they seem to have an outsize influence on food trends, and the food industry as a whole. How can this be?",
-      "tags": [],
-      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/XT266YYEDVERDA3VKGNKJ73WAQ.jpg?auth=c0e2a034a026c09468289516c74f820bac70ca8c6379a0fb3f45e4780501023c&smart=true&width=2121&height=1414"
-    },
-    {
-      "id": "8fedc9bb5ae7",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-10-07",
-      "title": "Kraft Mac & Cheese Launches Cheesy Ramen in Its First New Category in Nearly ...",
-      "source": "Dieline",
-      "sourceUrl": "https://thedieline.com/kraft-mac-cheese-launches-cheesy-ramen-in-its-first-new-category-in-nearly-20-years/",
-      "image": "📦",
-      "category": "",
-      "desc": "Kraft Mac &#038; Cheese enters its first new category in nearly 20 years with Cheesy Ramen, carrying its blue-and-yellow packaging into Pork, Chicken, and Spicy flavors. The post Kraft Mac &amp; Cheese Launches Cheesy Ramen in Its First New Category in Nearly 20 Years appeared...",
-      "tags": [
-        "包装"
-      ],
-      "_imageUrl": "https://thedieline.com/wp-content/uploads/2026/10/kraft-cheesy-ramen-10526-7efcd4a04a2845aeaf06e16d510b52dc.jpg"
-    },
-    {
-      "id": "773bcf347eed",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-10-07",
-      "title": "Lighthouse Turns a Light Bulb Box Into a Beacon",
-      "source": "Dieline",
-      "sourceUrl": "https://thedieline.com/lighthouse-turns-a-light-bulb-box-into-a-beacon/",
-      "image": "📦",
-      "category": "",
-      "desc": "Eva Chistyakova turns light bulb packaging into a miniature lighthouse, using structural design, transparent windows and red or blue color coding to distinguish warm and cool light. The concept transforms everyday LED packaging into an intuitive navigation system where the bul...",
-      "tags": [
-        "包装"
-      ],
-      "_imageUrl": "https://thedieline.com/wp-content/uploads/2026/10/9b4137256093973.6aba48299a94f.png"
-    },
-    {
-      "id": "66da8251ebc4",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-10-07",
-      "title": "ECOFIN – Fish Food Packaging",
-      "source": "Packaging of the World",
-      "sourceUrl": "https://packagingoftheworld.com/2026/10/ecofin-fish-food-packaging.html",
-      "image": "📦",
-      "category": "",
-      "desc": "ECOFIN — the food that makes caring for a pet feel like play A fish is often a child’s first pet: easy to observe, simple to care for, and feeding quickly becomes a small daily ritual of responsibility. This first emotional connection between a child and a pet became the start...",
-      "tags": [
-        "包装"
-      ],
-      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/10/-%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C-1-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F-5-100-3-e1791362245581.jpg?fit=300%2C211&amp;ssl=1"
-    },
-    {
-      "id": "92ca68c16a36",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-10-07",
-      "title": "Tarot Chocolate Edition for DOLCEDOLKA",
-      "source": "Packaging of the World",
-      "sourceUrl": "https://packagingoftheworld.com/2026/10/tarot-chocolate-edition-for-dolcedolka.html",
-      "image": "📦",
-      "category": "",
-      "desc": "Product details DOLCEDOLKA orange slices in milk, dark and white chocolate. A new limited edition in new packaging, made as an exquisite gift. Design concept The theme is tarot. The line has three flavors, and the deck has three cards that suit them: warm Star, with its hope, ...",
-      "tags": [
-        "包装"
-      ],
-      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/10/hf_20261001_132501_ae55b705-e31c-4b45-90f8-d2d8196f7250-1-e1791362224226.jpg?fit=300%2C242&amp;ssl=1"
-    },
-    {
-      "id": "e7d3d4ac13b2",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-10-07",
-      "title": "CRU MUSICALE – Premium Olive Oil Packaging",
-      "source": "Packaging of the World",
-      "sourceUrl": "https://packagingoftheworld.com/2026/10/cru-musicale-premium-olive-oil-packaging.html",
-      "image": "📦",
-      "category": "",
-      "desc": "CRU MUSICALE &#8211; Premium Olive Oil Packaging How do you translate the harmony of an extra virgin olive oil into an object? CRU MUSICALE, a project by Frantoio Sant’Agata d’Oneglia, takes shape around this question. The answer brings together the Mela family’s olive oil her...",
-      "tags": [
-        "包装"
-      ],
-      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/10/Horizon-Premium-Collection-Bottle-for-olive-oil-cru-musicale-case-study-1-e1791362207773.jpg?fit=240%2C300&amp;ssl=1"
-    },
-    {
-      "id": "cb20f5894f96",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-10-07",
-      "title": "Roastery Studio",
-      "source": "Packaging of the World",
-      "sourceUrl": "https://packagingoftheworld.com/2026/10/roastery-studio.html",
-      "image": "📦",
-      "category": "",
-      "desc": "Roastery Studio’s packaging brings together metallic textures, bold colour, and Arabic and English typography to create a distinctive identity across coffee bags, takeaway cups, and boxes. The silver coffee bag features an embossed wave that adds depth and texture to the metal...",
-      "tags": [
-        "包装"
-      ],
-      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/10/04-4-e1791362030948.png?fit=300%2C300&amp;ssl=1"
-    },
-    {
-      "id": "5dabd85ae81c",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-10-07",
-      "title": "Socorro Still Strength",
-      "source": "Packaging of the World",
-      "sourceUrl": "https://packagingoftheworld.com/2026/10/socorro-still-strength.html",
-      "image": "📦",
-      "category": "",
-      "desc": "We designed the Still Strength expression for Tequila Socorro around one essential idea: strength does not always need to be loud. Here, intensity is communicated through precision, character, and control. The bottle occupies the central axis as a firm, almost totemic presence...",
-      "tags": [],
-      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/10/14-3-e1791361978864.webp?fit=300%2C167&amp;ssl=1"
-    },
-    {
-      "id": "eb25d56ad3be",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-10-07",
-      "title": "Medovy Skaz",
-      "source": "Packaging of the World",
-      "sourceUrl": "https://packagingoftheworld.com/2026/10/medovy-skaz.html",
-      "image": "📦",
-      "category": "",
-      "desc": "Medovy Skaz is a conceptual honey packaging line that reinterprets Russian folklore through a contemporary visual language. The project was developed as part of a packaging design course based on a real client brief. The task was to create a gift-oriented product line for desi...",
-      "tags": [
-        "包装"
-      ],
-      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/10/32df19b6-96f1-4f99-965d-93799f0df656-1-e1791360840599.png?fit=300%2C225&amp;ssl=1"
-    },
-    {
-      "id": "485db12f334a",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-10-07",
-      "title": "Sentia Ease Social Spritz",
-      "source": "Packaging of the World",
-      "sourceUrl": "https://packagingoftheworld.com/2026/10/sentia-ease-social-spritz.html",
-      "image": "📦",
-      "category": "",
-      "desc": "We’re excited to introduce our new design for Sentia Ease Social Spritz, a new range of ready-to-drink, 0% alcohol functional spritzes. Ease takes the science and thinking behind the spirits and brings it into a simpler, more accessible format designed for everyday social occa...",
-      "tags": [],
-      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/10/RTD_Snacks_1_Edit1-1-e1791360822990.png?fit=240%2C300&amp;ssl=1"
-    },
-    {
-      "id": "2c205804b57b",
-      "type": "newproduct",
-      "section": "newproduct",
-      "sub": "report",
-      "date": "2026-10-07",
-      "title": "A celebrity event designer’s playbook for Halloween launches",
-      "source": "BakeryandSnacks",
-      "sourceUrl": "https://www.bakeryandsnacks.com/Article/2026/10/07/how-bakery-and-snack-brands-can-win-at-halloween/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "🆕",
-      "category": "休闲零食",
-      "desc": "Celebrity event designer Edward Perotti explains how bakery and snack brands can use spectacle, nostalgia and bolder ideas to make Halloween launches stand out.",
-      "tags": [],
-      "_imageUrl": "https://www.bakeryandsnacks.com/resizer/v2/P73AO6CSSJFAVBPJNS4GRDZIWY.jpg?auth=1e42b17b96e7e3ab3442b778817f448ec22e116db1c36ac67ea795edff4f49c8&smart=true&width=2120&height=1414"
-    },
-    {
-      "id": "157b4568534b",
-      "type": "newproduct",
-      "section": "newproduct",
-      "sub": "report",
-      "date": "2026-10-07",
-      "title": "The functional boom: 5 lessons for beverage brands",
-      "source": "Beverage Daily",
-      "sourceUrl": "https://www.beveragedaily.com/Article/2026/10/07/5-lessons-from-the-functional-beverage-boom/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "🆕",
-      "category": "饮品",
-      "desc": "From taste to branding, discover five lessons beverage brands can take from the rapid growth of the functional drinks category.",
-      "tags": [],
-      "_imageUrl": "https://www.beveragedaily.com/resizer/v2/IR5SB34LDNEUBOTL4EQLEGWXKA.jpg?auth=64504997468295f3bc7c5e8fa93489ab1c2416aa6945b97b5ac14c72c5476ee1&smart=true&width=2119&height=1414"
-    },
-    {
-      "id": "c2f8dbc8fce9",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-10-06",
-      "title": "Veggie Craft Forks Over a Fresh Take on Better for You Pasta",
-      "source": "Dieline",
-      "sourceUrl": "https://thedieline.com/veggie-craft-forks-over-a-fresh-take-on-better-for-you-pasta/",
-      "image": "📦",
-      "category": "",
-      "desc": "Zero Studios gives Veggie Craft a fresh take on better for you pasta packaging, pairing electric color, playful vegetable doodles and forkfuls of pasta with clear protein callouts. The redesign shifts the brand from kid focused nutrition toward colorful comfort food with plent...",
-      "tags": [
-        "包装"
-      ],
-      "_imageUrl": "https://thedieline.com/wp-content/uploads/2026/10/1.png"
     }
   ]
 }
