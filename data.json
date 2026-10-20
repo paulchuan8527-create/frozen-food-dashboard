@@ -1,7 +1,7 @@
 {
   "meta": {
-    "updated": "2026-10-19",
-    "version": 1792375740,
+    "updated": "2026-10-20",
+    "version": 1792463080,
     "total": 150,
     "auto_generated": true,
     "sources": [
@@ -351,6 +351,313 @@
       "_imageUrl": "https://www.foodnavigator.com/resizer/v2/O5UPVQYGPVHYPO3EJH75D577MQ.png?auth=d15d35914519620ff896fbf10812d0e37a89c1914a7e8c010fdd81b132f38088&smart=true&width=1920&height=1080"
     },
     {
+      "id": "cda63703117e",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-10-19",
+      "title": "Is functional food killing low carb – or absorbing it?",
+      "source": "FoodNavigator-Asia",
+      "sourceUrl": "https://www.foodnavigator.com/Article/2026/10/19/low-carb-vs-functional-health-can-they-coexist/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "📊",
+      "category": "",
+      "desc": "The functional food boom has changed how consumers see health and wellness. Low carb as a trend has not declined, but it has changed, being folded into the wider functional space. Restrictive diets such as Paleo have declined.",
+      "tags": [],
+      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/G7ZOQCAZ4ZC5XCLZBIH7F3LYIE.jpg?auth=b8683a3208a5be295aab6f29b84dbf604595d8e1a48d8d7769929c4e787fdcf7&smart=true&width=2121&height=1414"
+    },
+    {
+      "id": "da9844491b80",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-10-19",
+      "title": "China Focus: Mengniu, Yili, alt protein hurdles, and the trends shaping food",
+      "source": "FoodNavigator-Asia",
+      "sourceUrl": "https://www.foodnavigator.com/Article/2026/10/19/china-focus-mengniu-yili-alt-protein-hurdles-and-the-trends-shaping-food/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "📊",
+      "category": "",
+      "desc": "From functional dairy and digitalisation to alternative proteins, we explore China’s food industry developments, emerging trends and the people shaping its future.",
+      "tags": [
+        "中国市场"
+      ],
+      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/W7GLZBW665DNNFFWI6T5C3TSZM.jpg?auth=1c25bba92c108467a31e6f44fa39bb3c2df8c29931e82fa0d2c369218bd4678e&smart=true&width=2121&height=1414"
+    },
+    {
+      "id": "c0ef1ddffff3",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-10-19",
+      "title": "Beyond Meat launches energy drink",
+      "source": "FoodNavigator-USA",
+      "sourceUrl": "https://www.foodnavigator.com/Article/2026/10/19/beyond-meat-launches-energy-drink/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "📊",
+      "category": "",
+      "desc": "Beyond Meat has continued its diversification by launching an energy drink, Beyond Immerse Protein + Energy. The drink is a caffeinated version of its high protein drink Beyond Immerse.",
+      "tags": [],
+      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/3CB4XHJ2JREMTI4BQN4PM2UE7E.jpg?auth=e4eb472fb31f6d146c1c8ebbc602a898df3be43ce574f4afa696b772d9d1673f&smart=true&width=2448&height=1224"
+    },
+    {
+      "id": "c02ab56b901f",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-10-19",
+      "title": "Is functional food killing low carb – or absorbing it?",
+      "source": "FoodNavigator-USA",
+      "sourceUrl": "https://www.foodnavigator.com/Article/2026/10/19/low-carb-vs-functional-health-can-they-coexist/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "📊",
+      "category": "",
+      "desc": "The functional food boom has changed how consumers see health and wellness. Low carb as a trend has not declined, but it has changed, being folded into the wider functional space. Restrictive diets such as Paleo have declined.",
+      "tags": [],
+      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/G7ZOQCAZ4ZC5XCLZBIH7F3LYIE.jpg?auth=b8683a3208a5be295aab6f29b84dbf604595d8e1a48d8d7769929c4e787fdcf7&smart=true&width=2121&height=1414"
+    },
+    {
+      "id": "21098a93b2a7",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-10-19",
+      "title": "China Focus: Mengniu, Yili, alt protein hurdles, and the trends shaping food",
+      "source": "FoodNavigator-USA",
+      "sourceUrl": "https://www.foodnavigator.com/Article/2026/10/19/china-focus-mengniu-yili-alt-protein-hurdles-and-the-trends-shaping-food/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "📊",
+      "category": "",
+      "desc": "From functional dairy and digitalisation to alternative proteins, we explore China’s food industry developments, emerging trends and the people shaping its future.",
+      "tags": [
+        "中国市场"
+      ],
+      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/W7GLZBW665DNNFFWI6T5C3TSZM.jpg?auth=1c25bba92c108467a31e6f44fa39bb3c2df8c29931e82fa0d2c369218bd4678e&smart=true&width=2121&height=1414"
+    },
+    {
+      "id": "f6d82d69819b",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-10-19",
+      "title": "Last Call: Get Your Packaging in Front of the iF DESIGN AWARD 2027 Jury",
+      "source": "Dieline",
+      "sourceUrl": "https://thedieline.com/last-call-get-your-packaging-in-front-of-the-if-design-award-2027-jury/",
+      "image": "📦",
+      "category": "",
+      "desc": "The iF DESIGN AWARD 2027 is accepting entries through November 4, 2026. For packaging designers, studios, and in-house teams, that means YOU STILL HAVE TIME to put a project in front of an international jury of experts and design legends. The post Last Call: Get Your Packaging...",
+      "tags": [
+        "包装"
+      ],
+      "_imageUrl": "https://thedieline.com/wp-content/uploads/2026/10/IF-Design-Dieline.jpg"
+    },
+    {
+      "id": "4bbed129007d",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-10-19",
+      "title": "Rare Ideas Gives Monk’d a Scoop of Everyday Joy",
+      "source": "Dieline",
+      "sourceUrl": "https://thedieline.com/rare-ideas-gives-monkd-a-scoop-of-everyday-joy/",
+      "image": "📦",
+      "category": "",
+      "desc": "Designed by Rare Ideas, Monk’d brings a playful new perspective to healthier ice cream packaging with nostalgic storybook illustrations, cheerful flavor palettes and expressive typography. Its monk fruit sweetened desserts trade clinical wellness claims for everyday moments of...",
+      "tags": [
+        "包装"
+      ],
+      "_imageUrl": "https://thedieline.com/wp-content/uploads/2026/10/Packaging-5.png"
+    },
+    {
+      "id": "9cfae97b6b37",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-10-19",
+      "title": "Trevi Takes a Stab at Halloween Packaging With a Limited Edition That’s to Di...",
+      "source": "Dieline",
+      "sourceUrl": "https://thedieline.com/trevi-takes-a-stab-at-halloween-packaging-with-a-limited-edition-thats-to-die-for/",
+      "image": "📦",
+      "category": "",
+      "desc": "Trevi Hydration gets a wicked Halloween limited edition designed by Chris Ganz, bringing vintage horror graphics, Gothic typography and blood red gradients to its Tiger’s Blood and Blood Orange electrolyte mixes. A coffin shaped box, playful vampire references and spooky packa...",
+      "tags": [
+        "包装"
+      ],
+      "_imageUrl": "https://thedieline.com/wp-content/uploads/2026/10/Trevi-Blood-Coffin-NSM-1-1-55ace434ee5ee8dff03725862fe82fde.png"
+    },
+    {
+      "id": "ada8b9419409",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-10-19",
+      "title": "Shelf Life 132: Is Gorpcore Having An Influence on Packaging?",
+      "source": "Dieline",
+      "sourceUrl": "https://thedieline.com/shelf-life-132-is-gorpcore-having-an-influence-on-packaging/",
+      "image": "📦",
+      "category": "",
+      "desc": "Is gorpcore shaping packaging design? This is how outdoor gear’s technical details and utilitarian aesthetic are inspiring brands to turn function into shelf appeal, and signal premium quality through performance. The post Shelf Life 132: Is Gorpcore Having An Influence on Pac...",
+      "tags": [
+        "包装"
+      ],
+      "_imageUrl": "https://thedieline.com/wp-content/uploads/2026/10/2.png"
+    },
+    {
+      "id": "8346a8855e3a",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-10-19",
+      "title": "My cut",
+      "source": "Packaging of the World",
+      "sourceUrl": "https://packagingoftheworld.com/2026/10/my-cut.html",
+      "image": "📦",
+      "category": "",
+      "desc": "What if the packaging could tell the story of the product before you even open it? Meet MyCut, a fresh approach to sliced cheese packaging that transforms an everyday kitchen tool into a distinctive brand experience. Inspired by the familiar shape of a cheese slicer, MyCut rei...",
+      "tags": [
+        "包装"
+      ],
+      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/10/765edddd471c6ce3d5fb407da9d7fd36_tattoo-1-e1792405155697.png?fit=300%2C215&amp;ssl=1"
+    },
+    {
+      "id": "269634265a1c",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-10-19",
+      "title": "BOND TOWN | BRANDING",
+      "source": "Packaging of the World",
+      "sourceUrl": "https://packagingoftheworld.com/2026/10/bond-town-branding.html",
+      "image": "📦",
+      "category": "",
+      "desc": "BOND TOWN is a modern luxury perfume brand created for a new generation that views fragrance as an expression of identity. The project blends bold individuality with refined sophistication through a vibrant, contemporary design language. The collection is organised around thre...",
+      "tags": [],
+      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/10/BT1-1-e1792404721954.jpg?fit=225%2C300&amp;ssl=1"
+    },
+    {
+      "id": "38b403fe929e",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-10-19",
+      "title": "PIX Coffee: a good day starts with good coffee",
+      "source": "Packaging of the World",
+      "sourceUrl": "https://packagingoftheworld.com/2026/10/pix-coffee-a-good-day-starts-with-good-coffee.html",
+      "image": "📦",
+      "category": "",
+      "desc": "Tasty Coffee decided to create a separate brand with a narrower product range and a easy price for marketplaces. At the same time, they maintained the coffee quality at the specialty level. Ohmybrand was entrusted with developing the brand platform and packaging. In everyday l...",
+      "tags": [
+        "包装"
+      ],
+      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/10/32-1-e1792404233209.jpg?fit=214%2C300&amp;ssl=1"
+    },
+    {
+      "id": "71e8eeb61ccc",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-10-19",
+      "title": "Elsie’s Organic Milk",
+      "source": "Packaging of the World",
+      "sourceUrl": "https://packagingoftheworld.com/2026/10/elsies-organic-milk.html",
+      "image": "📦",
+      "category": "",
+      "desc": "Elsie’s is an organic milk brand that connects modern homes with the rustic simplicity of heritage farming. Affogato Brand Design developed a playful identity and packaging system centred around Elsie, a free-roaming cow who gives the brand its own voice and personality. Bring...",
+      "tags": [
+        "包装"
+      ],
+      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/10/Artboard-1-4-e1792403886478.jpg?fit=300%2C169&amp;ssl=1"
+    },
+    {
+      "id": "43322db9d55c",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-10-19",
+      "title": "Oval Oak Wine Case — Single-Bottle Presentation Box, Natural Oak",
+      "source": "Packaging of the World",
+      "sourceUrl": "https://packagingoftheworld.com/2026/10/oval-oak-wine-case-single-bottle-presentation-box-natural-oak-2.html",
+      "image": "📦",
+      "category": "",
+      "desc": "Some bottles deserve to be displayed rather than stored. This single-bottle wine case, designed and manufactured by TANCY BOX, treats the bottle as an object to be shown: an upright, egg-shaped form in natural oak that reads as a sculptural piece on a shelf or sideboard. The s...",
+      "tags": [],
+      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/10/oval-white-1-1-e1792404761972.jpg?fit=300%2C300&amp;ssl=1"
+    },
+    {
+      "id": "04b21c5b44fe",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-10-19",
+      "title": "Primo Brands opens first new factory post merger",
+      "source": "Food Dive",
+      "sourceUrl": "https://www.fooddive.com/news/primo-brands-mountain-valley-production-facility-arizona/833359/",
+      "image": "📊",
+      "category": "",
+      "desc": "The new Arkansas plant will produce more of sparkling water brand Mountain Valley as demand for premium beverages surges.",
+      "tags": [],
+      "_imageUrl": "https://imgproxy.divecdn.com/X4ROkOee8yLy_yxF3BYeEwlKgXz8xdbP_KWmNDkVC_Q/g:nowe:0:114/c:2000:1129/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JTUdfNzYyNi5qcGc=.webp"
+    },
+    {
+      "id": "5859d1baaaca",
+      "type": "newproduct",
+      "section": "newproduct",
+      "sub": "report",
+      "date": "2026-10-19",
+      "title": "Pringles, Hostess and Goldfish get their Halloween on",
+      "source": "BakeryandSnacks",
+      "sourceUrl": "https://www.bakeryandsnacks.com/Article/2026/10/19/pringles-hostess-and-goldfish-launch-halloween-treats/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "🆕",
+      "category": "休闲零食",
+      "desc": "Pringles, Hostess and Goldfish join brands using seasonal flavours, playful packaging and interactive campaigns to attract Halloween snack shoppers.",
+      "tags": [
+        "包装"
+      ],
+      "_imageUrl": "https://www.bakeryandsnacks.com/resizer/v2/EZTNQBXI5ZFOJLN25C3ORZYN2U.jpg?auth=d569e18421c073c4f96a95812aecfe0e5a9a8d3918abd7340cf6aa941f483f15&smart=true&width=2121&height=1414"
+    },
+    {
+      "id": "ad1e71132160",
+      "type": "newproduct",
+      "section": "newproduct",
+      "sub": "report",
+      "date": "2026-10-19",
+      "title": "Beyond Meat launches energy drink",
+      "source": "Beverage Daily",
+      "sourceUrl": "https://www.foodnavigator.com/Article/2026/10/19/beyond-meat-launches-energy-drink/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "🆕",
+      "category": "饮品",
+      "desc": "Beyond Meat has continued its diversification by launching an energy drink, Beyond Immerse Protein + Energy. The drink is a caffeinated version of its high protein drink Beyond Immerse.",
+      "tags": [],
+      "_imageUrl": "https://www.beveragedaily.com/resizer/v2/3CB4XHJ2JREMTI4BQN4PM2UE7E.jpg?auth=e4eb472fb31f6d146c1c8ebbc602a898df3be43ce574f4afa696b772d9d1673f&smart=true&width=2448&height=1224"
+    },
+    {
+      "id": "621c20b8acc1",
+      "type": "newproduct",
+      "section": "newproduct",
+      "sub": "report",
+      "date": "2026-10-19",
+      "title": "Autumn flavours: How drinks brands are reimagining seasonal favourites",
+      "source": "Beverage Daily",
+      "sourceUrl": "https://www.beveragedaily.com/Article/2026/10/19/autumn-flavours-how-drinks-brands-are-reimagining-seasonal-favourites/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "🆕",
+      "category": "饮品",
+      "desc": "",
+      "tags": [],
+      "_imageUrl": "https://www.beveragedaily.com/resizer/v2/NDVXAWWIIZGXTEUMCTVFRVWJS4.jpg?auth=542cb4bf5545924fd7b766d5e7c4a8a069ead3ef6ce3dc12b2595243c526df2c&smart=true&width=2121&height=1414"
+    },
+    {
+      "id": "dc019af28ab7",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-10-19",
+      "title": "Kosher food firm recalls products due to undeclared ingredient",
+      "source": "Food Manufacture",
+      "sourceUrl": "https://www.foodmanufacture.co.uk/Article/2026/10/19/kosher-food-brand-pulls-product-over-unlabelled-ingredient/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "📊",
+      "category": "",
+      "desc": "",
+      "tags": [
+        "原料"
+      ],
+      "_imageUrl": "https://www.foodmanufacture.co.uk/resizer/v2/K4T5LXWAWJDM7HCD5KQGNWAF34.jpg?auth=32d6bf73e842f042e7757e5a79f6df6706624a36e91dc8b176857b19e0fcc96d&smart=true&width=2121&height=1414"
+    },
+    {
       "id": "0771848110de",
       "type": "report",
       "section": "data",
@@ -678,6 +985,21 @@
         "冷冻食品"
       ],
       "_imageUrl": "https://www.foodmanufacture.co.uk/resizer/v2/WF43HI37LVGNTPTUV32JBRMQ34.jpg?auth=41f679bc8b194a46666542eb630e6854f68c61555c3a90ae01da9cd08aa9cedf&smart=true&width=2121&height=1414"
+    },
+    {
+      "id": "e0e6948f467b",
+      "type": "newproduct",
+      "section": "newproduct",
+      "sub": "report",
+      "date": "2026-10-16",
+      "title": "What do GLP-1 users want to eat and drink when they’re out?",
+      "source": "BakeryandSnacks",
+      "sourceUrl": "https://www.foodnavigator.com/Article/2026/10/16/the-glp-1-diner-is-changing-the-menu/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "🆕",
+      "category": "休闲零食",
+      "desc": "GLP-1 users must have their needs met outside the home. Here's how foodservice and snacks can adapt with smaller portions, protein-rich options and smarter menus.",
+      "tags": [],
+      "_imageUrl": "https://www.bakeryandsnacks.com/resizer/v2/MVNYJ2M7Z5C4BDHVKQ2AZYEGWU.jpg?auth=ecb4e6c6b1a868c75653a4831522742520ccbb25167375cc33aa84cae7f493ef&smart=true&width=2121&height=1414"
     },
     {
       "id": "4ea9fc3a756d",
@@ -2237,326 +2559,6 @@
       "desc": "The party punch brand is bringing an April Fools' joke to life, while Bauducco looks to introduce panettone to Americans with Skippy peanut butter.",
       "tags": [],
       "_imageUrl": "https://imgproxy.divecdn.com/iOhVitnqlYa_WLBq0tfbotmFkHIkabEoMxwFDr32gLM/g:nowe:0:723/c:2650:1497/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9DaW5uYWJvbl9CQl9TZXQyXzV4NF8xLWZvdG9yLTIwMjYxMDA5OTMzMTMuanBn.webp"
-    },
-    {
-      "id": "0b36a12608a0",
-      "type": "newproduct",
-      "section": "newproduct",
-      "sub": "report",
-      "date": "2026-10-09",
-      "title": "Could PepsiCo’s snack turnaround offer a blueprint for its struggling beverag...",
-      "source": "Beverage Daily",
-      "sourceUrl": "https://www.foodnavigator.com/Article/2026/10/09/pepsicos-snack-strategy-faces-a-beverage-test/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "🆕",
-      "category": "饮品",
-      "desc": "PepsiCo’s snack turnaround offers a potential blueprint for beverages, but soft-drink struggles, shifting consumer preferences and a lower 2026 earnings outlook raise questions.",
-      "tags": [],
-      "_imageUrl": "https://www.beveragedaily.com/resizer/v2/GN6XAQJXPBCZTADANIJBSYQ5XU.jpg?auth=814feddd17986562ecfeaabe29077f227d2a6de01348cee04c5b743cd58cc139&smart=true&width=2121&height=1414"
-    },
-    {
-      "id": "9e826d08f84e",
-      "type": "newproduct",
-      "section": "newproduct",
-      "sub": "report",
-      "date": "2026-10-09",
-      "title": "New beverage launches: Rude Health, three whiskey releases and more",
-      "source": "Beverage Daily",
-      "sourceUrl": "https://www.beveragedaily.com/Article/2026/10/09/new-drinks-launches-coffee-whisky-spirits-and-more/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "🆕",
-      "category": "饮品",
-      "desc": "",
-      "tags": [],
-      "_imageUrl": "https://www.beveragedaily.com/resizer/v2/4WV4EANXMZBULLZOBR2FR6K7LY.JPG?auth=edd9eaf19e756a0e7a19c346876bb371c439f34ea6444ba759d6add23a3536d8&smart=true&width=6000&height=4000"
-    },
-    {
-      "id": "2c97ee12c4b4",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-10-09",
-      "title": "Major wholesaler embraces innovation with TikTok Shop",
-      "source": "Food Manufacture",
-      "sourceUrl": "https://www.foodmanufacture.co.uk/Article/2026/10/09/major-uk-wholesaler-embraces-tiktok-shop-innovation/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "📊",
-      "category": "",
-      "desc": "",
-      "tags": [
-        "创新"
-      ],
-      "_imageUrl": "https://www.foodmanufacture.co.uk/resizer/v2/WM43V2BLQFHY5KL7AUR7ZGQAKI.jpg?auth=d5dc64dc302268d9c60229c7fcca395c1baef8ea733480e28e78efdd124167c9&smart=true&width=2000&height=1349"
-    },
-    {
-      "id": "5eb32a3e0f4a",
-      "type": "newproduct",
-      "section": "newproduct",
-      "sub": "report",
-      "date": "2026-10-09",
-      "title": "Could PepsiCo’s snack turnaround offer a blueprint for its struggling beverag...",
-      "source": "BakeryandSnacks",
-      "sourceUrl": "https://www.foodnavigator.com/Article/2026/10/09/pepsicos-snack-strategy-faces-a-beverage-test/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "🆕",
-      "category": "休闲零食",
-      "desc": "PepsiCo’s snack turnaround offers a potential blueprint for beverages, but soft-drink struggles, shifting consumer preferences and a lower 2026 earnings outlook raise questions.",
-      "tags": [],
-      "_imageUrl": "https://www.bakeryandsnacks.com/resizer/v2/GN6XAQJXPBCZTADANIJBSYQ5XU.jpg?auth=814feddd17986562ecfeaabe29077f227d2a6de01348cee04c5b743cd58cc139&smart=true&width=2121&height=1414"
-    },
-    {
-      "id": "244afb478113",
-      "type": "newproduct",
-      "section": "newproduct",
-      "sub": "report",
-      "date": "2026-10-09",
-      "title": "Meal replacements may satisfy demand for satiety as well as convenience",
-      "source": "Beverage Daily",
-      "sourceUrl": "https://www.foodnavigator.com/Article/2026/10/09/meal-replacement-drinks-can-they-replace-diets/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "🆕",
-      "category": "饮品",
-      "desc": "Meal replacement drinks are often advertised as 'nutritionally complete', containing all the nutrients a human being needs to survive. But can consumers really replace diets with such drinks?",
-      "tags": [],
-      "_imageUrl": "https://www.beveragedaily.com/resizer/v2/C76NUWFCLRF23DPSPNWI2MWPEQ.jpg?auth=49d0bb6e7d67cf0d06bcde75a4e48567483cc4065a25e06cd5b51cd16d8bf94e&smart=true&width=2384&height=1257"
-    },
-    {
-      "id": "aed847338874",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-10-08",
-      "title": "Jaunty Brings the Bodega to Cannabis Gummies",
-      "source": "Dieline",
-      "sourceUrl": "https://thedieline.com/jaunty-brings-the-bodega-to-cannabis-gummies/",
-      "image": "📦",
-      "category": "",
-      "desc": "Zero Studios brings New York bodega culture to Jaunty’s cannabis gummies with saturated fruit colors, grocery inspired graphics and an oversized script logo. The fresh packaging puts flavor and appetite appeal first, giving cannabis edibles the irresistible energy of a neighbo...",
-      "tags": [
-        "包装"
-      ],
-      "_imageUrl": "https://thedieline.com/wp-content/uploads/2026/10/00_Jaunty_PR_Sour_Orchard_Hero_Landscape.png"
-    },
-    {
-      "id": "49c846f04ddb",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-10-08",
-      "title": "Malafronte Stretches Italian Tradition Into a Fresh Look",
-      "source": "Dieline",
-      "sourceUrl": "https://thedieline.com/malafronte-stretches-italian-tradition-into-a-fresh-look/",
-      "image": "📦",
-      "category": "",
-      "desc": "Nju Design refreshes Malafronte’s grissini packaging by turning the long Italian breadstick into an oversized graphic element that stretches across each box. Playful character illustrations, classic Italian food references and a modular shelf system bring contemporary energy t...",
-      "tags": [
-        "包装"
-      ],
-      "_imageUrl": "https://thedieline.com/wp-content/uploads/2026/10/SnapInsta.to_763861303_18060647276744246_4005408137921700548_n.jpg"
-    },
-    {
-      "id": "12380d3359fb",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-10-08",
-      "title": "The minification of beverages",
-      "source": "FoodNavigator-Asia",
-      "sourceUrl": "https://www.foodnavigator.com/Article/2026/10/08/mini-drinks-gain-traction-across-categories/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "📊",
-      "category": "",
-      "desc": "Mini drinks are booming, from fibre shots to cocktails, driven by convenience, wellness and premiumisation",
-      "tags": [],
-      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/7NLKXW3ANBABVB2W3YJGTZXUKM.jpg?auth=9cc1088e418f478655bd093cc4a80a92b75adbd634f626531441295ba9a1d086&smart=true&width=2121&height=1414"
-    },
-    {
-      "id": "e79c62a62437",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-10-08",
-      "title": "What makes a snack worth the price?",
-      "source": "FoodNavigator-Asia",
-      "sourceUrl": "https://www.foodnavigator.com/Article/2026/10/08/what-value-seeking-consumers-want-from-snack-brands-according-to-deloitte/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "📊",
-      "category": "",
-      "desc": "New data from Deloitte shows snack brands perceived as delivering more value than expected for their price are outperforming lower-value peers.",
-      "tags": [],
-      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/HMWMYYY5YRA5ZAFGAF5PIPMVYE.jpg?auth=9411c310fad33e051248ad0fbb02b35d9b2e0857de5a9d84d952271a1cecaef9&smart=true&width=2121&height=1414"
-    },
-    {
-      "id": "0c7f5a8676c7",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-10-08",
-      "title": "The GLP-1 effect: How weight-loss drugs are changing food and drink",
-      "source": "FoodNavigator-Asia",
-      "sourceUrl": "https://www.foodnavigator.com/Article/2026/10/08/how-glp-1-weight-loss-drugs-are-reshaping-food-and-beverage-innovation/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "📊",
-      "category": "",
-      "desc": "How are GLP-1 weight-loss drugs reshaping food and beverage? From reformulation to high-protein products, manufacturers are racing to meet changing demand.",
-      "tags": [],
-      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/GNHHDCBZKZFMHCDPLTPWR53SPY.jpg?auth=3951c79d02002b03df2e904201b0ef51d09e93bd6e11420729840cbac77e6b4b&smart=true&width=2119&height=1415"
-    },
-    {
-      "id": "dc291fb34120",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-10-08",
-      "title": "Food tech: 5 trends growing and 5 declining",
-      "source": "FoodNavigator-Asia",
-      "sourceUrl": "https://www.foodnavigator.com/Article/2026/10/08/food-tech-5-trends-growing-and-5-seeing-decline/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "📊",
-      "category": "",
-      "desc": "Which food tech trends are growing, and which are declining? While plant-based meat is seeing recovery, dedicated plant-based manufacturing capacity is seeing a decline. While AI in R&amp;D is booming, vertical farming has seen better days. While clean label is more important ...",
-      "tags": [
-        "植物基"
-      ],
-      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/44CDKTCWMNHWVJSTVY2TTGRU24.jpg?auth=fbcdb06ad538909e33258173dacb6d196b7d679d3e78876ffc826511ff377142&smart=true&width=2121&height=1414"
-    },
-    {
-      "id": "4ee2d186a109",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-10-08",
-      "title": "15 most influential private label players in the world today",
-      "source": "FoodNavigator-Asia",
-      "sourceUrl": "https://www.foodnavigator.com/Article/2026/10/08/15-most-influential-private-label-players-in-the-world-today/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "📊",
-      "category": "",
-      "desc": "From Thai Union to Refresco, discover the 15 most influential private label suppliers reshaping global food and drink through scale, innovation and strategic retail partnerships.",
-      "tags": [
-        "创新"
-      ],
-      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/4TZL6ML5P5DIZCXAQNZHPSISEE.jpg?auth=5b7abde9f2a31597e1e29693b2ec9a751d270fcc2843a8c01d984ca6d96733eb&smart=true&width=2121&height=1414"
-    },
-    {
-      "id": "540b19d4053c",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-10-08",
-      "title": "Mars’ vision for 2036: The trends set to transform food and nutrition",
-      "source": "FoodNavigator-Asia",
-      "sourceUrl": "https://www.foodnavigator.com/Article/2026/10/08/mars-maps-the-future-of-food-fibre-ai-and-personalised-nutrition-set-to-reshape-eating-habits/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "📊",
-      "category": "",
-      "desc": "Mars is betting on fibre, AI, personalised nutrition and the rise of solo meals to shape the future of food. The food giant reveals how changing consumer habits, health priorities and technology are driving its innovation strategy through to 2035.",
-      "tags": [
-        "创新"
-      ],
-      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/IWG42NVOBRDW3H3O4H7GBNW764.jpg?auth=fb522fa44749ed7a0b5a68e7f7154678d553ad285ff60ee1ec0ef0bbc7971640&smart=true&width=750&height=422"
-    },
-    {
-      "id": "e8453c658a1f",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-10-08",
-      "title": "Food tech: 5 trends growing and 5 declining",
-      "source": "FoodNavigator-USA",
-      "sourceUrl": "https://www.foodnavigator.com/Article/2026/10/08/food-tech-5-trends-growing-and-5-seeing-decline/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "📊",
-      "category": "",
-      "desc": "Which food tech trends are growing, and which are declining? While plant-based meat is seeing recovery, dedicated plant-based manufacturing capacity is seeing a decline. While AI in R&amp;D is booming, vertical farming has seen better days. While clean label is more important ...",
-      "tags": [
-        "植物基"
-      ],
-      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/44CDKTCWMNHWVJSTVY2TTGRU24.jpg?auth=fbcdb06ad538909e33258173dacb6d196b7d679d3e78876ffc826511ff377142&smart=true&width=2121&height=1414"
-    },
-    {
-      "id": "43c57ab05df7",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-10-08",
-      "title": "15 most influential private label players in the world today",
-      "source": "FoodNavigator-USA",
-      "sourceUrl": "https://www.foodnavigator.com/Article/2026/10/08/15-most-influential-private-label-players-in-the-world-today/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "📊",
-      "category": "",
-      "desc": "From Thai Union to Refresco, discover the 15 most influential private label suppliers reshaping global food and drink through scale, innovation and strategic retail partnerships.",
-      "tags": [
-        "创新"
-      ],
-      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/4TZL6ML5P5DIZCXAQNZHPSISEE.jpg?auth=5b7abde9f2a31597e1e29693b2ec9a751d270fcc2843a8c01d984ca6d96733eb&smart=true&width=2121&height=1414"
-    },
-    {
-      "id": "a2ef7d97fe15",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-10-08",
-      "title": "Mars’ vision for 2036: The trends set to transform food and nutrition",
-      "source": "FoodNavigator-USA",
-      "sourceUrl": "https://www.foodnavigator.com/Article/2026/10/08/mars-maps-the-future-of-food-fibre-ai-and-personalised-nutrition-set-to-reshape-eating-habits/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "📊",
-      "category": "",
-      "desc": "Mars is betting on fibre, AI, personalised nutrition and the rise of solo meals to shape the future of food. The food giant reveals how changing consumer habits, health priorities and technology are driving its innovation strategy through to 2035.",
-      "tags": [
-        "创新"
-      ],
-      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/IWG42NVOBRDW3H3O4H7GBNW764.jpg?auth=fb522fa44749ed7a0b5a68e7f7154678d553ad285ff60ee1ec0ef0bbc7971640&smart=true&width=750&height=422"
-    },
-    {
-      "id": "a701caffd73d",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-10-08",
-      "title": "Magic Spoon Gets a Shelf-Friendly Redesign Without Losing its Saturday Mornin...",
-      "source": "Dieline",
-      "sourceUrl": "https://thedieline.com/magic-spoon-gets-a-shelf-friendly-redesign-without-losing-its-saturday-morning-essence/",
-      "image": "📦",
-      "category": "",
-      "desc": "With rapid growth and expansion comes great brand-consistency responsibility. Magic Spoon turned to Hart Brands for a cohesive brand identity. The post Magic Spoon Gets a Shelf-Friendly Redesign Without Losing its Saturday Morning Essence appeared first on DIELINE.",
-      "tags": [],
-      "_imageUrl": "https://thedieline.com/wp-content/uploads/2026/10/1-19.png"
-    },
-    {
-      "id": "3395dbd407f0",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-10-08",
-      "title": "YummyColours Strips Away the Frills for No Nonsense in a Satisfyingly Direct ...",
-      "source": "Dieline",
-      "sourceUrl": "https://thedieline.com/yummycolours-strips-away-the-frills-for-no-nonsense-in-a-satisfyingly-direct-redesign/",
-      "image": "📦",
-      "category": "",
-      "desc": "The 50+ year-old hosiery brand sought out YummyColours for a complete brand overhaul that established clarity and a direct brand position for a modern audience. The post YummyColours Strips Away the Frills for No Nonsense in a Satisfyingly Direct Redesign appeared first on DIE...",
-      "tags": [],
-      "_imageUrl": "https://thedieline.com/wp-content/uploads/2026/10/YC_NoNonsense01.jpg"
-    },
-    {
-      "id": "d7c4f4f1d264",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-10-08",
-      "title": "The Beaufort Bar Vodka",
-      "source": "Packaging of the World",
-      "sourceUrl": "https://packagingoftheworld.com/2026/10/the-beaufort-bar-vodka.html",
-      "image": "📦",
-      "category": "",
-      "desc": "United Creatives designed the first house spirit for the iconic Beaufort Bar at The Savoy in London, a vodka made by The Boatyard Distillery in Ireland. The design takes its cues directly from the Beaufort Bar’s Art Deco interior, translating its character into a refined label...",
-      "tags": [],
-      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/10/TheBeaufortBar-7-2-e1791457258455.webp?fit=300%2C200&amp;ssl=1"
-    },
-    {
-      "id": "377c196b45e2",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-10-08",
-      "title": "POLLO. Packaging of spicy Mexican sauces",
-      "source": "Packaging of the World",
-      "sourceUrl": "https://packagingoftheworld.com/2026/10/pollo-packaging-of-spicy-mexican-sauces.html",
-      "image": "📦",
-      "category": "",
-      "desc": "POLLO is a limited range of fiery Mexican sauces created specifically for chicken dishes. In the project strategy, the audience is defined as young people 18-23 years old who begin an independent life, appreciate the simplicity of cooking and are looking for new impressions. C...",
-      "tags": [
-        "包装"
-      ],
-      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/10/3-7-e1791457017640.jpg?fit=300%2C169&amp;ssl=1"
     }
   ]
 }
