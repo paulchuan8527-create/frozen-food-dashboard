@@ -1,7 +1,7 @@
 {
   "meta": {
-    "updated": "2026-10-20",
-    "version": 1792463080,
+    "updated": "2026-10-21",
+    "version": 1792549099,
     "total": 150,
     "auto_generated": true,
     "sources": [
@@ -336,6 +336,356 @@
       }
     },
     {
+      "id": "5faf87f44094",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-10-20",
+      "title": "M&M’s at 85: How Mars built a billion-dollar confectionery icon",
+      "source": "FoodNavigator-Asia",
+      "sourceUrl": "https://www.confectionerynews.com/Article/2026/10/20/mars-celebrates-85-years-of-mms-innovation-growth-and-global-success/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "📊",
+      "category": "",
+      "desc": "Mars is celebrating 85 years of M&amp;M’s. Discover how the iconic confectionery brand has evolved through innovation, flavour launches and global expansion.",
+      "tags": [
+        "创新"
+      ],
+      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/HJ3CYWRJKZHHRCRJJMZQFRFVRE.jpg?auth=6168a44bd1b0bdd5782784ad40d62dade56f372de8eedd1f80732d46689bf51b&smart=true&width=4032&height=2268"
+    },
+    {
+      "id": "022dc4539c73",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-10-20",
+      "title": "4 strategies Coca-Cola, PepsiCo, Spindrift and others are using to revitalize...",
+      "source": "FoodNavigator-Asia",
+      "sourceUrl": "https://www.foodnavigator.com/Article/2026/10/20/rtd-tea-4-strategies-to-revitalize-category-growth/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "📊",
+      "category": "",
+      "desc": "With US RTD tea sales falling, Coca-Cola, PepsiCo and other brands are betting on zero sugar, bold flavors, functional benefits and premium ingredients to revive growth.",
+      "tags": [
+        "原料"
+      ],
+      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/RSC7TM2COZF7HH3TVHRKLJPO2A.jpg?auth=d0a7a4cf0d94b23af82e43058d3dd5567c8bdbc17ed3328a6e1eafdba9aab105&smart=true&width=2121&height=1414"
+    },
+    {
+      "id": "b3c2bc49d709",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-10-20",
+      "title": "Forget breakfast: The battle for the morning snack is on",
+      "source": "FoodNavigator-Asia",
+      "sourceUrl": "https://www.foodnavigator.com/Article/2026/10/20/the-rise-of-morning-snacking-what-it-means-for-food-and-beverage-brands/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "📊",
+      "category": "",
+      "desc": "Morning snacking is emerging as a distinct eating occasion, creating new opportunities for breakfast, confectionery and functional food brands. Discover the trends, ingredients and formats shaping the growing mid-morning market.",
+      "tags": [
+        "原料"
+      ],
+      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/2SYY2LZ3BFEQ5IH46UXJJDQFKA.jpg?auth=3b3bd7b355a087f080c2321ca0cdfb4ce406d9df20de6a461db01c54e91344af&smart=true&width=2119&height=1414"
+    },
+    {
+      "id": "7f9261402045",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-10-20",
+      "title": "Dairy’s fight for growth and shelf space",
+      "source": "FoodNavigator-Asia",
+      "sourceUrl": "https://www.foodnavigator.com/Article/2026/10/20/letter-from-the-editor-what-is-driving-dairy-innovation/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "📊",
+      "category": "",
+      "desc": "Explore dairy innovation trends, from high-protein products and plant-based competition to creamers, milk market insights and AI-powered commerce.",
+      "tags": [
+        "植物基",
+        "创新"
+      ],
+      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/XB22SQCZ3BHRTMBIFVRSGIM75Y.jpg?auth=3a40de5b3d91cc6896ba4a974c868af10889aabc3241e48896b0fbc524552748&smart=true&width=2120&height=1414"
+    },
+    {
+      "id": "e5879e0ac1a9",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-10-20",
+      "title": "Creamers move beyond coffee with flavors, cold foams and café-inspired experi...",
+      "source": "FoodNavigator-Asia",
+      "sourceUrl": "https://www.foodnavigator.com/Article/2026/10/20/creamers-move-beyond-coffee-with-flavors-cold-foams-and-cafe-inspired-experiences/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "📊",
+      "category": "",
+      "desc": "SPINS data shows consumers gravitating toward flavored creamers and cold foams that deliver café-inspired flavors and textures, while dairy-focused brands balance indulgence with simpler ingredient lists.",
+      "tags": [
+        "原料"
+      ],
+      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/ONPHITE55ZFO5BHAPGBL4ZTNJQ.jfif?auth=0a0bd0d4d708d751373cb18d5f605dce7b515dbeef3ee08e740f797bcc4b96de&smart=true&width=856&height=642"
+    },
+    {
+      "id": "dc0d73286bbe",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-10-20",
+      "title": "Can plant proteins help ease the whey squeeze?",
+      "source": "FoodNavigator-Asia",
+      "sourceUrl": "https://www.foodnavigator.com/Article/2026/10/20/whey-protein-shortage-drives-interest-in-plant-proteins/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "📊",
+      "category": "",
+      "desc": "Whey prices remain more than double year-ago levels. Explore how ADM and other ingredient suppliers are using plant proteins and hybrid formulations to meet demand.",
+      "tags": [
+        "原料"
+      ],
+      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/A7I3XDJWTVE2PANMUX3ROYUZNQ.jpg?auth=634b065238865454a0a4fb25aab5ea53e23574c186ac0f3426c346eb7e7638ce&smart=true&width=2121&height=1414"
+    },
+    {
+      "id": "57800bb61a77",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-10-20",
+      "title": "M&M’s at 85: How Mars built a billion-dollar confectionery icon",
+      "source": "FoodNavigator-USA",
+      "sourceUrl": "https://www.confectionerynews.com/Article/2026/10/20/mars-celebrates-85-years-of-mms-innovation-growth-and-global-success/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "📊",
+      "category": "",
+      "desc": "Mars is celebrating 85 years of M&amp;M’s. Discover how the iconic confectionery brand has evolved through innovation, flavour launches and global expansion.",
+      "tags": [
+        "创新"
+      ],
+      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/HJ3CYWRJKZHHRCRJJMZQFRFVRE.jpg?auth=6168a44bd1b0bdd5782784ad40d62dade56f372de8eedd1f80732d46689bf51b&smart=true&width=4032&height=2268"
+    },
+    {
+      "id": "441cad15a672",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-10-20",
+      "title": "4 strategies Coca-Cola, PepsiCo, Spindrift and others are using to revitalize...",
+      "source": "FoodNavigator-USA",
+      "sourceUrl": "https://www.foodnavigator.com/Article/2026/10/20/rtd-tea-4-strategies-to-revitalize-category-growth/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "📊",
+      "category": "",
+      "desc": "With US RTD tea sales falling, Coca-Cola, PepsiCo and other brands are betting on zero sugar, bold flavors, functional benefits and premium ingredients to revive growth.",
+      "tags": [
+        "原料"
+      ],
+      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/RSC7TM2COZF7HH3TVHRKLJPO2A.jpg?auth=d0a7a4cf0d94b23af82e43058d3dd5567c8bdbc17ed3328a6e1eafdba9aab105&smart=true&width=2121&height=1414"
+    },
+    {
+      "id": "5789893d8444",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-10-20",
+      "title": "Forget breakfast: The battle for the morning snack is on",
+      "source": "FoodNavigator-USA",
+      "sourceUrl": "https://www.foodnavigator.com/Article/2026/10/20/the-rise-of-morning-snacking-what-it-means-for-food-and-beverage-brands/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "📊",
+      "category": "",
+      "desc": "Morning snacking is emerging as a distinct eating occasion, creating new opportunities for breakfast, confectionery and functional food brands. Discover the trends, ingredients and formats shaping the growing mid-morning market.",
+      "tags": [
+        "原料"
+      ],
+      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/2SYY2LZ3BFEQ5IH46UXJJDQFKA.jpg?auth=3b3bd7b355a087f080c2321ca0cdfb4ce406d9df20de6a461db01c54e91344af&smart=true&width=2119&height=1414"
+    },
+    {
+      "id": "414a9545ca9d",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-10-20",
+      "title": "Dairy’s fight for growth and shelf space",
+      "source": "FoodNavigator-USA",
+      "sourceUrl": "https://www.foodnavigator.com/Article/2026/10/20/letter-from-the-editor-what-is-driving-dairy-innovation/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "📊",
+      "category": "",
+      "desc": "Explore dairy innovation trends, from high-protein products and plant-based competition to creamers, milk market insights and AI-powered commerce.",
+      "tags": [
+        "植物基",
+        "创新"
+      ],
+      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/XB22SQCZ3BHRTMBIFVRSGIM75Y.jpg?auth=3a40de5b3d91cc6896ba4a974c868af10889aabc3241e48896b0fbc524552748&smart=true&width=2120&height=1414"
+    },
+    {
+      "id": "2935c565b0bf",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-10-20",
+      "title": "Creamers move beyond coffee with flavors, cold foams and café-inspired experi...",
+      "source": "FoodNavigator-USA",
+      "sourceUrl": "https://www.foodnavigator.com/Article/2026/10/20/creamers-move-beyond-coffee-with-flavors-cold-foams-and-cafe-inspired-experiences/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "📊",
+      "category": "",
+      "desc": "SPINS data shows consumers gravitating toward flavored creamers and cold foams that deliver café-inspired flavors and textures, while dairy-focused brands balance indulgence with simpler ingredient lists.",
+      "tags": [
+        "原料"
+      ],
+      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/ONPHITE55ZFO5BHAPGBL4ZTNJQ.jfif?auth=0a0bd0d4d708d751373cb18d5f605dce7b515dbeef3ee08e740f797bcc4b96de&smart=true&width=856&height=642"
+    },
+    {
+      "id": "bc70960fea60",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-10-20",
+      "title": "Can plant proteins help ease the whey squeeze?",
+      "source": "FoodNavigator-USA",
+      "sourceUrl": "https://www.foodnavigator.com/Article/2026/10/20/whey-protein-shortage-drives-interest-in-plant-proteins/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "📊",
+      "category": "",
+      "desc": "Whey prices remain more than double year-ago levels. Explore how ADM and other ingredient suppliers are using plant proteins and hybrid formulations to meet demand.",
+      "tags": [
+        "原料"
+      ],
+      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/A7I3XDJWTVE2PANMUX3ROYUZNQ.jpg?auth=634b065238865454a0a4fb25aab5ea53e23574c186ac0f3426c346eb7e7638ce&smart=true&width=2121&height=1414"
+    },
+    {
+      "id": "cd6d65cf716c",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-10-20",
+      "title": "Blank Body Makes a Case for Showing Some Skin",
+      "source": "Dieline",
+      "sourceUrl": "https://thedieline.com/blank-body-makes-a-case-for-showing-some-skin/",
+      "image": "📦",
+      "category": "",
+      "desc": "Designed by Orchidea Agency, Blank Body’s packaging celebrates the natural curves of the human body through sculptural terracotta bottles, abstract feminine silhouettes and warm tonal typography. Inspired by African textile patterns and the beauty of individuality, the design ...",
+      "tags": [
+        "包装"
+      ],
+      "_imageUrl": "https://thedieline.com/wp-content/uploads/2026/10/IMG_7686-2adaa6cc53001d333f547f2ba5edcda6-scaled-1.jpeg"
+    },
+    {
+      "id": "d0e6091d1c07",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-10-20",
+      "title": "Sweety & Co. Makes a Splash With Possible’s Plant Milk Refresh",
+      "source": "Dieline",
+      "sourceUrl": "https://thedieline.com/sweety-co-makes-a-splash-with-possibles-plant-milk-refresh/",
+      "image": "📦",
+      "category": "",
+      "desc": "Sweety &#038; Co. refreshes Possible’s plant milk packaging with oversized blue typography, creamy splashes, playful ingredient imagery and vibrant flavor colors. The redesign brings taste, texture and nutritional benefits to the forefront while giving the brand a fresh, unmis...",
+      "tags": [
+        "包装",
+        "原料"
+      ],
+      "_imageUrl": "https://thedieline.com/wp-content/uploads/2026/10/10_Possible_Trio_Splash-scaled.jpg"
+    },
+    {
+      "id": "4b2c9d97ffe6",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-10-20",
+      "title": "Kevin Marshall, Senior Director of Packaging at Microsoft, Explains Why They ...",
+      "source": "Dieline",
+      "sourceUrl": "https://thedieline.com/kevin-marshall-senior-director-of-packaging-at-microsoft-explains-why-they-embraced-inclusive-packaging/",
+      "image": "📦",
+      "category": "",
+      "desc": "From the launch of the Xbox Adaptive Controller to seamless unboxing across its entire product range, Microsoft proved that accessible packaging is actually better design for everyone. The post Kevin Marshall, Senior Director of Packaging at Microsoft, Explains Why They Embrac...",
+      "tags": [
+        "包装"
+      ],
+      "_imageUrl": "https://thedieline.com/wp-content/uploads/2026/10/DSC08724-Edit-scaled.jpg"
+    },
+    {
+      "id": "90c17c020b04",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-10-20",
+      "title": "Kebab.Lab Brand Identity by Butterfly Hunters",
+      "source": "Packaging of the World",
+      "sourceUrl": "https://packagingoftheworld.com/2026/10/kebab-lab-brand-identity-by-butterfly-hunters.html",
+      "image": "📦",
+      "category": "",
+      "desc": "Kebab.Lab set out to challenge the perception of traditional kebab restaurants in Armenia—often seen as outdated, overly masculine, and uninviting, especially for female customers, and introduce the Döner Kebab culture to the market. Starting with just the name, our task was t...",
+      "tags": [],
+      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/10/coverWEB-1-e1792483964119.jpg?fit=300%2C169&amp;ssl=1"
+    },
+    {
+      "id": "f9f877ec0061",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-10-20",
+      "title": "Ramen Rebel",
+      "source": "Packaging of the World",
+      "sourceUrl": "https://packagingoftheworld.com/2026/10/ramen-rebel.html",
+      "image": "📦",
+      "category": "",
+      "desc": "RAMEN REBEL is an instant ramen brand built around a simple question: if a bowl of instant noodles weren&#8217;t a food product but a streetwear item, what would it look like? The visual system starts with a geometric emblem: a cobalt blue bowl drawn in single-weight lines, wi...",
+      "tags": [],
+      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/10/10-13-1.jpg?fit=300%2C224&amp;ssl=1"
+    },
+    {
+      "id": "d65bf533b82b",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-10-20",
+      "title": "raond Children’s Care and Skincare Brand Design",
+      "source": "Packaging of the World",
+      "sourceUrl": "https://packagingoftheworld.com/2026/10/raond-children-care-skincare.html",
+      "image": "📦",
+      "category": "",
+      "desc": "The raond range treats the bottle as a toy before it is a container. Each piece reads like a small stack of smooth pebbles, a cream body topped with an oversized cap in pink, lilac, olive, butter yellow or periwinkle. The silhouettes sit somewhere between mushrooms, gnomes and...",
+      "tags": [],
+      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/10/20-5-scaled-e1792478969526.jpg?fit=300%2C169&amp;ssl=1"
+    },
+    {
+      "id": "7323e77ddf91",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-10-20",
+      "title": "Hata Pack",
+      "source": "Packaging of the World",
+      "sourceUrl": "https://packagingoftheworld.com/2026/10/hata-pack.html",
+      "image": "📦",
+      "category": "",
+      "desc": "All of Eastern Europe loves things fermented, sour, salted and pickled. Given today&#8217;s trend for fermentation, these traditional foods are a superfood — while the packaging comes from a time when nobody had even heard the word &#8220;super&#8221;. That&#8217;s how HATA PA...",
+      "tags": [
+        "包装"
+      ],
+      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/10/HATA_POTW_1-1-e1792478937625.jpg?fit=300%2C169&amp;ssl=1"
+    },
+    {
+      "id": "a69b9fda4e2a",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-10-20",
+      "title": "Mondelēz launches gluten-free Ritz crackers",
+      "source": "Food Dive",
+      "sourceUrl": "https://www.fooddive.com/news/mondelezs-ritz-gluten-free-cracker-oreo-soup-cheezits/833395/",
+      "image": "📊",
+      "category": "",
+      "desc": "The snack giant has previously released gluten-free versions of Oreo and Chips Ahoy! as brands look for growth by catering to a range of dietary needs.",
+      "tags": [],
+      "_imageUrl": "https://imgproxy.divecdn.com/IMowzxfi8LCdMM7t1E2NAPzzBNg3ZzDMjSE-iDrUJ3w/g:nowe:0:311/c:3000:1694/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTI5ODYxLmpwZw==.webp"
+    },
+    {
+      "id": "6074a413f0f7",
+      "type": "newproduct",
+      "section": "newproduct",
+      "sub": "report",
+      "date": "2026-10-20",
+      "title": "How many potatoes never make it into the crisp packet?",
+      "source": "BakeryandSnacks",
+      "sourceUrl": "https://www.bakeryandsnacks.com/Article/2026/10/20/how-pepsicos-virtual-harvester-training-tackles-potato-damage/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "🆕",
+      "category": "休闲零食",
+      "desc": "PepsiCo and Grimme’s virtual harvester training is helping operators reduce potato bruising and protect the quality of crops destined for snack production.",
+      "tags": [],
+      "_imageUrl": "https://www.bakeryandsnacks.com/resizer/v2/VL6ZW4RGYVL5FKBMBJUWQEUQPA.jpg?auth=3cecd47b4420fcb8bad0e6011824968853aed2b7651fdee8cdaace0ccd69fd4c&smart=true&width=750&height=500"
+    },
+    {
       "id": "0ad58ced5a03",
       "type": "report",
       "section": "data",
@@ -656,6 +1006,21 @@
         "原料"
       ],
       "_imageUrl": "https://www.foodmanufacture.co.uk/resizer/v2/K4T5LXWAWJDM7HCD5KQGNWAF34.jpg?auth=32d6bf73e842f042e7757e5a79f6df6706624a36e91dc8b176857b19e0fcc96d&smart=true&width=2121&height=1414"
+    },
+    {
+      "id": "f5a026b0d074",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-10-19",
+      "title": "Nestlé commits $1bn to North America expansion strategy",
+      "source": "Food Manufacture",
+      "sourceUrl": "https://www.foodnavigator.com/Article/2026/10/19/nestle-commits-1bn-to-north-america-expansion-strategy/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "📊",
+      "category": "",
+      "desc": "Nestlé is investing $1bn in Mexico, as it expands production capacity, strengthens agricultural supply chains and accelerates its North American growth strategy.",
+      "tags": [],
+      "_imageUrl": "https://www.foodmanufacture.co.uk/resizer/v2/JQX7I7LUR5HONEJ4BG2YJDJV2U.jpg?auth=ab81c5d7460e04deddf3d7a5f0932c6029c4819cc7612e10227eeea08ea85845&smart=true&width=2121&height=1414"
     },
     {
       "id": "0771848110de",
@@ -2205,360 +2570,6 @@
         "包装"
       ],
       "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/10/01-10-e1791793248908.png?fit=300%2C179&amp;ssl=1"
-    },
-    {
-      "id": "85d4135ca65b",
-      "type": "newproduct",
-      "section": "newproduct",
-      "sub": "report",
-      "date": "2026-10-12",
-      "title": "Cheetos, Hostess and Chips Ahoy! take Halloween beyond sweets",
-      "source": "BakeryandSnacks",
-      "sourceUrl": "https://www.bakeryandsnacks.com/Article/2026/10/12/halloween-snacks-from-cheetos-hostess-chips-ahoy-and-more/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "🆕",
-      "category": "休闲零食",
-      "desc": "xplore how Cheetos, Hostess, Chips Ahoy! and other brands are taking Halloween beyond sweets with seasonal snacks, spooky bakes and autumn desserts.",
-      "tags": [],
-      "_imageUrl": "https://www.bakeryandsnacks.com/resizer/v2/JJKC2LFIZNCJRFEISOUFVH3ME4.jpg?auth=810a1e008c684e8136f76b4244d13c3cc94fa88d4e30ffc1aebcd060e9cd5776&smart=true&width=2309&height=1299"
-    },
-    {
-      "id": "d5afe592816e",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-10-12",
-      "title": "McVities manufacturer appoints new chief supply chain officer",
-      "source": "Food Manufacture",
-      "sourceUrl": "https://www.foodmanufacture.co.uk/Article/2026/10/12/mcvities-manufacturer-pladis-global-appoints-frankgerald-stepp-as-chief-supply-chain-officer/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "📊",
-      "category": "",
-      "desc": "",
-      "tags": [],
-      "_imageUrl": "https://www.foodmanufacture.co.uk/resizer/v2/BLKJDH6JH5DDJGNUAOL2W44XKY.jpg?auth=f416aa197c65682d51aa9f93ed71ebc23a272a06025e2d67b70af316859312eb&smart=true&width=1024&height=1024"
-    },
-    {
-      "id": "b7c31627a099",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-10-12",
-      "title": "Welsh ingredients manufacturer boosts fleet and production capabilities",
-      "source": "Food Manufacture",
-      "sourceUrl": "https://www.foodmanufacture.co.uk/Article/2026/10/12/beacon-foods-invests-in-fleet-and-production-capabilities/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "📊",
-      "category": "",
-      "desc": "",
-      "tags": [
-        "原料"
-      ],
-      "_imageUrl": "https://www.foodmanufacture.co.uk/resizer/v2/CO5L3H7PAVG4ZLCKQIBYN2IMVE.jpg?auth=41ab3e015919100a54f117af2415a21f588d83231adeab7a67e989e9b9a82df6&smart=true&width=2362&height=1404"
-    },
-    {
-      "id": "ba2df60ce1c1",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-10-12",
-      "title": "Regulatory uncertainty blocking food innovation says European FSA",
-      "source": "Food Manufacture",
-      "sourceUrl": "https://www.foodmanufacture.co.uk/Article/2026/10/12/efsa-says-regulatory-uncertainty-hindering-food-innovation/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "📊",
-      "category": "",
-      "desc": "",
-      "tags": [
-        "创新"
-      ],
-      "_imageUrl": "https://www.foodmanufacture.co.uk/resizer/v2/S57KYUA66RBBFM6FZ4J3WVPFIU.jpg?auth=3e6a0ecc7b9fe14d30345ff09a63d68cd24104b45cd4035402acc41d14613b98&smart=true&width=2121&height=1414"
-    },
-    {
-      "id": "dfd2691ef23e",
-      "type": "newproduct",
-      "section": "newproduct",
-      "sub": "report",
-      "date": "2026-10-12",
-      "title": "Could conflict in Ethiopia threaten coffee?",
-      "source": "Beverage Daily",
-      "sourceUrl": "https://www.foodnavigator.com/Article/2026/10/12/ethiopias-coffee-sector-could-conflict-threaten-production/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "🆕",
-      "category": "饮品",
-      "desc": "Ethiopia is Africa's largest coffee producer, and the fifth largest in the world. As conflict flares up again in the northern regions of the country, how likely is this to impact coffee production?",
-      "tags": [],
-      "_imageUrl": "https://www.beveragedaily.com/resizer/v2/HXWFRZ6LQFFPLF7L22NADBSDNM.jpg?auth=f01b6d9ccb3208394f9a244337e49d6189ba80970fe6dc31732c715744a76a48&smart=true&width=2121&height=1414"
-    },
-    {
-      "id": "a26c921ed2d9",
-      "type": "newproduct",
-      "section": "newproduct",
-      "sub": "report",
-      "date": "2026-10-12",
-      "title": "Drinking beauty: Mashiro taps trend with collagen, GABA, and placenta",
-      "source": "Beverage Daily",
-      "sourceUrl": "https://www.foodnavigator.com/Article/2026/10/12/mashiro-taps-beauty-from-within-growth-with-collagen-gaba-and-placenta/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "🆕",
-      "category": "饮品",
-      "desc": "The Oita-based brand is expanding in Southeast Asia with its collagen GABA and placenta collagen drinks, leveraging growth in the beauty and sleep wellness sectors.",
-      "tags": [],
-      "_imageUrl": "https://www.beveragedaily.com/resizer/v2/3XRWFZ6SMFDJFBANDDA3BXUJYM.png?auth=0d4e9d263a645302b286d002e0abc8f5f3c68ae1d777af7a6e2b698eb40da422&smart=true&width=1920&height=1080"
-    },
-    {
-      "id": "0fdfd7a6b32d",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-10-10",
-      "title": "Nestlé launches its first-ever cookie Advent calendar",
-      "source": "FoodNavigator-Asia",
-      "sourceUrl": "https://www.confectionerynews.com/Article/2026/10/10/nestle-launches-its-first-ever-cookie-advent-calendar/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "📊",
-      "category": "",
-      "desc": "Nestlé has launched its first-ever cookie Advent calendar, tapping into the growing importance of festive snacking with 12 days of seasonal cookie dough flavours, fan favourites and holiday baking treats.",
-      "tags": [],
-      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/3V5X242UDZETHK2FPLK6YJIUEU.jpg?auth=0c5855bdc2415d02b8c37bd7a2f4962e15eca08821f1c76ad40be6a373f4c091&smart=true&width=8192&height=4608"
-    },
-    {
-      "id": "66eb00a21bc5",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-10-10",
-      "title": "Nestlé launches its first-ever cookie Advent calendar",
-      "source": "FoodNavigator-USA",
-      "sourceUrl": "https://www.confectionerynews.com/Article/2026/10/10/nestle-launches-its-first-ever-cookie-advent-calendar/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "📊",
-      "category": "",
-      "desc": "Nestlé has launched its first-ever cookie Advent calendar, tapping into the growing importance of festive snacking with 12 days of seasonal cookie dough flavours, fan favourites and holiday baking treats.",
-      "tags": [],
-      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/3V5X242UDZETHK2FPLK6YJIUEU.jpg?auth=0c5855bdc2415d02b8c37bd7a2f4962e15eca08821f1c76ad40be6a373f4c091&smart=true&width=8192&height=4608"
-    },
-    {
-      "id": "bc350cafdbdf",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-10-09",
-      "title": "Contrast Serves Up a Fresh Slice of Italy for Sainsbury’s",
-      "source": "Dieline",
-      "sourceUrl": "https://thedieline.com/contrast-serves-up-a-fresh-slice-of-italy-for-sainsburys/",
-      "image": "📦",
-      "category": "",
-      "desc": "Contrast refreshes Sainsbury’s Italian food packaging with vibrant colors, oversized typography and geometric patterns inspired by Italian café tiles and vintage trattoria graphics. From stonebaked pizzas to fresh pasta and sauces, the redesign brings a playful, contemporary I...",
-      "tags": [
-        "包装"
-      ],
-      "_imageUrl": "https://thedieline.com/wp-content/uploads/2026/10/Contrast-Sainsburys-Italian-Pizza-Range-d07cf0df29318a804e2abf57f4b8eff2-scaled-1.jpeg"
-    },
-    {
-      "id": "2d33aa28d56d",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-10-09",
-      "title": "Biotamra Brings Tasty Tales From the Sahara Right to the Pantry",
-      "source": "Dieline",
-      "sourceUrl": "https://thedieline.com/biotamra-brings-tasty-tales-from-the-sahara-right-to-the-pantry/",
-      "image": "📦",
-      "category": "",
-      "desc": "DesignRepublic brings Biotamra’s Saharan roots to life through colorful packaging inspired by North African art and vintage travel posters. Playful illustrations of date palms, desert landscapes and oasis scenes create a charming visual world across the brand’s dates, date pow...",
-      "tags": [
-        "包装"
-      ],
-      "_imageUrl": "https://thedieline.com/wp-content/uploads/2026/10/01_Biotamra_full_range-09229f36569034d796955f4e389b09db.jpg"
-    },
-    {
-      "id": "6a8ae4c3750e",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-10-09",
-      "title": "Meal replacements may satisfy demand for satiety as well as convenience",
-      "source": "FoodNavigator-Asia",
-      "sourceUrl": "https://www.foodnavigator.com/Article/2026/10/09/meal-replacement-drinks-can-they-replace-diets/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "📊",
-      "category": "",
-      "desc": "Meal replacement drinks are often advertised as 'nutritionally complete', containing all the nutrients a human being needs to survive. But can consumers really replace diets with such drinks?",
-      "tags": [],
-      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/C76NUWFCLRF23DPSPNWI2MWPEQ.jpg?auth=49d0bb6e7d67cf0d06bcde75a4e48567483cc4065a25e06cd5b51cd16d8bf94e&smart=true&width=2384&height=1257"
-    },
-    {
-      "id": "a687cad946b2",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-10-09",
-      "title": "How can CPG brands stand out as private label expands?",
-      "source": "FoodNavigator-Asia",
-      "sourceUrl": "https://www.foodnavigator.com/Article/2026/10/09/private-label-moves-beyond-value-to-rival-national-brands/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "📊",
-      "category": "",
-      "desc": "Faster innovation, stronger brand building and closer attention to consumer trends can help national brands compete, says Centric Software’s Reid Swanson.",
-      "tags": [
-        "创新"
-      ],
-      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/7ROHOPACRJHHZOW5Z2XMOJEEVQ.jpg?auth=2d977e8b3b6efebf7ef667afdab93ffd7a2b8889f02499cd2b6fa49aeea300c1&smart=true&width=2309&height=1298"
-    },
-    {
-      "id": "603f7dbfa908",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-10-09",
-      "title": "Could PepsiCo’s snack turnaround offer a blueprint for its struggling beverag...",
-      "source": "FoodNavigator-Asia",
-      "sourceUrl": "https://www.foodnavigator.com/Article/2026/10/09/pepsicos-snack-strategy-faces-a-beverage-test/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "📊",
-      "category": "",
-      "desc": "PepsiCo’s snack turnaround offers a potential blueprint for beverages, but soft-drink struggles, shifting consumer preferences and a lower 2026 earnings outlook raise questions.",
-      "tags": [],
-      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/GN6XAQJXPBCZTADANIJBSYQ5XU.jpg?auth=814feddd17986562ecfeaabe29077f227d2a6de01348cee04c5b743cd58cc139&smart=true&width=2121&height=1414"
-    },
-    {
-      "id": "ab2040330362",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-10-09",
-      "title": "Barry Callebaut’s move beyond chocolate fails to convince investors",
-      "source": "FoodNavigator-Asia",
-      "sourceUrl": "https://www.foodnavigator.com/Article/2026/10/09/barry-callebauts-move-beyond-chocolate-fails-to-convince-investors/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "📊",
-      "category": "",
-      "desc": "Barry Callebaut's expansion beyond chocolate into complete product solutions signals a new direction for the ingredients industry. But as cocoa market volatility continues to dominate investor thinking, can growth ambitions outweigh near-term challenges?",
-      "tags": [
-        "原料"
-      ],
-      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/CBFPYEWIG5AMZN443FTSCYX4YM.jpg?auth=09ad7938f240ef05992e4c88674083761e2d9b6794180d9a31ccd6d56fe2d562&smart=true&width=1774&height=1689"
-    },
-    {
-      "id": "46d657aa8011",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-10-09",
-      "title": "Ghirardelli enters snack aisle in major move beyond chocolate",
-      "source": "FoodNavigator-Asia",
-      "sourceUrl": "https://www.confectionerynews.com/Article/2026/10/09/ghirardelli-enters-snack-aisle-in-major-move-beyond-chocolate/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "📊",
-      "category": "",
-      "desc": "Ghirardelli enters the cookie category with new Crispy Cookies, marking a major expansion beyond chocolate for the Lindt & Sprüngli-owned brand.",
-      "tags": [],
-      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/HJCSPBNPA5AVTLL3IVVZKVZSIU.jpg?auth=7d820f21818a7303612700857253d4525c6e861b08e03128c27125bb81883bf1&smart=true&width=3033&height=2221"
-    },
-    {
-      "id": "7d812508d21c",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-10-09",
-      "title": "How can CPG brands stand out as private label expands?",
-      "source": "FoodNavigator-USA",
-      "sourceUrl": "https://www.foodnavigator.com/Article/2026/10/09/private-label-moves-beyond-value-to-rival-national-brands/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "📊",
-      "category": "",
-      "desc": "Faster innovation, stronger brand building and closer attention to consumer trends can help national brands compete, says Centric Software’s Reid Swanson.",
-      "tags": [
-        "创新"
-      ],
-      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/7ROHOPACRJHHZOW5Z2XMOJEEVQ.jpg?auth=2d977e8b3b6efebf7ef667afdab93ffd7a2b8889f02499cd2b6fa49aeea300c1&smart=true&width=2309&height=1298"
-    },
-    {
-      "id": "a3ed2c817b45",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-10-09",
-      "title": "Barry Callebaut’s move beyond chocolate fails to convince investors",
-      "source": "FoodNavigator-USA",
-      "sourceUrl": "https://www.foodnavigator.com/Article/2026/10/09/barry-callebauts-move-beyond-chocolate-fails-to-convince-investors/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "📊",
-      "category": "",
-      "desc": "Barry Callebaut's expansion beyond chocolate into complete product solutions signals a new direction for the ingredients industry. But as cocoa market volatility continues to dominate investor thinking, can growth ambitions outweigh near-term challenges?",
-      "tags": [
-        "原料"
-      ],
-      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/CBFPYEWIG5AMZN443FTSCYX4YM.jpg?auth=09ad7938f240ef05992e4c88674083761e2d9b6794180d9a31ccd6d56fe2d562&smart=true&width=1774&height=1689"
-    },
-    {
-      "id": "abe89857ea73",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-10-09",
-      "title": "Oase Juice",
-      "source": "Packaging of the World",
-      "sourceUrl": "https://packagingoftheworld.com/2026/10/oase-juice.html",
-      "image": "📦",
-      "category": "",
-      "desc": "Oase is a juice branding mockup collection created for fresh beverage concepts, juice bars, and modern food &#38; drink brands. The collection features realistic applications across juice bottles, cups, packaging, labels, takeaway bags, menus, and promotional materials. Rather...",
-      "tags": [
-        "包装"
-      ],
-      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/10/i-Preview-Behance-23-2-e1791544086223.jpg?fit=300%2C219&amp;ssl=1"
-    },
-    {
-      "id": "83370260e0e2",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-10-09",
-      "title": "Boring Cat",
-      "source": "Packaging of the World",
-      "sourceUrl": "https://packagingoftheworld.com/2026/10/boring-cat.html",
-      "image": "📦",
-      "category": "",
-      "desc": "BORING CAT is a feline cognitive nutrition brand built around a single observation: a genuinely intelligent cat is no longer amused by human tricks. It&#8217;s independent, analytical, and blissfully bored. That idea drives the packaging as much as the positioning. The NEURO-K...",
-      "tags": [
-        "包装"
-      ],
-      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/10/08-2-e1791544051299.jpg?fit=300%2C224&amp;ssl=1"
-    },
-    {
-      "id": "a9ee0f77928f",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-10-09",
-      "title": "Hunger Station identity & Packaging | Fried Chicken",
-      "source": "Packaging of the World",
-      "sourceUrl": "https://packagingoftheworld.com/2026/10/hunger-station-identity-packaging-fried-chicken.html",
-      "image": "📦",
-      "category": "",
-      "desc": "CLIENT Hunger Station is a bold, Gen Z–centric fast-food brand built on energy, attitude, and cultural relevance. Its identity thrives on emotional intensity, visual dominance, and a fearless communication style — speaking directly to a generation that values authenticity over...",
-      "tags": [
-        "包装"
-      ],
-      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/10/21-5-e1791544011405.png?fit=300%2C168&amp;ssl=1"
-    },
-    {
-      "id": "dea6599da013",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-10-09",
-      "title": "Miracle Beauty Cream",
-      "source": "Packaging of the World",
-      "sourceUrl": "https://packagingoftheworld.com/2026/10/miracle-beauty-cream.html",
-      "image": "📦",
-      "category": "",
-      "desc": "Miracle is a cosmetic packaging mockup collection designed to showcase beauty and skincare cream through clean, refined product presentations. Built around contemporary beauty aesthetics, Miracle balances soft compositions with detailed materials and realistic lighting. Each s...",
-      "tags": [
-        "包装"
-      ],
-      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/10/i-Preview-Behance-12-1-e1791543993920.jpg?fit=300%2C219&amp;ssl=1"
-    },
-    {
-      "id": "861a6e35b02d",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-10-09",
-      "title": "Leftovers: BeatBox jams with Cinnabon | Topo Chico launches premium canned water",
-      "source": "Food Dive",
-      "sourceUrl": "https://www.fooddive.com/news/leftovers-beatbox-cinnabon-topo-chico-canned-water-Bauducco-skippy/832606/",
-      "image": "📊",
-      "category": "",
-      "desc": "The party punch brand is bringing an April Fools' joke to life, while Bauducco looks to introduce panettone to Americans with Skippy peanut butter.",
-      "tags": [],
-      "_imageUrl": "https://imgproxy.divecdn.com/iOhVitnqlYa_WLBq0tfbotmFkHIkabEoMxwFDr32gLM/g:nowe:0:723/c:2650:1497/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9DaW5uYWJvbl9CQl9TZXQyXzV4NF8xLWZvdG9yLTIwMjYxMDA5OTMzMTMuanBn.webp"
     }
   ]
 }
