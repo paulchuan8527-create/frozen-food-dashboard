@@ -1,7 +1,7 @@
 {
   "meta": {
-    "updated": "2026-10-21",
-    "version": 1792549099,
+    "updated": "2026-10-22",
+    "version": 1792635168,
     "total": 150,
     "auto_generated": true,
     "sources": [
@@ -334,6 +334,180 @@
         "type": "工艺创新",
         "detail": "整只虾仁入馅的工业化量产技术，保水不碎"
       }
+    },
+    {
+      "id": "12c7aad58e13",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-10-21",
+      "title": "Mars joins Hershey and Ferrero in race for the digital impulse purchases",
+      "source": "FoodNavigator-USA",
+      "sourceUrl": "https://www.foodnavigator.com/Article/2026/10/21/mars-launches-instagramshop-joining-hershey-ferrero-in-social-commerce-shopping/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "📊",
+      "category": "",
+      "desc": "Snickers and M&amp;M’s manufacturer Mars launches its shoppable Instagram channel, highlighting how brands are increasingly treating social platforms as the next impulse-purchase aisle.",
+      "tags": [],
+      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/DTY6TQHX55FQDFLYFMVSIO42PE.jpg?auth=15b5249a8bc44652765416c27a139e67b0647938b41e4e242b1e683cbf4f15eb&smart=true&width=2121&height=1414"
+    },
+    {
+      "id": "5f086afff216",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-10-21",
+      "title": "Gelatin Brand Wobble’s Modernized Nostalgia Invites You To Play With Your Food",
+      "source": "Dieline",
+      "sourceUrl": "https://thedieline.com/gelatin-brand-wobbles-modernized-nostalgia-invites-you-to-play-with-your-food/",
+      "image": "📦",
+      "category": "",
+      "desc": "The new gelatin brand Wobble has what it takes to bring gelatin into the modern era, with an old-school brand world elevated by a contemporary design sensibility. The post Gelatin Brand Wobble&#8217;s Modernized Nostalgia Invites You To Play With Your Food appeared first on DI...",
+      "tags": [],
+      "_imageUrl": "https://thedieline.com/wp-content/uploads/2026/10/Screenshot-2026-10-19-at-3.39.19-PM-scaled.png"
+    },
+    {
+      "id": "70ec357409f1",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-10-21",
+      "title": "Substance Gives Oraio Soy Sauce the Fine Wine Treatment",
+      "source": "Dieline",
+      "sourceUrl": "https://thedieline.com/substance-gives-oraio-soy-sauce-the-fine-wine-treatment/",
+      "image": "📦",
+      "category": "",
+      "desc": "Designed by Substance, Oraio’s soy sauce packaging brings the elegance of fine wine to an artisanal condiment produced at Belgium’s Domaine La Falize. With amber glass, a natural wood cap and minimalist typography, the design celebrates traditional Asian fermentation, Belgian ...",
+      "tags": [
+        "包装"
+      ],
+      "_imageUrl": "https://thedieline.com/wp-content/uploads/2026/10/TDL_Featured_image-af9384810aa8c4f8cc98b5bdc7810825-1.png"
+    },
+    {
+      "id": "c8832ab69b35",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-10-21",
+      "title": "Almighty Puts a Smile on Skincare With Rocco",
+      "source": "Dieline",
+      "sourceUrl": "https://thedieline.com/almighty-puts-a-smile-on-skincare-with-rocco/",
+      "image": "📦",
+      "category": "",
+      "desc": "Designed by Almighty, ROCCO’s skincare packaging brings the charm of Italian summers to everyday beauty routines with colorful bottles, playful stripes, vintage serif typography and cheerful smiley face details. Founded by Laura Jackson, the mood boosting skincare brand swaps ...",
+      "tags": [
+        "包装"
+      ],
+      "_imageUrl": "https://thedieline.com/wp-content/uploads/2026/10/Rocco_1_Web-Size_4x5-999686e7d398d579cdd7ded0e20648cc-1.jpg"
+    },
+    {
+      "id": "51c73af4f292",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-10-21",
+      "title": "Velaro Every Detail Has A Purpose",
+      "source": "Packaging of the World",
+      "sourceUrl": "https://packagingoftheworld.com/2026/10/velaro-every-detail-has-a-purpose.html",
+      "image": "📦",
+      "category": "",
+      "desc": "Luxury is not simply about what we see. It is about what we feel, what we remember, and the attention given to every detail. For VELARO, every design decision was made with purpose. The bottle was carefully selected for its distinctive silhouette, generous proportions, and ele...",
+      "tags": [],
+      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/10/Screenshot-2026-10-20-at-4.09.00-PM-e1792568280733.png?fit=300%2C227&amp;ssl=1"
+    },
+    {
+      "id": "efae88d69b63",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-10-21",
+      "title": "Classic Line of Sheriff’s Snack Sauces",
+      "source": "Packaging of the World",
+      "sourceUrl": "https://packagingoftheworld.com/2026/10/packaging-of-the-classic-line-of-sheriffs-snack-sauces-6.html",
+      "image": "📦",
+      "category": "",
+      "desc": "Sheriff&#8217;s Snack a classic line of sauces, where the image of the sheriff symbolizes the traditions of true great taste, combining quality, integrity, and a recognizable classic in every bottle. The &#8220;Sheriff&#8217;s mustache&#8221; becomes the brand&#8217;s main vis...",
+      "tags": [],
+      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/10/34-1-e1792568261365.jpg?fit=300%2C169&amp;ssl=1"
+    },
+    {
+      "id": "64b5bfd9d564",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-10-21",
+      "title": "DEGA",
+      "source": "Packaging of the World",
+      "sourceUrl": "https://packagingoftheworld.com/2026/10/dega.html",
+      "image": "📦",
+      "category": "",
+      "desc": "“DEGA” is a concept for a grape packaging range that turns an everyday product into a small ritual of beauty. Instead of a generic transparent bag, the design features a dancer whose skirt is filled out by the grapes themselves. The product becomes an extension of the illustra...",
+      "tags": [
+        "包装"
+      ],
+      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/10/634-4-e1792568216148.png?fit=300%2C193&amp;ssl=1"
+    },
+    {
+      "id": "8d200e4a73e4",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-10-21",
+      "title": "Fullspan",
+      "source": "Packaging of the World",
+      "sourceUrl": "https://packagingoftheworld.com/2026/10/fullspan.html",
+      "image": "📦",
+      "category": "",
+      "desc": "The project’s goal was to develop the positioning, visual identity, and packaging for an American DTC brand of single-ingredient supplements. The target audience is adults 40+ who want to keep their energy and health for the long run. The design system moves away from the lang...",
+      "tags": [
+        "包装",
+        "原料"
+      ],
+      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/10/5-17-e1792568094660.png?fit=300%2C175&amp;ssl=1"
+    },
+    {
+      "id": "ef0c93ea7498",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-10-21",
+      "title": "Sofia Kyivska",
+      "source": "Packaging of the World",
+      "sourceUrl": "https://packagingoftheworld.com/2026/10/sofia-kyivska.html",
+      "image": "📦",
+      "category": "",
+      "desc": "THE LEGENDARY WATER “Sofia Kyivska” is back! Its history spans, if not centuries, then at least three generations of Kyivans. Since 1957, the “Kyivska” well has supplied the city and region with clean drinking water, and over 30 years ago, the company “Rosynka” began bottling ...",
+      "tags": [],
+      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/10/main-e1792567974477.jpg?fit=300%2C300&amp;ssl=1"
+    },
+    {
+      "id": "9cda9112a678",
+      "type": "newproduct",
+      "section": "newproduct",
+      "sub": "report",
+      "date": "2026-10-21",
+      "title": "Exposing the mistakes that sink healthier snacks",
+      "source": "BakeryandSnacks",
+      "sourceUrl": "https://www.bakeryandsnacks.com/Article/2026/10/21/why-healthier-snack-development-goes-wrong/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "🆕",
+      "category": "休闲零食",
+      "desc": "Explore how taste expectations, formulation compromises and supplier reliability can derail healthier snacks – and what manufacturers should assess.",
+      "tags": [],
+      "_imageUrl": "https://www.bakeryandsnacks.com/resizer/v2/H6JZBNLK2ZG6FDNAZF3SIC5D2I.jpg?auth=fda472a337f936aed1aecafad2b320f505d68f048d69207750c71a4cfc9af17f&smart=true&width=2121&height=1414"
+    },
+    {
+      "id": "4292926c63fc",
+      "type": "newproduct",
+      "section": "newproduct",
+      "sub": "report",
+      "date": "2026-10-21",
+      "title": "Why drinks brands need to rethink the rules of drinking",
+      "source": "Beverage Daily",
+      "sourceUrl": "https://www.beveragedaily.com/Article/2026/10/21/why-drinks-brands-need-to-rethink-the-rules-of-drinking/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "🆕",
+      "category": "饮品",
+      "desc": "Meet the creative mind behind major drinks brands, working with Fever-Tree, 19 Crimes and Penfolds to challenge branding conventions, rethink drinking occasions and shape how consumers experience drinks.",
+      "tags": [],
+      "_imageUrl": "https://www.beveragedaily.com/resizer/v2/L5LGCRXK5JFQJLRRKNNLRLONDY.jpg?auth=af2d77a5d16437f53c597098e0f36ae367631a4946534bae2b79665d217dcd63&smart=true&width=3805&height=2572"
     },
     {
       "id": "5faf87f44094",
@@ -684,6 +858,23 @@
       "desc": "PepsiCo and Grimme’s virtual harvester training is helping operators reduce potato bruising and protect the quality of crops destined for snack production.",
       "tags": [],
       "_imageUrl": "https://www.bakeryandsnacks.com/resizer/v2/VL6ZW4RGYVL5FKBMBJUWQEUQPA.jpg?auth=3cecd47b4420fcb8bad0e6011824968853aed2b7651fdee8cdaace0ccd69fd4c&smart=true&width=750&height=500"
+    },
+    {
+      "id": "b9ef5b6aa846",
+      "type": "newproduct",
+      "section": "newproduct",
+      "sub": "report",
+      "date": "2026-10-20",
+      "title": "Forget breakfast: The battle for the morning snack is on",
+      "source": "BakeryandSnacks",
+      "sourceUrl": "https://www.foodnavigator.com/Article/2026/10/20/the-rise-of-morning-snacking-what-it-means-for-food-and-beverage-brands/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "🆕",
+      "category": "休闲零食",
+      "desc": "Morning snacking is emerging as a distinct eating occasion, creating new opportunities for breakfast, confectionery and functional food brands. Discover the trends, ingredients and formats shaping the growing mid-morning market.",
+      "tags": [
+        "原料"
+      ],
+      "_imageUrl": "https://www.bakeryandsnacks.com/resizer/v2/2SYY2LZ3BFEQ5IH46UXJJDQFKA.jpg?auth=3b3bd7b355a087f080c2321ca0cdfb4ce406d9df20de6a461db01c54e91344af&smart=true&width=2119&height=1414"
     },
     {
       "id": "0ad58ced5a03",
@@ -2368,208 +2559,6 @@
         "创新"
       ],
       "_imageUrl": "https://www.foodnavigator.com/resizer/v2/ISUFI3F6LVE2TNC63OOSOTXXY4.jpg?auth=f2576f503a5b959fa1322766f96f0b049918ca20c2acd88c7383ce3671f3160e&smart=true&width=2944&height=1856"
-    },
-    {
-      "id": "8234220d4c6f",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-10-12",
-      "title": "Mashiro taps beauty-from-within growth with collagen, GABA, and placenta",
-      "source": "FoodNavigator-Asia",
-      "sourceUrl": "https://www.foodnavigator.com/Article/2026/10/12/mashiro-taps-beauty-from-within-growth-with-collagen-gaba-and-placenta/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "📊",
-      "category": "",
-      "desc": "The Oita-based brand is expanding in Southeast Asia with its collagen GABA and placenta collagen drinks, leveraging growth in the beauty and sleep wellness sectors.",
-      "tags": [],
-      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/3XRWFZ6SMFDJFBANDDA3BXUJYM.png?auth=0d4e9d263a645302b286d002e0abc8f5f3c68ae1d777af7a6e2b698eb40da422&smart=true&width=1920&height=1080"
-    },
-    {
-      "id": "f3dbe81e4aa4",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-10-12",
-      "title": "Growth drivers in Japan’s food and drink landscape",
-      "source": "FoodNavigator-Asia",
-      "sourceUrl": "https://www.foodnavigator.com/Article/2026/10/12/growth-drivers-in-japans-food-and-drink-landscape/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "📊",
-      "category": "",
-      "desc": "Affordability, health, product safety, and convenience as important considerations shaping Japanese consumers’ purchasing decisions.",
-      "tags": [
-        "日本"
-      ],
-      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/VLLYWEV3RVAGHOSHT36ENRKQTI.jpg?auth=ae401551d32229c947060b4ba0af359e4386d85f0cb8b000c913aa284ae5983d&smart=true&width=4096&height=2160"
-    },
-    {
-      "id": "41ef7d9ac7ed",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-10-12",
-      "title": "Japan Focus: Health, innovation and the forces shaping food and drink",
-      "source": "FoodNavigator-USA",
-      "sourceUrl": "https://www.foodnavigator.com/Article/2026/10/12/japan-focus-health-innovation-and-the-forces-shaping-food-and-drink/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "📊",
-      "category": "",
-      "desc": "In this edition of Japan Focus, we explore the health and nutrition trends, market drivers and sustainability challenges shaping Japan’s food and drink industry — and the wider Asian food landscape",
-      "tags": [
-        "日本",
-        "创新"
-      ],
-      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/ISUFI3F6LVE2TNC63OOSOTXXY4.jpg?auth=f2576f503a5b959fa1322766f96f0b049918ca20c2acd88c7383ce3671f3160e&smart=true&width=2944&height=1856"
-    },
-    {
-      "id": "f2ac785cb6c8",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-10-12",
-      "title": "Tanica and Its Distinctly Australian Aperitif Packaging",
-      "source": "Dieline",
-      "sourceUrl": "https://thedieline.com/tanica-and-its-distinctly-australian-aperitif-packaging/",
-      "image": "📦",
-      "category": "",
-      "desc": "Soft Machine refreshes Tanica’s Australian aperitif packaging with a custom ribbed glass bottle, Sydney Blue accents and playful rounded typography. Inspired by Sydney’s coastal spritz culture, the redesign brings a fresh Australian perspective to traditional European aperitif...",
-      "tags": [
-        "包装"
-      ],
-      "_imageUrl": "https://thedieline.com/wp-content/uploads/2026/10/0-e53ea632501b9b87bf9f1eb8e3016da6.png"
-    },
-    {
-      "id": "b627956fa25d",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-10-12",
-      "title": "Criterium Gives Vanilla Extract the Look of Old Quebec Currency",
-      "source": "Dieline",
-      "sourceUrl": "https://thedieline.com/criterium-gives-vanilla-extract-the-look-of-old-quebec-currency/",
-      "image": "📦",
-      "category": "",
-      "desc": "Criterium gives vanilla extract an unexpectedly rich identity through dense typography inspired by old Quebec signage, apothecaries and coin engravings. Simple black ink and textured paper turn the tiny bottle into a premium pantry object with one foot in the past and the othe...",
-      "tags": [
-        "包装"
-      ],
-      "_imageUrl": "https://thedieline.com/wp-content/uploads/2026/09/5_F530_03-2-scaled.jpg"
-    },
-    {
-      "id": "4bbea8fbec1f",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-10-12",
-      "title": "Shelf Life 131: Frozen Meals Are Getting Better And Here’s Why",
-      "source": "Dieline",
-      "sourceUrl": "https://thedieline.com/shelf-life-131-frozen-meals-are-getting-better-and-heres-why/",
-      "image": "📦",
-      "category": "",
-      "desc": "Frozen meals are getting a fresh start. From bold flavors and high-protein recipes to playful packaging and air-fryer-ready options, a new wave of brands is making the freezer aisle a more appealing, and affordable, answer to weeknight dinner The post Shelf Life 131: Frozen Me...",
-      "tags": [
-        "冷冻食品",
-        "包装"
-      ],
-      "_imageUrl": "https://thedieline.com/wp-content/uploads/2026/10/Subheading-3.png"
-    },
-    {
-      "id": "ad9ea7b0f22f",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-10-12",
-      "title": "Affogato Brand Design Creates Two Ingredients, an Artisan Pasta",
-      "source": "Packaging of the World",
-      "sourceUrl": "https://packagingoftheworld.com/2026/10/affogato-brand-design-creates-two-ingredients-an-artisan-pasta.html",
-      "image": "📦",
-      "category": "",
-      "desc": "For Two Ingredients, we created a handmade visual identity inspired by the simplicity of pasta made with just semolina and water. When we started working on Two Ingredients, we kept coming back to the simplicity of the product itself. Made with just semolina and water, the pas...",
-      "tags": [
-        "原料"
-      ],
-      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/10/9_1-2-e1791794433331.jpg?fit=300%2C250&amp;ssl=1"
-    },
-    {
-      "id": "bc56893937ac",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-10-12",
-      "title": "Marking Time",
-      "source": "Packaging of the World",
-      "sourceUrl": "https://packagingoftheworld.com/2026/10/marking-time.html",
-      "image": "📦",
-      "category": "",
-      "desc": "As the first Irish design studio to take part in Make a Mark, and one of just 12 studios selected globally this year, we felt it was important to create something that was inherently Irish. It was an opportunity to celebrate our heritage, showcase Irish creativity on a global ...",
-      "tags": [],
-      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/10/Fid-Irish-Whiskey-backbarstudios-05-1-e1791794110801.jpg?fit=300%2C175&amp;ssl=1"
-    },
-    {
-      "id": "7f6dc9b4bf0d",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-10-12",
-      "title": "Agonist – Ritual Fighter",
-      "source": "Packaging of the World",
-      "sourceUrl": "https://packagingoftheworld.com/2026/10/agonist-ritual-fighter.html",
-      "image": "📦",
-      "category": "",
-      "desc": "What if coffee is not a pause, but a way to keep moving? Specialty coffee often speaks through origin, processing, and flavor notes, but this brand needed a character of its own. Strategy, positioning, naming, and communication were built around the Agonist hero: he keeps goin...",
-      "tags": [
-        "包装"
-      ],
-      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/10/packaging_design_for_tea_and_coffee_agonist_0-3-e1791793870938.png?fit=300%2C240&amp;ssl=1"
-    },
-    {
-      "id": "f8548a9c2e95",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-10-12",
-      "title": "El Gaucho",
-      "source": "Packaging of the World",
-      "sourceUrl": "https://packagingoftheworld.com/2026/10/el-gaucho-2.html",
-      "image": "📦",
-      "category": "",
-      "desc": "🍷 EL GAUCHO — Branding &#38; Packaging An identity inspired by the figure of the gaucho, his character, his roots, and the traditions that are an integral part of our culture &#160;",
-      "tags": [
-        "包装"
-      ],
-      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/10/7-6-e1791793550244.jpg?fit=224%2C300&amp;ssl=1"
-    },
-    {
-      "id": "1f3188c86696",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-10-12",
-      "title": "Marlow Whiskey – Label Design",
-      "source": "Packaging of the World",
-      "sourceUrl": "https://packagingoftheworld.com/2026/10/marlow-whiskey-label-design.html",
-      "image": "📦",
-      "category": "",
-      "desc": "Marlow is a packaging project for a single malt whiskey from Buckinghamshire, England. The idea was to create a brand that felt as though it had been there much longer than you have, belonging to a small English town with a history of its own. The identity centres on a blackle...",
-      "tags": [
-        "包装"
-      ],
-      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/10/3y-2-scaled-e1791793353461.jpg?fit=225%2C300&amp;ssl=1"
-    },
-    {
-      "id": "5618799eb86e",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-10-12",
-      "title": "Ozeretskoye | Butter, Piece By Piece",
-      "source": "Packaging of the World",
-      "sourceUrl": "https://packagingoftheworld.com/2026/10/ozeretskoye-butter-piece-by-piece.html",
-      "image": "📦",
-      "category": "",
-      "desc": "THE IDEA Butter is an everyday product, yet its format has remained unchanged for decades. It is often difficult to measure, inconvenient to portion, and wrapped in packaging that quickly loses its shape. The OZERETSKOYE concept reimagines butter as a chocolate bar. The famili...",
-      "tags": [
-        "包装"
-      ],
-      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/10/01-10-e1791793248908.png?fit=300%2C179&amp;ssl=1"
     }
   ]
 }
