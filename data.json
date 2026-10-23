@@ -1,7 +1,7 @@
 {
   "meta": {
-    "updated": "2026-10-22",
-    "version": 1792635168,
+    "updated": "2026-10-23",
+    "version": 1792721926,
     "total": 150,
     "auto_generated": true,
     "sources": [
@@ -334,6 +334,250 @@
         "type": "工艺创新",
         "detail": "整只虾仁入馅的工业化量产技术，保水不碎"
       }
+    },
+    {
+      "id": "67a9ab9b5be6",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-10-22",
+      "title": "Fermented food and drink: Europe has a clear favourite",
+      "source": "FoodNavigator-Asia",
+      "sourceUrl": "https://www.foodnavigator.com/Article/2026/10/22/fermented-food-and-drink-europe-has-a-clear-favourite/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "📊",
+      "category": "",
+      "desc": "Europe's fermented food habits revealed: New research shows fermented dairy dominates consumption, while plant-based alternatives remain low in intake.",
+      "tags": [
+        "植物基"
+      ],
+      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/FFGE6OL7SZHWFP7DKSVPO2QBMU.jpg?auth=c7715bd1bbf3ffa41099847bd54aebba383545acad2e399a274d73b98c2ad29a&smart=true&width=2121&height=1414"
+    },
+    {
+      "id": "fc2b404da9c8",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-10-22",
+      "title": "Ferrero enters the Marvel Universe in blockbuster collaboration",
+      "source": "FoodNavigator-Asia",
+      "sourceUrl": "https://www.confectionerynews.com/Article/2026/10/22/ferrero-enters-the-marvel-universe-with-superhero-inspired-sweets/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "📊",
+      "category": "",
+      "desc": "Ferrero is teaming up with Marvel as confectionery giant rolls out superhero-inspired treats, alongside Nutella Waffles and Tic Tac Two, in major innovation push.",
+      "tags": [
+        "创新"
+      ],
+      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/P3OQ5EBAV5BJVMSW5L2SWDAGIY.jpg?auth=08c1587a05aa627c9dcc1261b9d0711a42de0445de82a4324840323eda4f9d87&smart=true&width=1916&height=1078"
+    },
+    {
+      "id": "f53cce732a54",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-10-22",
+      "title": "Fermented food and drink: Europe has a clear favourite",
+      "source": "FoodNavigator-USA",
+      "sourceUrl": "https://www.foodnavigator.com/Article/2026/10/22/fermented-food-and-drink-europe-has-a-clear-favourite/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "📊",
+      "category": "",
+      "desc": "Europe's fermented food habits revealed: New research shows fermented dairy dominates consumption, while plant-based alternatives remain low in intake.",
+      "tags": [
+        "植物基"
+      ],
+      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/FFGE6OL7SZHWFP7DKSVPO2QBMU.jpg?auth=c7715bd1bbf3ffa41099847bd54aebba383545acad2e399a274d73b98c2ad29a&smart=true&width=2121&height=1414"
+    },
+    {
+      "id": "4a041a0b3f55",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-10-22",
+      "title": "Ferrero enters the Marvel Universe in blockbuster collaboration",
+      "source": "FoodNavigator-USA",
+      "sourceUrl": "https://www.confectionerynews.com/Article/2026/10/22/ferrero-enters-the-marvel-universe-with-superhero-inspired-sweets/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "📊",
+      "category": "",
+      "desc": "Ferrero is teaming up with Marvel as confectionery giant rolls out superhero-inspired treats, alongside Nutella Waffles and Tic Tac Two, in major innovation push.",
+      "tags": [
+        "创新"
+      ],
+      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/P3OQ5EBAV5BJVMSW5L2SWDAGIY.jpg?auth=08c1587a05aa627c9dcc1261b9d0711a42de0445de82a4324840323eda4f9d87&smart=true&width=1916&height=1078"
+    },
+    {
+      "id": "10dcad5f155f",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-10-22",
+      "title": "Side Launch and Craig’s Cookies Bake a Little Neighborhood Magic Into a Stout...",
+      "source": "Dieline",
+      "sourceUrl": "https://thedieline.com/side-launch-and-craigs-cookies-bake-a-little-neighborhood-magic-into-a-stout-can/",
+      "image": "📦",
+      "category": "",
+      "desc": "Designed by Matt Doyle Design, Side Launch Brewing Co. and Craig’s Cookies’ Chocolate Chip Cookie Stout features playful pink packaging inspired by neighborhood bakeries, with illustrated cookies, a striped storefront awning, Craig’s original delivery bicycle, a Pride heart an...",
+      "tags": [
+        "包装"
+      ],
+      "_imageUrl": "https://thedieline.com/wp-content/uploads/2026/10/1-037114b2e1ce656b726c640e41be9c05-1.jpg"
+    },
+    {
+      "id": "47ce55976319",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-10-22",
+      "title": "Camp Butter Delivers Backyard Campfire Charm",
+      "source": "Dieline",
+      "sourceUrl": "https://thedieline.com/camp-butter-delivers-backyard-campfire-charm/",
+      "image": "📦",
+      "category": "",
+      "desc": "Camp Butter’s packaging, designed by Jackson Tupper, brings backyard camping charm to clarified butter with whimsical raccoon and squirrel illustrations, vintage state park typography and warm retro colors. Playful outdoor graphics give this pantry staple a fresh, collectible ...",
+      "tags": [
+        "包装"
+      ],
+      "_imageUrl": "https://thedieline.com/wp-content/uploads/2026/10/SnapInsta.to_823221879_18623350861059402_5485529857771590032_n.jpg"
+    },
+    {
+      "id": "0b67a1e072b4",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-10-22",
+      "title": "Coca-Cola Dives into Prebiotic Soda With Cohesive Designs For Their Three Fla...",
+      "source": "Dieline",
+      "sourceUrl": "https://thedieline.com/coca-cola-dives-into-prebiotic-soda-with-cohesive-designs-for-their-three-flagship-flavors/",
+      "image": "📦",
+      "category": "",
+      "desc": "Last summer, Coca-Cola announced it was getting into the \"healthy\" soda biz. Analogue Creative breaks down how they designed the visual identity for these new prebiotic versions of some of their most popular drinks. The post Coca-Cola Dives into Prebiotic Soda With Cohesive De...",
+      "tags": [],
+      "_imageUrl": "https://thedieline.com/wp-content/uploads/2026/10/IMG_7968-scaled.jpg"
+    },
+    {
+      "id": "277ddc6df2be",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-10-22",
+      "title": "Pushe Line of Sauces",
+      "source": "Packaging of the World",
+      "sourceUrl": "https://packagingoftheworld.com/2026/10/pushe-line-of-sauces.html",
+      "image": "📦",
+      "category": "",
+      "desc": "Pushe is a sauce packaging project designed for fast-food enthusiasts and anyone who values ​​the ability to enjoy a tasty, quick, and hassle-free meal—anywhere. The concept emerged from observing how people typically consume sauces: whether it’s fries, nuggets, chicken wings,...",
+      "tags": [
+        "包装"
+      ],
+      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/10/%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0.png?fit=300%2C300&amp;ssl=1"
+    },
+    {
+      "id": "a5b6773bc072",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-10-22",
+      "title": "DevilDog",
+      "source": "Packaging of the World",
+      "sourceUrl": "https://packagingoftheworld.com/2026/10/devildog.html",
+      "image": "📦",
+      "category": "",
+      "desc": "THE STORY &#124; A HOT SAUCE WITH BIGGER AMBITIONS DevilDog had built a loyal following with a range of chef-made hot sauces that put flavour at the heart of everything. Created by people who understand food, these were sauces designed to bring depth and character to everyday ...",
+      "tags": [],
+      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/10/3.4-JalapenoPineapple-1-scaled-e1792656909506.jpeg?fit=225%2C300&amp;ssl=1"
+    },
+    {
+      "id": "d0dd48b7c14e",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-10-22",
+      "title": "Pinta Negra",
+      "source": "Packaging of the World",
+      "sourceUrl": "https://packagingoftheworld.com/2026/10/pinta-negra.html",
+      "image": "📦",
+      "category": "",
+      "desc": "This label has been created entirely using abstract vector lines to establish a precise and timeless visual language. Inspired by metal engraving and stamping techniques, the design explores depth, texture and relief through lines, patterns and rigorous symmetry. The monochrom...",
+      "tags": [],
+      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/10/MACREATIVEAGENCY_PintaNegra_BaixaRes-2-1-e1792656799965.jpg?fit=300%2C200&amp;ssl=1"
+    },
+    {
+      "id": "1e9d29ad009a",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-10-22",
+      "title": "Old Tawny Port – Designed by time. Built through consistency",
+      "source": "Packaging of the World",
+      "sourceUrl": "https://packagingoftheworld.com/2026/10/old-tawny-port-designed-by-time-built-through-consistency.html",
+      "image": "📦",
+      "category": "",
+      "desc": "A successful rebrand is not defined by the moment a new identity is launched. It is defined by everything that happens afterwards. Since rebranding Cadão Porto in 2018, M&#38;A Creative Agency has worked closely with the brand to build, protect and continuously evolve its visu...",
+      "tags": [],
+      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/10/MACREATIVEAGENCY_CADAO-16-1-e1792656574756.jpg?fit=300%2C200&amp;ssl=1"
+    },
+    {
+      "id": "be40dc3acff0",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-10-22",
+      "title": "Why candy prices are scary high ahead of Halloween",
+      "source": "Food Dive",
+      "sourceUrl": "https://www.fooddive.com/news/halloween-candy-inflation-2026-hershey-mondelez/833754/",
+      "image": "📊",
+      "category": "",
+      "desc": "Rising ingredient costs in the confectionery industry have prompted giants such as Hershey to rethink innovation and broaden trick-or-treating options to include salty snacks.",
+      "tags": [
+        "创新",
+        "原料"
+      ],
+      "_imageUrl": "https://imgproxy.divecdn.com/WwapC75FVlbeT0DPEyQC-OXZ-keqZ0AsANEFVw5JaMU/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjQ0MjIwMjA0LmpwZw==.webp"
+    },
+    {
+      "id": "02fe28ce4f39",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-10-22",
+      "title": "General Mills brings Epic into meat sticks",
+      "source": "Food Dive",
+      "sourceUrl": "https://www.fooddive.com/news/protein-general-mills-meat-sticks-epic/833705/",
+      "image": "📊",
+      "category": "",
+      "desc": "The launch taps into growing consumer interest in protein snacks, pitting it against competitors such as Chomps and PepsiCo&rsquo;s Good Warrior.",
+      "tags": [],
+      "_imageUrl": "https://imgproxy.divecdn.com/L6c5D8KfZNLAu1t0Rn60lXDBWDkn6rn3CRRFsEs1sxE/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9kMTVlNWMwNTQ5ZGUzYzJjMzY5NDIxMTEzNzI0ZTNiYi53ZWJw.webp"
+    },
+    {
+      "id": "96a7bcc44c47",
+      "type": "newproduct",
+      "section": "newproduct",
+      "sub": "report",
+      "date": "2026-10-22",
+      "title": "PepsiCo shuts Tennessee bottling plant amid sliding soft drink volumes",
+      "source": "Beverage Daily",
+      "sourceUrl": "https://www.beveragedaily.com/Article/2026/10/22/pepsico-shuts-tennessee-bottling-plant/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "🆕",
+      "category": "饮品",
+      "desc": "",
+      "tags": [],
+      "_imageUrl": "https://www.beveragedaily.com/resizer/v2/DIJRXYKMWJBIFFQKU6L7SBHN7U.jpg?auth=47404ca354ced9231aeab8b3482385480323e4b41844e4188c18cc979a81b8a6&smart=true&width=2121&height=1414"
+    },
+    {
+      "id": "be8f09a0307d",
+      "type": "newproduct",
+      "section": "newproduct",
+      "sub": "report",
+      "date": "2026-10-22",
+      "title": "Fermented food and drink: Europe has a clear favourite",
+      "source": "Beverage Daily",
+      "sourceUrl": "https://www.foodnavigator.com/Article/2026/10/22/fermented-food-and-drink-europe-has-a-clear-favourite/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "🆕",
+      "category": "饮品",
+      "desc": "Europe's fermented food habits revealed: New research shows fermented dairy dominates consumption, while plant-based alternatives remain low in intake.",
+      "tags": [
+        "植物基"
+      ],
+      "_imageUrl": "https://www.beveragedaily.com/resizer/v2/FFGE6OL7SZHWFP7DKSVPO2QBMU.jpg?auth=c7715bd1bbf3ffa41099847bd54aebba383545acad2e399a274d73b98c2ad29a&smart=true&width=2121&height=1414"
     },
     {
       "id": "12c7aad58e13",
@@ -2315,250 +2559,6 @@
         "包装"
       ],
       "_imageUrl": "https://thedieline.com/wp-content/uploads/2026/10/3bagstogether-copy-0b75aee0a200bf6d03e7da3988c83d73-scaled-1.jpg"
-    },
-    {
-      "id": "ff1fd4cd4480",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-10-13",
-      "title": "Creatine as a food ingredient remains popular with steady stream of new products",
-      "source": "FoodNavigator-Asia",
-      "sourceUrl": "https://www.foodnavigator.com/Article/2026/10/13/creatine-gains-ground-in-functional-foods-and-beverages/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "📊",
-      "category": "",
-      "desc": "Creatine is expanding into protein bars, gummies and drink mixes as brands including Jimmybar and Ritual target everyday wellness consumers.",
-      "tags": [
-        "原料"
-      ],
-      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/VLTYOHPG7NHR3BMKMYQUSQULGQ.jpg?auth=e0dac6f3d94f185cc5a3dd03e7263aa4a10474a7d1e6d68cfce4f7a18d34442f&smart=true&width=2121&height=1414"
-    },
-    {
-      "id": "1e03eaeee944",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-10-13",
-      "title": "Top 10 food and beverage trends set to shape 2027",
-      "source": "FoodNavigator-Asia",
-      "sourceUrl": "https://www.foodnavigator.com/Article/2026/10/13/the-10-food-and-beverage-trends-set-to-shape-2027/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "📊",
-      "category": "",
-      "desc": "What will shape the future of food and beverage? Discover the top 10 trends set to define 2027 and beyond.",
-      "tags": [],
-      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/WQFGCUMIDNHEXKTTOX7B3SJM54.jpg?auth=39b696be884dc77695bdb813318d1e1fc25fd4a09190495b407e5c5384661400&smart=true&width=2121&height=1414"
-    },
-    {
-      "id": "66661cf1df40",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-10-13",
-      "title": "China, India and Middle East dairy brands outperform global rivals",
-      "source": "FoodNavigator-Asia",
-      "sourceUrl": "https://www.foodnavigator.com/Article/2026/10/13/china-india-and-middle-east-dairy-brands-outperform-global-rivals/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "📊",
-      "category": "",
-      "desc": "",
-      "tags": [
-        "中国市场"
-      ],
-      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/BI6POJBGKVGT5LXMJRW4K4I4ZY.jpg?auth=d1205b5b5449ca2d342934e69b23552ee1479d4a84da1a1cf3e933dc98a915d6&smart=true&width=2120&height=1414"
-    },
-    {
-      "id": "48ba86b2bbef",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-10-13",
-      "title": "Creatine as a food ingredient remains popular with steady stream of new products",
-      "source": "FoodNavigator-USA",
-      "sourceUrl": "https://www.foodnavigator.com/Article/2026/10/13/creatine-gains-ground-in-functional-foods-and-beverages/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "📊",
-      "category": "",
-      "desc": "Creatine is expanding into protein bars, gummies and drink mixes as brands including Jimmybar and Ritual target everyday wellness consumers.",
-      "tags": [
-        "原料"
-      ],
-      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/VLTYOHPG7NHR3BMKMYQUSQULGQ.jpg?auth=e0dac6f3d94f185cc5a3dd03e7263aa4a10474a7d1e6d68cfce4f7a18d34442f&smart=true&width=2121&height=1414"
-    },
-    {
-      "id": "47324cf30100",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-10-13",
-      "title": "Top 10 food and beverage trends set to shape 2027",
-      "source": "FoodNavigator-USA",
-      "sourceUrl": "https://www.foodnavigator.com/Article/2026/10/13/the-10-food-and-beverage-trends-set-to-shape-2027/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "📊",
-      "category": "",
-      "desc": "What will shape the future of food and beverage? Discover the top 10 trends set to define 2027 and beyond.",
-      "tags": [],
-      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/WQFGCUMIDNHEXKTTOX7B3SJM54.jpg?auth=39b696be884dc77695bdb813318d1e1fc25fd4a09190495b407e5c5384661400&smart=true&width=2121&height=1414"
-    },
-    {
-      "id": "d87c3d7bb0ec",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-10-13",
-      "title": "Caddy Classics Creates Cigarette Packs of Golf Tees, and They’re Undeniably Cool",
-      "source": "Dieline",
-      "sourceUrl": "https://thedieline.com/caddy-classics-creates-cigarette-packs-of-golf-tees-and-theyre-undeniably-cool/",
-      "image": "📦",
-      "category": "",
-      "desc": "Caddy Classics leverages the iconicity of cigarette packaging for their line of golf tees made in the image of cigarettes. The post Caddy Classics Creates Cigarette Packs of Golf Tees, and They&#8217;re Undeniably Cool appeared first on DIELINE.",
-      "tags": [
-        "包装"
-      ],
-      "_imageUrl": "https://thedieline.com/wp-content/uploads/2026/10/508821615_17909705082159395_6675223760894252146_n.jpeg"
-    },
-    {
-      "id": "23b6c49877a1",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-10-13",
-      "title": "Kocktail Elevates the RTD Experience With Reusable Glass Packaging",
-      "source": "Dieline",
-      "sourceUrl": "https://thedieline.com/kocktail-elevates-the-rtd-experience-with-reusable-glass-packaging/",
-      "image": "📦",
-      "category": "",
-      "desc": "Kocktail delivers the perfect premium RTD, and you can even reuse the glass, too. The post Kocktail Elevates the RTD Experience With Reusable Glass Packaging appeared first on DIELINE.",
-      "tags": [
-        "包装"
-      ],
-      "_imageUrl": "https://thedieline.com/wp-content/uploads/2026/10/PHWBJ4VFXBCPTMZVGOLDRKLBFY.png.avif"
-    },
-    {
-      "id": "09dd00b094f9",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-10-13",
-      "title": "Sockerbit Finds the Scandinavian Sweet Spot For Candy",
-      "source": "Dieline",
-      "sourceUrl": "https://thedieline.com/sockerbit-gives-swedish-candy-a-sweet-spot-in-grown-up-design/",
-      "image": "📦",
-      "category": "",
-      "desc": "Meike Design gives Sockerbit’s Swedish candy packaging a playful, grown up twist with colorful geometric patterns, expressive typography and charming seasonal illustrations. From spring tulips to Halloween skulls and snakes, the designs bring Scandinavian simplicity and a gift...",
-      "tags": [
-        "包装"
-      ],
-      "_imageUrl": "https://thedieline.com/wp-content/uploads/2026/10/3bagstogether-copy-0b75aee0a200bf6d03e7da3988c83d73-scaled-1.jpg"
-    },
-    {
-      "id": "dc0690a29467",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-10-13",
-      "title": "Domeniile Dealu Mare Wine Label Design by 43oz",
-      "source": "Packaging of the World",
-      "sourceUrl": "https://packagingoftheworld.com/2026/10/domeniile-dealu-mare-wine-label-design-by-43oz.html",
-      "image": "📦",
-      "category": "",
-      "desc": "Domeniile Dealu Mare is a collection of young wines produced in Romania’s Dealu Mare wine region. With no additional barrel ageing, the wines focus on natural freshness and fruit-forward character. The design challenge was to express these qualities through packaging that woul...",
-      "tags": [
-        "包装"
-      ],
-      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/10/DSC04580-e1791883300813.jpg?fit=300%2C200&amp;ssl=1"
-    },
-    {
-      "id": "f87b9f8dec25",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-10-13",
-      "title": "Melora – Playful & Radiant Personal Care Packaging",
-      "source": "Packaging of the World",
-      "sourceUrl": "https://packagingoftheworld.com/2026/10/melora-playful-radiant-personal-care-packaging.html",
-      "image": "📦",
-      "category": "",
-      "desc": "Melora – Playful &#38; Radiant Personal Care Packaging Melora is a vibrant, modern personal care line designed to elevate daily skincare and hair care routines. The visual identity of Melora centers on self-love, energy, and effortless joy. Moving away from clinical or overly ...",
-      "tags": [
-        "包装"
-      ],
-      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/10/Melora-Body-Scrub-and-Lip-Care-Display-e1791882223986.png?fit=300%2C169&amp;ssl=1"
-    },
-    {
-      "id": "7f32fc32a974",
-      "type": "compliance",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-10-13",
-      "title": "US consumer trust in food safety falls to record low",
-      "source": "Food Dive",
-      "sourceUrl": "https://www.fooddive.com/news/food-safety-consumer-confidence-gallup/832856/",
-      "image": "⚖️",
-      "category": "",
-      "desc": "A Cyclospora outbreak and a series of food recalls has shaken consumer confidence and led to a shift in buying habits, according to Gallup.",
-      "tags": [],
-      "_imageUrl": "https://imgproxy.divecdn.com/JfHI2ruY1clCKJHjXO2YTQsCUXgZjhUdg0E6053-6sY/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjg2NDM5ODM4LmpwZw==.webp"
-    },
-    {
-      "id": "822d4f32294b",
-      "type": "newproduct",
-      "section": "newproduct",
-      "sub": "report",
-      "date": "2026-10-13",
-      "title": "Are snack suppliers stuck between meals?",
-      "source": "BakeryandSnacks",
-      "sourceUrl": "https://www.bakeryandsnacks.com/Article/2026/10/13/gen-zs-meal-habits-challenge-bakery-and-snack-suppliers/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "🆕",
-      "category": "休闲零食",
-      "desc": "Circana explores how changing meal routines, solo dining and retail competition are reshaping demand for bakery and snacks in foodservice.",
-      "tags": [],
-      "_imageUrl": "https://www.bakeryandsnacks.com/resizer/v2/55JLMTQKJRBPFBWEB6G63BJUUM.jpg?auth=fa99024acda0f8bd489263956a6688d3490107ffb19f889758a67de141580f8f&smart=true&width=2120&height=1414"
-    },
-    {
-      "id": "249458c6c59e",
-      "type": "newproduct",
-      "section": "newproduct",
-      "sub": "report",
-      "date": "2026-10-13",
-      "title": "Pip & Nut founder credits snacking expansion for profitable year",
-      "source": "BakeryandSnacks",
-      "sourceUrl": "https://www.foodmanufacture.co.uk/Article/2026/10/13/pip-nut-founder-credits-snacking-expansion-for-profitable-year/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "🆕",
-      "category": "休闲零食",
-      "desc": "",
-      "tags": [],
-      "_imageUrl": "https://www.bakeryandsnacks.com/resizer/v2/CNCVQZULNJEVBFRPQKQACVY7QA.jpg?auth=cea98b6e3a5e222a0ee9e3b7f7a5344d4dc27671903f079e1e1b133238ce925b&smart=true&width=5000&height=3333"
-    },
-    {
-      "id": "cc1eca1be6b3",
-      "type": "newproduct",
-      "section": "newproduct",
-      "sub": "report",
-      "date": "2026-10-13",
-      "title": "Champagne in a can: Can RTD attract new consumers?",
-      "source": "Beverage Daily",
-      "sourceUrl": "https://www.beveragedaily.com/Article/2026/10/13/champagne-in-a-can-can-rtd-attract-new-consumers/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "🆕",
-      "category": "饮品",
-      "desc": "Champagne in a can could create new drinking occasions for premium drinks brands. Tavern's Cannes Royale launch highlights the potential of RTDs, alongside questions around consumer recruitment and preserving Champagne's premium appeal.",
-      "tags": [],
-      "_imageUrl": "https://www.beveragedaily.com/resizer/v2/W2WTK44QHNGQTJGSD2KXKXT2YE.jpg?auth=afa09e0c8a20d4c9d8b8f7737328f25bb72cb91de0a3f05dfa50ef87aa10cd29&smart=true&width=2120&height=1414"
-    },
-    {
-      "id": "89d4d52c7e93",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-10-12",
-      "title": "Japan Focus: Health, innovation and the forces shaping food and drink",
-      "source": "FoodNavigator-Asia",
-      "sourceUrl": "https://www.foodnavigator.com/Article/2026/10/12/japan-focus-health-innovation-and-the-forces-shaping-food-and-drink/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "📊",
-      "category": "",
-      "desc": "In this edition of Japan Focus, we explore the health and nutrition trends, market drivers and sustainability challenges shaping Japan’s food and drink industry — and the wider Asian food landscape",
-      "tags": [
-        "日本",
-        "创新"
-      ],
-      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/ISUFI3F6LVE2TNC63OOSOTXXY4.jpg?auth=f2576f503a5b959fa1322766f96f0b049918ca20c2acd88c7383ce3671f3160e&smart=true&width=2944&height=1856"
     }
   ]
 }
