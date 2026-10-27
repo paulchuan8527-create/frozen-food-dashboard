@@ -1,7 +1,7 @@
 {
   "meta": {
-    "updated": "2026-10-26",
-    "version": 1792980260,
+    "updated": "2026-10-27",
+    "version": 1793068924,
     "total": 150,
     "auto_generated": true,
     "sources": [
@@ -349,6 +349,168 @@
       "desc": "Given in partnership with DIELINE, the Designalytics Effectiveness Awards were created to spotlight the significant impact package design can have on the growth of consumer brands. And for 2026, this year’s grand prize winner went to Catalina Crunch for its cereal and snack mi...",
       "tags": [],
       "_imageUrl": "https://thedieline.com/wp-content/uploads/2026/10/imgi_2_CatalinaCrunch_June2025_CerealSnackMix_Packaging-cropped.jpg"
+    },
+    {
+      "id": "eb8d1098fbd7",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-10-26",
+      "title": "Kraft Heinz, Gerber, Once Upon a Farm are pouring into kids’ hydration",
+      "source": "FoodNavigator-Asia",
+      "sourceUrl": "https://www.foodnavigator.com/Article/2026/10/26/kraft-heinz-gerber-once-upon-a-farm-are-pouring-into-kids-hydration/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "📊",
+      "category": "",
+      "desc": "As parents seek lower-sugar functional beverages for children, brands including Capri Sun, Gerber and Once Upon a Farm and are expanding into hydration with electrolyte- and nutrient-enhanced drinks tailored to kids and teens.",
+      "tags": [],
+      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/2ITLMHS2HFHDVDNMRV4BSZJQDI.jpg?auth=36e51146e0ca000e3107b01d1ac4db18c74847869c9a9e5ff893b75e2e31dd8f&smart=true&width=2120&height=1414"
+    },
+    {
+      "id": "c084a0086a3f",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-10-26",
+      "title": "Beyond cocoa: The race to futureproof chocolate",
+      "source": "FoodNavigator-Asia",
+      "sourceUrl": "https://www.foodnavigator.com/Article/2026/10/26/the-future-of-chocolate-how-cocoa-alternatives-are-reshaping-confectionery/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "📊",
+      "category": "",
+      "desc": "The future of chocolate is evolving as cocoa alternatives, AI and new ingredient solutions help manufacturers navigate volatility, affordability and supply challenges.",
+      "tags": [
+        "原料"
+      ],
+      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/Z4FV2QSFL5CCXIZ6IHJL6GAZYA.jpg?auth=f23fe2c15ca3918d3c3ae7bdfd933d037301dc0375c36e64eaa307d644beaf80&smart=true&width=2121&height=1414"
+    },
+    {
+      "id": "82c815cc6812",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-10-26",
+      "title": "What diets are consumers following?",
+      "source": "FoodNavigator-Asia",
+      "sourceUrl": "https://www.foodnavigator.com/Article/2026/10/26/diets-shaping-fb/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "📊",
+      "category": "",
+      "desc": "The diets consumers follow also shape food and beverage trends, from keto and paleo to vegetarian and vegan. What diets are consumers following?",
+      "tags": [],
+      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/AA5TZKBKEVFO7HHBN6ORD3SDOY.jpg?auth=8b34707b9a908182d1324f9e0249adad71e7634e087c47afa1feb9bbb6d17394&smart=true&width=2235&height=1341"
+    },
+    {
+      "id": "714117c0a1ba",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-10-26",
+      "title": "Beyond cocoa: The race to futureproof chocolate",
+      "source": "FoodNavigator-USA",
+      "sourceUrl": "https://www.foodnavigator.com/Article/2026/10/26/the-future-of-chocolate-how-cocoa-alternatives-are-reshaping-confectionery/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "📊",
+      "category": "",
+      "desc": "The future of chocolate is evolving as cocoa alternatives, AI and new ingredient solutions help manufacturers navigate volatility, affordability and supply challenges.",
+      "tags": [
+        "原料"
+      ],
+      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/Z4FV2QSFL5CCXIZ6IHJL6GAZYA.jpg?auth=f23fe2c15ca3918d3c3ae7bdfd933d037301dc0375c36e64eaa307d644beaf80&smart=true&width=2121&height=1414"
+    },
+    {
+      "id": "26859b4f5808",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-10-26",
+      "title": "What diets are consumers following?",
+      "source": "FoodNavigator-USA",
+      "sourceUrl": "https://www.foodnavigator.com/Article/2026/10/26/diets-shaping-fb/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "📊",
+      "category": "",
+      "desc": "The diets consumers follow also shape food and beverage trends, from keto and paleo to vegetarian and vegan. What diets are consumers following?",
+      "tags": [],
+      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/AA5TZKBKEVFO7HHBN6ORD3SDOY.jpg?auth=8b34707b9a908182d1324f9e0249adad71e7634e087c47afa1feb9bbb6d17394&smart=true&width=2235&height=1341"
+    },
+    {
+      "id": "61c510ed24f5",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-10-26",
+      "title": "DIELINE’s Best Halloween Packaging For 2026",
+      "source": "Dieline",
+      "sourceUrl": "https://thedieline.com/dielines-best-halloween-packaging-for-2026/",
+      "image": "📦",
+      "category": "",
+      "desc": "We've rounded up some of our favorite limited-edition 2026 Halloween packaging, and, yes, there's even a cancy corn fragrance. The post DIELINE&#8217;s Best Halloween Packaging For 2026 appeared first on DIELINE.",
+      "tags": [
+        "包装"
+      ],
+      "_imageUrl": "https://thedieline.com/wp-content/uploads/2026/10/Screenshot-2026-10-26-at-8.06.58-AM-1.png"
+    },
+    {
+      "id": "44d561bdce2c",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-10-26",
+      "title": "Matiz Makes Room for Imperfection in Its Ceramic Packaging",
+      "source": "Dieline",
+      "sourceUrl": "https://thedieline.com/matiz-makes-room-for-imperfection-in-its-ceramic-packaging/",
+      "image": "📦",
+      "category": "",
+      "desc": "Designed by Valeriia Löffler, Matiz’s ceramic packaging celebrates the beauty of imperfection through clay pink boxes, expressive handwritten typography, marbled tissue paper and personal product labels. The minimalist design brings the charm of handmade ceramics into every de...",
+      "tags": [
+        "包装"
+      ],
+      "_imageUrl": "https://thedieline.com/wp-content/uploads/2026/10/d4d4a8255424679.6aa01930d2569.jpg.webp"
+    },
+    {
+      "id": "28db6260501a",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-10-26",
+      "title": "Tribe Grows Up and Glows Up as Senne Skin",
+      "source": "Dieline",
+      "sourceUrl": "https://thedieline.com/tribe-grows-up-and-glows-up-as-senne-skin/",
+      "image": "📦",
+      "category": "",
+      "desc": "One&#038;Other rebrands Tribe Skincare as Senne Skin, with a swirling S, soft matte blues and color coded packaging made for sensitive skin shoppers who read every label. The post Tribe Grows Up and Glows Up as Senne Skin appeared first on DIELINE.",
+      "tags": [
+        "包装"
+      ],
+      "_imageUrl": "https://thedieline.com/wp-content/uploads/2026/10/OO046-OneOther-Tribe-to-SENNE_2-1d9e30de9836378eef49f22be9046fcc-scaled-1.jpg"
+    },
+    {
+      "id": "686040571c8c",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-10-26",
+      "title": "Shelf Life 133: Wellness Is Starting To Melt In Your Mouth",
+      "source": "Dieline",
+      "sourceUrl": "https://thedieline.com/shelf-life-133-wellness-is-starting-to-melt-in-your-mouth/",
+      "image": "📦",
+      "category": "",
+      "desc": "Dissolvable supplement strips from StripIt, INNER GLOW, RIN, and Sleep or Die are turning vitamins into a pocket-sized ritual, and their packaging is doing the heavy lifting. The post Shelf Life 133: Wellness Is Starting To Melt In Your Mouth appeared first on DIELINE.",
+      "tags": [
+        "包装"
+      ],
+      "_imageUrl": "https://thedieline.com/wp-content/uploads/2026/10/Subheading-4.png"
+    },
+    {
+      "id": "08f1e694443e",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-10-26",
+      "title": "Uncrustables becomes fridge friendly as sales top $1B",
+      "source": "Food Dive",
+      "sourceUrl": "https://www.fooddive.com/news/Smucker-Uncrustables-innovation-snacking-fridge/832155/",
+      "image": "📊",
+      "category": "",
+      "desc": "Owner J.M. Smucker developed a way to store the crustless sandwich without a freezer, solving one of the biggest obstacles preventing the fast-growing brand from reaching new consumers.",
+      "tags": [],
+      "_imageUrl": "https://imgproxy.divecdn.com/JLZcP-vjuTD0Npp_PF-vwfcaeeI4kMYmP2FDFa3ivHw/g:nowe:348:378/c:2045:1155/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS91bmNydXN0YWJsZXMuanBn.webp"
     },
     {
       "id": "571399024582",
@@ -2388,166 +2550,6 @@
         "包装"
       ],
       "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/10/1-21-e1792056606193.jpg?fit=300%2C189&amp;ssl=1"
-    },
-    {
-      "id": "a1ebf633a0b2",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-10-15",
-      "title": "Syabry: HONAR. A design worthy of pride",
-      "source": "Packaging of the World",
-      "sourceUrl": "https://packagingoftheworld.com/2026/10/syabry-honar-a-design-worthy-of-pride.html",
-      "image": "📦",
-      "category": "",
-      "desc": "We developed the visual concept for the ultra-premium line of the Syabry brand, embodying the “masters of life” philosophy within its design elements. HONAR is a story about true friendship. The central design element is a dimensional emblem on the body of the bottle, executed...",
-      "tags": [],
-      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/10/ARMBRAND_VODKA_HONAR_1_2K-1-e1792056581354.jpg?fit=300%2C300&amp;ssl=1"
-    },
-    {
-      "id": "1dfe26b0613c",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-10-15",
-      "title": "SYABRY Core Line Redesign",
-      "source": "Packaging of the World",
-      "sourceUrl": "https://packagingoftheworld.com/2026/10/syabry-core-line-redesign.html",
-      "image": "📦",
-      "category": "",
-      "desc": "We&#8217;ve reimagined the visual identity of the main SYABRY (Belarusian for &#8220;friends&#8221;) vodka line. Our task was a complex redesign objective: to preserve the established communication vector with the audience while ensuring the bottle stands out with a fresh and ...",
-      "tags": [],
-      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/10/ARMBRAND_VODKA_SYABRY_7x5_6_2_5K-2-scaled-e1792056562957.jpg?fit=300%2C214&amp;ssl=1"
-    },
-    {
-      "id": "a838b06e4d85",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-10-15",
-      "title": "Datewise_Packaging Design | Functional Wellness",
-      "source": "Packaging of the World",
-      "sourceUrl": "https://packagingoftheworld.com/2026/10/datewise_packaging-design-functional-wellness.html",
-      "image": "📦",
-      "category": "",
-      "desc": "DATEWISE: Date Seed Infusion Sticks &#124; Packaging Design Packaging Design &#124; Functional Wellness &#124; Brand Identity What if a date seed could become your next daily wellness ritual? Datewise is a conceptual wellness brand that transforms underutilised date seeds into...",
-      "tags": [
-        "包装"
-      ],
-      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/10/image1a-1-scaled-e1792056539433.jpg?fit=300%2C176&amp;ssl=1"
-    },
-    {
-      "id": "6554488303fd",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-10-15",
-      "title": "AMUL – Dairy-Free Cheese",
-      "source": "Packaging of the World",
-      "sourceUrl": "https://packagingoftheworld.com/2026/10/amul-dairy-free-cheese.html",
-      "image": "📦",
-      "category": "",
-      "desc": "AMUL — Gloriously Grated Dairy-Free Cheese ABOUT Amul, a brand synonymous with trust, taste, and India’s dairy legacy, enters a new chapter with its 100% plant-based Dairy-Free Grated Cheese range. Designed for a new generation of conscious consumers, the range reimagines ever...",
-      "tags": [
-        "植物基"
-      ],
-      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/10/cover-2-scaled-e1792056510160.jpg?fit=300%2C212&amp;ssl=1"
-    },
-    {
-      "id": "b4bfe4f016a5",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-10-15",
-      "title": "BIB – KSOL",
-      "source": "Packaging of the World",
-      "sourceUrl": "https://packagingoftheworld.com/2026/10/bib-ksol.html",
-      "image": "📦",
-      "category": "",
-      "desc": "For KSOL’s new bag-in-box packaging, we created an eye-catching visual language. Vegetation evoking Provence Verte meets an imaginary topographic map, hinting at the course of the Cassole, the little river linking Cotignac and Carcès. A capital K stretches across another panel...",
-      "tags": [
-        "包装"
-      ],
-      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/10/1-KSOL-BIB_-1-e1792056489529.jpg?fit=224%2C300&amp;ssl=1"
-    },
-    {
-      "id": "d447893a3df2",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-10-15",
-      "title": "Beyond Meat adds caffeine to protein drink as competition mounts",
-      "source": "Food Dive",
-      "sourceUrl": "https://www.fooddive.com/news/beyond-meat-protein-beverage-immerse-energy-caffeine/833100/",
-      "image": "📊",
-      "category": "",
-      "desc": "The company continues to innovate its protein beverages while looking to differentiate from the plant-based meat segment it became known for.",
-      "tags": [
-        "植物基"
-      ],
-      "_imageUrl": "https://imgproxy.divecdn.com/s5uTYCjlcohHdSuOPAkBrE3aEsNU_ly7-mMsIkxw81M/g:nowe:0:302/c:1080:610/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9CZXlvbmRfSW1tZXJzZV9FbmVyZ3kucG5n.webp"
-    },
-    {
-      "id": "43ca2c3eacab",
-      "type": "newproduct",
-      "section": "newproduct",
-      "sub": "report",
-      "date": "2026-10-15",
-      "title": "Protein + fibre + probiotics + collagen + adaptogens + electrolytes: Does you...",
-      "source": "BakeryandSnacks",
-      "sourceUrl": "https://www.bakeryandsnacks.com/Article/2026/10/15/benefit-stacking-is-functional-snacking-going-too-far/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "🆕",
-      "category": "休闲零食",
-      "desc": "Protein, fibre and gut health are colliding in functional snacks, but benefit stacking brings challenges around taste, formulation, cost, regulation and consumer understanding.",
-      "tags": [],
-      "_imageUrl": "https://www.bakeryandsnacks.com/resizer/v2/4HO5RUQSLNFRTJBWRS4BFY6TIQ.jpg?auth=d879c822dfba0594d76587119d854b430c4fdfafc9e95bcb1409b6bf186f7f8b&smart=true&width=2120&height=1414"
-    },
-    {
-      "id": "1a05bc70b14e",
-      "type": "newproduct",
-      "section": "newproduct",
-      "sub": "report",
-      "date": "2026-10-15",
-      "title": "Your snack has five seconds to sell itself",
-      "source": "BakeryandSnacks",
-      "sourceUrl": "https://www.bakeryandsnacks.com/Article/2026/10/15/snack-packaging-psychology-how-design-influences-taste-and-purchase/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "🆕",
-      "category": "休闲零食",
-      "desc": "Colour, shape and design can influence how consumers expect snacks to taste before the first bite. Here’s what sensory science means for product developers.",
-      "tags": [],
-      "_imageUrl": "https://www.bakeryandsnacks.com/resizer/v2/6NKGDUUZVNHTNLWW4BZHVREXW4.jpg?auth=c4fd56073752158c680a1524110fea48cb7643bb76fd2264e2e5befd4d864eb5&smart=true&width=2308&height=1299"
-    },
-    {
-      "id": "285c9c181781",
-      "type": "newproduct",
-      "section": "newproduct",
-      "sub": "report",
-      "date": "2026-10-15",
-      "title": "Germany approves draft sugar tax on soft drinks – what this means for manufac...",
-      "source": "Beverage Daily",
-      "sourceUrl": "https://www.beveragedaily.com/Article/2026/10/15/what-germanys-proposed-sugar-tax-means-for-drinks-brands/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "🆕",
-      "category": "饮品",
-      "desc": "",
-      "tags": [],
-      "_imageUrl": "https://www.beveragedaily.com/resizer/v2/DE4R3SNBFRFKVMQRKRCGOYUR54.jpg?auth=d9aeaa6bb0777234ea75665fd65122df5bea68bd7568d6a0faa47b85f96f9bf6&smart=true&width=2121&height=1414"
-    },
-    {
-      "id": "d8a2c64646f5",
-      "type": "newproduct",
-      "section": "newproduct",
-      "sub": "report",
-      "date": "2026-10-15",
-      "title": "Iced coffee: Where’s the next wave of innovation?",
-      "source": "Beverage Daily",
-      "sourceUrl": "https://www.beveragedaily.com/Article/2026/10/15/iced-coffee-wheres-the-next-wave-of-innovation/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "🆕",
-      "category": "饮品",
-      "desc": "Iced coffee is booming across Europe, driving innovation in flavours, coffee concentrates and protein-enriched drinks as brands seek to stand out in a fast-growing market.",
-      "tags": [
-        "创新"
-      ],
-      "_imageUrl": "https://www.beveragedaily.com/resizer/v2/IZFPIX4JXBGI5M3EPGPUMLP4DM.jpg?auth=687fa7dc5bb54cb17cb13e0d6d7d5b0436753263eb3ffd448175b793471fbbf5&smart=true&width=2121&height=1414"
     }
   ]
 }
