@@ -1,7 +1,7 @@
 {
   "meta": {
-    "updated": "2026-10-29",
-    "version": 1793243572,
+    "updated": "2026-10-30",
+    "version": 1793330164,
     "total": 150,
     "auto_generated": true,
     "sources": [
@@ -334,6 +334,285 @@
         "type": "工艺创新",
         "detail": "整只虾仁入馅的工业化量产技术，保水不碎"
       }
+    },
+    {
+      "id": "a3042346c437",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-10-29",
+      "title": "Mondelēz turns Toblerone into flavour innovation engine",
+      "source": "FoodNavigator-Asia",
+      "sourceUrl": "https://www.confectionerynews.com/Article/2026/10/29/mondelez-leans-into-flavour-innovation-with-new-toblerone-flavour/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "📊",
+      "category": "",
+      "desc": "Toblerone has launched a limited-edition Pistachio Gelato flavour at Istanbul Airport as Mondelēz leans into flavour innovation, travel retail exclusives and destination-inspired confectionery.",
+      "tags": [
+        "创新"
+      ],
+      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/OQ3T5TCTLBCJNKPJEQSOCTQSYQ.jpg?auth=76df68db06826840c622d9363b921166d1c179dff1052058a3f96a2ac57b6994&smart=true&width=2480&height=1671"
+    },
+    {
+      "id": "7988233a7011",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-10-29",
+      "title": "New cocoa powder alternative targets GLP-1 trends and supply risks",
+      "source": "FoodNavigator-Asia",
+      "sourceUrl": "https://www.foodnavigator.com/Article/2026/10/29/planet-a-foods-launches-cocoa-booster-replacer/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "📊",
+      "category": "",
+      "desc": "Planet A Foods launches Cocoa Booster, a high-fiber cocoa powder replacer that can replace up to 100% of cocoa in select applications amid rising costs and GLP-1-driven demand shifts.",
+      "tags": [],
+      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/IKIRDFA6KFCZBH4FBKJPATPUFU.jpg?auth=d012fa9a43f5ce26c6e9cb2dc9ba81c83e6aa5e30bb3747e1caad0bd1cf2056a&smart=true&width=2121&height=1414"
+    },
+    {
+      "id": "29484c0a2a9f",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-10-29",
+      "title": "Mondelēz turns Toblerone into flavour innovation engine",
+      "source": "FoodNavigator-USA",
+      "sourceUrl": "https://www.confectionerynews.com/Article/2026/10/29/mondelez-leans-into-flavour-innovation-with-new-toblerone-flavour/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "📊",
+      "category": "",
+      "desc": "Toblerone has launched a limited-edition Pistachio Gelato flavour at Istanbul Airport as Mondelēz leans into flavour innovation, travel retail exclusives and destination-inspired confectionery.",
+      "tags": [
+        "创新"
+      ],
+      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/OQ3T5TCTLBCJNKPJEQSOCTQSYQ.jpg?auth=76df68db06826840c622d9363b921166d1c179dff1052058a3f96a2ac57b6994&smart=true&width=2480&height=1671"
+    },
+    {
+      "id": "5cd535e3c1ab",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-10-29",
+      "title": "New cocoa powder alternative targets GLP-1 trends and supply risks",
+      "source": "FoodNavigator-USA",
+      "sourceUrl": "https://www.foodnavigator.com/Article/2026/10/29/planet-a-foods-launches-cocoa-booster-replacer/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "📊",
+      "category": "",
+      "desc": "Planet A Foods launches Cocoa Booster, a high-fiber cocoa powder replacer that can replace up to 100% of cocoa in select applications amid rising costs and GLP-1-driven demand shifts.",
+      "tags": [],
+      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/IKIRDFA6KFCZBH4FBKJPATPUFU.jpg?auth=d012fa9a43f5ce26c6e9cb2dc9ba81c83e6aa5e30bb3747e1caad0bd1cf2056a&smart=true&width=2121&height=1414"
+    },
+    {
+      "id": "910fd5576b64",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-10-29",
+      "title": "Nestlé tackles regenerative agriculture’s missing piece",
+      "source": "FoodNavigator-USA",
+      "sourceUrl": "https://www.foodnavigator.com/Article/2026/10/29/nestle-x-birdlife-collaboration-signals-next-phase-of-regenerative-agriculture/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "📊",
+      "category": "",
+      "desc": "Nestlé and BirdLife Europe launch three-and-a-half-year project to measure how regenerative agriculture impacts biodiversity, signalling a broader shift beyond soil health and carbon towards ecosystem restoration.",
+      "tags": [],
+      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/UI766HWE6BHYLOL7MHUMCUDI4Q.jpg?auth=52122dfa8e8ed938af79534ebbd1fec3bf74b87b07e0485aa58c525cd496cd98&smart=true&width=4528&height=3012"
+    },
+    {
+      "id": "ad8ec05812db",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-10-29",
+      "title": "A24’s Popcorn Bucket For ‘You Can See Everything’ Is All About Transparency, ...",
+      "source": "Dieline",
+      "sourceUrl": "https://thedieline.com/a24s-popcorn-bucket-for-you-can-see-everything-is-all-about-transparency-literally/",
+      "image": "📦",
+      "category": "",
+      "desc": "A24’s You Can See Everything popcorn bucket turns transparency into a clever packaging concept with a clear container, minimalist black typography, and a scalloped rim. Created as exclusive film merchandise, the collectible design makes the popcorn itself the star while playfu...",
+      "tags": [
+        "包装"
+      ],
+      "_imageUrl": "https://thedieline.com/wp-content/uploads/2026/10/a24popcorn.png"
+    },
+    {
+      "id": "c9e4247af6d3",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-10-29",
+      "title": "Did Hormel Just Fix Bacon Packaging?",
+      "source": "Dieline",
+      "sourceUrl": "https://thedieline.com/did-hormel-just-fix-bacon-packaging/",
+      "image": "📦",
+      "category": "",
+      "desc": "Hormel Black Label Bacon has unveiled its new portion pack. With individual perforated sections, each “pack” holds four slices and is designed to keep bacon fresh and maybe even reduce food waste. The post Did Hormel Just Fix Bacon Packaging? appeared first on DIELINE.",
+      "tags": [
+        "包装"
+      ],
+      "_imageUrl": "https://thedieline.com/wp-content/uploads/2026/10/Newsroom_20261022_BLACKLABELBACONPORTIONPACKS2.jpg"
+    },
+    {
+      "id": "97e617196830",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-10-29",
+      "title": "Established Designs Jennifer Lawrence’s New Haircare Brand mes°",
+      "source": "Dieline",
+      "sourceUrl": "https://thedieline.com/established-designs-jennifer-lawrences-new-haircare-brand-mes/",
+      "image": "📦",
+      "category": "",
+      "desc": "mes's packaging, courtesy of the creative agency Established, delivers sculptural objects that not only feel good in the hand but look beautiful on a sink for Jennifer Lawrence's new haircare brand. The post Established Designs Jennifer Lawrence&#8217;s New Haircare Brand mes°...",
+      "tags": [
+        "包装"
+      ],
+      "_imageUrl": "https://thedieline.com/wp-content/uploads/2026/10/Jen_3_Products-scaled.webp"
+    },
+    {
+      "id": "0f57b7e33a75",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-10-29",
+      "title": "Atelier Constant Berger Gives Community Cider a Fresh Label",
+      "source": "Dieline",
+      "sourceUrl": "https://thedieline.com/atelier-constant-berger-gives-community-cider-a-fresh-label/",
+      "image": "📦",
+      "category": "",
+      "desc": "Designed by Baudouin Willemart, Atelier Constant Berger’s Cidre à Façon packaging gives Belgian craft cider a fresh identity with silver cans, oversized black typography and electric green labels. The minimalist design celebrates community sourced apples, local orchards and a ...",
+      "tags": [
+        "包装"
+      ],
+      "_imageUrl": "https://thedieline.com/wp-content/uploads/2026/10/SnapInsta.to_763156326_18618780532008257_4746781794226894537_n.webp"
+    },
+    {
+      "id": "b9b3af382b87",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-10-29",
+      "title": "Bella Roma Brings a Slice of Italy to Beer",
+      "source": "Dieline",
+      "sourceUrl": "https://thedieline.com/bella-roma-brings-a-slice-of-italy-to-beer/",
+      "image": "📦",
+      "category": "",
+      "desc": "Duall Design brings a taste of Italy to Bella Roma’s special edition Italian Pilsner, created in collaboration with Cerveza Nemesis and Gypsy Ants. With a charming illustration of the restaurant’s storefront, elegant red typography and a warm cream label, the packaging gives c...",
+      "tags": [
+        "包装"
+      ],
+      "_imageUrl": "https://thedieline.com/wp-content/uploads/2026/10/SnapInsta.to_790059394_18094615874184437_7337967330570706643_n.jpg"
+    },
+    {
+      "id": "a6e3c1e9bcde",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-10-29",
+      "title": "Nothing Steps Up to Solve the To-Go Coffee Cup Sustainability Dilemma",
+      "source": "Dieline",
+      "sourceUrl": "https://thedieline.com/nothing-steps-up-to-solve-the-to-go-coffee-cup-sustainability-dilemma/",
+      "image": "📦",
+      "category": "",
+      "desc": "Nothing is revolutionizing the to-go coffee cup experience with innovative designs for both hot and cold coffee that are lid-less and 100% plastic free. The post Nothing Steps Up to Solve the To-Go Coffee Cup Sustainability Dilemma appeared first on DIELINE.",
+      "tags": [],
+      "_imageUrl": "https://thedieline.com/wp-content/uploads/2026/10/Screenshot-2026-10-27-at-9.03.51-PM.png"
+    },
+    {
+      "id": "c718b3048739",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-10-29",
+      "title": "The Packaging Dissidence",
+      "source": "Packaging of the World",
+      "sourceUrl": "https://packagingoftheworld.com/2026/10/the-packaging-dissidence.html",
+      "image": "📦",
+      "category": "",
+      "desc": "The challenge was to create packaging for RARA AVIS PARFUMS that would stand apart from the conventional codes of niche perfumery while expressing its positioning: olfactory dissidence. We developed a premium packaging system in which a sculptural bottle symbolically conceals ...",
+      "tags": [
+        "包装"
+      ],
+      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/10/RA_Thumbail-e1793264490792.jpg?fit=300%2C225&amp;ssl=1"
+    },
+    {
+      "id": "a5eb75a9bcdb",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-10-29",
+      "title": "Vicinanza Wine Range Packaging Design – Tenuta Montevitolo",
+      "source": "Packaging of the World",
+      "sourceUrl": "https://packagingoftheworld.com/2026/10/vicinanza-wine-range-packaging-design-tenuta-montevitolo.html",
+      "image": "📦",
+      "category": "",
+      "desc": "Romanesque tradition, Mediterranean architecture, and contemporary elegance. At Armoder Arte &#38; Diseño, we developed the label design and visual identity for VICINANZA, the new red wine range (Primitivo and Rosso Puglia) from Tenuta Montevitolo. The concept was born to brin...",
+      "tags": [
+        "包装"
+      ],
+      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/10/ARMODER-DESIGN-VICINANZA-PRIMITIVO-TENUTA-MONTEVITOLO-1-scaled-e1793264288595.jpg?fit=300%2C216&amp;ssl=1"
+    },
+    {
+      "id": "da02fb7d999a",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-10-29",
+      "title": "Movida: A Fragrance-Led Identity and Packaging System",
+      "source": "Packaging of the World",
+      "sourceUrl": "https://packagingoftheworld.com/2026/10/movida-a-fragrance-led-identity-and-packaging-system.html",
+      "image": "📦",
+      "category": "",
+      "desc": "Movida is a Los Angeles natural deodorant brand built around fragrance. Its four scents were developed with the structure of perfume, bringing a more considered sensory experience to an everyday ritual. The brand identity and packaging were designed by Vencho Miloshevski, with...",
+      "tags": [
+        "包装"
+      ],
+      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/10/04-products-in-context-1-e1793264267341.png?fit=237%2C300&amp;ssl=1"
+    },
+    {
+      "id": "7d60d0d64444",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-10-29",
+      "title": "Bollicine",
+      "source": "Packaging of the World",
+      "sourceUrl": "https://packagingoftheworld.com/2026/10/bollicine.html",
+      "image": "📦",
+      "category": "",
+      "desc": "Meet Bollicine, a playful wine branding concept built around bold colours, bubbly details, and a little bit of mischief. From the visual identity to the packaging, every detail is made to feel as expressive as the brand itself. In collaboration with @fromsketch.design &#160;",
+      "tags": [
+        "包装"
+      ],
+      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/10/bollicine-17-2-e1793264250177.jpeg?fit=240%2C300&amp;ssl=1"
+    },
+    {
+      "id": "cb8cb6f3aca8",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-10-29",
+      "title": "Berega Poputal — Kissel Packaging Concept",
+      "source": "Packaging of the World",
+      "sourceUrl": "https://packagingoftheworld.com/2026/10/berega-poputal-kissel-packaging-concept.html",
+      "image": "📦",
+      "category": "",
+      "desc": "Berega Poputal is a student brand identity and packaging concept for kissel, a traditional thick fruit drink. The project reimagines a familiar product through naming, a bold visual identity and an unexpected packaging format. The name combines the kissel riverbanks of Russian...",
+      "tags": [
+        "包装"
+      ],
+      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/10/00_Hero-4-e1793263846302.jpg?fit=300%2C200&amp;ssl=1"
+    },
+    {
+      "id": "e8860de81569",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-10-29",
+      "title": "Hilana",
+      "source": "Packaging of the World",
+      "sourceUrl": "https://packagingoftheworld.com/2026/10/hilana.html",
+      "image": "📦",
+      "category": "",
+      "desc": "Hilana is Fresh from the market: a playful identity for Hilana’s Jerusalem-style falafel Hilana makes Jerusalem-style falafel, built on family recipes and years of dedication. As the business grew, we wanted to give it an identity that reflected the care behind the food and th...",
+      "tags": [],
+      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/10/portfolio_0000s_0005_PO-Hilana-Falafel-silver-wrap-wide-2-e1793263816489.jpg?fit=300%2C169&amp;ssl=1"
     },
     {
       "id": "c0182f8a0203",
@@ -1159,6 +1438,21 @@
       "desc": "As parents seek lower-sugar functional beverages for children, brands including Capri Sun, Gerber and Once Upon a Farm and are expanding into hydration with electrolyte- and nutrient-enhanced drinks tailored to kids and teens.",
       "tags": [],
       "_imageUrl": "https://www.beveragedaily.com/resizer/v2/2ITLMHS2HFHDVDNMRV4BSZJQDI.jpg?auth=36e51146e0ca000e3107b01d1ac4db18c74847869c9a9e5ff893b75e2e31dd8f&smart=true&width=2120&height=1414"
+    },
+    {
+      "id": "fe28abda68a3",
+      "type": "newproduct",
+      "section": "newproduct",
+      "sub": "report",
+      "date": "2026-10-26",
+      "title": "Why dairy drinks are well positioned to capitalise on the benefit stacking trend",
+      "source": "Beverage Daily",
+      "sourceUrl": "https://www.dairyreporter.com/Article/2026/10/26/why-dairy-drinks-are-well-placed-to-capitalise-on-the-benefit-stacking-trend/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "🆕",
+      "category": "饮品",
+      "desc": "",
+      "tags": [],
+      "_imageUrl": "https://www.beveragedaily.com/resizer/v2/FWDOXRFOXBCR5GRAEOEJZZDYDQ.jpg?auth=7b19defc7a9bafb97836e9a64c45007aa5c70d3ead53c6240a0810c0aa5ca698&smart=true&width=2121&height=1414"
     },
     {
       "id": "571399024582",
@@ -2246,298 +2540,6 @@
       "desc": "The raond range treats the bottle as a toy before it is a container. Each piece reads like a small stack of smooth pebbles, a cream body topped with an oversized cap in pink, lilac, olive, butter yellow or periwinkle. The silhouettes sit somewhere between mushrooms, gnomes and...",
       "tags": [],
       "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/10/20-5-scaled-e1792478969526.jpg?fit=300%2C169&amp;ssl=1"
-    },
-    {
-      "id": "7323e77ddf91",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-10-20",
-      "title": "Hata Pack",
-      "source": "Packaging of the World",
-      "sourceUrl": "https://packagingoftheworld.com/2026/10/hata-pack.html",
-      "image": "📦",
-      "category": "",
-      "desc": "All of Eastern Europe loves things fermented, sour, salted and pickled. Given today&#8217;s trend for fermentation, these traditional foods are a superfood — while the packaging comes from a time when nobody had even heard the word &#8220;super&#8221;. That&#8217;s how HATA PA...",
-      "tags": [
-        "包装"
-      ],
-      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/10/HATA_POTW_1-1-e1792478937625.jpg?fit=300%2C169&amp;ssl=1"
-    },
-    {
-      "id": "a69b9fda4e2a",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-10-20",
-      "title": "Mondelēz launches gluten-free Ritz crackers",
-      "source": "Food Dive",
-      "sourceUrl": "https://www.fooddive.com/news/mondelezs-ritz-gluten-free-cracker-oreo-soup-cheezits/833395/",
-      "image": "📊",
-      "category": "",
-      "desc": "The snack giant has previously released gluten-free versions of Oreo and Chips Ahoy! as brands look for growth by catering to a range of dietary needs.",
-      "tags": [],
-      "_imageUrl": "https://imgproxy.divecdn.com/IMowzxfi8LCdMM7t1E2NAPzzBNg3ZzDMjSE-iDrUJ3w/g:nowe:0:311/c:3000:1694/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTI5ODYxLmpwZw==.webp"
-    },
-    {
-      "id": "6074a413f0f7",
-      "type": "newproduct",
-      "section": "newproduct",
-      "sub": "report",
-      "date": "2026-10-20",
-      "title": "How many potatoes never make it into the crisp packet?",
-      "source": "BakeryandSnacks",
-      "sourceUrl": "https://www.bakeryandsnacks.com/Article/2026/10/20/how-pepsicos-virtual-harvester-training-tackles-potato-damage/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "🆕",
-      "category": "休闲零食",
-      "desc": "PepsiCo and Grimme’s virtual harvester training is helping operators reduce potato bruising and protect the quality of crops destined for snack production.",
-      "tags": [],
-      "_imageUrl": "https://www.bakeryandsnacks.com/resizer/v2/VL6ZW4RGYVL5FKBMBJUWQEUQPA.jpg?auth=3cecd47b4420fcb8bad0e6011824968853aed2b7651fdee8cdaace0ccd69fd4c&smart=true&width=750&height=500"
-    },
-    {
-      "id": "b9ef5b6aa846",
-      "type": "newproduct",
-      "section": "newproduct",
-      "sub": "report",
-      "date": "2026-10-20",
-      "title": "Forget breakfast: The battle for the morning snack is on",
-      "source": "BakeryandSnacks",
-      "sourceUrl": "https://www.foodnavigator.com/Article/2026/10/20/the-rise-of-morning-snacking-what-it-means-for-food-and-beverage-brands/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "🆕",
-      "category": "休闲零食",
-      "desc": "Morning snacking is emerging as a distinct eating occasion, creating new opportunities for breakfast, confectionery and functional food brands. Discover the trends, ingredients and formats shaping the growing mid-morning market.",
-      "tags": [
-        "原料"
-      ],
-      "_imageUrl": "https://www.bakeryandsnacks.com/resizer/v2/2SYY2LZ3BFEQ5IH46UXJJDQFKA.jpg?auth=3b3bd7b355a087f080c2321ca0cdfb4ce406d9df20de6a461db01c54e91344af&smart=true&width=2119&height=1414"
-    },
-    {
-      "id": "0ad58ced5a03",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-10-19",
-      "title": "Fibre on fire: Next-gen functional yet convenient instant noodles and snacks",
-      "source": "FoodNavigator-Asia",
-      "sourceUrl": "https://www.foodnavigator.com/Article/2026/10/19/taking-fibre-beyond-supplements-into-instant-noodles-and-snacks/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "📊",
-      "category": "",
-      "desc": "Indonesian firm Lautan Natural Krimerindo is using its FiberCreme creamer to add fibre to instant noodles, beverages and snacks as it pursues export growth.",
-      "tags": [],
-      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/O5UPVQYGPVHYPO3EJH75D577MQ.png?auth=d15d35914519620ff896fbf10812d0e37a89c1914a7e8c010fdd81b132f38088&smart=true&width=1920&height=1080"
-    },
-    {
-      "id": "cda63703117e",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-10-19",
-      "title": "Is functional food killing low carb – or absorbing it?",
-      "source": "FoodNavigator-Asia",
-      "sourceUrl": "https://www.foodnavigator.com/Article/2026/10/19/low-carb-vs-functional-health-can-they-coexist/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "📊",
-      "category": "",
-      "desc": "The functional food boom has changed how consumers see health and wellness. Low carb as a trend has not declined, but it has changed, being folded into the wider functional space. Restrictive diets such as Paleo have declined.",
-      "tags": [],
-      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/G7ZOQCAZ4ZC5XCLZBIH7F3LYIE.jpg?auth=b8683a3208a5be295aab6f29b84dbf604595d8e1a48d8d7769929c4e787fdcf7&smart=true&width=2121&height=1414"
-    },
-    {
-      "id": "da9844491b80",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-10-19",
-      "title": "China Focus: Mengniu, Yili, alt protein hurdles, and the trends shaping food",
-      "source": "FoodNavigator-Asia",
-      "sourceUrl": "https://www.foodnavigator.com/Article/2026/10/19/china-focus-mengniu-yili-alt-protein-hurdles-and-the-trends-shaping-food/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "📊",
-      "category": "",
-      "desc": "From functional dairy and digitalisation to alternative proteins, we explore China’s food industry developments, emerging trends and the people shaping its future.",
-      "tags": [
-        "中国市场"
-      ],
-      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/W7GLZBW665DNNFFWI6T5C3TSZM.jpg?auth=1c25bba92c108467a31e6f44fa39bb3c2df8c29931e82fa0d2c369218bd4678e&smart=true&width=2121&height=1414"
-    },
-    {
-      "id": "c0ef1ddffff3",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-10-19",
-      "title": "Beyond Meat launches energy drink",
-      "source": "FoodNavigator-USA",
-      "sourceUrl": "https://www.foodnavigator.com/Article/2026/10/19/beyond-meat-launches-energy-drink/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "📊",
-      "category": "",
-      "desc": "Beyond Meat has continued its diversification by launching an energy drink, Beyond Immerse Protein + Energy. The drink is a caffeinated version of its high protein drink Beyond Immerse.",
-      "tags": [],
-      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/3CB4XHJ2JREMTI4BQN4PM2UE7E.jpg?auth=e4eb472fb31f6d146c1c8ebbc602a898df3be43ce574f4afa696b772d9d1673f&smart=true&width=2448&height=1224"
-    },
-    {
-      "id": "c02ab56b901f",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-10-19",
-      "title": "Is functional food killing low carb – or absorbing it?",
-      "source": "FoodNavigator-USA",
-      "sourceUrl": "https://www.foodnavigator.com/Article/2026/10/19/low-carb-vs-functional-health-can-they-coexist/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "📊",
-      "category": "",
-      "desc": "The functional food boom has changed how consumers see health and wellness. Low carb as a trend has not declined, but it has changed, being folded into the wider functional space. Restrictive diets such as Paleo have declined.",
-      "tags": [],
-      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/G7ZOQCAZ4ZC5XCLZBIH7F3LYIE.jpg?auth=b8683a3208a5be295aab6f29b84dbf604595d8e1a48d8d7769929c4e787fdcf7&smart=true&width=2121&height=1414"
-    },
-    {
-      "id": "21098a93b2a7",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-10-19",
-      "title": "China Focus: Mengniu, Yili, alt protein hurdles, and the trends shaping food",
-      "source": "FoodNavigator-USA",
-      "sourceUrl": "https://www.foodnavigator.com/Article/2026/10/19/china-focus-mengniu-yili-alt-protein-hurdles-and-the-trends-shaping-food/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "📊",
-      "category": "",
-      "desc": "From functional dairy and digitalisation to alternative proteins, we explore China’s food industry developments, emerging trends and the people shaping its future.",
-      "tags": [
-        "中国市场"
-      ],
-      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/W7GLZBW665DNNFFWI6T5C3TSZM.jpg?auth=1c25bba92c108467a31e6f44fa39bb3c2df8c29931e82fa0d2c369218bd4678e&smart=true&width=2121&height=1414"
-    },
-    {
-      "id": "f6d82d69819b",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-10-19",
-      "title": "Last Call: Get Your Packaging in Front of the iF DESIGN AWARD 2027 Jury",
-      "source": "Dieline",
-      "sourceUrl": "https://thedieline.com/last-call-get-your-packaging-in-front-of-the-if-design-award-2027-jury/",
-      "image": "📦",
-      "category": "",
-      "desc": "The iF DESIGN AWARD 2027 is accepting entries through November 4, 2026. For packaging designers, studios, and in-house teams, that means YOU STILL HAVE TIME to put a project in front of an international jury of experts and design legends. The post Last Call: Get Your Packaging...",
-      "tags": [
-        "包装"
-      ],
-      "_imageUrl": "https://thedieline.com/wp-content/uploads/2026/10/IF-Design-Dieline.jpg"
-    },
-    {
-      "id": "4bbed129007d",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-10-19",
-      "title": "Rare Ideas Gives Monk’d a Scoop of Everyday Joy",
-      "source": "Dieline",
-      "sourceUrl": "https://thedieline.com/rare-ideas-gives-monkd-a-scoop-of-everyday-joy/",
-      "image": "📦",
-      "category": "",
-      "desc": "Designed by Rare Ideas, Monk’d brings a playful new perspective to healthier ice cream packaging with nostalgic storybook illustrations, cheerful flavor palettes and expressive typography. Its monk fruit sweetened desserts trade clinical wellness claims for everyday moments of...",
-      "tags": [
-        "包装"
-      ],
-      "_imageUrl": "https://thedieline.com/wp-content/uploads/2026/10/Packaging-5.png"
-    },
-    {
-      "id": "9cfae97b6b37",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-10-19",
-      "title": "Trevi Takes a Stab at Halloween Packaging With a Limited Edition That’s to Di...",
-      "source": "Dieline",
-      "sourceUrl": "https://thedieline.com/trevi-takes-a-stab-at-halloween-packaging-with-a-limited-edition-thats-to-die-for/",
-      "image": "📦",
-      "category": "",
-      "desc": "Trevi Hydration gets a wicked Halloween limited edition designed by Chris Ganz, bringing vintage horror graphics, Gothic typography and blood red gradients to its Tiger’s Blood and Blood Orange electrolyte mixes. A coffin shaped box, playful vampire references and spooky packa...",
-      "tags": [
-        "包装"
-      ],
-      "_imageUrl": "https://thedieline.com/wp-content/uploads/2026/10/Trevi-Blood-Coffin-NSM-1-1-55ace434ee5ee8dff03725862fe82fde.png"
-    },
-    {
-      "id": "ada8b9419409",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-10-19",
-      "title": "Shelf Life 132: Is Gorpcore Having An Influence on Packaging?",
-      "source": "Dieline",
-      "sourceUrl": "https://thedieline.com/shelf-life-132-is-gorpcore-having-an-influence-on-packaging/",
-      "image": "📦",
-      "category": "",
-      "desc": "Is gorpcore shaping packaging design? This is how outdoor gear’s technical details and utilitarian aesthetic are inspiring brands to turn function into shelf appeal, and signal premium quality through performance. The post Shelf Life 132: Is Gorpcore Having An Influence on Pac...",
-      "tags": [
-        "包装"
-      ],
-      "_imageUrl": "https://thedieline.com/wp-content/uploads/2026/10/2.png"
-    },
-    {
-      "id": "8346a8855e3a",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-10-19",
-      "title": "My cut",
-      "source": "Packaging of the World",
-      "sourceUrl": "https://packagingoftheworld.com/2026/10/my-cut.html",
-      "image": "📦",
-      "category": "",
-      "desc": "What if the packaging could tell the story of the product before you even open it? Meet MyCut, a fresh approach to sliced cheese packaging that transforms an everyday kitchen tool into a distinctive brand experience. Inspired by the familiar shape of a cheese slicer, MyCut rei...",
-      "tags": [
-        "包装"
-      ],
-      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/10/765edddd471c6ce3d5fb407da9d7fd36_tattoo-1-e1792405155697.png?fit=300%2C215&amp;ssl=1"
-    },
-    {
-      "id": "269634265a1c",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-10-19",
-      "title": "BOND TOWN | BRANDING",
-      "source": "Packaging of the World",
-      "sourceUrl": "https://packagingoftheworld.com/2026/10/bond-town-branding.html",
-      "image": "📦",
-      "category": "",
-      "desc": "BOND TOWN is a modern luxury perfume brand created for a new generation that views fragrance as an expression of identity. The project blends bold individuality with refined sophistication through a vibrant, contemporary design language. The collection is organised around thre...",
-      "tags": [],
-      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/10/BT1-1-e1792404721954.jpg?fit=225%2C300&amp;ssl=1"
-    },
-    {
-      "id": "38b403fe929e",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-10-19",
-      "title": "PIX Coffee: a good day starts with good coffee",
-      "source": "Packaging of the World",
-      "sourceUrl": "https://packagingoftheworld.com/2026/10/pix-coffee-a-good-day-starts-with-good-coffee.html",
-      "image": "📦",
-      "category": "",
-      "desc": "Tasty Coffee decided to create a separate brand with a narrower product range and a easy price for marketplaces. At the same time, they maintained the coffee quality at the specialty level. Ohmybrand was entrusted with developing the brand platform and packaging. In everyday l...",
-      "tags": [
-        "包装"
-      ],
-      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/10/32-1-e1792404233209.jpg?fit=214%2C300&amp;ssl=1"
-    },
-    {
-      "id": "71e8eeb61ccc",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-10-19",
-      "title": "Elsie’s Organic Milk",
-      "source": "Packaging of the World",
-      "sourceUrl": "https://packagingoftheworld.com/2026/10/elsies-organic-milk.html",
-      "image": "📦",
-      "category": "",
-      "desc": "Elsie’s is an organic milk brand that connects modern homes with the rustic simplicity of heritage farming. Affogato Brand Design developed a playful identity and packaging system centred around Elsie, a free-roaming cow who gives the brand its own voice and personality. Bring...",
-      "tags": [
-        "包装"
-      ],
-      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/10/Artboard-1-4-e1792403886478.jpg?fit=300%2C169&amp;ssl=1"
     }
   ]
 }
