@@ -1,7 +1,7 @@
 {
   "meta": {
-    "updated": "2026-10-30",
-    "version": 1793330164,
+    "updated": "2026-10-31",
+    "version": 1793415596,
     "total": 150,
     "auto_generated": true,
     "sources": [
@@ -334,6 +334,341 @@
         "type": "工艺创新",
         "detail": "整只虾仁入馅的工业化量产技术，保水不碎"
       }
+    },
+    {
+      "id": "7bcae3f479f9",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-10-30",
+      "title": "Inside food and beverage’s AI-powered future",
+      "source": "FoodNavigator-Asia",
+      "sourceUrl": "https://www.foodnavigator.com/Article/2026/10/30/the-future-of-ai-in-food-and-beverage-from-automation-to-innovation/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "📊",
+      "category": "",
+      "desc": "AI is reshaping food and beverage, from factory automation and product innovation to ingredient discovery, supply chains and personalised consumer engagement. Explore what comes next.",
+      "tags": [
+        "创新",
+        "原料"
+      ],
+      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/7Z66K2YHANACDLG6GMBIHVB2WI.jpg?auth=3c78cae99186a943ca382fd4c06a8d5a50ae8fa25bcc4f14828bc78d975ac6f8&smart=true&width=2190&height=1369"
+    },
+    {
+      "id": "6b965fe4609d",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-10-30",
+      "title": "Thanksgiving flavours go snack-sized",
+      "source": "FoodNavigator-Asia",
+      "sourceUrl": "https://www.bakeryandsnacks.com/Article/2026/10/30/thanksgiving-snack-trends-flavours-sides-and-new-uses/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "📊",
+      "category": "",
+      "desc": "Campbell’s Thanksgiving findings reveal how comfort flavours and easy recipes give snack producers more ways to reach shoppers before, during and after dinner.",
+      "tags": [],
+      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/DJ2VZVA5AVCQFOGBHKTQKVXVLQ.jpg?auth=0d73bf5afb16dbe54f240e122fd2fee2d8d9036a1064792b67e59baf574f0242&smart=true&width=2105&height=1425"
+    },
+    {
+      "id": "8473b79d97f9",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-10-30",
+      "title": "Mondelēz Q3 profits surge amid surprise acquisition",
+      "source": "FoodNavigator-Asia",
+      "sourceUrl": "https://www.confectionerynews.com/Article/2026/10/30/mondelez-returns-to-volume-led-growth-as-q3-profits-surge/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "📊",
+      "category": "",
+      "desc": "Mondelēz returns to volume-led growth as Q3 profits surge, shareholders rewarded and Undercover Snacks acquisition signals expansion into permissible indulgence.",
+      "tags": [],
+      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/QF73WXPO7JEKZIKMZW5RFV2M2M.jpg?auth=ddaa776dab6a14279d840473c43269b577bd328dcfb20611139ce3a056c9c95c&smart=true&width=2121&height=1414"
+    },
+    {
+      "id": "66cb964f9c7e",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-10-30",
+      "title": "Could enzymes be the key to clean-label functionality?",
+      "source": "FoodNavigator-Asia",
+      "sourceUrl": "https://www.foodnavigator.com/Article/2026/10/30/enzymes-the-key-to-clean-label-functionality/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "📊",
+      "category": "",
+      "desc": "Enzymes are used throughout the food industry for a whole plethora of different functionalities. Because they are catalysts, they often do not need to appear in a food's ingredients list. Therefore, they can be considered clean-label alternatives to additives.",
+      "tags": [
+        "原料"
+      ],
+      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/TNISP5NWNVFC3IDL6TWFNZ4BXA.jpg?auth=a1260e2b75a3fb895074e03a59f9924ee9b151b474e561daeb63a56e1fb343e3&smart=true&width=2121&height=1414"
+    },
+    {
+      "id": "ace6bb4c2e61",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-10-30",
+      "title": "3 ways Google DeepMind is using AI to reshape the food system",
+      "source": "FoodNavigator-Asia",
+      "sourceUrl": "https://www.foodnavigator.com/Article/2026/10/30/google-deepmind-from-alphafold-to-disease-resistant-crops/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "📊",
+      "category": "",
+      "desc": "From AlphaFold and disease-resistant crops to virtual cells, Google DeepMind is exploring how AI can accelerate agricultural and food innovation.",
+      "tags": [
+        "创新"
+      ],
+      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/QEN2SGCW25EQJPQPUOYRFKDYHY.jpg?auth=7d82ec2b71482c714316c2c57c99cf63c2efa3556395de712f6017874f6b6897&smart=true&width=2121&height=1414"
+    },
+    {
+      "id": "7d493aa34bce",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-10-30",
+      "title": "Inside food and beverage’s AI-powered future",
+      "source": "FoodNavigator-USA",
+      "sourceUrl": "https://www.foodnavigator.com/Article/2026/10/30/the-future-of-ai-in-food-and-beverage-from-automation-to-innovation/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "📊",
+      "category": "",
+      "desc": "AI is reshaping food and beverage, from factory automation and product innovation to ingredient discovery, supply chains and personalised consumer engagement. Explore what comes next.",
+      "tags": [
+        "创新",
+        "原料"
+      ],
+      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/7Z66K2YHANACDLG6GMBIHVB2WI.jpg?auth=3c78cae99186a943ca382fd4c06a8d5a50ae8fa25bcc4f14828bc78d975ac6f8&smart=true&width=2190&height=1369"
+    },
+    {
+      "id": "0040b58552b9",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-10-30",
+      "title": "Could enzymes be the key to clean-label functionality?",
+      "source": "FoodNavigator-USA",
+      "sourceUrl": "https://www.foodnavigator.com/Article/2026/10/30/enzymes-the-key-to-clean-label-functionality/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "📊",
+      "category": "",
+      "desc": "Enzymes are used throughout the food industry for a whole plethora of different functionalities. Because they are catalysts, they often do not need to appear in a food's ingredients list. Therefore, they can be considered clean-label alternatives to additives.",
+      "tags": [
+        "原料"
+      ],
+      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/TNISP5NWNVFC3IDL6TWFNZ4BXA.jpg?auth=a1260e2b75a3fb895074e03a59f9924ee9b151b474e561daeb63a56e1fb343e3&smart=true&width=2121&height=1414"
+    },
+    {
+      "id": "c1e2ea4fb5fa",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-10-30",
+      "title": "3 ways Google DeepMind is using AI to reshape the food system",
+      "source": "FoodNavigator-USA",
+      "sourceUrl": "https://www.foodnavigator.com/Article/2026/10/30/google-deepmind-from-alphafold-to-disease-resistant-crops/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "📊",
+      "category": "",
+      "desc": "From AlphaFold and disease-resistant crops to virtual cells, Google DeepMind is exploring how AI can accelerate agricultural and food innovation.",
+      "tags": [
+        "创新"
+      ],
+      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/QEN2SGCW25EQJPQPUOYRFKDYHY.jpg?auth=7d82ec2b71482c714316c2c57c99cf63c2efa3556395de712f6017874f6b6897&smart=true&width=2121&height=1414"
+    },
+    {
+      "id": "a851ce412c0b",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-10-30",
+      "title": "Luminous Design’s 25th Anniversary Gift Makes the Case for the Physical Portf...",
+      "source": "Dieline",
+      "sourceUrl": "https://thedieline.com/luminous-designs-25th-anniversary-gift-makes-the-case-for-the-physical-portfolio/",
+      "image": "📦",
+      "category": "",
+      "desc": "Luminous Design celebrates 25 years with 1ST25Y, four handcrafted ceramic vessels packed in mirrored silver archive boxes that bring back the physical portfolio. The post Luminous Design’s 25th Anniversary Gift Makes the Case for the Physical Portfolio appeared first on DIELINE.",
+      "tags": [],
+      "_imageUrl": "https://thedieline.com/wp-content/uploads/2026/10/544e2d255410271.6a9fd63b48ec9.jpg.webp"
+    },
+    {
+      "id": "a613f3fa28f4",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-10-30",
+      "title": "MAGMA: design Identity for a product brand of spicy beverages",
+      "source": "Packaging of the World",
+      "sourceUrl": "https://packagingoftheworld.com/2026/10/magma-design-identity-for-a-product-brand-of-spicy-beverages.html",
+      "image": "📦",
+      "category": "",
+      "desc": "MAGMA offers hot beverages for those who appreciate unique flavors and high-quality products. The brand concept is rooted in the energy of a sun-drenched Mexico, drawing inspiration from its culinary traditions and the diverse flavor combinations found in Mexican cuisine. The ...",
+      "tags": [],
+      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/10/Can-Mockups-9-2-1-scaled-e1793353805419.png?fit=300%2C200&amp;ssl=1"
+    },
+    {
+      "id": "8fd6f1bc70e7",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-10-30",
+      "title": "Hallazgos",
+      "source": "Packaging of the World",
+      "sourceUrl": "https://packagingoftheworld.com/2026/10/hallazgos.html",
+      "image": "📦",
+      "category": "",
+      "desc": "HALLAZGOS by Indeleble Wines The winemaker wanted to experiment, try new things, and embrace the freedom to play. Each wine could be different, never to be repeated the following year. This raised a question: how do you design labels for wines that don’t yet exist? We develope...",
+      "tags": [],
+      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/10/Mesa-de-trabajo-15-100-3-e1793350744353.jpg?fit=300%2C167&amp;ssl=1"
+    },
+    {
+      "id": "0f620809d872",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-10-30",
+      "title": "Desert Falcon luxury",
+      "source": "Packaging of the World",
+      "sourceUrl": "https://packagingoftheworld.com/2026/10/desert-falcon-luxury.html",
+      "image": "📦",
+      "category": "",
+      "desc": "CONCEPT TITLE: Desert Falcon — Luxury Niche Perfume Concept PROJECT OVERVIEW: &#8220;Desert Falcon&#8221; is an embodiment of Arabian heritage, strength, and modern luxury. Designed for the high-end niche perfume market, this concept seamlessly marries striking aesthetics with...",
+      "tags": [],
+      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/10/1000100043-1-e1793350633652.jpg?fit=240%2C300&amp;ssl=1"
+    },
+    {
+      "id": "c7965510da97",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-10-30",
+      "title": "Crakky",
+      "source": "Packaging of the World",
+      "sourceUrl": "https://packagingoftheworld.com/2026/10/crakky.html",
+      "image": "📦",
+      "category": "",
+      "desc": "A brand that promotes positive energy: more impact on consumers, less on the environment. Crakky was created to transform everyday snacking through design that combines a bold aesthetic with sustainability. The project elevates a simple product—coated peanuts—into a desirable ...",
+      "tags": [],
+      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/10/CRAKKY_06-1-scaled-e1793350548359.jpg?fit=240%2C300&amp;ssl=1"
+    },
+    {
+      "id": "b6f1204799c6",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-10-30",
+      "title": "Leftovers: Pop-Tarts launches flavor inspired by Liquid Death | Bachan’s ente...",
+      "source": "Food Dive",
+      "sourceUrl": "https://www.fooddive.com/news/pop-tarts-liquid-death-bachans-japanese-mayo-thats-it-granola/873310/",
+      "image": "📊",
+      "category": "",
+      "desc": "The breakfast pastry and canned water brands are joining together for a second collaboration, while That's it. fruit bars extend into granola.",
+      "tags": [
+        "日本"
+      ],
+      "_imageUrl": "https://imgproxy.divecdn.com/G6KnhHAUYkxlPSuqU8LzeLSHKyGUgEe-L84zepg40Dc/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9Qb3AtVGFydHMteC1MaXF1aWQtRGVhdGgtS01WXzEwLTktMjAyNi5qcGc=.webp"
+    },
+    {
+      "id": "88d530769063",
+      "type": "newproduct",
+      "section": "newproduct",
+      "sub": "report",
+      "date": "2026-10-30",
+      "title": "Baker’s yeast muscles into high-protein snacks",
+      "source": "BakeryandSnacks",
+      "sourceUrl": "https://www.bakeryandsnacks.com/Article/2026/10/30/can-bakers-yeast-muscle-into-high-protein-snacks/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "🆕",
+      "category": "休闲零食",
+      "desc": "As whey prices soar, Spacemilk shows how baker’s yeast protein could open new opportunities in high-protein bakery and snacks.",
+      "tags": [],
+      "_imageUrl": "https://www.bakeryandsnacks.com/resizer/v2/FVEYKZGPO5GBJP2IDEGNAW3PJY.jpg?auth=f383bb0077e3afc1530804750161814face15543f36b82712c4ce5ac66af9ea2&smart=true&width=750&height=500"
+    },
+    {
+      "id": "61c98be83441",
+      "type": "newproduct",
+      "section": "newproduct",
+      "sub": "report",
+      "date": "2026-10-30",
+      "title": "Thanksgiving flavours go snack-sized",
+      "source": "BakeryandSnacks",
+      "sourceUrl": "https://www.bakeryandsnacks.com/Article/2026/10/30/thanksgiving-snack-trends-flavours-sides-and-new-uses/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "🆕",
+      "category": "休闲零食",
+      "desc": "Campbell’s Thanksgiving findings reveal how comfort flavours and easy recipes give snack producers more ways to reach shoppers before, during and after dinner.",
+      "tags": [],
+      "_imageUrl": "https://www.bakeryandsnacks.com/resizer/v2/DJ2VZVA5AVCQFOGBHKTQKVXVLQ.jpg?auth=0d73bf5afb16dbe54f240e122fd2fee2d8d9036a1064792b67e59baf574f0242&smart=true&width=2105&height=1425"
+    },
+    {
+      "id": "d009461a9a84",
+      "type": "newproduct",
+      "section": "newproduct",
+      "sub": "report",
+      "date": "2026-10-30",
+      "title": "Mondelēz Q3 profits surge amid surprise acquisition",
+      "source": "BakeryandSnacks",
+      "sourceUrl": "https://www.confectionerynews.com/Article/2026/10/30/mondelez-returns-to-volume-led-growth-as-q3-profits-surge/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "🆕",
+      "category": "休闲零食",
+      "desc": "Mondelēz returns to volume-led growth as Q3 profits surge, shareholders rewarded and Undercover Snacks acquisition signals expansion into permissible indulgence.",
+      "tags": [],
+      "_imageUrl": "https://www.bakeryandsnacks.com/resizer/v2/QF73WXPO7JEKZIKMZW5RFV2M2M.jpg?auth=ddaa776dab6a14279d840473c43269b577bd328dcfb20611139ce3a056c9c95c&smart=true&width=2121&height=1414"
+    },
+    {
+      "id": "a93fdacf8f16",
+      "type": "newproduct",
+      "section": "newproduct",
+      "sub": "report",
+      "date": "2026-10-30",
+      "title": "3 ways Google DeepMind is using AI to reshape the food system",
+      "source": "BakeryandSnacks",
+      "sourceUrl": "https://www.foodnavigator.com/Article/2026/10/30/google-deepmind-from-alphafold-to-disease-resistant-crops/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "🆕",
+      "category": "休闲零食",
+      "desc": "From AlphaFold and disease-resistant crops to virtual cells, Google DeepMind is exploring how AI can accelerate agricultural and food innovation.",
+      "tags": [
+        "创新"
+      ],
+      "_imageUrl": "https://www.bakeryandsnacks.com/resizer/v2/QEN2SGCW25EQJPQPUOYRFKDYHY.jpg?auth=7d82ec2b71482c714316c2c57c99cf63c2efa3556395de712f6017874f6b6897&smart=true&width=2121&height=1414"
+    },
+    {
+      "id": "1485b591a391",
+      "type": "newproduct",
+      "section": "newproduct",
+      "sub": "report",
+      "date": "2026-10-30",
+      "title": "Whisky’s next opportunity: From Highballs to RTDs",
+      "source": "Beverage Daily",
+      "sourceUrl": "https://www.beveragedaily.com/Article/2026/10/30/whiskys-next-opportunity-highballs-to-rtds/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "🆕",
+      "category": "饮品",
+      "desc": "Whisky brands are exploring lighter serves, contemporary cocktails and premium RTD formats to attract new consumers and create fresh drinking occasions. But how can the category broaden its appeal while retaining the heritage, craftsmanship and character that make the spirit d...",
+      "tags": [],
+      "_imageUrl": "https://www.beveragedaily.com/resizer/v2/BMC7L3BXGNHL7CDD2673FVIQW4.jpg?auth=ceae066893308fbec5ad812dd3ce6243500a3731a6c78d33bd71c578b368d5ec&smart=true&width=2120&height=1414"
+    },
+    {
+      "id": "4bc1937ca639",
+      "type": "newproduct",
+      "section": "newproduct",
+      "sub": "report",
+      "date": "2026-10-30",
+      "title": "New beverage launches: From functional fizz to flavoured whiskey",
+      "source": "Beverage Daily",
+      "sourceUrl": "https://www.beveragedaily.com/Article/2026/10/30/new-drinks-launches-functional-spirits-rtds/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "🆕",
+      "category": "饮品",
+      "desc": "Explore the latest beverage launches across non-alcoholic sparkling wine, functional sodas, RTDs, premium spirits and craft soft drinks as brands respond to demand for moderation, convenience and premium drinking experiences.",
+      "tags": [],
+      "_imageUrl": "https://www.beveragedaily.com/resizer/v2/IFZR77RUWFAATG4JQCEJSVUGQQ.jpg?auth=8ceebaa8e682f035e18810654ff98d86f70ca3bb14ab9afecf393bba4e06481c&smart=true&width=5828&height=3278"
+    },
+    {
+      "id": "77b0dfedf0db",
+      "type": "newproduct",
+      "section": "newproduct",
+      "sub": "report",
+      "date": "2026-10-30",
+      "title": "Deposit Return Scheme: What drinks businesses need to know",
+      "source": "Beverage Daily",
+      "sourceUrl": "https://www.beveragedaily.com/Article/2026/10/30/deposit-return-scheme-what-drinks-businesses-should-know/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "🆕",
+      "category": "饮品",
+      "desc": "Drinks manufacturers must prepare for the UK's 2027 Deposit Return Scheme, including new packaging specifications, labelling requirements, producer fees and compliance obligations.",
+      "tags": [
+        "包装"
+      ],
+      "_imageUrl": "https://www.beveragedaily.com/resizer/v2/5G2364SRVVDT5A6L5EFUX2SEOA.jpg?auth=2b7c874874918880a38ea28cbe31542781016fb788f6d679d04593434c626c4a&smart=true&width=2121&height=1414"
     },
     {
       "id": "a3042346c437",
@@ -917,6 +1252,21 @@
       "desc": "As GLP-1 medications influence eating habits and nutritional priorities, beverage manufacturers are exploring new approaches to hydration, flavour modulation and nutrient enrichment while balancing functionality with taste and sensory appeal.",
       "tags": [],
       "_imageUrl": "https://www.beveragedaily.com/resizer/v2/QYAIV6YM5ZGDPPARV26KFWVT5Y.jpg?auth=e820e85d6d1df3b9c7a564e583c9508d228b863c1c7fa83b6a5ac56fed092955&smart=true&width=2121&height=1414"
+    },
+    {
+      "id": "0be0889bd053",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-10-28",
+      "title": "Atkins weight loss brand repositions to reach lapsed GLP-1 users",
+      "source": "Food Dive",
+      "sourceUrl": "https://www.fooddive.com/news/GLP1-low-carb-atkins-diet-repositioned/873018/",
+      "image": "📊",
+      "category": "",
+      "desc": "The shift comes as parent company Simply Good Foods struggles to capitalize on recent health trends, with sales for Atkins alone dropping 20.9% in its 2026 fiscal year.",
+      "tags": [],
+      "_imageUrl": "https://imgproxy.divecdn.com/BU7TKukrr9QDH9i3xnc2ZESZLdW57kXB8es8h9CV-y8/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMDA4NjQzMjIwLmpwZw==.webp"
     },
     {
       "id": "ff7ff6cf7a1f",
@@ -2174,372 +2524,6 @@
         "包装"
       ],
       "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/10/634-4-e1792568216148.png?fit=300%2C193&amp;ssl=1"
-    },
-    {
-      "id": "8d200e4a73e4",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-10-21",
-      "title": "Fullspan",
-      "source": "Packaging of the World",
-      "sourceUrl": "https://packagingoftheworld.com/2026/10/fullspan.html",
-      "image": "📦",
-      "category": "",
-      "desc": "The project’s goal was to develop the positioning, visual identity, and packaging for an American DTC brand of single-ingredient supplements. The target audience is adults 40+ who want to keep their energy and health for the long run. The design system moves away from the lang...",
-      "tags": [
-        "包装",
-        "原料"
-      ],
-      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/10/5-17-e1792568094660.png?fit=300%2C175&amp;ssl=1"
-    },
-    {
-      "id": "ef0c93ea7498",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-10-21",
-      "title": "Sofia Kyivska",
-      "source": "Packaging of the World",
-      "sourceUrl": "https://packagingoftheworld.com/2026/10/sofia-kyivska.html",
-      "image": "📦",
-      "category": "",
-      "desc": "THE LEGENDARY WATER “Sofia Kyivska” is back! Its history spans, if not centuries, then at least three generations of Kyivans. Since 1957, the “Kyivska” well has supplied the city and region with clean drinking water, and over 30 years ago, the company “Rosynka” began bottling ...",
-      "tags": [],
-      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/10/main-e1792567974477.jpg?fit=300%2C300&amp;ssl=1"
-    },
-    {
-      "id": "9cda9112a678",
-      "type": "newproduct",
-      "section": "newproduct",
-      "sub": "report",
-      "date": "2026-10-21",
-      "title": "Exposing the mistakes that sink healthier snacks",
-      "source": "BakeryandSnacks",
-      "sourceUrl": "https://www.bakeryandsnacks.com/Article/2026/10/21/why-healthier-snack-development-goes-wrong/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "🆕",
-      "category": "休闲零食",
-      "desc": "Explore how taste expectations, formulation compromises and supplier reliability can derail healthier snacks – and what manufacturers should assess.",
-      "tags": [],
-      "_imageUrl": "https://www.bakeryandsnacks.com/resizer/v2/H6JZBNLK2ZG6FDNAZF3SIC5D2I.jpg?auth=fda472a337f936aed1aecafad2b320f505d68f048d69207750c71a4cfc9af17f&smart=true&width=2121&height=1414"
-    },
-    {
-      "id": "4292926c63fc",
-      "type": "newproduct",
-      "section": "newproduct",
-      "sub": "report",
-      "date": "2026-10-21",
-      "title": "Why drinks brands need to rethink the rules of drinking",
-      "source": "Beverage Daily",
-      "sourceUrl": "https://www.beveragedaily.com/Article/2026/10/21/why-drinks-brands-need-to-rethink-the-rules-of-drinking/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "🆕",
-      "category": "饮品",
-      "desc": "Meet the creative mind behind major drinks brands, working with Fever-Tree, 19 Crimes and Penfolds to challenge branding conventions, rethink drinking occasions and shape how consumers experience drinks.",
-      "tags": [],
-      "_imageUrl": "https://www.beveragedaily.com/resizer/v2/L5LGCRXK5JFQJLRRKNNLRLONDY.jpg?auth=af2d77a5d16437f53c597098e0f36ae367631a4946534bae2b79665d217dcd63&smart=true&width=3805&height=2572"
-    },
-    {
-      "id": "5faf87f44094",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-10-20",
-      "title": "M&M’s at 85: How Mars built a billion-dollar confectionery icon",
-      "source": "FoodNavigator-Asia",
-      "sourceUrl": "https://www.confectionerynews.com/Article/2026/10/20/mars-celebrates-85-years-of-mms-innovation-growth-and-global-success/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "📊",
-      "category": "",
-      "desc": "Mars is celebrating 85 years of M&amp;M’s. Discover how the iconic confectionery brand has evolved through innovation, flavour launches and global expansion.",
-      "tags": [
-        "创新"
-      ],
-      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/HJ3CYWRJKZHHRCRJJMZQFRFVRE.jpg?auth=6168a44bd1b0bdd5782784ad40d62dade56f372de8eedd1f80732d46689bf51b&smart=true&width=4032&height=2268"
-    },
-    {
-      "id": "022dc4539c73",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-10-20",
-      "title": "4 strategies Coca-Cola, PepsiCo, Spindrift and others are using to revitalize...",
-      "source": "FoodNavigator-Asia",
-      "sourceUrl": "https://www.foodnavigator.com/Article/2026/10/20/rtd-tea-4-strategies-to-revitalize-category-growth/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "📊",
-      "category": "",
-      "desc": "With US RTD tea sales falling, Coca-Cola, PepsiCo and other brands are betting on zero sugar, bold flavors, functional benefits and premium ingredients to revive growth.",
-      "tags": [
-        "原料"
-      ],
-      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/RSC7TM2COZF7HH3TVHRKLJPO2A.jpg?auth=d0a7a4cf0d94b23af82e43058d3dd5567c8bdbc17ed3328a6e1eafdba9aab105&smart=true&width=2121&height=1414"
-    },
-    {
-      "id": "b3c2bc49d709",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-10-20",
-      "title": "Forget breakfast: The battle for the morning snack is on",
-      "source": "FoodNavigator-Asia",
-      "sourceUrl": "https://www.foodnavigator.com/Article/2026/10/20/the-rise-of-morning-snacking-what-it-means-for-food-and-beverage-brands/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "📊",
-      "category": "",
-      "desc": "Morning snacking is emerging as a distinct eating occasion, creating new opportunities for breakfast, confectionery and functional food brands. Discover the trends, ingredients and formats shaping the growing mid-morning market.",
-      "tags": [
-        "原料"
-      ],
-      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/2SYY2LZ3BFEQ5IH46UXJJDQFKA.jpg?auth=3b3bd7b355a087f080c2321ca0cdfb4ce406d9df20de6a461db01c54e91344af&smart=true&width=2119&height=1414"
-    },
-    {
-      "id": "7f9261402045",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-10-20",
-      "title": "Dairy’s fight for growth and shelf space",
-      "source": "FoodNavigator-Asia",
-      "sourceUrl": "https://www.foodnavigator.com/Article/2026/10/20/letter-from-the-editor-what-is-driving-dairy-innovation/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "📊",
-      "category": "",
-      "desc": "Explore dairy innovation trends, from high-protein products and plant-based competition to creamers, milk market insights and AI-powered commerce.",
-      "tags": [
-        "植物基",
-        "创新"
-      ],
-      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/XB22SQCZ3BHRTMBIFVRSGIM75Y.jpg?auth=3a40de5b3d91cc6896ba4a974c868af10889aabc3241e48896b0fbc524552748&smart=true&width=2120&height=1414"
-    },
-    {
-      "id": "e5879e0ac1a9",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-10-20",
-      "title": "Creamers move beyond coffee with flavors, cold foams and café-inspired experi...",
-      "source": "FoodNavigator-Asia",
-      "sourceUrl": "https://www.foodnavigator.com/Article/2026/10/20/creamers-move-beyond-coffee-with-flavors-cold-foams-and-cafe-inspired-experiences/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "📊",
-      "category": "",
-      "desc": "SPINS data shows consumers gravitating toward flavored creamers and cold foams that deliver café-inspired flavors and textures, while dairy-focused brands balance indulgence with simpler ingredient lists.",
-      "tags": [
-        "原料"
-      ],
-      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/ONPHITE55ZFO5BHAPGBL4ZTNJQ.jfif?auth=0a0bd0d4d708d751373cb18d5f605dce7b515dbeef3ee08e740f797bcc4b96de&smart=true&width=856&height=642"
-    },
-    {
-      "id": "dc0d73286bbe",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-10-20",
-      "title": "Can plant proteins help ease the whey squeeze?",
-      "source": "FoodNavigator-Asia",
-      "sourceUrl": "https://www.foodnavigator.com/Article/2026/10/20/whey-protein-shortage-drives-interest-in-plant-proteins/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "📊",
-      "category": "",
-      "desc": "Whey prices remain more than double year-ago levels. Explore how ADM and other ingredient suppliers are using plant proteins and hybrid formulations to meet demand.",
-      "tags": [
-        "原料"
-      ],
-      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/A7I3XDJWTVE2PANMUX3ROYUZNQ.jpg?auth=634b065238865454a0a4fb25aab5ea53e23574c186ac0f3426c346eb7e7638ce&smart=true&width=2121&height=1414"
-    },
-    {
-      "id": "57800bb61a77",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-10-20",
-      "title": "M&M’s at 85: How Mars built a billion-dollar confectionery icon",
-      "source": "FoodNavigator-USA",
-      "sourceUrl": "https://www.confectionerynews.com/Article/2026/10/20/mars-celebrates-85-years-of-mms-innovation-growth-and-global-success/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "📊",
-      "category": "",
-      "desc": "Mars is celebrating 85 years of M&amp;M’s. Discover how the iconic confectionery brand has evolved through innovation, flavour launches and global expansion.",
-      "tags": [
-        "创新"
-      ],
-      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/HJ3CYWRJKZHHRCRJJMZQFRFVRE.jpg?auth=6168a44bd1b0bdd5782784ad40d62dade56f372de8eedd1f80732d46689bf51b&smart=true&width=4032&height=2268"
-    },
-    {
-      "id": "441cad15a672",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-10-20",
-      "title": "4 strategies Coca-Cola, PepsiCo, Spindrift and others are using to revitalize...",
-      "source": "FoodNavigator-USA",
-      "sourceUrl": "https://www.foodnavigator.com/Article/2026/10/20/rtd-tea-4-strategies-to-revitalize-category-growth/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "📊",
-      "category": "",
-      "desc": "With US RTD tea sales falling, Coca-Cola, PepsiCo and other brands are betting on zero sugar, bold flavors, functional benefits and premium ingredients to revive growth.",
-      "tags": [
-        "原料"
-      ],
-      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/RSC7TM2COZF7HH3TVHRKLJPO2A.jpg?auth=d0a7a4cf0d94b23af82e43058d3dd5567c8bdbc17ed3328a6e1eafdba9aab105&smart=true&width=2121&height=1414"
-    },
-    {
-      "id": "5789893d8444",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-10-20",
-      "title": "Forget breakfast: The battle for the morning snack is on",
-      "source": "FoodNavigator-USA",
-      "sourceUrl": "https://www.foodnavigator.com/Article/2026/10/20/the-rise-of-morning-snacking-what-it-means-for-food-and-beverage-brands/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "📊",
-      "category": "",
-      "desc": "Morning snacking is emerging as a distinct eating occasion, creating new opportunities for breakfast, confectionery and functional food brands. Discover the trends, ingredients and formats shaping the growing mid-morning market.",
-      "tags": [
-        "原料"
-      ],
-      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/2SYY2LZ3BFEQ5IH46UXJJDQFKA.jpg?auth=3b3bd7b355a087f080c2321ca0cdfb4ce406d9df20de6a461db01c54e91344af&smart=true&width=2119&height=1414"
-    },
-    {
-      "id": "414a9545ca9d",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-10-20",
-      "title": "Dairy’s fight for growth and shelf space",
-      "source": "FoodNavigator-USA",
-      "sourceUrl": "https://www.foodnavigator.com/Article/2026/10/20/letter-from-the-editor-what-is-driving-dairy-innovation/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "📊",
-      "category": "",
-      "desc": "Explore dairy innovation trends, from high-protein products and plant-based competition to creamers, milk market insights and AI-powered commerce.",
-      "tags": [
-        "植物基",
-        "创新"
-      ],
-      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/XB22SQCZ3BHRTMBIFVRSGIM75Y.jpg?auth=3a40de5b3d91cc6896ba4a974c868af10889aabc3241e48896b0fbc524552748&smart=true&width=2120&height=1414"
-    },
-    {
-      "id": "2935c565b0bf",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-10-20",
-      "title": "Creamers move beyond coffee with flavors, cold foams and café-inspired experi...",
-      "source": "FoodNavigator-USA",
-      "sourceUrl": "https://www.foodnavigator.com/Article/2026/10/20/creamers-move-beyond-coffee-with-flavors-cold-foams-and-cafe-inspired-experiences/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "📊",
-      "category": "",
-      "desc": "SPINS data shows consumers gravitating toward flavored creamers and cold foams that deliver café-inspired flavors and textures, while dairy-focused brands balance indulgence with simpler ingredient lists.",
-      "tags": [
-        "原料"
-      ],
-      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/ONPHITE55ZFO5BHAPGBL4ZTNJQ.jfif?auth=0a0bd0d4d708d751373cb18d5f605dce7b515dbeef3ee08e740f797bcc4b96de&smart=true&width=856&height=642"
-    },
-    {
-      "id": "bc70960fea60",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-10-20",
-      "title": "Can plant proteins help ease the whey squeeze?",
-      "source": "FoodNavigator-USA",
-      "sourceUrl": "https://www.foodnavigator.com/Article/2026/10/20/whey-protein-shortage-drives-interest-in-plant-proteins/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "📊",
-      "category": "",
-      "desc": "Whey prices remain more than double year-ago levels. Explore how ADM and other ingredient suppliers are using plant proteins and hybrid formulations to meet demand.",
-      "tags": [
-        "原料"
-      ],
-      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/A7I3XDJWTVE2PANMUX3ROYUZNQ.jpg?auth=634b065238865454a0a4fb25aab5ea53e23574c186ac0f3426c346eb7e7638ce&smart=true&width=2121&height=1414"
-    },
-    {
-      "id": "cd6d65cf716c",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-10-20",
-      "title": "Blank Body Makes a Case for Showing Some Skin",
-      "source": "Dieline",
-      "sourceUrl": "https://thedieline.com/blank-body-makes-a-case-for-showing-some-skin/",
-      "image": "📦",
-      "category": "",
-      "desc": "Designed by Orchidea Agency, Blank Body’s packaging celebrates the natural curves of the human body through sculptural terracotta bottles, abstract feminine silhouettes and warm tonal typography. Inspired by African textile patterns and the beauty of individuality, the design ...",
-      "tags": [
-        "包装"
-      ],
-      "_imageUrl": "https://thedieline.com/wp-content/uploads/2026/10/IMG_7686-2adaa6cc53001d333f547f2ba5edcda6-scaled-1.jpeg"
-    },
-    {
-      "id": "d0e6091d1c07",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-10-20",
-      "title": "Sweety & Co. Makes a Splash With Possible’s Plant Milk Refresh",
-      "source": "Dieline",
-      "sourceUrl": "https://thedieline.com/sweety-co-makes-a-splash-with-possibles-plant-milk-refresh/",
-      "image": "📦",
-      "category": "",
-      "desc": "Sweety &#038; Co. refreshes Possible’s plant milk packaging with oversized blue typography, creamy splashes, playful ingredient imagery and vibrant flavor colors. The redesign brings taste, texture and nutritional benefits to the forefront while giving the brand a fresh, unmis...",
-      "tags": [
-        "包装",
-        "原料"
-      ],
-      "_imageUrl": "https://thedieline.com/wp-content/uploads/2026/10/10_Possible_Trio_Splash-scaled.jpg"
-    },
-    {
-      "id": "4b2c9d97ffe6",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-10-20",
-      "title": "Kevin Marshall, Senior Director of Packaging at Microsoft, Explains Why They ...",
-      "source": "Dieline",
-      "sourceUrl": "https://thedieline.com/kevin-marshall-senior-director-of-packaging-at-microsoft-explains-why-they-embraced-inclusive-packaging/",
-      "image": "📦",
-      "category": "",
-      "desc": "From the launch of the Xbox Adaptive Controller to seamless unboxing across its entire product range, Microsoft proved that accessible packaging is actually better design for everyone. The post Kevin Marshall, Senior Director of Packaging at Microsoft, Explains Why They Embrac...",
-      "tags": [
-        "包装"
-      ],
-      "_imageUrl": "https://thedieline.com/wp-content/uploads/2026/10/DSC08724-Edit-scaled.jpg"
-    },
-    {
-      "id": "90c17c020b04",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-10-20",
-      "title": "Kebab.Lab Brand Identity by Butterfly Hunters",
-      "source": "Packaging of the World",
-      "sourceUrl": "https://packagingoftheworld.com/2026/10/kebab-lab-brand-identity-by-butterfly-hunters.html",
-      "image": "📦",
-      "category": "",
-      "desc": "Kebab.Lab set out to challenge the perception of traditional kebab restaurants in Armenia—often seen as outdated, overly masculine, and uninviting, especially for female customers, and introduce the Döner Kebab culture to the market. Starting with just the name, our task was t...",
-      "tags": [],
-      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/10/coverWEB-1-e1792483964119.jpg?fit=300%2C169&amp;ssl=1"
-    },
-    {
-      "id": "f9f877ec0061",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-10-20",
-      "title": "Ramen Rebel",
-      "source": "Packaging of the World",
-      "sourceUrl": "https://packagingoftheworld.com/2026/10/ramen-rebel.html",
-      "image": "📦",
-      "category": "",
-      "desc": "RAMEN REBEL is an instant ramen brand built around a simple question: if a bowl of instant noodles weren&#8217;t a food product but a streetwear item, what would it look like? The visual system starts with a geometric emblem: a cobalt blue bowl drawn in single-weight lines, wi...",
-      "tags": [],
-      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/10/10-13-1.jpg?fit=300%2C224&amp;ssl=1"
-    },
-    {
-      "id": "d65bf533b82b",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-10-20",
-      "title": "raond Children’s Care and Skincare Brand Design",
-      "source": "Packaging of the World",
-      "sourceUrl": "https://packagingoftheworld.com/2026/10/raond-children-care-skincare.html",
-      "image": "📦",
-      "category": "",
-      "desc": "The raond range treats the bottle as a toy before it is a container. Each piece reads like a small stack of smooth pebbles, a cream body topped with an oversized cap in pink, lilac, olive, butter yellow or periwinkle. The silhouettes sit somewhere between mushrooms, gnomes and...",
-      "tags": [],
-      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/10/20-5-scaled-e1792478969526.jpg?fit=300%2C169&amp;ssl=1"
     }
   ]
 }
