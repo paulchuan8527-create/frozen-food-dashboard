@@ -1,7 +1,7 @@
 {
   "meta": {
-    "updated": "2026-11-01",
-    "version": 1793501725,
+    "updated": "2026-11-02",
+    "version": 1793588540,
     "total": 150,
     "auto_generated": true,
     "sources": [
@@ -21,6 +21,369 @@
     ]
   },
   "items": [
+    {
+      "id": "n1",
+      "type": "newproduct",
+      "section": "newproduct",
+      "date": "2026-08-06",
+      "title": "思念食品「微波即食小馄饨」系列",
+      "source": "天猫新品",
+      "sourceUrl": "https://xin.tmall.com/",
+      "image": "🥟",
+      "category": "冷冻食品",
+      "desc": "专利蒸汽自循环包装技术，微波加热90秒即食，无需加水，皮不干馅鲜嫩。定价19.9元/盒。",
+      "tags": [
+        "思念",
+        "微波即食",
+        "馄饨"
+      ],
+      "innovation": {
+        "type": "工艺创新",
+        "detail": "蒸汽自循环包装技术，解决微波面点干硬痛点"
+      }
+    },
+    {
+      "id": "p4",
+      "type": "packaging",
+      "section": "packaging",
+      "date": "2026-08-06",
+      "title": "透明防雾冷冻盖膜",
+      "source": "Dieline",
+      "sourceUrl": "https://www.dieline.com/",
+      "image": "🔍",
+      "category": "",
+      "desc": "PETG防雾改性膜，-25℃冷冻展示柜中保持透明无白雾。获2026 WorldStar包装大奖。",
+      "tags": [
+        "防雾",
+        "PETG",
+        "展示效果"
+      ],
+      "material": {
+        "name": "PETG防雾改性膜",
+        "feature": "-25℃保持透明，无白雾凝结",
+        "process": "共挤流延+防雾涂覆",
+        "supplier": "Sealed Air(意)/国内：浙江众成"
+      }
+    },
+    {
+      "id": "f1",
+      "type": "formulation",
+      "section": "formulation",
+      "date": "2026-08-06",
+      "title": "海藻糖在冷冻面点中的抗冻保护应用",
+      "source": "中国食品学报",
+      "sourceUrl": "https://kns.cnki.net/",
+      "image": "🧪",
+      "category": "速冻面点",
+      "desc": "添加2%-4%海藻糖可显著降低冷冻面筋蛋白冰晶损伤，冻融5次后硬度仅增12%(对照47%)。",
+      "tags": [
+        "海藻糖",
+        "抗冻",
+        "面点"
+      ],
+      "formula": {
+        "ingredient": "海藻糖",
+        "effect": "降低冰晶对面筋蛋白的损伤",
+        "applicable": "速冻面点全品类",
+        "mechanism": "海藻糖分子在冰晶表面形成玻璃态保护膜，抑制重结晶",
+        "supplier": "日本林原/国内：保龄宝生物"
+      }
+    },
+    {
+      "id": "p1",
+      "type": "packaging",
+      "section": "packaging",
+      "date": "2026-08-05",
+      "title": "可微波自排气包装袋",
+      "source": "Packaging of the World",
+      "sourceUrl": "https://www.packagingoftheworld.com/",
+      "image": "📦",
+      "category": "",
+      "desc": "PP/PE复合材料内置单向排气阀，微波加热时自动释放蒸汽。日本Toppan印刷技术。",
+      "tags": [
+        "可微波",
+        "自排气",
+        "PP/PE"
+      ],
+      "material": {
+        "name": "PP/PE复合材料",
+        "feature": "单向排气阀，微波自排气",
+        "process": "凹版印刷+覆膜",
+        "supplier": "日本Toppan/国内：紫江企业"
+      }
+    },
+    {
+      "id": "f2",
+      "type": "formulation",
+      "section": "formulation",
+      "date": "2026-08-04",
+      "title": "微胶囊包埋花椒油在预制菜中的释放控制",
+      "source": "食品科学",
+      "sourceUrl": "https://kns.cnki.net/",
+      "image": "🌶️",
+      "category": "预制菜",
+      "desc": "β-环糊精包埋花椒精油，包埋率92.3%。冷冻6个月后风味保留率87%(直接添加仅41%)。",
+      "tags": [
+        "微胶囊",
+        "包埋",
+        "花椒油"
+      ],
+      "formula": {
+        "ingredient": "β-环糊精包埋花椒精油",
+        "effect": "6个月风味保留率87%，复热释放",
+        "applicable": "麻辣风味预制菜",
+        "mechanism": "β-环糊精空腔结构包裹花椒精油，加热触发释放",
+        "supplier": "河南中大恒源/国内：天宁香料"
+      }
+    },
+    {
+      "id": "n2",
+      "type": "newproduct",
+      "section": "newproduct",
+      "date": "2026-08-03",
+      "title": "日本味之素「冷冻寿司拼盘」",
+      "source": "味之素官网",
+      "sourceUrl": "https://www.ajinomoto.co.jp/",
+      "image": "🍣",
+      "category": "冷冻食品",
+      "desc": "-60℃超低温速冻技术保留刺身口感，解冻后媲美门店现做。6贯装/980日元。",
+      "tags": [
+        "日本",
+        "味之素",
+        "超低温速冻"
+      ],
+      "innovation": {
+        "type": "工艺创新",
+        "detail": "-60℃超低温速冻，解决冷冻寿司口感还原难题"
+      }
+    },
+    {
+      "id": "n3",
+      "type": "newproduct",
+      "section": "newproduct",
+      "date": "2026-08-02",
+      "title": "三全食品「空气炸锅小酥肉」",
+      "source": "三全旗舰店",
+      "sourceUrl": "https://www.sanquan.com/",
+      "image": "🥩",
+      "category": "预制菜",
+      "desc": "专为空气炸锅优化的裹粉配方，200℃ 8分钟外酥里嫩，含油量降低40%。300g/29.9元。",
+      "tags": [
+        "三全",
+        "空气炸锅",
+        "小酥肉"
+      ],
+      "innovation": {
+        "type": "配方创新",
+        "detail": "空气炸锅专用裹粉配方，减油40%口感不妥协"
+      }
+    },
+    {
+      "id": "p2",
+      "type": "packaging",
+      "section": "packaging",
+      "date": "2026-08-02",
+      "title": "PLA可降解冷冻食品托盘",
+      "source": "Dieline",
+      "sourceUrl": "https://www.dieline.com/",
+      "image": "🌿",
+      "category": "",
+      "desc": "100% PLA植物基材料，耐-40℃低温不变脆，可家庭堆肥降解。碳足迹减少72%。",
+      "tags": [
+        "PLA",
+        "可降解",
+        "环保"
+      ],
+      "material": {
+        "name": "PLA（聚乳酸）",
+        "feature": "耐低温-40℃，家庭堆肥可降解",
+        "process": "热成型+抗冻改性",
+        "supplier": "Good Natured(美)/国内：金发科技"
+      }
+    },
+    {
+      "id": "n6",
+      "type": "newproduct",
+      "section": "newproduct",
+      "date": "2026-08-01",
+      "title": "茶颜悦色「桂花酒酿冰汤圆」",
+      "source": "天猫新品",
+      "sourceUrl": "https://xin.tmall.com/",
+      "image": "🍡",
+      "category": "休闲零食",
+      "desc": "跨界甜品+冷冻技术，酒酿风味+冰爽口感，抢占夏季冷冻甜品新赛道。200g×2盒/32.8元。",
+      "tags": [
+        "茶颜悦色",
+        "甜品",
+        "跨界"
+      ],
+      "innovation": {
+        "type": "场景创新",
+        "detail": "夏季冷冻甜品新场景，酒酿+冰爽差异化定位"
+      }
+    },
+    {
+      "id": "f3",
+      "type": "formulation",
+      "section": "formulation",
+      "date": "2026-08-01",
+      "title": "抗性糊精在低GI速冻面点中的应用方案",
+      "source": "食品工业科技",
+      "sourceUrl": "https://kns.cnki.net/",
+      "image": "🌾",
+      "category": "速冻面点",
+      "desc": "抗性糊精替代10%-15%小麦粉，可使速冻包子GI值从72降至54，复热后体积增大8%。",
+      "tags": [
+        "抗性糊精",
+        "低GI",
+        "健康"
+      ],
+      "formula": {
+        "ingredient": "抗性糊精",
+        "effect": "GI值降低25%，复热体积增大8%",
+        "applicable": "速冻包子、馒头、花卷",
+        "mechanism": "膳食纤维部分替代淀粉，降低血糖应答+改善面团持水性",
+        "supplier": "罗盖特(法)/国内：山东百龙创园"
+      }
+    },
+    {
+      "id": "n4",
+      "type": "newproduct",
+      "section": "newproduct",
+      "date": "2026-07-31",
+      "title": "美国Beyond Meat「冷冻植物肉酱意面」",
+      "source": "FoodBev",
+      "sourceUrl": "https://www.foodbev.com/",
+      "image": "🍝",
+      "category": "预制菜",
+      "desc": "植物蛋白肉酱+全麦意面一体化冷冻方案，复热后肉酱不分离。350g/$7.99。",
+      "tags": [
+        "植物基",
+        "Beyond Meat",
+        "美国"
+      ],
+      "innovation": {
+        "type": "配方创新",
+        "detail": "植物肉酱与意面一体化冷冻，复热不分层"
+      }
+    },
+    {
+      "id": "p3",
+      "type": "packaging",
+      "section": "packaging",
+      "date": "2026-07-30",
+      "title": "铝箔锁鲜自立袋",
+      "source": "Behance",
+      "sourceUrl": "https://www.behance.net/",
+      "image": "✨",
+      "category": "",
+      "desc": "PET/AL/PE三层复合结构，铝箔层提供99.9%光阻隔，底部自立设计提升货架陈列效果。",
+      "tags": [
+        "铝箔",
+        "自立袋",
+        "海鲜"
+      ],
+      "material": {
+        "name": "PET/AL/PE三层复合",
+        "feature": "99.9%光阻隔，底部自立",
+        "process": "干式复合+易撕口激光切割",
+        "supplier": "安姆科(Amcor)/国内：黄山永新"
+      }
+    },
+    {
+      "id": "f4",
+      "type": "formulation",
+      "section": "formulation",
+      "date": "2026-07-29",
+      "title": "TG酶在冷冻鱼丸弹性保持中的应用",
+      "source": "水产学报",
+      "sourceUrl": "https://kns.cnki.net/",
+      "image": "🐟",
+      "category": "冷冻调理食品",
+      "desc": "添加0.3%TG酶可使冷冻鱼丸冻藏6个月后弹性仅降8.5%(对照降32%)。",
+      "tags": [
+        "TG酶",
+        "弹性保持",
+        "鱼丸"
+      ],
+      "formula": {
+        "ingredient": "TG酶（谷氨酰胺转氨酶）",
+        "effect": "冻藏6个月弹性仅降8.5%",
+        "applicable": "冷冻鱼丸、虾滑、肉丸",
+        "mechanism": "催化蛋白分子间共价交联",
+        "supplier": "日本味之素/国内：江苏一鸣生物"
+      }
+    },
+    {
+      "id": "n5",
+      "type": "newproduct",
+      "section": "newproduct",
+      "date": "2026-07-28",
+      "title": "安井食品「麻辣小龙虾水饺」",
+      "source": "FoodTalks",
+      "sourceUrl": "https://www.foodtalks.cn/",
+      "image": "🦞",
+      "category": "冷冻食品",
+      "desc": "整只小龙虾入馅的工业化量产技术，虾仁保水处理后复热Q弹不碎。240g×3袋/45.9元。",
+      "tags": [
+        "安井",
+        "小龙虾",
+        "水饺"
+      ],
+      "innovation": {
+        "type": "工艺创新",
+        "detail": "整只虾仁入馅的工业化量产技术，保水不碎"
+      }
+    },
+    {
+      "id": "cea01a65d74a",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-11-02",
+      "title": "Coca-Cola, Pepsi lose brand value as Nongfu Spring surges",
+      "source": "FoodNavigator-Asia",
+      "sourceUrl": "https://www.foodnavigator.com/Article/2026/11/02/coca-cola-pepsi-lose-brand-value-as-nongfu-spring-surges/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "📊",
+      "category": "",
+      "desc": "Coca-Cola and Pepsi retain the top beverage brand value spots",
+      "tags": [],
+      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/7RKMLZBFAJBR7KHR44LKGRCOLQ.jpg?auth=562d75710719ad1a9f7c11a4f9269e08f299394d0b556127bdce063698b3b7ff&smart=true&width=2121&height=1414"
+    },
+    {
+      "id": "ea9bf3c49c56",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-11-02",
+      "title": "Shelf Life 134: Why Are We Paying A Premium For Fewer Ingredients?",
+      "source": "Dieline",
+      "sourceUrl": "https://thedieline.com/shelf-life-134-why-are-we-paying-a-premium-for-fewer-ingredients/",
+      "image": "📦",
+      "category": "",
+      "desc": "Whole Foods calls it Ingredient Minimalism: shoppers will now pay more for fewer ingredients, and brands like RXBAR and Vandy’s put the list front and center. The post Shelf Life 134: Why Are We Paying A Premium For Fewer Ingredients? appeared first on DIELINE.",
+      "tags": [
+        "原料"
+      ],
+      "_imageUrl": "https://thedieline.com/wp-content/uploads/2026/10/Subheading-5.png"
+    },
+    {
+      "id": "f0c266ba2eb2",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-11-02",
+      "title": "The Dieline’s Best of October 2026",
+      "source": "Dieline",
+      "sourceUrl": "https://thedieline.com/the-dielines-best-of-october-2026/",
+      "image": "📦",
+      "category": "",
+      "desc": "Explore October 2026’s best packaging designs and branding news, from Kocktail’s reusable glasses to ArtCraft’s AI tools and Pringles’ unexpected urn. The post The Dieline&#8217;s Best of October 2026 appeared first on DIELINE.",
+      "tags": [
+        "包装"
+      ],
+      "_imageUrl": "https://thedieline.com/wp-content/uploads/2026/11/Subheading.png"
+    },
     {
       "id": "7bcae3f479f9",
       "type": "report",
@@ -2163,367 +2526,6 @@
         "包装"
       ],
       "_imageUrl": "https://thedieline.com/wp-content/uploads/2026/10/Rocco_1_Web-Size_4x5-999686e7d398d579cdd7ded0e20648cc-1.jpg"
-    },
-    {
-      "id": "51c73af4f292",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-10-21",
-      "title": "Velaro Every Detail Has A Purpose",
-      "source": "Packaging of the World",
-      "sourceUrl": "https://packagingoftheworld.com/2026/10/velaro-every-detail-has-a-purpose.html",
-      "image": "📦",
-      "category": "",
-      "desc": "Luxury is not simply about what we see. It is about what we feel, what we remember, and the attention given to every detail. For VELARO, every design decision was made with purpose. The bottle was carefully selected for its distinctive silhouette, generous proportions, and ele...",
-      "tags": [],
-      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/10/Screenshot-2026-10-20-at-4.09.00-PM-e1792568280733.png?fit=300%2C227&amp;ssl=1"
-    },
-    {
-      "id": "efae88d69b63",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-10-21",
-      "title": "Classic Line of Sheriff’s Snack Sauces",
-      "source": "Packaging of the World",
-      "sourceUrl": "https://packagingoftheworld.com/2026/10/packaging-of-the-classic-line-of-sheriffs-snack-sauces-6.html",
-      "image": "📦",
-      "category": "",
-      "desc": "Sheriff&#8217;s Snack a classic line of sauces, where the image of the sheriff symbolizes the traditions of true great taste, combining quality, integrity, and a recognizable classic in every bottle. The &#8220;Sheriff&#8217;s mustache&#8221; becomes the brand&#8217;s main vis...",
-      "tags": [],
-      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/10/34-1-e1792568261365.jpg?fit=300%2C169&amp;ssl=1"
-    },
-    {
-      "id": "64b5bfd9d564",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-10-21",
-      "title": "DEGA",
-      "source": "Packaging of the World",
-      "sourceUrl": "https://packagingoftheworld.com/2026/10/dega.html",
-      "image": "📦",
-      "category": "",
-      "desc": "“DEGA” is a concept for a grape packaging range that turns an everyday product into a small ritual of beauty. Instead of a generic transparent bag, the design features a dancer whose skirt is filled out by the grapes themselves. The product becomes an extension of the illustra...",
-      "tags": [
-        "包装"
-      ],
-      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/10/634-4-e1792568216148.png?fit=300%2C193&amp;ssl=1"
-    },
-    {
-      "id": "n1",
-      "type": "newproduct",
-      "section": "newproduct",
-      "date": "2026-08-06",
-      "title": "思念食品「微波即食小馄饨」系列",
-      "source": "天猫新品",
-      "sourceUrl": "https://xin.tmall.com/",
-      "image": "🥟",
-      "category": "冷冻食品",
-      "desc": "专利蒸汽自循环包装技术，微波加热90秒即食，无需加水，皮不干馅鲜嫩。定价19.9元/盒。",
-      "tags": [
-        "思念",
-        "微波即食",
-        "馄饨"
-      ],
-      "innovation": {
-        "type": "工艺创新",
-        "detail": "蒸汽自循环包装技术，解决微波面点干硬痛点"
-      }
-    },
-    {
-      "id": "p4",
-      "type": "packaging",
-      "section": "packaging",
-      "date": "2026-08-06",
-      "title": "透明防雾冷冻盖膜",
-      "source": "Dieline",
-      "sourceUrl": "https://www.dieline.com/",
-      "image": "🔍",
-      "category": "",
-      "desc": "PETG防雾改性膜，-25℃冷冻展示柜中保持透明无白雾。获2026 WorldStar包装大奖。",
-      "tags": [
-        "防雾",
-        "PETG",
-        "展示效果"
-      ],
-      "material": {
-        "name": "PETG防雾改性膜",
-        "feature": "-25℃保持透明，无白雾凝结",
-        "process": "共挤流延+防雾涂覆",
-        "supplier": "Sealed Air(意)/国内：浙江众成"
-      }
-    },
-    {
-      "id": "f1",
-      "type": "formulation",
-      "section": "formulation",
-      "date": "2026-08-06",
-      "title": "海藻糖在冷冻面点中的抗冻保护应用",
-      "source": "中国食品学报",
-      "sourceUrl": "https://kns.cnki.net/",
-      "image": "🧪",
-      "category": "速冻面点",
-      "desc": "添加2%-4%海藻糖可显著降低冷冻面筋蛋白冰晶损伤，冻融5次后硬度仅增12%(对照47%)。",
-      "tags": [
-        "海藻糖",
-        "抗冻",
-        "面点"
-      ],
-      "formula": {
-        "ingredient": "海藻糖",
-        "effect": "降低冰晶对面筋蛋白的损伤",
-        "applicable": "速冻面点全品类",
-        "mechanism": "海藻糖分子在冰晶表面形成玻璃态保护膜，抑制重结晶",
-        "supplier": "日本林原/国内：保龄宝生物"
-      }
-    },
-    {
-      "id": "p1",
-      "type": "packaging",
-      "section": "packaging",
-      "date": "2026-08-05",
-      "title": "可微波自排气包装袋",
-      "source": "Packaging of the World",
-      "sourceUrl": "https://www.packagingoftheworld.com/",
-      "image": "📦",
-      "category": "",
-      "desc": "PP/PE复合材料内置单向排气阀，微波加热时自动释放蒸汽。日本Toppan印刷技术。",
-      "tags": [
-        "可微波",
-        "自排气",
-        "PP/PE"
-      ],
-      "material": {
-        "name": "PP/PE复合材料",
-        "feature": "单向排气阀，微波自排气",
-        "process": "凹版印刷+覆膜",
-        "supplier": "日本Toppan/国内：紫江企业"
-      }
-    },
-    {
-      "id": "f2",
-      "type": "formulation",
-      "section": "formulation",
-      "date": "2026-08-04",
-      "title": "微胶囊包埋花椒油在预制菜中的释放控制",
-      "source": "食品科学",
-      "sourceUrl": "https://kns.cnki.net/",
-      "image": "🌶️",
-      "category": "预制菜",
-      "desc": "β-环糊精包埋花椒精油，包埋率92.3%。冷冻6个月后风味保留率87%(直接添加仅41%)。",
-      "tags": [
-        "微胶囊",
-        "包埋",
-        "花椒油"
-      ],
-      "formula": {
-        "ingredient": "β-环糊精包埋花椒精油",
-        "effect": "6个月风味保留率87%，复热释放",
-        "applicable": "麻辣风味预制菜",
-        "mechanism": "β-环糊精空腔结构包裹花椒精油，加热触发释放",
-        "supplier": "河南中大恒源/国内：天宁香料"
-      }
-    },
-    {
-      "id": "n2",
-      "type": "newproduct",
-      "section": "newproduct",
-      "date": "2026-08-03",
-      "title": "日本味之素「冷冻寿司拼盘」",
-      "source": "味之素官网",
-      "sourceUrl": "https://www.ajinomoto.co.jp/",
-      "image": "🍣",
-      "category": "冷冻食品",
-      "desc": "-60℃超低温速冻技术保留刺身口感，解冻后媲美门店现做。6贯装/980日元。",
-      "tags": [
-        "日本",
-        "味之素",
-        "超低温速冻"
-      ],
-      "innovation": {
-        "type": "工艺创新",
-        "detail": "-60℃超低温速冻，解决冷冻寿司口感还原难题"
-      }
-    },
-    {
-      "id": "n3",
-      "type": "newproduct",
-      "section": "newproduct",
-      "date": "2026-08-02",
-      "title": "三全食品「空气炸锅小酥肉」",
-      "source": "三全旗舰店",
-      "sourceUrl": "https://www.sanquan.com/",
-      "image": "🥩",
-      "category": "预制菜",
-      "desc": "专为空气炸锅优化的裹粉配方，200℃ 8分钟外酥里嫩，含油量降低40%。300g/29.9元。",
-      "tags": [
-        "三全",
-        "空气炸锅",
-        "小酥肉"
-      ],
-      "innovation": {
-        "type": "配方创新",
-        "detail": "空气炸锅专用裹粉配方，减油40%口感不妥协"
-      }
-    },
-    {
-      "id": "p2",
-      "type": "packaging",
-      "section": "packaging",
-      "date": "2026-08-02",
-      "title": "PLA可降解冷冻食品托盘",
-      "source": "Dieline",
-      "sourceUrl": "https://www.dieline.com/",
-      "image": "🌿",
-      "category": "",
-      "desc": "100% PLA植物基材料，耐-40℃低温不变脆，可家庭堆肥降解。碳足迹减少72%。",
-      "tags": [
-        "PLA",
-        "可降解",
-        "环保"
-      ],
-      "material": {
-        "name": "PLA（聚乳酸）",
-        "feature": "耐低温-40℃，家庭堆肥可降解",
-        "process": "热成型+抗冻改性",
-        "supplier": "Good Natured(美)/国内：金发科技"
-      }
-    },
-    {
-      "id": "n6",
-      "type": "newproduct",
-      "section": "newproduct",
-      "date": "2026-08-01",
-      "title": "茶颜悦色「桂花酒酿冰汤圆」",
-      "source": "天猫新品",
-      "sourceUrl": "https://xin.tmall.com/",
-      "image": "🍡",
-      "category": "休闲零食",
-      "desc": "跨界甜品+冷冻技术，酒酿风味+冰爽口感，抢占夏季冷冻甜品新赛道。200g×2盒/32.8元。",
-      "tags": [
-        "茶颜悦色",
-        "甜品",
-        "跨界"
-      ],
-      "innovation": {
-        "type": "场景创新",
-        "detail": "夏季冷冻甜品新场景，酒酿+冰爽差异化定位"
-      }
-    },
-    {
-      "id": "f3",
-      "type": "formulation",
-      "section": "formulation",
-      "date": "2026-08-01",
-      "title": "抗性糊精在低GI速冻面点中的应用方案",
-      "source": "食品工业科技",
-      "sourceUrl": "https://kns.cnki.net/",
-      "image": "🌾",
-      "category": "速冻面点",
-      "desc": "抗性糊精替代10%-15%小麦粉，可使速冻包子GI值从72降至54，复热后体积增大8%。",
-      "tags": [
-        "抗性糊精",
-        "低GI",
-        "健康"
-      ],
-      "formula": {
-        "ingredient": "抗性糊精",
-        "effect": "GI值降低25%，复热体积增大8%",
-        "applicable": "速冻包子、馒头、花卷",
-        "mechanism": "膳食纤维部分替代淀粉，降低血糖应答+改善面团持水性",
-        "supplier": "罗盖特(法)/国内：山东百龙创园"
-      }
-    },
-    {
-      "id": "n4",
-      "type": "newproduct",
-      "section": "newproduct",
-      "date": "2026-07-31",
-      "title": "美国Beyond Meat「冷冻植物肉酱意面」",
-      "source": "FoodBev",
-      "sourceUrl": "https://www.foodbev.com/",
-      "image": "🍝",
-      "category": "预制菜",
-      "desc": "植物蛋白肉酱+全麦意面一体化冷冻方案，复热后肉酱不分离。350g/$7.99。",
-      "tags": [
-        "植物基",
-        "Beyond Meat",
-        "美国"
-      ],
-      "innovation": {
-        "type": "配方创新",
-        "detail": "植物肉酱与意面一体化冷冻，复热不分层"
-      }
-    },
-    {
-      "id": "p3",
-      "type": "packaging",
-      "section": "packaging",
-      "date": "2026-07-30",
-      "title": "铝箔锁鲜自立袋",
-      "source": "Behance",
-      "sourceUrl": "https://www.behance.net/",
-      "image": "✨",
-      "category": "",
-      "desc": "PET/AL/PE三层复合结构，铝箔层提供99.9%光阻隔，底部自立设计提升货架陈列效果。",
-      "tags": [
-        "铝箔",
-        "自立袋",
-        "海鲜"
-      ],
-      "material": {
-        "name": "PET/AL/PE三层复合",
-        "feature": "99.9%光阻隔，底部自立",
-        "process": "干式复合+易撕口激光切割",
-        "supplier": "安姆科(Amcor)/国内：黄山永新"
-      }
-    },
-    {
-      "id": "f4",
-      "type": "formulation",
-      "section": "formulation",
-      "date": "2026-07-29",
-      "title": "TG酶在冷冻鱼丸弹性保持中的应用",
-      "source": "水产学报",
-      "sourceUrl": "https://kns.cnki.net/",
-      "image": "🐟",
-      "category": "冷冻调理食品",
-      "desc": "添加0.3%TG酶可使冷冻鱼丸冻藏6个月后弹性仅降8.5%(对照降32%)。",
-      "tags": [
-        "TG酶",
-        "弹性保持",
-        "鱼丸"
-      ],
-      "formula": {
-        "ingredient": "TG酶（谷氨酰胺转氨酶）",
-        "effect": "冻藏6个月弹性仅降8.5%",
-        "applicable": "冷冻鱼丸、虾滑、肉丸",
-        "mechanism": "催化蛋白分子间共价交联",
-        "supplier": "日本味之素/国内：江苏一鸣生物"
-      }
-    },
-    {
-      "id": "n5",
-      "type": "newproduct",
-      "section": "newproduct",
-      "date": "2026-07-28",
-      "title": "安井食品「麻辣小龙虾水饺」",
-      "source": "FoodTalks",
-      "sourceUrl": "https://www.foodtalks.cn/",
-      "image": "🦞",
-      "category": "冷冻食品",
-      "desc": "整只小龙虾入馅的工业化量产技术，虾仁保水处理后复热Q弹不碎。240g×3袋/45.9元。",
-      "tags": [
-        "安井",
-        "小龙虾",
-        "水饺"
-      ],
-      "innovation": {
-        "type": "工艺创新",
-        "detail": "整只虾仁入馅的工业化量产技术，保水不碎"
-      }
     }
   ]
 }
