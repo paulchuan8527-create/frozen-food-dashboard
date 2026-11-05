@@ -1,7 +1,7 @@
 {
   "meta": {
-    "updated": "2026-11-04",
-    "version": 1793763605,
+    "updated": "2026-11-05",
+    "version": 1793851119,
     "total": 150,
     "auto_generated": true,
     "sources": [
@@ -336,6 +336,187 @@
       }
     },
     {
+      "id": "05a456ddeef2",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-11-04",
+      "title": "Amazon, Walmart and PepsiCo court Thanksgiving shoppers with deals and festiv...",
+      "source": "FoodNavigator-Asia",
+      "sourceUrl": "https://www.foodnavigator.com/Article/2026/11/04/how-amazon-walmart-and-lays-target-thanksgiving-shoppers/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "📊",
+      "category": "",
+      "desc": "Thanksgiving shoppers want value. Amazon and Walmart are promoting meal deals while Lay’s and Hostess offer seasonal snacks.",
+      "tags": [],
+      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/VI6UBFNNAVBWPAPOELB2CRNUYA.jpg?auth=f9b4fb60c6f24c6f04a669acd078b5f31f862902ea1105672b655969d517b720&smart=true&width=2121&height=1414"
+    },
+    {
+      "id": "aa17dae3ee48",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-11-04",
+      "title": "61% of business leaders say the food system isn’t ready for the next decade",
+      "source": "FoodNavigator-Asia",
+      "sourceUrl": "https://www.foodnavigator.com/Article/2026/11/04/why-food-security-needs-manufacturing/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "📊",
+      "category": "",
+      "desc": "Food security is under pressure, but industry leaders say investing in manufacturing, processing and packaging innovation could make food systems more resilient, affordable and sustainable.",
+      "tags": [
+        "可持续",
+        "创新",
+        "包装"
+      ],
+      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/LCGOHJRT2FCJBBTYEPYRWD6YEQ.jpg?auth=2ce94e34b096f0ed5c8399f3e252984081a5115580d5c5ac1adedfbc0de37f9c&smart=true&width=2122&height=1412"
+    },
+    {
+      "id": "52a93d8cdd42",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-11-04",
+      "title": "Ferrero targets seasonal sales with Christmas campaign and limited-edition la...",
+      "source": "FoodNavigator-USA",
+      "sourceUrl": "https://www.confectionerynews.com/Article/2026/11/04/ferrero-targets-christmas-confectionery-sales-with-seasonal-launches/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "📊",
+      "category": "",
+      "desc": "Ferrero launches Christmas campaign and limited-edition Cinnamon Spice Squares as it targets festive confectionery sales.",
+      "tags": [],
+      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/3WBROL3TAREANPXAAYUEQ23MCY.png?auth=36a28d61393833db91b34cf7d4699b2694779f91dc0102c2688f84e650e2f6a4&smart=true&width=1297&height=965"
+    },
+    {
+      "id": "b5106a109bc0",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-11-04",
+      "title": "61% of business leaders say the food system isn’t ready for the next decade",
+      "source": "FoodNavigator-USA",
+      "sourceUrl": "https://www.foodnavigator.com/Article/2026/11/04/why-food-security-needs-manufacturing/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "📊",
+      "category": "",
+      "desc": "Food security is under pressure, but industry leaders say investing in manufacturing, processing and packaging innovation could make food systems more resilient, affordable and sustainable.",
+      "tags": [
+        "可持续",
+        "创新",
+        "包装"
+      ],
+      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/LCGOHJRT2FCJBBTYEPYRWD6YEQ.jpg?auth=2ce94e34b096f0ed5c8399f3e252984081a5115580d5c5ac1adedfbc0de37f9c&smart=true&width=2122&height=1412"
+    },
+    {
+      "id": "4c2725acb0fb",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-11-04",
+      "title": "Stout Collective’s Matt Tanaka Charts American Beer Branding Over the Last De...",
+      "source": "Dieline",
+      "sourceUrl": "https://thedieline.com/stout-collectives-matt-tanaka-charts-american-beer-branding-over-the-last-decade/",
+      "image": "📦",
+      "category": "",
+      "desc": "The founder and CEO of Stout Collective in Chicago reflects on the evolution of beer branding and packaging design he's experienced firsthand throughout his career. The post Stout Collective&#8217;s Matt Tanaka Charts American Beer Branding Over the Last Decade appeared first ...",
+      "tags": [
+        "包装"
+      ],
+      "_imageUrl": "https://thedieline.com/wp-content/uploads/2026/11/Goose_StoutCollective3-1.jpg"
+    },
+    {
+      "id": "bc2d3a3cf8c0",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-11-04",
+      "title": "Packaging You Shouldn’t Miss #148",
+      "source": "Packaging of the World",
+      "sourceUrl": "https://packagingoftheworld.com/2026/11/packaging-you-shouldnt-miss-148.html",
+      "image": "📦",
+      "category": "",
+      "desc": "Issue #148 brings together ten packaging projects where one clear idea shapes the whole design. A mezcal label peels back to reveal an invented village, a vodka monogram slowly mutates into an insect, round pouch windows become the wheels and balloons of a playful charcuterie ...",
+      "tags": [
+        "包装"
+      ],
+      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/11/oct-2026-t.jpg?fit=300%2C225&amp;ssl=1"
+    },
+    {
+      "id": "7ab0ac798ef0",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-11-04",
+      "title": "Weingut Leitz PNR / CHRD / SPRK",
+      "source": "Packaging of the World",
+      "sourceUrl": "https://packagingoftheworld.com/2026/11/weingut-leitz-pnr-chrd-sprk.html",
+      "image": "📦",
+      "category": "",
+      "desc": "Label design for Weingut Leitz. A Dealcoholized range of three wines. Pinot Noir, Chardonnay and a Sparkling wine. &#160;",
+      "tags": [],
+      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/11/jj_pnr_01-1-scaled-e1793785213648.jpg?fit=225%2C300&amp;ssl=1"
+    },
+    {
+      "id": "724524efbc07",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-11-04",
+      "title": "FruLove by SuperFresh",
+      "source": "Packaging of the World",
+      "sourceUrl": "https://packagingoftheworld.com/2026/11/frulove-by-superfresh.html",
+      "image": "📦",
+      "category": "",
+      "desc": "For the love of all that is fruity and cool: FruLove by SuperFresh. Not quite ice cream. Not just dessert. FruLove is a frozen sweet concept by SuperFresh that lives somewhere between a snack, a dessert, and a very good reason to open the freezer. From chocolate-covered raspbe...",
+      "tags": [
+        "冷冻食品"
+      ],
+      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/11/1_cover-1-e1793785188235.jpg?fit=300%2C169&amp;ssl=1"
+    },
+    {
+      "id": "de2c4e9d48ff",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-11-04",
+      "title": "Kushi Corn Snacks Packaging",
+      "source": "Packaging of the World",
+      "sourceUrl": "https://packagingoftheworld.com/2026/11/kushi-corn-snacks-packaging.html",
+      "image": "📦",
+      "category": "",
+      "desc": "Kushi is a brand that produces corn snacks with Indian spices. It targets the younger generation, who seek new and vibrant flavors amid the grey routine of everyday life. The collection is a line of corn puffs with unique flavors based on natural blends of Indian spices: tomat...",
+      "tags": [
+        "包装"
+      ],
+      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/11/A4-2-1-e1793785163236.jpg?fit=300%2C300&amp;ssl=1"
+    },
+    {
+      "id": "8d5c9a9a67d6",
+      "type": "newproduct",
+      "section": "newproduct",
+      "sub": "report",
+      "date": "2026-11-04",
+      "title": "Can science keep up with chocolate’s ambitions?",
+      "source": "BakeryandSnacks",
+      "sourceUrl": "https://www.bakeryandsnacks.com/Article/2026/11/04/chocolate-innovation-can-science-match-ambition/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "🆕",
+      "category": "休闲零食",
+      "desc": "Fermentation, cocoa alternatives and cultured cacao are giving bakery and snack makers new options for flavour, formulation and supply.",
+      "tags": [],
+      "_imageUrl": "https://www.bakeryandsnacks.com/resizer/v2/YBE7KE5J5ZG7DLQEDW537AIWQI.jpg?auth=3e03f4fe144e19681ad36099096e5fbaa362688c04a6974e918488dd45c8e8e2&smart=true&width=750&height=500"
+    },
+    {
+      "id": "0e343c33d278",
+      "type": "newproduct",
+      "section": "newproduct",
+      "sub": "report",
+      "date": "2026-11-04",
+      "title": "Are mystery flavours just a one-pack wonder?",
+      "source": "BakeryandSnacks",
+      "sourceUrl": "https://www.bakeryandsnacks.com/Article/2026/11/04/mystery-snack-flavours-can-curiosity-drive-repeat-sales/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "🆕",
+      "category": "休闲零食",
+      "desc": "From Pringles to Chips Ahoy!, snack brands turn secret flavours into guessing games. What keeps shoppers buying once the answer’s out?",
+      "tags": [],
+      "_imageUrl": "https://www.bakeryandsnacks.com/resizer/v2/OT2YYM7BR5GP5GNA7XWWXUQEUM.jpg?auth=18e914a8bdf4595e017fe41027fdb9f8a424cf830a7fd2c626365cd608e74af7&smart=true&width=2121&height=1414"
+    },
+    {
       "id": "7dcffc5a5db9",
       "type": "report",
       "section": "data",
@@ -622,6 +803,21 @@
         "可持续"
       ],
       "_imageUrl": "https://www.beveragedaily.com/resizer/v2/QEWKCUHR3NFJBPX7E67PPIRWTA.jpg?auth=2a863febf26e54b7ff3aa88cdb131f7fb6d7d4aad1dc16686c63323d3d854c64&smart=true&width=2119&height=1414"
+    },
+    {
+      "id": "94f91de6146d",
+      "type": "newproduct",
+      "section": "newproduct",
+      "sub": "report",
+      "date": "2026-11-03",
+      "title": "PepsiCo withdraws widely sold Walkers snack over labelling error",
+      "source": "BakeryandSnacks",
+      "sourceUrl": "https://www.foodmanufacture.co.uk/Article/2026/11/03/pepsico-has-pulled-a-walkers-snack-over-a-labelling-error/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "🆕",
+      "category": "休闲零食",
+      "desc": "",
+      "tags": [],
+      "_imageUrl": "https://www.bakeryandsnacks.com/resizer/v2/BNG6XYB3EZFNNMEKZIDAE5ZQH4.jpg?auth=19e20a1f71e4297b9037c763f00fc05bf7875d0d36ce94cf37a35f94e11f2b77&smart=true&width=2141&height=1400"
     },
     {
       "id": "cea01a65d74a",
@@ -952,6 +1148,21 @@
       "desc": "Oatly plans US price increases in 2027 and is considering hikes in Europe as higher fuel costs squeeze profits. A US fiber drink launch is set for January.",
       "tags": [],
       "_imageUrl": "https://www.beveragedaily.com/resizer/v2/LG5VHWUB7ZA3LLW5MSIVQJ3STU.png?auth=7a2671d09689acf19144a630b76d958494a597bafa21ace8e4c4322e77864e23&smart=true&width=1600&height=1143"
+    },
+    {
+      "id": "53ef68d31d2d",
+      "type": "newproduct",
+      "section": "newproduct",
+      "sub": "report",
+      "date": "2026-11-02",
+      "title": "Coca-Cola, Pepsi lose brand value as Nongfu Spring surges",
+      "source": "Beverage Daily",
+      "sourceUrl": "https://www.foodnavigator.com/Article/2026/11/02/coca-cola-pepsi-lose-brand-value-as-nongfu-spring-surges/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "🆕",
+      "category": "饮品",
+      "desc": "Coca-Cola and Pepsi retain the top beverage brand value spots",
+      "tags": [],
+      "_imageUrl": "https://www.beveragedaily.com/resizer/v2/7RKMLZBFAJBR7KHR44LKGRCOLQ.jpg?auth=562d75710719ad1a9f7c11a4f9269e08f299394d0b556127bdce063698b3b7ff&smart=true&width=2121&height=1414"
     },
     {
       "id": "7bcae3f479f9",
@@ -2321,213 +2532,6 @@
       "desc": "The diets consumers follow also shape food and beverage trends, from keto and paleo to vegetarian and vegan. What diets are consumers following?",
       "tags": [],
       "_imageUrl": "https://www.foodnavigator.com/resizer/v2/AA5TZKBKEVFO7HHBN6ORD3SDOY.jpg?auth=8b34707b9a908182d1324f9e0249adad71e7634e087c47afa1feb9bbb6d17394&smart=true&width=2235&height=1341"
-    },
-    {
-      "id": "61c510ed24f5",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-10-26",
-      "title": "DIELINE’s Best Halloween Packaging For 2026",
-      "source": "Dieline",
-      "sourceUrl": "https://thedieline.com/dielines-best-halloween-packaging-for-2026/",
-      "image": "📦",
-      "category": "",
-      "desc": "We've rounded up some of our favorite limited-edition 2026 Halloween packaging, and, yes, there's even a cancy corn fragrance. The post DIELINE&#8217;s Best Halloween Packaging For 2026 appeared first on DIELINE.",
-      "tags": [
-        "包装"
-      ],
-      "_imageUrl": "https://thedieline.com/wp-content/uploads/2026/10/Screenshot-2026-10-26-at-8.06.58-AM-1.png"
-    },
-    {
-      "id": "44d561bdce2c",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-10-26",
-      "title": "Matiz Makes Room for Imperfection in Its Ceramic Packaging",
-      "source": "Dieline",
-      "sourceUrl": "https://thedieline.com/matiz-makes-room-for-imperfection-in-its-ceramic-packaging/",
-      "image": "📦",
-      "category": "",
-      "desc": "Designed by Valeriia Löffler, Matiz’s ceramic packaging celebrates the beauty of imperfection through clay pink boxes, expressive handwritten typography, marbled tissue paper and personal product labels. The minimalist design brings the charm of handmade ceramics into every de...",
-      "tags": [
-        "包装"
-      ],
-      "_imageUrl": "https://thedieline.com/wp-content/uploads/2026/10/d4d4a8255424679.6aa01930d2569.jpg.webp"
-    },
-    {
-      "id": "28db6260501a",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-10-26",
-      "title": "Tribe Grows Up and Glows Up as Senne Skin",
-      "source": "Dieline",
-      "sourceUrl": "https://thedieline.com/tribe-grows-up-and-glows-up-as-senne-skin/",
-      "image": "📦",
-      "category": "",
-      "desc": "One&#038;Other rebrands Tribe Skincare as Senne Skin, with a swirling S, soft matte blues and color coded packaging made for sensitive skin shoppers who read every label. The post Tribe Grows Up and Glows Up as Senne Skin appeared first on DIELINE.",
-      "tags": [
-        "包装"
-      ],
-      "_imageUrl": "https://thedieline.com/wp-content/uploads/2026/10/OO046-OneOther-Tribe-to-SENNE_2-1d9e30de9836378eef49f22be9046fcc-scaled-1.jpg"
-    },
-    {
-      "id": "686040571c8c",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-10-26",
-      "title": "Shelf Life 133: Wellness Is Starting To Melt In Your Mouth",
-      "source": "Dieline",
-      "sourceUrl": "https://thedieline.com/shelf-life-133-wellness-is-starting-to-melt-in-your-mouth/",
-      "image": "📦",
-      "category": "",
-      "desc": "Dissolvable supplement strips from StripIt, INNER GLOW, RIN, and Sleep or Die are turning vitamins into a pocket-sized ritual, and their packaging is doing the heavy lifting. The post Shelf Life 133: Wellness Is Starting To Melt In Your Mouth appeared first on DIELINE.",
-      "tags": [
-        "包装"
-      ],
-      "_imageUrl": "https://thedieline.com/wp-content/uploads/2026/10/Subheading-4.png"
-    },
-    {
-      "id": "08f1e694443e",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-10-26",
-      "title": "Uncrustables becomes fridge friendly as sales top $1B",
-      "source": "Food Dive",
-      "sourceUrl": "https://www.fooddive.com/news/Smucker-Uncrustables-innovation-snacking-fridge/832155/",
-      "image": "📊",
-      "category": "",
-      "desc": "Owner J.M. Smucker developed a way to store the crustless sandwich without a freezer, solving one of the biggest obstacles preventing the fast-growing brand from reaching new consumers.",
-      "tags": [],
-      "_imageUrl": "https://imgproxy.divecdn.com/JLZcP-vjuTD0Npp_PF-vwfcaeeI4kMYmP2FDFa3ivHw/g:nowe:348:378/c:2045:1155/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS91bmNydXN0YWJsZXMuanBn.webp"
-    },
-    {
-      "id": "54e6c4b6cc12",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-10-26",
-      "title": "Kafka vodka: the metamorphosis",
-      "source": "Packaging of the World",
-      "sourceUrl": "https://packagingoftheworld.com/2026/10/kafka-vodka-the-metamorphosis.html",
-      "image": "📦",
-      "category": "",
-      "desc": "The project is based on the idea of packaging as a book, with each side of the bottle becoming a separate page and a stage in the transformation. As the bottle turns, the graphic symbol undergoes a gradual mutation: the letter “K” transforms into the image of an insect. The tr...",
-      "tags": [
-        "包装"
-      ],
-      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/10/2-29-e1793005847392.jpg?fit=300%2C169&amp;ssl=1"
-    },
-    {
-      "id": "dd29f52f2d31",
-      "type": "newproduct",
-      "section": "newproduct",
-      "sub": "report",
-      "date": "2026-10-26",
-      "title": "Kraft Heinz, Gerber, Once Upon a Farm are pouring into kids’ hydration",
-      "source": "Beverage Daily",
-      "sourceUrl": "https://www.foodnavigator.com/Article/2026/10/26/kraft-heinz-gerber-once-upon-a-farm-are-pouring-into-kids-hydration/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "🆕",
-      "category": "饮品",
-      "desc": "As parents seek lower-sugar functional beverages for children, brands including Capri Sun, Gerber and Once Upon a Farm and are expanding into hydration with electrolyte- and nutrient-enhanced drinks tailored to kids and teens.",
-      "tags": [],
-      "_imageUrl": "https://www.beveragedaily.com/resizer/v2/2ITLMHS2HFHDVDNMRV4BSZJQDI.jpg?auth=36e51146e0ca000e3107b01d1ac4db18c74847869c9a9e5ff893b75e2e31dd8f&smart=true&width=2120&height=1414"
-    },
-    {
-      "id": "fe28abda68a3",
-      "type": "newproduct",
-      "section": "newproduct",
-      "sub": "report",
-      "date": "2026-10-26",
-      "title": "Why dairy drinks are well positioned to capitalise on the benefit stacking trend",
-      "source": "Beverage Daily",
-      "sourceUrl": "https://www.dairyreporter.com/Article/2026/10/26/why-dairy-drinks-are-well-placed-to-capitalise-on-the-benefit-stacking-trend/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "🆕",
-      "category": "饮品",
-      "desc": "",
-      "tags": [],
-      "_imageUrl": "https://www.beveragedaily.com/resizer/v2/FWDOXRFOXBCR5GRAEOEJZZDYDQ.jpg?auth=7b19defc7a9bafb97836e9a64c45007aa5c70d3ead53c6240a0810c0aa5ca698&smart=true&width=2121&height=1414"
-    },
-    {
-      "id": "571399024582",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-10-23",
-      "title": "Reese’s Christmas rollout signals new confectionery playbook",
-      "source": "FoodNavigator-Asia",
-      "sourceUrl": "https://www.confectionerynews.com/Article/2026/10/23/reeses-festive-launch-signals-shift-towards-trusted-power-brands/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "📊",
-      "category": "",
-      "desc": "Hershey expands Reese’s for Christmas with Advent calendars, selection boxes and festive favourites. The launch highlights key confectionery trends including seasonal innovation, larger sharing formats and the growing power of trusted brands.",
-      "tags": [
-        "创新"
-      ],
-      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/4UPN65ZFEFFB3L6ZZPLQWHHVBA.jpg?auth=3abb646f9b92c0cecc634039a302beb1859ba1499b66ba142da1cbedd02c1047&smart=true&width=2272&height=1381"
-    },
-    {
-      "id": "0bcda89559f3",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-10-23",
-      "title": "General Mills, Archer and Conagra beef up their meat snack portfolios",
-      "source": "FoodNavigator-Asia",
-      "sourceUrl": "https://www.foodnavigator.com/Article/2026/10/23/general-mills-archer-and-conagra-expand-meat-snacks/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "📊",
-      "category": "",
-      "desc": "Explore new meat sticks from General Mills, Archer and Conagra, including Epic Wagyu beef, oven-roasted chicken and Slim Jim Cheese Mode.",
-      "tags": [],
-      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/W4MT5DCOMZAO7CF7T4YK3R6TV4.jpg?auth=6c7f4eec3075d2017151b05ead22838b715ea4e0cc387192719c21c2febd1eb8&smart=true&width=2121&height=1414"
-    },
-    {
-      "id": "cadc18cb2250",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-10-23",
-      "title": "Protein chips attract funding amid competitive protein-snackscape",
-      "source": "FoodNavigator-Asia",
-      "sourceUrl": "https://www.foodnavigator.com/Article/2026/10/23/wilde-lands-fresh-funding-amid-surging-demand-for-protein-rich-snacks/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "📊",
-      "category": "",
-      "desc": "Wilde, known for turning chicken into protein chips, landed a $40 million investment from S2G Investments as competition intensifies in the booming protein-snacking category.",
-      "tags": [],
-      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/PFJJ7AFW7NPN7EFGGHIYRYSH7I.png?auth=8964c0f944dcedf54dd2bc7b6ac1deaf03740ab2c55c08cc97cb9f1f8fbd8b7c&smart=true&width=800&height=450"
-    },
-    {
-      "id": "99ff47d889d7",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-10-23",
-      "title": "High protein won’t last forever",
-      "source": "FoodNavigator-Asia",
-      "sourceUrl": "https://www.foodnavigator.com/Article/2026/10/23/high-protein-trend-will-not-last-forever/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "📊",
-      "category": "",
-      "desc": "The high protein trend is all encompassing, spreading to nearly every corner of the food industry. But trends come and go. Food companies must be prepared for a time when such a trend is no longer so widespread.",
-      "tags": [],
-      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/4IY66GPVUBARNNHYTVU7CET2S4.jpg?auth=4e547698f9f9f50c7fe52537be9f6661568b51c195de5c9ce3752fc56c7a5b16&smart=true&width=2121&height=1414"
-    },
-    {
-      "id": "5dd349d85a56",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-10-23",
-      "title": "Nestlé factory closure signals new era of industry consolidation",
-      "source": "FoodNavigator-Asia",
-      "sourceUrl": "https://www.foodnavigator.com/Article/2026/10/23/nestle-to-close-solon-factory-amid-manufacturing-consolidation-drive/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "📊",
-      "category": "",
-      "desc": "Nestlé's Solon factory closure highlights the food giant's drive to streamline manufacturing operations, reflecting a wider industry trend towards consolidating production, improving efficiency and adapting facilities to changing consumer demand.",
-      "tags": [],
-      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/WUE6ZCRIUZH65ECFGYVW3MBNRQ.jpg?auth=7c8e99280a0e961472d26c6041eddfd62ea028a8f52b647e83ca40899de04bf2&smart=true&width=1999&height=1499"
     }
   ]
 }
