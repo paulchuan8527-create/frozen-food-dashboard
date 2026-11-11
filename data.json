@@ -1,7 +1,7 @@
 {
   "meta": {
-    "updated": "2026-11-10",
-    "version": 1794286746,
+    "updated": "2026-11-11",
+    "version": 1794367848,
     "total": 150,
     "auto_generated": true,
     "sources": [
@@ -336,6 +336,270 @@
       }
     },
     {
+      "id": "8b6a4b6fc6bd",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-11-10",
+      "title": "General Mills restructures into three segments",
+      "source": "FoodNavigator-Asia",
+      "sourceUrl": "https://www.foodnavigator.com/Article/2026/11/10/general-mills-reorganizes-and-names-new-leadership-in-restructured-company/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "📊",
+      "category": "",
+      "desc": "Food and beverage giant General Mills is restructuring into three business segments at the beginning of 2027. It recently named leadership to oversee those new segments.",
+      "tags": [],
+      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/CN6WJBPOWFBFTGNKX6DSMMZCNM.jpg?auth=f023edbe1111527d7455984b785f697e1b2a84b8b8b7f5de5164c72b716d6c23&smart=true&width=5280&height=3956"
+    },
+    {
+      "id": "019a62d176b6",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-11-10",
+      "title": "The cost of conflict: Food supply chains under pressure",
+      "source": "FoodNavigator-Asia",
+      "sourceUrl": "https://www.foodnavigator.com/Article/2026/11/10/global-conflict-impact-on-food-industry/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "📊",
+      "category": "",
+      "desc": "Wars around the world, including those in Ukraine, Sudan and Iran, have had a significant impact on food production. Imports and exports of key agricultural products like fertiliser are being restricted, and regionally concentrated ingredients like saffron and acacia gum are c...",
+      "tags": [
+        "原料"
+      ],
+      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/N2KTEXFVMRDUDPDZDCAMXIP7HA.jpg?auth=b3bccf8283ca5a41c62c0eb449f5b65dd8540e4a6f9569230381ec29041c5cf2&smart=true&width=2121&height=1414"
+    },
+    {
+      "id": "d5ec0491e879",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-11-10",
+      "title": "Hain Celestial’s portfolio reset faces test as sales continue to slide",
+      "source": "FoodNavigator-Asia",
+      "sourceUrl": "https://www.foodnavigator.com/Article/2026/11/10/hain-celestial-q1-results-margin-gains-sales-decline/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "📊",
+      "category": "",
+      "desc": "Hain Celestial reports improved gross margins, but sales fall in Q1 2027 as it shifts towards innovation-led growth amid debt pressures and portfolio changes.",
+      "tags": [
+        "创新"
+      ],
+      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/PGKJE2UCSVAKBESIWWZYJHYM34.jpg?auth=c856577053c6fba4c4dcf3a2850f977e02cc27335304e50a24f13f528ce4341c&smart=true&width=800&height=450"
+    },
+    {
+      "id": "7382c12aaf1f",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-11-10",
+      "title": "Consumers spend more for fewer groceries, raising the stakes for brands",
+      "source": "FoodNavigator-Asia",
+      "sourceUrl": "https://www.foodnavigator.com/Article/2026/11/10/why-food-brands-must-earn-their-place-in-consumers-increasingly-selective-baskets/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "📊",
+      "category": "",
+      "desc": "Consumers are spending more but buying less, forcing center-store brands to compete harder for limited basket space by proving their relevance through convenience, quality, affordability and trust.",
+      "tags": [],
+      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/4BVC77L7EFBETL3A2X6IPUNSII.jpg?auth=76e432c7a28128b8811bf70028b3a16ef8d550b3f800d562db32f30471ed7ce7&smart=true&width=2000&height=1500"
+    },
+    {
+      "id": "f820330c642c",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-11-10",
+      "title": "The cost of conflict: Food supply chains under pressure",
+      "source": "FoodNavigator-USA",
+      "sourceUrl": "https://www.foodnavigator.com/Article/2026/11/10/global-conflict-impact-on-food-industry/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "📊",
+      "category": "",
+      "desc": "Wars around the world, including those in Ukraine, Sudan and Iran, have had a significant impact on food production. Imports and exports of key agricultural products like fertiliser are being restricted, and regionally concentrated ingredients like saffron and acacia gum are c...",
+      "tags": [
+        "原料"
+      ],
+      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/N2KTEXFVMRDUDPDZDCAMXIP7HA.jpg?auth=b3bccf8283ca5a41c62c0eb449f5b65dd8540e4a6f9569230381ec29041c5cf2&smart=true&width=2121&height=1414"
+    },
+    {
+      "id": "82d3d4a9aa0a",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-11-10",
+      "title": "Hain Celestial’s portfolio reset faces test as sales continue to slide",
+      "source": "FoodNavigator-USA",
+      "sourceUrl": "https://www.foodnavigator.com/Article/2026/11/10/hain-celestial-q1-results-margin-gains-sales-decline/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "📊",
+      "category": "",
+      "desc": "Hain Celestial reports improved gross margins, but sales fall in Q1 2027 as it shifts towards innovation-led growth amid debt pressures and portfolio changes.",
+      "tags": [
+        "创新"
+      ],
+      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/PGKJE2UCSVAKBESIWWZYJHYM34.jpg?auth=c856577053c6fba4c4dcf3a2850f977e02cc27335304e50a24f13f528ce4341c&smart=true&width=800&height=450"
+    },
+    {
+      "id": "0c493ccca1f0",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-11-10",
+      "title": "Poppi’s Founders Launch Jetty, a Hydration Drink That Doesn’t Take Itself Too...",
+      "source": "Dieline",
+      "sourceUrl": "https://thedieline.com/poppis-founders-launch-jetty-a-hydration-drink-that-doesnt-take-itself-too-seriously/",
+      "image": "📦",
+      "category": "",
+      "desc": "Poppi’s founders are back with Jetty, an electrolyte drink that trades workout culture for everyday hydration. With dewy fruit illustrations, nostalgic packaging, and a little self-aware humor, it’s already earned a second look in a crowded aisle. The post Poppi’s Founders Lau...",
+      "tags": [
+        "包装"
+      ],
+      "_imageUrl": "https://thedieline.com/wp-content/uploads/2026/11/FamilyShot_260916_Jetty_Launch_Photoshoot31432_BYH_1_1-scaled.jpg"
+    },
+    {
+      "id": "efef2fb32307",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-11-10",
+      "title": "Centtral Design Studio Gives Bitty’s Healthy Snacks a Neon Glow-Up",
+      "source": "Dieline",
+      "sourceUrl": "https://thedieline.com/centtral-design-studio-gives-bittys-healthy-snacks-a-neon-glow-up/",
+      "image": "📦",
+      "category": "",
+      "desc": "Centtral Design Studio gave Bitty’s better-for-you chocolate snacks a neon yellow refresh, with flavor-coded wrappers and playful ingredient patterns. The post Centtral Design Studio Gives Bitty’s Healthy Snacks a Neon Glow-Up appeared first on DIELINE.",
+      "tags": [
+        "原料"
+      ],
+      "_imageUrl": "https://thedieline.com/wp-content/uploads/2026/11/Bitty_CS_14-eea76ce0e1e9e728f700e530084ab47c.jpg"
+    },
+    {
+      "id": "4441ec8d939e",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-11-10",
+      "title": "Baby Food Doesn’t Have to Be Beige or Cartoonish: Lune & Wild Found the Happy...",
+      "source": "Dieline",
+      "sourceUrl": "https://thedieline.com/baby-food-doesnt-have-to-be-beige-or-cartoonish-lune-wild-found-the-happy-middle/",
+      "image": "📦",
+      "category": "",
+      "desc": "Wild People gave Lune &#038; Wild’s organic kids’ snacks a handmade rebrand, with cut-paper ingredient illustrations, wobbly lettering, and sunny, curious color. The post Baby Food Doesn’t Have to Be Beige or Cartoonish: Lune &amp; Wild Found the Happy Middle appeared first on...",
+      "tags": [
+        "原料"
+      ],
+      "_imageUrl": "https://thedieline.com/wp-content/uploads/2026/11/Wild-People-Lune-Wild-Feature-c2667ee37f00fbeaa42037b1643f0d2d.png"
+    },
+    {
+      "id": "646130383f44",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-11-10",
+      "title": "Lustau, academic proyect – Nuni Lab",
+      "source": "Packaging of the World",
+      "sourceUrl": "https://packagingoftheworld.com/2026/11/lustau-academic-proyect-nuni-lab.html",
+      "image": "📦",
+      "category": "",
+      "desc": "This academic packaging project reimagines Lustau Vermut Rojo for a younger adult audience while preserving its connection to Jerez and its winemaking heritage. Developed as an independent educational exercise, the proposal includes a 100 cl bottle, a wraparound label and a se...",
+      "tags": [
+        "包装"
+      ],
+      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/11/Mesa-de-trabajo-1-2-scaled-e1794301065676.png?fit=240%2C300&amp;ssl=1"
+    },
+    {
+      "id": "214cf9d95c44",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-11-10",
+      "title": "LIADA",
+      "source": "Packaging of the World",
+      "sourceUrl": "https://packagingoftheworld.com/2026/11/liada.html",
+      "image": "📦",
+      "category": "",
+      "desc": "ja està LIADA. [un vi fet per celebrar la vida] Un projecte d’identitat i packaging que parteix d’una idea molt clara: el vi és molt més que una beguda, és part de les experiències, les trobades i els moments que val la pena celebrar. He desenvolupat una identitat visual que c...",
+      "tags": [
+        "包装"
+      ],
+      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/11/POST-LIADA-PSD-3-1-e1794301007192.jpg?fit=225%2C300&amp;ssl=1"
+    },
+    {
+      "id": "aa108ac40bd4",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-11-10",
+      "title": "Morskaya Pena | Premium Crab Spread Packaging",
+      "source": "Packaging of the World",
+      "sourceUrl": "https://packagingoftheworld.com/2026/11/morskaya-pena-premium-crab-spread-packaging.html",
+      "image": "📦",
+      "category": "",
+      "desc": "ABOUT Morskaya Pena (“Sea Foam”) is a premium brand of Kamchatka crab spreads for those who appreciate refined flavour combinations. The range includes three varieties: orange and saffron, pear and juniper, and white pepper and bergamot. The packaging brings together the produ...",
+      "tags": [
+        "包装"
+      ],
+      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/11/Slide-16_9-140%D1%8C%D1%8C%D1%8C-5-e1794300987360.png?fit=300%2C169&amp;ssl=1"
+    },
+    {
+      "id": "aa687178afc6",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-11-10",
+      "title": "ZERO11 Captures the Spirit of the Italian Summer in Lemonadas",
+      "source": "Packaging of the World",
+      "sourceUrl": "https://packagingoftheworld.com/2026/11/zero11-captures-the-spirit-of-the-italian-summer-in-lemonadas.html",
+      "image": "📦",
+      "category": "",
+      "desc": "Zero11 Captures the Spirit of the Italian Summer in Lemonadas Brand Identity and Packaging A Taste of the Italian Summer, One Glass at a Time What if an ordinary glass of water could feel like a little escape to the Italian coast? That was the starting point for Lemonadas, a n...",
+      "tags": [
+        "包装"
+      ],
+      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/11/32568-wbds-image-01-1-e1794300773203.webp?fit=300%2C225&amp;ssl=1"
+    },
+    {
+      "id": "4413a824e02e",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-11-10",
+      "title": "Moss chips",
+      "source": "Packaging of the World",
+      "sourceUrl": "https://packagingoftheworld.com/2026/11/moss-chips.html",
+      "image": "📦",
+      "category": "",
+      "desc": "Moss Chips is a brand of chips made from Icelandic moss. Trolls symbolize Scandinavian myths and the connection between moss and food. Moss Chips encourages you to be strong and healthy, like a troll. Not only are the chips natural and healthy, but they also invite you to imme...",
+      "tags": [],
+      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/11/-scaled-e1794300724119.jpg?fit=213%2C300&amp;ssl=1"
+    },
+    {
+      "id": "ccb0bf7aaf49",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-11-10",
+      "title": "Ferrara to shutter Chicago plant, impacting more than 150 workers",
+      "source": "Food Dive",
+      "sourceUrl": "https://www.fooddive.com/news/ferrara-closing-chicago-plant-jobs-snacking/874294/",
+      "image": "📊",
+      "category": "",
+      "desc": "The closure, expected to occur in April 2027, comes as the Laffy Taffy and Jelly Belly maker assesses market conditions and its long-term innovation plans.",
+      "tags": [
+        "创新"
+      ],
+      "_imageUrl": "https://imgproxy.divecdn.com/B_-XtiQyWRrYqsts3rzq7Pzuln3UkZw63G6xEoKmkCs/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9QWExfMjAyMjEwMDVfMTQxMTM5MjQ2LmpwZw==.webp"
+    },
+    {
+      "id": "7dca1d502240",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-11-10",
+      "title": "Mars to invest $1.4B in US manufacturing, operations in 2027",
+      "source": "Food Dive",
+      "sourceUrl": "https://www.fooddive.com/news/mars-invest-us-manufacturing-operations-snacking-kellanova-acquisition/874254/",
+      "image": "📊",
+      "category": "",
+      "desc": "The investment, the largest made by the M&amp;Ms maker in a single year, will help grow its snacking portfolio following its $36 billion acquisition of Kellanova.",
+      "tags": [],
+      "_imageUrl": "https://imgproxy.divecdn.com/Cvb-tJIAKSom1fuvdBHQuxaY5YoFQmxOeiDwKIPs1P8/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9NYXJzX0luY29ycG9yYXRlZF9DaGVlel9JdF9Jbm5vdmF0aW9uc19fX0dsdXRlbl9GcmVlLmpwZw==.webp"
+    },
+    {
       "id": "e6ab15a6e527",
       "type": "packaging",
       "section": "packaging",
@@ -498,6 +762,38 @@
       "desc": "US tariff uncertainty complicates European bakery investment, with freight costs, customer demand and specialist production shaping whether to build or export.",
       "tags": [],
       "_imageUrl": "https://www.bakeryandsnacks.com/resizer/v2/Q25IDQXSYRHRFDPACVQFZLNV2Y.jpg?auth=7b9fa59e8c45720c51640568a5aa0e8c1c9bfcde20426411ec05bc47bcd100a4&smart=true&width=2121&height=1414"
+    },
+    {
+      "id": "66f275667758",
+      "type": "newproduct",
+      "section": "newproduct",
+      "sub": "report",
+      "date": "2026-11-09",
+      "title": "How clear protein boosted the functional drinks category",
+      "source": "Beverage Daily",
+      "sourceUrl": "https://www.foodnavigator.com/Article/2026/11/09/clear-protein-expands-potential-of-high-protein-drinks/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "🆕",
+      "category": "饮品",
+      "desc": "Clear protein, which allows manufacturers to produce high-protein drinks that do not have the category's traditional milky, thick texture, drastically expands what the category can do. Protein can now be used in clear drinks such as soft drinks and waters.",
+      "tags": [],
+      "_imageUrl": "https://www.beveragedaily.com/resizer/v2/JC6EZSQ7GJEO5JV47533TYH6GI.jpg?auth=0ff5a4820bda76fe06629805ee4499c20b2d3b5ad981b65d3dc2bccc01b0f85d&smart=true&width=2121&height=1414"
+    },
+    {
+      "id": "68f5197d7aa9",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-11-09",
+      "title": "Mondelēz shifts strategy to drive growth",
+      "source": "Food Manufacture",
+      "sourceUrl": "https://www.foodnavigator.com/Article/2026/11/09/mondelez-growth-strategy-revealed-as-market-share-gains-accelerate/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "📊",
+      "category": "",
+      "desc": "Mondelēz is driving growth through market share gains, emerging market expansion, affordability-focused innovation and strategic distribution, positioning itself to outperform in a rapidly evolving confectionery sector.",
+      "tags": [
+        "创新"
+      ],
+      "_imageUrl": "https://www.foodmanufacture.co.uk/resizer/v2/ADROHOX2AZGHXB3CM5RKG3ONBM.jpg?auth=d070f0cd1ad547f965281bd6b75c6ab70ce80c81a2f869458e8ae35226c45e5b&smart=true&width=2121&height=1414"
     },
     {
       "id": "d6f60896ef33",
@@ -877,6 +1173,23 @@
         "原料"
       ],
       "_imageUrl": "https://www.foodmanufacture.co.uk/resizer/v2/3HT5FFMEFNA53MEZE7DSJJYAAU.jpg?auth=db7f7a01eaa6326056d2e82a06864eb5e6db0576f34f5e3d750f543e92bfb9b7&smart=true&width=824&height=465"
+    },
+    {
+      "id": "57835bee3691",
+      "type": "newproduct",
+      "section": "newproduct",
+      "sub": "report",
+      "date": "2026-11-06",
+      "title": "The future of food: Welcome to 2036",
+      "source": "BakeryandSnacks",
+      "sourceUrl": "https://www.foodnavigator.com/Article/2026/11/06/the-future-of-food-predictions-for-2036/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "🆕",
+      "category": "休闲零食",
+      "desc": "What will the food industry look like in 2036? From AI-powered product development and personalised nutrition to food sovereignty, health-driven innovation and the decline of mass markets, we reveal the trends set to transform the industry over the next decade.",
+      "tags": [
+        "创新"
+      ],
+      "_imageUrl": "https://www.bakeryandsnacks.com/resizer/v2/IAEJIXKXUBCYJF6L2HITSCFCZQ.jpg?auth=70b76151c1adc64c5963f49bafb2cc886d472296f8e248de3d6c90fc47d9e2c5&smart=true&width=1414&height=973"
     },
     {
       "id": "59e8bfe91885",
@@ -2243,301 +2556,6 @@
       "desc": "Luminous Design celebrates 25 years with 1ST25Y, four handcrafted ceramic vessels packed in mirrored silver archive boxes that bring back the physical portfolio. The post Luminous Design’s 25th Anniversary Gift Makes the Case for the Physical Portfolio appeared first on DIELINE.",
       "tags": [],
       "_imageUrl": "https://thedieline.com/wp-content/uploads/2026/10/544e2d255410271.6a9fd63b48ec9.jpg.webp"
-    },
-    {
-      "id": "a613f3fa28f4",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-10-30",
-      "title": "MAGMA: design Identity for a product brand of spicy beverages",
-      "source": "Packaging of the World",
-      "sourceUrl": "https://packagingoftheworld.com/2026/10/magma-design-identity-for-a-product-brand-of-spicy-beverages.html",
-      "image": "📦",
-      "category": "",
-      "desc": "MAGMA offers hot beverages for those who appreciate unique flavors and high-quality products. The brand concept is rooted in the energy of a sun-drenched Mexico, drawing inspiration from its culinary traditions and the diverse flavor combinations found in Mexican cuisine. The ...",
-      "tags": [],
-      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/10/Can-Mockups-9-2-1-scaled-e1793353805419.png?fit=300%2C200&amp;ssl=1"
-    },
-    {
-      "id": "8fd6f1bc70e7",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-10-30",
-      "title": "Hallazgos",
-      "source": "Packaging of the World",
-      "sourceUrl": "https://packagingoftheworld.com/2026/10/hallazgos.html",
-      "image": "📦",
-      "category": "",
-      "desc": "HALLAZGOS by Indeleble Wines The winemaker wanted to experiment, try new things, and embrace the freedom to play. Each wine could be different, never to be repeated the following year. This raised a question: how do you design labels for wines that don’t yet exist? We develope...",
-      "tags": [],
-      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/10/Mesa-de-trabajo-15-100-3-e1793350744353.jpg?fit=300%2C167&amp;ssl=1"
-    },
-    {
-      "id": "0f620809d872",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-10-30",
-      "title": "Desert Falcon luxury",
-      "source": "Packaging of the World",
-      "sourceUrl": "https://packagingoftheworld.com/2026/10/desert-falcon-luxury.html",
-      "image": "📦",
-      "category": "",
-      "desc": "CONCEPT TITLE: Desert Falcon — Luxury Niche Perfume Concept PROJECT OVERVIEW: &#8220;Desert Falcon&#8221; is an embodiment of Arabian heritage, strength, and modern luxury. Designed for the high-end niche perfume market, this concept seamlessly marries striking aesthetics with...",
-      "tags": [],
-      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/10/1000100043-1-e1793350633652.jpg?fit=240%2C300&amp;ssl=1"
-    },
-    {
-      "id": "c7965510da97",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-10-30",
-      "title": "Crakky",
-      "source": "Packaging of the World",
-      "sourceUrl": "https://packagingoftheworld.com/2026/10/crakky.html",
-      "image": "📦",
-      "category": "",
-      "desc": "A brand that promotes positive energy: more impact on consumers, less on the environment. Crakky was created to transform everyday snacking through design that combines a bold aesthetic with sustainability. The project elevates a simple product—coated peanuts—into a desirable ...",
-      "tags": [],
-      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/10/CRAKKY_06-1-scaled-e1793350548359.jpg?fit=240%2C300&amp;ssl=1"
-    },
-    {
-      "id": "b6f1204799c6",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-10-30",
-      "title": "Leftovers: Pop-Tarts launches flavor inspired by Liquid Death | Bachan’s ente...",
-      "source": "Food Dive",
-      "sourceUrl": "https://www.fooddive.com/news/pop-tarts-liquid-death-bachans-japanese-mayo-thats-it-granola/873310/",
-      "image": "📊",
-      "category": "",
-      "desc": "The breakfast pastry and canned water brands are joining together for a second collaboration, while That's it. fruit bars extend into granola.",
-      "tags": [
-        "日本"
-      ],
-      "_imageUrl": "https://imgproxy.divecdn.com/G6KnhHAUYkxlPSuqU8LzeLSHKyGUgEe-L84zepg40Dc/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9Qb3AtVGFydHMteC1MaXF1aWQtRGVhdGgtS01WXzEwLTktMjAyNi5qcGc=.webp"
-    },
-    {
-      "id": "88d530769063",
-      "type": "newproduct",
-      "section": "newproduct",
-      "sub": "report",
-      "date": "2026-10-30",
-      "title": "Baker’s yeast muscles into high-protein snacks",
-      "source": "BakeryandSnacks",
-      "sourceUrl": "https://www.bakeryandsnacks.com/Article/2026/10/30/can-bakers-yeast-muscle-into-high-protein-snacks/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "🆕",
-      "category": "休闲零食",
-      "desc": "As whey prices soar, Spacemilk shows how baker’s yeast protein could open new opportunities in high-protein bakery and snacks.",
-      "tags": [],
-      "_imageUrl": "https://www.bakeryandsnacks.com/resizer/v2/FVEYKZGPO5GBJP2IDEGNAW3PJY.jpg?auth=f383bb0077e3afc1530804750161814face15543f36b82712c4ce5ac66af9ea2&smart=true&width=750&height=500"
-    },
-    {
-      "id": "61c98be83441",
-      "type": "newproduct",
-      "section": "newproduct",
-      "sub": "report",
-      "date": "2026-10-30",
-      "title": "Thanksgiving flavours go snack-sized",
-      "source": "BakeryandSnacks",
-      "sourceUrl": "https://www.bakeryandsnacks.com/Article/2026/10/30/thanksgiving-snack-trends-flavours-sides-and-new-uses/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "🆕",
-      "category": "休闲零食",
-      "desc": "Campbell’s Thanksgiving findings reveal how comfort flavours and easy recipes give snack producers more ways to reach shoppers before, during and after dinner.",
-      "tags": [],
-      "_imageUrl": "https://www.bakeryandsnacks.com/resizer/v2/DJ2VZVA5AVCQFOGBHKTQKVXVLQ.jpg?auth=0d73bf5afb16dbe54f240e122fd2fee2d8d9036a1064792b67e59baf574f0242&smart=true&width=2105&height=1425"
-    },
-    {
-      "id": "d009461a9a84",
-      "type": "newproduct",
-      "section": "newproduct",
-      "sub": "report",
-      "date": "2026-10-30",
-      "title": "Mondelēz Q3 profits surge amid surprise acquisition",
-      "source": "BakeryandSnacks",
-      "sourceUrl": "https://www.confectionerynews.com/Article/2026/10/30/mondelez-returns-to-volume-led-growth-as-q3-profits-surge/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "🆕",
-      "category": "休闲零食",
-      "desc": "Mondelēz returns to volume-led growth as Q3 profits surge, shareholders rewarded and Undercover Snacks acquisition signals expansion into permissible indulgence.",
-      "tags": [],
-      "_imageUrl": "https://www.bakeryandsnacks.com/resizer/v2/QF73WXPO7JEKZIKMZW5RFV2M2M.jpg?auth=ddaa776dab6a14279d840473c43269b577bd328dcfb20611139ce3a056c9c95c&smart=true&width=2121&height=1414"
-    },
-    {
-      "id": "a93fdacf8f16",
-      "type": "newproduct",
-      "section": "newproduct",
-      "sub": "report",
-      "date": "2026-10-30",
-      "title": "3 ways Google DeepMind is using AI to reshape the food system",
-      "source": "BakeryandSnacks",
-      "sourceUrl": "https://www.foodnavigator.com/Article/2026/10/30/google-deepmind-from-alphafold-to-disease-resistant-crops/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "🆕",
-      "category": "休闲零食",
-      "desc": "From AlphaFold and disease-resistant crops to virtual cells, Google DeepMind is exploring how AI can accelerate agricultural and food innovation.",
-      "tags": [
-        "创新"
-      ],
-      "_imageUrl": "https://www.bakeryandsnacks.com/resizer/v2/QEN2SGCW25EQJPQPUOYRFKDYHY.jpg?auth=7d82ec2b71482c714316c2c57c99cf63c2efa3556395de712f6017874f6b6897&smart=true&width=2121&height=1414"
-    },
-    {
-      "id": "1485b591a391",
-      "type": "newproduct",
-      "section": "newproduct",
-      "sub": "report",
-      "date": "2026-10-30",
-      "title": "Whisky’s next opportunity: From Highballs to RTDs",
-      "source": "Beverage Daily",
-      "sourceUrl": "https://www.beveragedaily.com/Article/2026/10/30/whiskys-next-opportunity-highballs-to-rtds/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "🆕",
-      "category": "饮品",
-      "desc": "Whisky brands are exploring lighter serves, contemporary cocktails and premium RTD formats to attract new consumers and create fresh drinking occasions. But how can the category broaden its appeal while retaining the heritage, craftsmanship and character that make the spirit d...",
-      "tags": [],
-      "_imageUrl": "https://www.beveragedaily.com/resizer/v2/BMC7L3BXGNHL7CDD2673FVIQW4.jpg?auth=ceae066893308fbec5ad812dd3ce6243500a3731a6c78d33bd71c578b368d5ec&smart=true&width=2120&height=1414"
-    },
-    {
-      "id": "4bc1937ca639",
-      "type": "newproduct",
-      "section": "newproduct",
-      "sub": "report",
-      "date": "2026-10-30",
-      "title": "New beverage launches: From functional fizz to flavoured whiskey",
-      "source": "Beverage Daily",
-      "sourceUrl": "https://www.beveragedaily.com/Article/2026/10/30/new-drinks-launches-functional-spirits-rtds/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "🆕",
-      "category": "饮品",
-      "desc": "Explore the latest beverage launches across non-alcoholic sparkling wine, functional sodas, RTDs, premium spirits and craft soft drinks as brands respond to demand for moderation, convenience and premium drinking experiences.",
-      "tags": [],
-      "_imageUrl": "https://www.beveragedaily.com/resizer/v2/IFZR77RUWFAATG4JQCEJSVUGQQ.jpg?auth=8ceebaa8e682f035e18810654ff98d86f70ca3bb14ab9afecf393bba4e06481c&smart=true&width=5828&height=3278"
-    },
-    {
-      "id": "77b0dfedf0db",
-      "type": "newproduct",
-      "section": "newproduct",
-      "sub": "report",
-      "date": "2026-10-30",
-      "title": "Deposit Return Scheme: What drinks businesses need to know",
-      "source": "Beverage Daily",
-      "sourceUrl": "https://www.beveragedaily.com/Article/2026/10/30/deposit-return-scheme-what-drinks-businesses-should-know/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "🆕",
-      "category": "饮品",
-      "desc": "Drinks manufacturers must prepare for the UK's 2027 Deposit Return Scheme, including new packaging specifications, labelling requirements, producer fees and compliance obligations.",
-      "tags": [
-        "包装"
-      ],
-      "_imageUrl": "https://www.beveragedaily.com/resizer/v2/5G2364SRVVDT5A6L5EFUX2SEOA.jpg?auth=2b7c874874918880a38ea28cbe31542781016fb788f6d679d04593434c626c4a&smart=true&width=2121&height=1414"
-    },
-    {
-      "id": "1c12b53582f5",
-      "type": "newproduct",
-      "section": "newproduct",
-      "sub": "report",
-      "date": "2026-10-30",
-      "title": "7 consumer shifts that will define food and drink in 2027",
-      "source": "Beverage Daily",
-      "sourceUrl": "https://www.foodnavigator.com/Article/2026/10/30/the-consumer-shifts-defining-2027/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "🆕",
-      "category": "饮品",
-      "desc": "Consumers are changing fast. From GLP-1s and climate concern to sustainability and shared living, these seven shifts will redefine food and drink by 2027",
-      "tags": [],
-      "_imageUrl": "https://www.beveragedaily.com/resizer/v2/CPCFGRPE3FAEZPISJBBGJNMBYE.jpg?auth=73008629b7bc9504a29e7af631e865441dcc757b0cfb6fabb76693722d0c93dc&smart=true&width=2121&height=1414"
-    },
-    {
-      "id": "f4209a4d1062",
-      "type": "newproduct",
-      "section": "newproduct",
-      "sub": "report",
-      "date": "2026-10-30",
-      "title": "Whisky’s next opportunity: From highballs to RTDs",
-      "source": "Beverage Daily",
-      "sourceUrl": "https://www.beveragedaily.com/Article/2026/10/30/whiskys-next-opportunity-highballs-to-rtds/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "🆕",
-      "category": "饮品",
-      "desc": "Whisky brands are exploring lighter serves, contemporary cocktails and premium RTD formats to attract new consumers and create fresh drinking occasions. But how can the category broaden its appeal while retaining the heritage, craftsmanship and character that make the spirit d...",
-      "tags": [],
-      "_imageUrl": "https://www.beveragedaily.com/resizer/v2/BMC7L3BXGNHL7CDD2673FVIQW4.jpg?auth=ceae066893308fbec5ad812dd3ce6243500a3731a6c78d33bd71c578b368d5ec&smart=true&width=2120&height=1414"
-    },
-    {
-      "id": "a3042346c437",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-10-29",
-      "title": "Mondelēz turns Toblerone into flavour innovation engine",
-      "source": "FoodNavigator-Asia",
-      "sourceUrl": "https://www.confectionerynews.com/Article/2026/10/29/mondelez-leans-into-flavour-innovation-with-new-toblerone-flavour/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "📊",
-      "category": "",
-      "desc": "Toblerone has launched a limited-edition Pistachio Gelato flavour at Istanbul Airport as Mondelēz leans into flavour innovation, travel retail exclusives and destination-inspired confectionery.",
-      "tags": [
-        "创新"
-      ],
-      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/OQ3T5TCTLBCJNKPJEQSOCTQSYQ.jpg?auth=76df68db06826840c622d9363b921166d1c179dff1052058a3f96a2ac57b6994&smart=true&width=2480&height=1671"
-    },
-    {
-      "id": "7988233a7011",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-10-29",
-      "title": "New cocoa powder alternative targets GLP-1 trends and supply risks",
-      "source": "FoodNavigator-Asia",
-      "sourceUrl": "https://www.foodnavigator.com/Article/2026/10/29/planet-a-foods-launches-cocoa-booster-replacer/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "📊",
-      "category": "",
-      "desc": "Planet A Foods launches Cocoa Booster, a high-fiber cocoa powder replacer that can replace up to 100% of cocoa in select applications amid rising costs and GLP-1-driven demand shifts.",
-      "tags": [],
-      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/IKIRDFA6KFCZBH4FBKJPATPUFU.jpg?auth=d012fa9a43f5ce26c6e9cb2dc9ba81c83e6aa5e30bb3747e1caad0bd1cf2056a&smart=true&width=2121&height=1414"
-    },
-    {
-      "id": "29484c0a2a9f",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-10-29",
-      "title": "Mondelēz turns Toblerone into flavour innovation engine",
-      "source": "FoodNavigator-USA",
-      "sourceUrl": "https://www.confectionerynews.com/Article/2026/10/29/mondelez-leans-into-flavour-innovation-with-new-toblerone-flavour/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "📊",
-      "category": "",
-      "desc": "Toblerone has launched a limited-edition Pistachio Gelato flavour at Istanbul Airport as Mondelēz leans into flavour innovation, travel retail exclusives and destination-inspired confectionery.",
-      "tags": [
-        "创新"
-      ],
-      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/OQ3T5TCTLBCJNKPJEQSOCTQSYQ.jpg?auth=76df68db06826840c622d9363b921166d1c179dff1052058a3f96a2ac57b6994&smart=true&width=2480&height=1671"
-    },
-    {
-      "id": "5cd535e3c1ab",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-10-29",
-      "title": "New cocoa powder alternative targets GLP-1 trends and supply risks",
-      "source": "FoodNavigator-USA",
-      "sourceUrl": "https://www.foodnavigator.com/Article/2026/10/29/planet-a-foods-launches-cocoa-booster-replacer/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "📊",
-      "category": "",
-      "desc": "Planet A Foods launches Cocoa Booster, a high-fiber cocoa powder replacer that can replace up to 100% of cocoa in select applications amid rising costs and GLP-1-driven demand shifts.",
-      "tags": [],
-      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/IKIRDFA6KFCZBH4FBKJPATPUFU.jpg?auth=d012fa9a43f5ce26c6e9cb2dc9ba81c83e6aa5e30bb3747e1caad0bd1cf2056a&smart=true&width=2121&height=1414"
-    },
-    {
-      "id": "910fd5576b64",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-10-29",
-      "title": "Nestlé tackles regenerative agriculture’s missing piece",
-      "source": "FoodNavigator-USA",
-      "sourceUrl": "https://www.foodnavigator.com/Article/2026/10/29/nestle-x-birdlife-collaboration-signals-next-phase-of-regenerative-agriculture/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "📊",
-      "category": "",
-      "desc": "Nestlé and BirdLife Europe launch three-and-a-half-year project to measure how regenerative agriculture impacts biodiversity, signalling a broader shift beyond soil health and carbon towards ecosystem restoration.",
-      "tags": [],
-      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/UI766HWE6BHYLOL7MHUMCUDI4Q.jpg?auth=52122dfa8e8ed938af79534ebbd1fec3bf74b87b07e0485aa58c525cd496cd98&smart=true&width=4528&height=3012"
     }
   ]
 }
