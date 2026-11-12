@@ -1,7 +1,7 @@
 {
   "meta": {
-    "updated": "2026-11-11",
-    "version": 1794367848,
+    "updated": "2026-11-12",
+    "version": 1794458424,
     "total": 150,
     "auto_generated": true,
     "sources": [
@@ -336,6 +336,309 @@
       }
     },
     {
+      "id": "a0553380be63",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-11-11",
+      "title": "AI is taking over R&D: What this means for the food industry",
+      "source": "FoodNavigator-Asia",
+      "sourceUrl": "https://www.foodnavigator.com/Article/2026/11/11/ai-use-in-food-rd-pros-and-cons/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "📊",
+      "category": "",
+      "desc": "AI is used widely in R&amp;D for food, with more than 90% of food and beverage R&amp;D leaders utilising the technology. AI can cut R&amp;D time and save costs, but it is not without its disadvantages.",
+      "tags": [],
+      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/UBXXVGROFVDBFLQNVAT3YC7IIQ.jpg?auth=1850613335a428b5cb25e6d30bbaded90981eeb5c959522523dd7c9193c98fb6&smart=true&width=3519&height=2202"
+    },
+    {
+      "id": "b3acc2adf9e8",
+      "type": "compliance",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-11-11",
+      "title": "Alternaria toxins found to be genotoxic",
+      "source": "FoodNavigator-Asia",
+      "sourceUrl": "https://www.foodnavigator.com/Article/2026/11/11/alternaria-toxins-found-to-be-genotoxic/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "⚖️",
+      "category": "",
+      "desc": "Five Alternaria toxins have been found to be genotoxic by the European Food Safety Authority (EFSA). These toxins originate in mould and can infect vegetables, fruit and grain-based foods.",
+      "tags": [],
+      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/MN2RPHG4IFD7JPEWU3F43NZKDE.jpg?auth=9d7579efc0ef101a9fabd9917ad928e2b61468b468d6477a646d0411cb807aa7&smart=true&width=2121&height=1414"
+    },
+    {
+      "id": "5bc933336935",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-11-11",
+      "title": "Mars’ $1.4 billion investment targets snack growth amid industry-wide consoli...",
+      "source": "FoodNavigator-Asia",
+      "sourceUrl": "https://www.foodnavigator.com/Article/2026/11/11/mars-invests-14-billion-across-snacks-and-petcare/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "📊",
+      "category": "",
+      "desc": "Mars' $1.4 billion investment across its snack and pet care portfolios reflect a broader industry shift towards production consolidation and expansion for key categories.",
+      "tags": [],
+      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/NO4KI44WDRF4HHSUX4CVOL7A6U.jpg?auth=b0cfdf94294c485aa3cd325c1471eba824b091ae9413c2300b0367327ee8bf11&smart=true&width=2120&height=1414"
+    },
+    {
+      "id": "0bb44b64ce13",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-11-11",
+      "title": "Beyond the ballot: How US politics will reshape food and beverage",
+      "source": "FoodNavigator-Asia",
+      "sourceUrl": "https://www.foodnavigator.com/Article/2026/11/11/us-midterms-what-food-businesses-need-to-know/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "📊",
+      "category": "",
+      "desc": "The US midterm elections could reshape food policy, grocery affordability, corporate pricing scrutiny and international trade. Here’s what food businesses should watch.",
+      "tags": [],
+      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/A5WDCVJKBJOMNCZTGLGX2EXJXU.jpg?auth=15e14a448ad9d256cb2329b2e6f2135fdbf6845b2a939346582fd60ba53c0dd6&smart=true&width=724&height=483"
+    },
+    {
+      "id": "737126e47158",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-11-11",
+      "title": "Nestlé gears up for next phase of growth",
+      "source": "FoodNavigator-Asia",
+      "sourceUrl": "https://www.foodnavigator.com/Article/2026/11/11/nestle-growth-strategy-coffee-petcare-and-nutrition-drive-growth/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "📊",
+      "category": "",
+      "desc": "Nestlé is sharpening its focus on Coffee, Petcare, Nutrition, and Food and Snacks, as it shifts back to volume-led growth.",
+      "tags": [],
+      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/LPIM2WHU5NCCVLD4FVVP4PPVPQ.jpg?auth=8e942eda84408e7781db4c6b847a13dcc2b03bf86e79f3eb6954efbc4d5e64b2&smart=true&width=2309&height=1299"
+    },
+    {
+      "id": "d342064c2a31",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-11-11",
+      "title": "Jo Cutri Brings Memphis To Turkey With Design For Bodycare Brand Ely",
+      "source": "Dieline",
+      "sourceUrl": "https://thedieline.com/jo-curti-brings-memphis-to-turkey-with-design-for-bodycare-brand-ely/",
+      "image": "📦",
+      "category": "",
+      "desc": "Ely, a new Turkish body care line designed by Jo Curti Studio, combines bold geometry, playful composition, and a gorgeous color palette, turning body wash packaging into decoration for. The post Jo Cutri Brings Memphis To Turkey With Design For Bodycare Brand Ely appeared fir...",
+      "tags": [
+        "包装"
+      ],
+      "_imageUrl": "https://thedieline.com/wp-content/uploads/2026/11/imgi_3_db0d3f_f22d7a385d3744e5a6857236f1fe647dmv2-1.webp"
+    },
+    {
+      "id": "5ac865a95f9d",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-11-11",
+      "title": "Tour de Type: Diving into Pasadeli, a Font That Honors the Signage of a Belov...",
+      "source": "Dieline",
+      "sourceUrl": "https://thedieline.com/tour-de-type-diving-into-pasadeli-a-font-that-honors-the-signage-of-a-beloved-pasadena-deli/",
+      "image": "📦",
+      "category": "",
+      "desc": "In her latest Tour de Type, Charlotte Beach chats with graphic designer Jasper McMahon about the font he created in homage to signage at a legendary neighborhood deli in Pasadena. The post Tour de Type: Diving into Pasadeli, a Font That Honors the Signage of a Beloved Pasadena...",
+      "tags": [],
+      "_imageUrl": "https://thedieline.com/wp-content/uploads/2026/11/Pasadeli-cover-slide.jpg"
+    },
+    {
+      "id": "43754953ae1a",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-11-11",
+      "title": "Kahve Turkish coffee",
+      "source": "Packaging of the World",
+      "sourceUrl": "https://packagingoftheworld.com/2026/11/kahve-turkish-coffee.html",
+      "image": "📦",
+      "category": "",
+      "desc": "Kahve is a Turkish coffee brand founded on a respect for tradition, the ritual of preparation, and Turkey’s cultural heritage. The core of the Kahve visual concept draws inspiration from the figure of the traditional Turkish coffee maker. It centers on the red fez and a distin...",
+      "tags": [],
+      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/11/027555c6a682c3c3dd56104c43c3a29d-1.png?fit=300%2C169&amp;ssl=1"
+    },
+    {
+      "id": "0d793e1877aa",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-11-11",
+      "title": "Sweetbriar Gummies",
+      "source": "Packaging of the World",
+      "sourceUrl": "https://packagingoftheworld.com/2026/11/sweetbriar-gummies.html",
+      "image": "📦",
+      "category": "",
+      "desc": "Introducing Sweetbriar, a new brand of functional gummies from Bridge City Collective in Portland. 🍬 Designed and developed by Minneapolis-based studio Buddy-Buddy, the brand’s visual language takes inspiration from vintage seed catalogs and Post-War agrarian posters, celebrat...",
+      "tags": [],
+      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/11/casestudy_01-08-1-scaled.jpg?fit=240%2C300&amp;ssl=1"
+    },
+    {
+      "id": "b8257c1a1966",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-11-11",
+      "title": "TANGERINE Cat Treats",
+      "source": "Packaging of the World",
+      "sourceUrl": "https://packagingoftheworld.com/2026/11/tangerine-cat-treats.html",
+      "image": "📦",
+      "category": "",
+      "desc": "ABOUT TANGERINE is a self-initiated packaging concept for a cat treat brand. I designed the brand visual direction, carton and snack wrapper packaging, character illustration and colour palette. CONCEPT The brief was to look unlike the expected cat treat: colourful, playful an...",
+      "tags": [
+        "包装"
+      ],
+      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/11/tg1-1.jpg?fit=300%2C225&amp;ssl=1"
+    },
+    {
+      "id": "0a110891895e",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-11-11",
+      "title": "Init, Rosé – Nuni Lab",
+      "source": "Packaging of the World",
+      "sourceUrl": "https://packagingoftheworld.com/2026/11/init-rose-nuni-lab.html",
+      "image": "📦",
+      "category": "",
+      "desc": "INIT is an academic branding and packaging project for a rosé sparkling wine, exploring how typography, texture, and layered materials can create a distinctive identity within the wine category. The concept brings together the anticipation of a beginning and the intrigue of so...",
+      "tags": [
+        "包装"
+      ],
+      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/11/ChatGPT-Image-7-may-2026-01_15_42-a.m-2-e1794388701388.png?fit=300%2C300&amp;ssl=1"
+    },
+    {
+      "id": "69e9b6f32f18",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-11-11",
+      "title": "TURAB Body Care | Brand Identity & Packaging",
+      "source": "Packaging of the World",
+      "sourceUrl": "https://packagingoftheworld.com/2026/11/turab-body-care-brand-identity-packaging.html",
+      "image": "📦",
+      "category": "",
+      "desc": "TURAB — Body Care &#124; Brand Identity TURAB takes its name from the Arabic word for soil — an unexpected starting point for a body-care brand. This contrast became the foundation of the identity, bringing together two seemingly different worlds: the earth and the skin. The v...",
+      "tags": [
+        "包装"
+      ],
+      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/11/TURAB-WEB-01-4-e1794388675789.jpg?fit=300%2C200&amp;ssl=1"
+    },
+    {
+      "id": "294e90cccb1f",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-11-11",
+      "title": "McCormick and Unilever’s $45B food merger hits antitrust snag in UK",
+      "source": "Food Dive",
+      "sourceUrl": "https://www.fooddive.com/news/mccormick-unilever-antitrust-review-merger-UK/874361/",
+      "image": "📊",
+      "category": "",
+      "desc": "A regulator ruled the tie-up could harm competition and is requiring the companies to address concerns or face a more in-depth investigation.",
+      "tags": [],
+      "_imageUrl": "https://imgproxy.divecdn.com/Fs-R98S6xQED8MtcThdDBkrVIySuPGOw-10mhj3z5pk/g:nowe:0:163/c:2015:1138/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JTUdfMjc0Ny5qcGc=.webp"
+    },
+    {
+      "id": "4c9604efd688",
+      "type": "newproduct",
+      "section": "newproduct",
+      "sub": "report",
+      "date": "2026-11-11",
+      "title": "Is Christmas surplus baked into your business plan?",
+      "source": "BakeryandSnacks",
+      "sourceUrl": "https://www.bakeryandsnacks.com/Article/2026/11/11/christmas-food-waste-and-the-cost-of-surplus-stock/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "🆕",
+      "category": "休闲零食",
+      "desc": "Festive surplus squeezes margins and warehouse space. How bakery and snack producers can recover value, improve redistribution and prevent recurring waste.",
+      "tags": [],
+      "_imageUrl": "https://www.bakeryandsnacks.com/resizer/v2/MZY4PI5SMJC2NHKU5OWIEXFQD4.jpg?auth=e6a46993038a0775d211501fbfad6d3eb5a0384b5a92eea33ba83928ab3de41e&smart=true&width=750&height=500"
+    },
+    {
+      "id": "ac915bf3f33e",
+      "type": "newproduct",
+      "section": "newproduct",
+      "sub": "report",
+      "date": "2026-11-11",
+      "title": "Pringles taps TikTok’s ‘rat snacks’ trend. Who’s next?",
+      "source": "BakeryandSnacks",
+      "sourceUrl": "https://www.bakeryandsnacks.com/Article/2026/11/11/how-tiktoks-rat-snacks-create-opportunities-for-brands/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "🆕",
+      "category": "休闲零食",
+      "desc": "Pringles’ creator partnerships show how TikTok’s rat snack combinations could inspire flavours, collaborations and more reasons to buy familiar snacks.",
+      "tags": [],
+      "_imageUrl": "https://www.bakeryandsnacks.com/resizer/v2/KZD2A52JBZHGNLEBAJ3MTHO4JM.jpg?auth=4e5963aac489fcbfbbe2d476b7fa2f7967fec17b2cf418a9004dace8a378cdfc&smart=true&width=2121&height=1414"
+    },
+    {
+      "id": "46648a1e0ecd",
+      "type": "newproduct",
+      "section": "newproduct",
+      "sub": "report",
+      "date": "2026-11-11",
+      "title": "Pickle beer to pistachio spritzes: Food flavours shake up drinks",
+      "source": "Beverage Daily",
+      "sourceUrl": "https://www.beveragedaily.com/Article/2026/11/11/how-culinary-trends-are-shaping-drinks-innovation/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "🆕",
+      "category": "饮品",
+      "desc": "From dessert-inspired beers to pickle-flavoured sours, discover how culinary influences are inspiring new beverage flavours across beer, wine and spirits.",
+      "tags": [],
+      "_imageUrl": "https://www.beveragedaily.com/resizer/v2/6ADHKUOOEFGEBCRCBQ7XI5Z7MY.jpg?auth=dd9615b475a1081c1639d64b2dae5e0eba653d5602585d1203ffa9763654bf2e&smart=true&width=2120&height=1414"
+    },
+    {
+      "id": "f21a5687f9c3",
+      "type": "newproduct",
+      "section": "newproduct",
+      "sub": "report",
+      "date": "2026-11-11",
+      "title": "Beyond refreshment: 5 trends reshaping soft drinks",
+      "source": "Beverage Daily",
+      "sourceUrl": "https://www.beveragedaily.com/Article/2026/11/11/5-trends-reshaping-the-global-soft-drinks-market/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "🆕",
+      "category": "饮品",
+      "desc": "From functional benefits and botanical ingredients to indulgent flavours and packaging innovation, five trends shaping the future of soft drinks.",
+      "tags": [
+        "创新",
+        "包装",
+        "原料"
+      ],
+      "_imageUrl": "https://www.beveragedaily.com/resizer/v2/EP33OCLRMNFLRFCZDMX6CUKQIU.jpg?auth=4eec74c6f2e44eae5d2f2cb275d27597b8c137ec08b1e1c882574e8be7ef1efa&smart=true&width=3052&height=2268"
+    },
+    {
+      "id": "c02e6e03e45d",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-11-11",
+      "title": "Unilever McCormick deal faces phase 2 investigation in the UK",
+      "source": "Food Manufacture",
+      "sourceUrl": "https://www.foodnavigator.com/Article/2026/11/11/unilever-mccormick-merger-faces-cma-hurdle/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "📊",
+      "category": "",
+      "desc": "The UK competition watchdog has raised concerns over Unilever’s proposed acquisition of McCormick, citing risks to competition in dry ingredient mixes and pour-over sauces and opening the door to a Phase 2 probe",
+      "tags": [
+        "原料"
+      ],
+      "_imageUrl": "https://www.foodmanufacture.co.uk/resizer/v2/QWXRR535UNFTHBLBO5HZ7KMUAY.jpg?auth=e2f703dca2473a6bd7c6b7027c4981827b4b16c685b5de4e28cab815120cf2cc&smart=true&width=2125&height=1411"
+    },
+    {
+      "id": "e41cab726acb",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-11-11",
+      "title": "Beyond refreshment: 5 trends reshaping soft drinks",
+      "source": "Food Manufacture",
+      "sourceUrl": "https://www.beveragedaily.com/Article/2026/11/11/5-trends-reshaping-the-global-soft-drinks-market/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "📊",
+      "category": "",
+      "desc": "From functional benefits and botanical ingredients to indulgent flavours and packaging innovation, five trends shaping the future of soft drinks.",
+      "tags": [
+        "创新",
+        "包装",
+        "原料"
+      ],
+      "_imageUrl": "https://www.foodmanufacture.co.uk/resizer/v2/EP33OCLRMNFLRFCZDMX6CUKQIU.jpg?auth=4eec74c6f2e44eae5d2f2cb275d27597b8c137ec08b1e1c882574e8be7ef1efa&smart=true&width=3052&height=2268"
+    },
+    {
       "id": "8b6a4b6fc6bd",
       "type": "report",
       "section": "data",
@@ -598,6 +901,38 @@
       "desc": "The investment, the largest made by the M&amp;Ms maker in a single year, will help grow its snacking portfolio following its $36 billion acquisition of Kellanova.",
       "tags": [],
       "_imageUrl": "https://imgproxy.divecdn.com/Cvb-tJIAKSom1fuvdBHQuxaY5YoFQmxOeiDwKIPs1P8/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9NYXJzX0luY29ycG9yYXRlZF9DaGVlel9JdF9Jbm5vdmF0aW9uc19fX0dsdXRlbl9GcmVlLmpwZw==.webp"
+    },
+    {
+      "id": "a2fcbbb2f6d8",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-11-10",
+      "title": "Ferrara to shutter Chicago plant, lay off more than 150 workers",
+      "source": "Food Dive",
+      "sourceUrl": "https://www.fooddive.com/news/ferrara-closing-chicago-plant-jobs-snacking/874294/",
+      "image": "📊",
+      "category": "",
+      "desc": "The closure, expected to occur in April 2027, comes as the Laffy Taffy and Jelly Belly maker assesses market conditions and its long-term innovation plans.",
+      "tags": [
+        "创新"
+      ],
+      "_imageUrl": "https://imgproxy.divecdn.com/B_-XtiQyWRrYqsts3rzq7Pzuln3UkZw63G6xEoKmkCs/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9QWExfMjAyMjEwMDVfMTQxMTM5MjQ2LmpwZw==.webp"
+    },
+    {
+      "id": "a8e67e742264",
+      "type": "newproduct",
+      "section": "newproduct",
+      "sub": "report",
+      "date": "2026-11-10",
+      "title": "Just Ice Tea takes on energy drink segment with high-caffeine tea",
+      "source": "Beverage Daily",
+      "sourceUrl": "https://www.foodnavigator.com/Article/2026/11/10/just-ice-tea-targets-energy-drinks-with-awaken-cold-brew-tea/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "🆕",
+      "category": "饮品",
+      "desc": "Just Ice Tea’s new Awaken cold-brew tea contains 120 milligrams of caffeine per can, targeting consumers seeking an alternative to energy drinks.",
+      "tags": [],
+      "_imageUrl": "https://www.beveragedaily.com/resizer/v2/BZTDUKW4YFBKZD2DFJPNGOVU7E.jfif?auth=29d2124700062d31eaf2e33c99b788a2d7f351514e22d9b3ebfc45bae3992d95&smart=true&width=1920&height=1280"
     },
     {
       "id": "e6ab15a6e527",
@@ -2209,353 +2544,6 @@
         "包装"
       ],
       "_imageUrl": "https://thedieline.com/wp-content/uploads/2026/11/imgi_64_Wild-Lady_Portfolio-9@4x-2048x1152-1.jpg"
-    },
-    {
-      "id": "efb541fa6576",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-11-02",
-      "title": "Creech Turns Monastery’s Skincare Into Ancient Currency",
-      "source": "Dieline",
-      "sourceUrl": "https://thedieline.com/creech-turns-monasterys-skincare-into-ancient-currency/",
-      "image": "📦",
-      "category": "",
-      "desc": "Creech built Monastery’s plastic-free skincare packaging around an embossed silver coin, with glass, metal, and textured paper boxes in vivid color. The post Creech Turns Monastery’s Skincare Into Ancient Currency appeared first on DIELINE.",
-      "tags": [
-        "包装"
-      ],
-      "_imageUrl": "https://thedieline.com/wp-content/uploads/2026/11/bcd64e0fd9a082c9becd5488aa8fa8641c3517dc-1800x1013.png.avif"
-    },
-    {
-      "id": "4c08fde1afa0",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-11-02",
-      "title": "Sladkiy Zapas — Playful Berry Jam",
-      "source": "Packaging of the World",
-      "sourceUrl": "https://packagingoftheworld.com/2026/11/sladkiy-zapas-playful-berry-jam-packaging.html",
-      "image": "📦",
-      "category": "",
-      "desc": "Sladkiy Zapas is a packaging concept for a range of berry jams designed to turn everyday family breakfasts into playful moments. The project draws inspiration from Karlsson-on-the-Roof, a character created by Swedish author Astrid Lindgren who became a beloved part of Russian ...",
-      "tags": [
-        "包装"
-      ],
-      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/10/7-5-2-e1793615458501.jpg?fit=300%2C169&amp;ssl=1"
-    },
-    {
-      "id": "d4ad2b679cbf",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-11-02",
-      "title": "Resonantia. Claudio Enríquez.",
-      "source": "Packaging of the World",
-      "sourceUrl": "https://packagingoftheworld.com/2026/11/resonantia-claudio-enriquez.html",
-      "image": "📦",
-      "category": "",
-      "desc": "Resonantia, wine packaging as a sensory experience. By Roberto Núñez Studio. Resonantia is a new white wine brand created for the Claudio Enríquez winery in Sanxenxo, Galicia, on Spain’s Atlantic coast. Its identity is rooted in the story of Claudio, a third-generation winegro...",
-      "tags": [
-        "包装"
-      ],
-      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/10/header-roberto-nunez-studio-packaging-resonantia-bodega-claudio-enriquez-do-rias-baixas-wine-1-e1793613949676.jpg?fit=300%2C169&amp;ssl=1"
-    },
-    {
-      "id": "ebf5685f051b",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-11-02",
-      "title": "Creative Packaging Design for Attar Saffron",
-      "source": "Packaging of the World",
-      "sourceUrl": "https://packagingoftheworld.com/2026/11/creative-packaging-design-for-attar-saffron.html",
-      "image": "📦",
-      "category": "",
-      "desc": "Creative Packaging Design for Attar Saffron A Golden Album of Iranian Flavors With a concept inspired by nostalgia, Iranian heritage, and the emotional connection between memories and flavors, Zarif Graphic developed a distinctive packaging design for Attar Saffron. The centra...",
-      "tags": [
-        "包装"
-      ],
-      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/11/6R6A8261-copy-3-e1793615409812.jpg?fit=300%2C188&amp;ssl=1"
-    },
-    {
-      "id": "f5b9f6a288a0",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-11-02",
-      "title": "Natakhtari — Georgian Character, Unexpected Flavours",
-      "source": "Packaging of the World",
-      "sourceUrl": "https://packagingoftheworld.com/2026/11/natakhtari-georgian-character-unexpected-flavours.html",
-      "image": "📦",
-      "category": "",
-      "desc": "How can a Georgian soda brand connect with Gen Z while keeping its distinctive character? This student packaging concept explores a new Natakhtari range built around unexpected flavour pairings: tarragon × passion fruit, Duchess pear × chilli, and cream soda × matcha. The chal...",
-      "tags": [
-        "包装"
-      ],
-      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/10/01_lineup-1-e1793615350535.jpg?fit=300%2C169&amp;ssl=1"
-    },
-    {
-      "id": "4542f48db670",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-11-02",
-      "title": "I FILARI",
-      "source": "Packaging of the World",
-      "sourceUrl": "https://packagingoftheworld.com/2026/11/i-filari.html",
-      "image": "📦",
-      "category": "",
-      "desc": "The Idea Behind I FILARI brings a mix of two worlds: radical modernism and deep Italian tradition. The entire range is a tribute to Italy&#8217;s culinary soul, wrapped in a totally contemporary look. It’s pure fiction—brand name, story, and packaging completely made up from s...",
-      "tags": [
-        "包装"
-      ],
-      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/10/Filaria_RANGE-1-scaled-e1793615176585.jpg?fit=300%2C213&amp;ssl=1"
-    },
-    {
-      "id": "5fb324e032ef",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-11-02",
-      "title": "Chu Du",
-      "source": "Packaging of the World",
-      "sourceUrl": "https://packagingoftheworld.com/2026/11/chu-du.html",
-      "image": "📦",
-      "category": "",
-      "desc": "CHU DU — Packaging Design 1. ABOUT Chu Du is a conceptual craft fruit wine brand developed as a graduation project. Inspired by Vietnamese local produce and the youthful spirit of exploration, the brand proposes a collection of three sparkling, low-ABV fruit wines: Mangrove Ap...",
-      "tags": [
-        "包装"
-      ],
-      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/10/09-7-e1793614874634.jpg?fit=200%2C300&amp;ssl=1"
-    },
-    {
-      "id": "9a3dc0a20151",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-11-02",
-      "title": "Oatly bets on fiber drinks to fuel plant-based turnaround",
-      "source": "Food Dive",
-      "sourceUrl": "https://www.fooddive.com/news/oatly-fiber-plant-based-milk-us-turnaround/873450/",
-      "image": "📊",
-      "category": "",
-      "desc": "The company wants to be &ldquo;among the leaders in reducing the fiber gap&rdquo; as it positions itself as a functional beverage rather than just a milk alternative.",
-      "tags": [
-        "植物基"
-      ],
-      "_imageUrl": ""
-    },
-    {
-      "id": "0e97ab7c9c98",
-      "type": "newproduct",
-      "section": "newproduct",
-      "sub": "report",
-      "date": "2026-11-02",
-      "title": "Pop-Tarts, Cheerios and Snickers pair up for new launches",
-      "source": "BakeryandSnacks",
-      "sourceUrl": "https://www.bakeryandsnacks.com/Article/2026/11/02/pop-tarts-cheerios-and-snickers-launch-brand-collaborations/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "🆕",
-      "category": "休闲零食",
-      "desc": "Pop-Tarts, Cheerios and Snickers lead a roundup of brand partnerships spanning new flavours, resealable packaging, exclusive snacks and fashion.",
-      "tags": [
-        "包装"
-      ],
-      "_imageUrl": "https://www.bakeryandsnacks.com/resizer/v2/6WT3VCASBRCLLF7NGOCGGGL6BA.jpg?auth=692304ce68748686e1de6a518b468d4fd8690b07ceb33faeb2c5397b2e57081f&smart=true&width=750&height=422"
-    },
-    {
-      "id": "1de2a00619f4",
-      "type": "newproduct",
-      "section": "newproduct",
-      "sub": "report",
-      "date": "2026-11-02",
-      "title": "Mondelēz sues British chocolate brand in Toblerone trademark dispute",
-      "source": "BakeryandSnacks",
-      "sourceUrl": "https://www.confectionerynews.com/Article/2026/11/02/mondelez-sues-british-chocolate-brand-over-alleged-toblerone-trademark-infringement/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "🆕",
-      "category": "休闲零食",
-      "desc": "Mondelēz subsidiary, Kraft Foods Schweiz Holding GmbH, has launched legal action against vegan chocolate maker Catherine’s Originals, alleging its O’bar infringes Toblerone’s iconic shape trademark. Catherine’s Originals denies the claims and vows to defend its position.",
-      "tags": [],
-      "_imageUrl": "https://www.bakeryandsnacks.com/resizer/v2/XO6W6F4JJ5BNNHXNYOHDM7UWXU.jpg?auth=d44bb07d425d0f3a9d28b453ca9b1fd128bcfa903045c0f9dd9c7f50646d59be&smart=true&width=2121&height=1414"
-    },
-    {
-      "id": "5072d866a53a",
-      "type": "newproduct",
-      "section": "newproduct",
-      "sub": "report",
-      "date": "2026-11-02",
-      "title": "Oatly to raise US prices in 2027, weighs increases in Europe",
-      "source": "Beverage Daily",
-      "sourceUrl": "https://www.foodnavigator.com/Article/2026/11/02/oatly-to-raise-us-prices-in-2027-weighs-europe-hikes/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "🆕",
-      "category": "饮品",
-      "desc": "Oatly plans US price increases in 2027 and is considering hikes in Europe as higher fuel costs squeeze profits. A US fiber drink launch is set for January.",
-      "tags": [],
-      "_imageUrl": "https://www.beveragedaily.com/resizer/v2/LG5VHWUB7ZA3LLW5MSIVQJ3STU.png?auth=7a2671d09689acf19144a630b76d958494a597bafa21ace8e4c4322e77864e23&smart=true&width=1600&height=1143"
-    },
-    {
-      "id": "53ef68d31d2d",
-      "type": "newproduct",
-      "section": "newproduct",
-      "sub": "report",
-      "date": "2026-11-02",
-      "title": "Coca-Cola, Pepsi lose brand value as Nongfu Spring surges",
-      "source": "Beverage Daily",
-      "sourceUrl": "https://www.foodnavigator.com/Article/2026/11/02/coca-cola-pepsi-lose-brand-value-as-nongfu-spring-surges/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "🆕",
-      "category": "饮品",
-      "desc": "Coca-Cola and Pepsi retain the top beverage brand value spots",
-      "tags": [],
-      "_imageUrl": "https://www.beveragedaily.com/resizer/v2/7RKMLZBFAJBR7KHR44LKGRCOLQ.jpg?auth=562d75710719ad1a9f7c11a4f9269e08f299394d0b556127bdce063698b3b7ff&smart=true&width=2121&height=1414"
-    },
-    {
-      "id": "7bcae3f479f9",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-10-30",
-      "title": "Inside food and beverage’s AI-powered future",
-      "source": "FoodNavigator-Asia",
-      "sourceUrl": "https://www.foodnavigator.com/Article/2026/10/30/the-future-of-ai-in-food-and-beverage-from-automation-to-innovation/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "📊",
-      "category": "",
-      "desc": "AI is reshaping food and beverage, from factory automation and product innovation to ingredient discovery, supply chains and personalised consumer engagement. Explore what comes next.",
-      "tags": [
-        "创新",
-        "原料"
-      ],
-      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/7Z66K2YHANACDLG6GMBIHVB2WI.jpg?auth=3c78cae99186a943ca382fd4c06a8d5a50ae8fa25bcc4f14828bc78d975ac6f8&smart=true&width=2190&height=1369"
-    },
-    {
-      "id": "6b965fe4609d",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-10-30",
-      "title": "Thanksgiving flavours go snack-sized",
-      "source": "FoodNavigator-Asia",
-      "sourceUrl": "https://www.bakeryandsnacks.com/Article/2026/10/30/thanksgiving-snack-trends-flavours-sides-and-new-uses/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "📊",
-      "category": "",
-      "desc": "Campbell’s Thanksgiving findings reveal how comfort flavours and easy recipes give snack producers more ways to reach shoppers before, during and after dinner.",
-      "tags": [],
-      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/DJ2VZVA5AVCQFOGBHKTQKVXVLQ.jpg?auth=0d73bf5afb16dbe54f240e122fd2fee2d8d9036a1064792b67e59baf574f0242&smart=true&width=2105&height=1425"
-    },
-    {
-      "id": "8473b79d97f9",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-10-30",
-      "title": "Mondelēz Q3 profits surge amid surprise acquisition",
-      "source": "FoodNavigator-Asia",
-      "sourceUrl": "https://www.confectionerynews.com/Article/2026/10/30/mondelez-returns-to-volume-led-growth-as-q3-profits-surge/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "📊",
-      "category": "",
-      "desc": "Mondelēz returns to volume-led growth as Q3 profits surge, shareholders rewarded and Undercover Snacks acquisition signals expansion into permissible indulgence.",
-      "tags": [],
-      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/QF73WXPO7JEKZIKMZW5RFV2M2M.jpg?auth=ddaa776dab6a14279d840473c43269b577bd328dcfb20611139ce3a056c9c95c&smart=true&width=2121&height=1414"
-    },
-    {
-      "id": "66cb964f9c7e",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-10-30",
-      "title": "Could enzymes be the key to clean-label functionality?",
-      "source": "FoodNavigator-Asia",
-      "sourceUrl": "https://www.foodnavigator.com/Article/2026/10/30/enzymes-the-key-to-clean-label-functionality/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "📊",
-      "category": "",
-      "desc": "Enzymes are used throughout the food industry for a whole plethora of different functionalities. Because they are catalysts, they often do not need to appear in a food's ingredients list. Therefore, they can be considered clean-label alternatives to additives.",
-      "tags": [
-        "原料"
-      ],
-      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/TNISP5NWNVFC3IDL6TWFNZ4BXA.jpg?auth=a1260e2b75a3fb895074e03a59f9924ee9b151b474e561daeb63a56e1fb343e3&smart=true&width=2121&height=1414"
-    },
-    {
-      "id": "ace6bb4c2e61",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-10-30",
-      "title": "3 ways Google DeepMind is using AI to reshape the food system",
-      "source": "FoodNavigator-Asia",
-      "sourceUrl": "https://www.foodnavigator.com/Article/2026/10/30/google-deepmind-from-alphafold-to-disease-resistant-crops/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "📊",
-      "category": "",
-      "desc": "From AlphaFold and disease-resistant crops to virtual cells, Google DeepMind is exploring how AI can accelerate agricultural and food innovation.",
-      "tags": [
-        "创新"
-      ],
-      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/QEN2SGCW25EQJPQPUOYRFKDYHY.jpg?auth=7d82ec2b71482c714316c2c57c99cf63c2efa3556395de712f6017874f6b6897&smart=true&width=2121&height=1414"
-    },
-    {
-      "id": "7d493aa34bce",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-10-30",
-      "title": "Inside food and beverage’s AI-powered future",
-      "source": "FoodNavigator-USA",
-      "sourceUrl": "https://www.foodnavigator.com/Article/2026/10/30/the-future-of-ai-in-food-and-beverage-from-automation-to-innovation/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "📊",
-      "category": "",
-      "desc": "AI is reshaping food and beverage, from factory automation and product innovation to ingredient discovery, supply chains and personalised consumer engagement. Explore what comes next.",
-      "tags": [
-        "创新",
-        "原料"
-      ],
-      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/7Z66K2YHANACDLG6GMBIHVB2WI.jpg?auth=3c78cae99186a943ca382fd4c06a8d5a50ae8fa25bcc4f14828bc78d975ac6f8&smart=true&width=2190&height=1369"
-    },
-    {
-      "id": "0040b58552b9",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-10-30",
-      "title": "Could enzymes be the key to clean-label functionality?",
-      "source": "FoodNavigator-USA",
-      "sourceUrl": "https://www.foodnavigator.com/Article/2026/10/30/enzymes-the-key-to-clean-label-functionality/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "📊",
-      "category": "",
-      "desc": "Enzymes are used throughout the food industry for a whole plethora of different functionalities. Because they are catalysts, they often do not need to appear in a food's ingredients list. Therefore, they can be considered clean-label alternatives to additives.",
-      "tags": [
-        "原料"
-      ],
-      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/TNISP5NWNVFC3IDL6TWFNZ4BXA.jpg?auth=a1260e2b75a3fb895074e03a59f9924ee9b151b474e561daeb63a56e1fb343e3&smart=true&width=2121&height=1414"
-    },
-    {
-      "id": "c1e2ea4fb5fa",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-10-30",
-      "title": "3 ways Google DeepMind is using AI to reshape the food system",
-      "source": "FoodNavigator-USA",
-      "sourceUrl": "https://www.foodnavigator.com/Article/2026/10/30/google-deepmind-from-alphafold-to-disease-resistant-crops/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "📊",
-      "category": "",
-      "desc": "From AlphaFold and disease-resistant crops to virtual cells, Google DeepMind is exploring how AI can accelerate agricultural and food innovation.",
-      "tags": [
-        "创新"
-      ],
-      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/QEN2SGCW25EQJPQPUOYRFKDYHY.jpg?auth=7d82ec2b71482c714316c2c57c99cf63c2efa3556395de712f6017874f6b6897&smart=true&width=2121&height=1414"
-    },
-    {
-      "id": "a851ce412c0b",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-10-30",
-      "title": "Luminous Design’s 25th Anniversary Gift Makes the Case for the Physical Portf...",
-      "source": "Dieline",
-      "sourceUrl": "https://thedieline.com/luminous-designs-25th-anniversary-gift-makes-the-case-for-the-physical-portfolio/",
-      "image": "📦",
-      "category": "",
-      "desc": "Luminous Design celebrates 25 years with 1ST25Y, four handcrafted ceramic vessels packed in mirrored silver archive boxes that bring back the physical portfolio. The post Luminous Design’s 25th Anniversary Gift Makes the Case for the Physical Portfolio appeared first on DIELINE.",
-      "tags": [],
-      "_imageUrl": "https://thedieline.com/wp-content/uploads/2026/10/544e2d255410271.6a9fd63b48ec9.jpg.webp"
     }
   ]
 }
