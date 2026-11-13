@@ -1,7 +1,7 @@
 {
   "meta": {
-    "updated": "2026-11-12",
-    "version": 1794458424,
+    "updated": "2026-11-13",
+    "version": 1794541981,
     "total": 150,
     "auto_generated": true,
     "sources": [
@@ -336,6 +336,253 @@
       }
     },
     {
+      "id": "9170adf1dd2d",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-11-12",
+      "title": "Nestlé transforms tube feeding with direct connect nutrition",
+      "source": "FoodNavigator-Asia",
+      "sourceUrl": "https://www.foodnavigator.com/Article/2026/11/12/nestle-expands-medical-nutrition-with-plant-based-tube-feeding-range/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "📊",
+      "category": "",
+      "desc": "Nestlé has launched Compleat Bolus Blends, a nutritionally complete plant-based tube feeding range designed to simplify bolus feeding through a direct-to-tube connection, reducing spills and handling while improving convenience for patients and caregivers. Available in age-spe...",
+      "tags": [
+        "植物基",
+        "创新"
+      ],
+      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/6ETHWJWCJFBO7HVBLJXTE5ERQ4.jpg?auth=a89a3f712fb2b48b466e7ee00b0d7740358457ecf02c09f9ae018b1ecd1e0bc6&smart=true&width=3349&height=2512"
+    },
+    {
+      "id": "e2341adaa119",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-11-12",
+      "title": "Mondelēz vision for the future of confectionery and snacking",
+      "source": "FoodNavigator-Asia",
+      "sourceUrl": "https://www.foodnavigator.com/Article/2026/11/12/mondelez-vision-for-the-future-of-confectionery-and-snacking/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "📊",
+      "category": "",
+      "desc": "Mondelēz is using innovation, AI, acquisitions and brand heritage to drive growth, navigate changing consumer preferences and shape the future of global confectionery and snacking.",
+      "tags": [
+        "创新"
+      ],
+      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/PDUDAQLV4JKENNRCRXOKJ6RJQQ.jpg?auth=2a486371b891b9f797b874c30dfed1cbfe03d3677c71f70421918fb8168e7f7c&smart=true&width=1024&height=768"
+    },
+    {
+      "id": "2144eefa5e82",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-11-12",
+      "title": "Doomspending: will it overtake health and wellness?",
+      "source": "FoodNavigator-Asia",
+      "sourceUrl": "https://www.foodnavigator.com/Article/2026/11/12/doomspending-could-it-overtake-health-and-wellness/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "📊",
+      "category": "",
+      "desc": "Doomspending, when consumers spend recklessly due to pessimism about the future, is a growing trend. Yet how could it impact the health-and-wellness-dominated food and beverage space?",
+      "tags": [],
+      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/CYWCRWE74ZEK7GK5W3UTF3JITE.jpg?auth=628f484c6903d88cf80ef962aed63e3470807891a5c20e9602781c03b8711846&smart=true&width=3818&height=2546"
+    },
+    {
+      "id": "7336bbcea204",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-11-12",
+      "title": "Nestlé transforms tube feeding with direct connect nutrition",
+      "source": "FoodNavigator-USA",
+      "sourceUrl": "https://www.foodnavigator.com/Article/2026/11/12/nestle-expands-medical-nutrition-with-plant-based-tube-feeding-range/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "📊",
+      "category": "",
+      "desc": "Nestlé has launched Compleat Bolus Blends, a nutritionally complete plant-based tube feeding range designed to simplify bolus feeding through a direct-to-tube connection, reducing spills and handling while improving convenience for patients and caregivers. Available in age-spe...",
+      "tags": [
+        "植物基",
+        "创新"
+      ],
+      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/6ETHWJWCJFBO7HVBLJXTE5ERQ4.jpg?auth=a89a3f712fb2b48b466e7ee00b0d7740358457ecf02c09f9ae018b1ecd1e0bc6&smart=true&width=3349&height=2512"
+    },
+    {
+      "id": "09a72f6e4f55",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-11-12",
+      "title": "Mondelēz vision for the future of confectionery and snacking",
+      "source": "FoodNavigator-USA",
+      "sourceUrl": "https://www.foodnavigator.com/Article/2026/11/12/mondelez-vision-for-the-future-of-confectionery-and-snacking/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "📊",
+      "category": "",
+      "desc": "Mondelēz is using innovation, AI, acquisitions and brand heritage to drive growth, navigate changing consumer preferences and shape the future of global confectionery and snacking.",
+      "tags": [
+        "创新"
+      ],
+      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/PDUDAQLV4JKENNRCRXOKJ6RJQQ.jpg?auth=2a486371b891b9f797b874c30dfed1cbfe03d3677c71f70421918fb8168e7f7c&smart=true&width=1024&height=768"
+    },
+    {
+      "id": "e2d0051940b7",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-11-12",
+      "title": "Doomspending: will it overtake health and wellness?",
+      "source": "FoodNavigator-USA",
+      "sourceUrl": "https://www.foodnavigator.com/Article/2026/11/12/doomspending-could-it-overtake-health-and-wellness/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "📊",
+      "category": "",
+      "desc": "Doomspending, when consumers spend recklessly due to pessimism about the future, is a growing trend. Yet how could it impact the health-and-wellness-dominated food and beverage space?",
+      "tags": [],
+      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/CYWCRWE74ZEK7GK5W3UTF3JITE.jpg?auth=628f484c6903d88cf80ef962aed63e3470807891a5c20e9602781c03b8711846&smart=true&width=3818&height=2546"
+    },
+    {
+      "id": "6b9b5b00855a",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-11-12",
+      "title": "Esencia Libre",
+      "source": "Packaging of the World",
+      "sourceUrl": "https://packagingoftheworld.com/2026/11/esencia-libre.html",
+      "image": "📦",
+      "category": "",
+      "desc": "The wine’s name reflects the winery’s production philosophy: a process free from established rules, allowing for complete creative liberty. Our concept centers on the pursuit of this same freedom. The front of the label features a small sparrow—the quintessential symbol of a f...",
+      "tags": [],
+      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/11/1170238eeb844f7f75e460f3786b1f62_tattoo-1-e1794479177722.png?fit=298%2C300&amp;ssl=1"
+    },
+    {
+      "id": "81c7858c9fbd",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-11-12",
+      "title": "Greta Oto — Pét-Nat Wine Packaging",
+      "source": "Packaging of the World",
+      "sourceUrl": "https://packagingoftheworld.com/2026/11/greta-oto-pet-nat-wine-packaging.html",
+      "image": "📦",
+      "category": "",
+      "desc": "Concept project. The brand and its story are fictional; the packaging has not been produced. The Story Maria and Alexandra inherited old vineyards in the Balaklava Valley and started a small farm making natural pét-nats in tiny batches — for themselves, their friends and anyon...",
+      "tags": [
+        "包装"
+      ],
+      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/11/2-21-e1794479324324.jpg?fit=300%2C169&amp;ssl=1"
+    },
+    {
+      "id": "d767155f8a12",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-11-12",
+      "title": "Scentory – Fragrance Packaging Design | HONGLT",
+      "source": "Packaging of the World",
+      "sourceUrl": "https://packagingoftheworld.com/2026/11/scentory-fragrance-packaging-design-honglt.html",
+      "image": "📦",
+      "category": "",
+      "desc": "Scentory – A Journey Through the Language of Nature Brand &#38; Packaging Design by HONGLT Scentory is a fragrance brand inspired by the quiet beauty of nature, exploring the relationship between scent, memory and the natural world. The design concept revolves around the idea ...",
+      "tags": [
+        "包装"
+      ],
+      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/11/-2-e1794478999603.jpg?fit=300%2C189&amp;ssl=1"
+    },
+    {
+      "id": "e1c9b896d6b2",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-11-12",
+      "title": "Cavas de Paraje",
+      "source": "Packaging of the World",
+      "sourceUrl": "https://packagingoftheworld.com/2026/11/cavas-de-paraje.html",
+      "image": "📦",
+      "category": "",
+      "desc": "LA CAPELLA and LA SIBERIA represent the pinnacle of Juvé &#38; Camps’ single-vineyard wines. Aged for over 100 months, they are the result of an exceptional terroir, expertise and the patience required to transform time into true liquid gems. In designing the packaging for the...",
+      "tags": [
+        "包装"
+      ],
+      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/11/SIBERIA2_HD-2-e1794478928789.jpg?fit=300%2C169&amp;ssl=1"
+    },
+    {
+      "id": "de8d119b1d1e",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-11-12",
+      "title": "Cold Mountain Double Barrel Aged Winter Ale",
+      "source": "Packaging of the World",
+      "sourceUrl": "https://packagingoftheworld.com/2026/11/cold-mountain-double-barrel-aged-winter-ale.html",
+      "image": "📦",
+      "category": "",
+      "desc": "In 2026, Highland Brewing Company celebrated 30 years of Cold Mountain Winter Ale. To honor the anniversary, we designed an exclusive bottle label and tube for double barrel-aged Cold Mountain. The beer is aged twice for rich barrel character and layered with indulgent bourbon...",
+      "tags": [],
+      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/11/5af45702b7cce6980a4f8aed82142cfe_tattoo-1-e1794478717709.png?fit=241%2C300&amp;ssl=1"
+    },
+    {
+      "id": "d45a1545cd71",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-11-12",
+      "title": "Manolikakis",
+      "source": "Packaging of the World",
+      "sourceUrl": "https://packagingoftheworld.com/2026/11/manolikakis.html",
+      "image": "📦",
+      "category": "",
+      "desc": "For a House of Coffee established in 1886, history is a rich raw material. The rebranding of Manolikakis by A&#124;S Strategy, Branding &#38; Communication gives that history a distinctive contemporary expression, restoring the stature of the name through a new visual identity...",
+      "tags": [
+        "包装"
+      ],
+      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/11/mnlk_image_1-1-e1794478308166.jpg?fit=300%2C169&amp;ssl=1"
+    },
+    {
+      "id": "3dc903426ec3",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-11-12",
+      "title": "Conagra Brands to close Missouri ingredients plant",
+      "source": "Food Dive",
+      "sourceUrl": "https://www.fooddive.com/news/conagra-brands-closing-missouri-plant-jobs-losses/874504/",
+      "image": "📊",
+      "category": "",
+      "desc": "Production at the facility, which employs 442 workers, will primarily be transferred to locations in Arkansas.",
+      "tags": [
+        "原料"
+      ],
+      "_imageUrl": ""
+    },
+    {
+      "id": "3fed474fc903",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-11-12",
+      "title": "How meat delivery companies use innovation to keep beef prices down",
+      "source": "Food Dive",
+      "sourceUrl": "https://www.fooddive.com/news/online-meat-dtc-butcherbox-omaha-steaks-beef-prices/830209/",
+      "image": "📊",
+      "category": "",
+      "desc": "Omaha Steaks and ButcherBox protect consumers from sticker shock with transparent pricing models and creative alternatives to premium cuts of steak.&nbsp;",
+      "tags": [
+        "创新"
+      ],
+      "_imageUrl": "https://imgproxy.divecdn.com/AWRVGmsgMVimtjqvJjVBDSrJg0qVCVpQN3iXPP4d2TY/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9UT1BfU0lSTE9JTl9GSUxFVC5qcGc=.webp"
+    },
+    {
+      "id": "466ce3c74926",
+      "type": "newproduct",
+      "section": "newproduct",
+      "sub": "report",
+      "date": "2026-11-12",
+      "title": "Doomspending: will it overtake health and wellness?",
+      "source": "Beverage Daily",
+      "sourceUrl": "https://www.foodnavigator.com/Article/2026/11/12/doomspending-could-it-overtake-health-and-wellness/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "🆕",
+      "category": "饮品",
+      "desc": "Doomspending, when consumers spend recklessly due to pessimism about the future, is a growing trend. Yet how could it impact the health-and-wellness-dominated food and beverage space?",
+      "tags": [],
+      "_imageUrl": "https://www.beveragedaily.com/resizer/v2/CYWCRWE74ZEK7GK5W3UTF3JITE.jpg?auth=628f484c6903d88cf80ef962aed63e3470807891a5c20e9602781c03b8711846&smart=true&width=3818&height=2546"
+    },
+    {
       "id": "a0553380be63",
       "type": "report",
       "section": "data",
@@ -637,6 +884,21 @@
         "原料"
       ],
       "_imageUrl": "https://www.foodmanufacture.co.uk/resizer/v2/EP33OCLRMNFLRFCZDMX6CUKQIU.jpg?auth=4eec74c6f2e44eae5d2f2cb275d27597b8c137ec08b1e1c882574e8be7ef1efa&smart=true&width=3052&height=2268"
+    },
+    {
+      "id": "b21ff463dce2",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-11-11",
+      "title": "AI is taking over R&D: What this means for the food industry",
+      "source": "Food Manufacture",
+      "sourceUrl": "https://www.foodnavigator.com/Article/2026/11/11/ai-use-in-food-rd-pros-and-cons/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "📊",
+      "category": "",
+      "desc": "AI is used widely in R&amp;D for food, with more than 90% of food and beverage R&amp;D leaders utilising the technology. AI can cut R&amp;D time and save costs, but it is not without its disadvantages.",
+      "tags": [],
+      "_imageUrl": "https://www.foodmanufacture.co.uk/resizer/v2/UBXXVGROFVDBFLQNVAT3YC7IIQ.jpg?auth=1850613335a428b5cb25e6d30bbaded90981eeb5c959522523dd7c9193c98fb6&smart=true&width=3519&height=2202"
     },
     {
       "id": "8b6a4b6fc6bd",
@@ -2286,264 +2548,6 @@
       "desc": "Postbiotics are preparations made from inanimate microorganisms and/or their components. BIOTIX’s postbiotic can be incorporated into different foods without changing their flavour, placing the brand in an interesting space between health and food. BIOTIX already offers bluebe...",
       "tags": [],
       "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/11/4-1-e1793702032383.png?fit=300%2C185&amp;ssl=1"
-    },
-    {
-      "id": "e8b80e9777ee",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-11-03",
-      "title": "Snowflow",
-      "source": "Packaging of the World",
-      "sourceUrl": "https://packagingoftheworld.com/2026/11/snowflow.html",
-      "image": "📦",
-      "category": "",
-      "desc": "ABOUT Snowflow is a functional water brand inspired by the atmosphere of mountain resorts, the freedom of movement and the energy of winter sports. The product line consists of three variations: Base, Hydration and Magnesium, each designed to support a different stage of physi...",
-      "tags": [],
-      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/11/1.1-2-scaled-e1793702017857.jpg?fit=300%2C167&amp;ssl=1"
-    },
-    {
-      "id": "9977b1a38b76",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-11-03",
-      "title": "Jaque Mate",
-      "source": "Packaging of the World",
-      "sourceUrl": "https://packagingoftheworld.com/2026/11/jaque-mate.html",
-      "image": "📦",
-      "category": "",
-      "desc": "Jaque Mate Prestige is a product design and visual identity project that draws inspiration from the world of chess to create a men&#8217;s fragrance collection defined by elegance, sophistication and attention to detail. The concept explores the translation of chess aesthetics...",
-      "tags": [],
-      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/11/jm9_instagram-1-e1793701838723.png?fit=200%2C300&amp;ssl=1"
-    },
-    {
-      "id": "6127603b8284",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-11-03",
-      "title": "Arrels",
-      "source": "Packaging of the World",
-      "sourceUrl": "https://packagingoftheworld.com/2026/11/arrels-2.html",
-      "image": "📦",
-      "category": "",
-      "desc": "Arrels is a comprehensive packaging and brand identity redesign project for Agua de Benassal, Spain, conceived with the aim of restoring and highlighting the connection between the brand, the water, and the territory from which it originates. The project is based on one essent...",
-      "tags": [
-        "包装"
-      ],
-      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/11/ag3-1-e1793700869503.jpeg?fit=240%2C300&amp;ssl=1"
-    },
-    {
-      "id": "adf14a8b81f9",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-11-03",
-      "title": "Inside PepsiCo’s functional food strategy",
-      "source": "Food Dive",
-      "sourceUrl": "https://www.fooddive.com/news/Pepsi-functional-foods-snacking-doritos-glp1-protein/873247/",
-      "image": "📊",
-      "category": "",
-      "desc": "The removal of artificial ingredients in Doritos and the launch of Propel with fiber and protein come as the CPG giant positions its portfolio to resonate better with today&rsquo;s shoppers.",
-      "tags": [
-        "原料"
-      ],
-      "_imageUrl": "https://imgproxy.divecdn.com/ZhMv6IbTf9ed_owhmXuoWGtBZJa1ajd4ABVGBEkRnZs/g:nowe:576:172/c:1291:860/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9OS0QtMTgwMHgxMDAwX25vbG9nby5qcGc=.webp"
-    },
-    {
-      "id": "9e234a52c9fa",
-      "type": "newproduct",
-      "section": "newproduct",
-      "sub": "report",
-      "date": "2026-11-03",
-      "title": "Drinkaware urges brands to tap in to growing alcohol moderation trend",
-      "source": "Beverage Daily",
-      "sourceUrl": "https://www.beveragedaily.com/Article/2026/11/03/drinkaware-urges-brands-to-tap-into-alcohol-moderation-trend/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "🆕",
-      "category": "饮品",
-      "desc": "Drinkaware urges drinks manufacturers to support alcohol moderation, as research highlights growing use of low/no drinks among increasing-risk consumers.",
-      "tags": [],
-      "_imageUrl": "https://www.beveragedaily.com/resizer/v2/26M7267VLJHCLKWG45EITTX6D4.jpg?auth=bdb2a30637c5e9f635abf59cf9082e608303ce9c09638efb1fa9a9ac1a455b18&smart=true&width=2120&height=1414"
-    },
-    {
-      "id": "8a73625e3e03",
-      "type": "newproduct",
-      "section": "newproduct",
-      "sub": "report",
-      "date": "2026-11-03",
-      "title": "What’s next for drinks? Five trends reshaping the beverage industry",
-      "source": "Beverage Daily",
-      "sourceUrl": "https://www.beveragedaily.com/Article/2026/11/03/braubeviale-2026-whats-shaping-the-future-of-drinks/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "🆕",
-      "category": "饮品",
-      "desc": "Explore the key trends shaping BrauBeviale 2026, from no- and low-alcohol and functional drinks to AI, automation and sustainable beverage production.",
-      "tags": [
-        "可持续"
-      ],
-      "_imageUrl": "https://www.beveragedaily.com/resizer/v2/QEWKCUHR3NFJBPX7E67PPIRWTA.jpg?auth=2a863febf26e54b7ff3aa88cdb131f7fb6d7d4aad1dc16686c63323d3d854c64&smart=true&width=2119&height=1414"
-    },
-    {
-      "id": "94f91de6146d",
-      "type": "newproduct",
-      "section": "newproduct",
-      "sub": "report",
-      "date": "2026-11-03",
-      "title": "PepsiCo withdraws widely sold Walkers snack over labelling error",
-      "source": "BakeryandSnacks",
-      "sourceUrl": "https://www.foodmanufacture.co.uk/Article/2026/11/03/pepsico-has-pulled-a-walkers-snack-over-a-labelling-error/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "🆕",
-      "category": "休闲零食",
-      "desc": "",
-      "tags": [],
-      "_imageUrl": "https://www.bakeryandsnacks.com/resizer/v2/BNG6XYB3EZFNNMEKZIDAE5ZQH4.jpg?auth=19e20a1f71e4297b9037c763f00fc05bf7875d0d36ce94cf37a35f94e11f2b77&smart=true&width=2141&height=1400"
-    },
-    {
-      "id": "cea01a65d74a",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-11-02",
-      "title": "Coca-Cola, Pepsi lose brand value as Nongfu Spring surges",
-      "source": "FoodNavigator-Asia",
-      "sourceUrl": "https://www.foodnavigator.com/Article/2026/11/02/coca-cola-pepsi-lose-brand-value-as-nongfu-spring-surges/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "📊",
-      "category": "",
-      "desc": "Coca-Cola and Pepsi retain the top beverage brand value spots",
-      "tags": [],
-      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/7RKMLZBFAJBR7KHR44LKGRCOLQ.jpg?auth=562d75710719ad1a9f7c11a4f9269e08f299394d0b556127bdce063698b3b7ff&smart=true&width=2121&height=1414"
-    },
-    {
-      "id": "ea9bf3c49c56",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-11-02",
-      "title": "Shelf Life 134: Why Are We Paying A Premium For Fewer Ingredients?",
-      "source": "Dieline",
-      "sourceUrl": "https://thedieline.com/shelf-life-134-why-are-we-paying-a-premium-for-fewer-ingredients/",
-      "image": "📦",
-      "category": "",
-      "desc": "Whole Foods calls it Ingredient Minimalism: shoppers will now pay more for fewer ingredients, and brands like RXBAR and Vandy’s put the list front and center. The post Shelf Life 134: Why Are We Paying A Premium For Fewer Ingredients? appeared first on DIELINE.",
-      "tags": [
-        "原料"
-      ],
-      "_imageUrl": "https://thedieline.com/wp-content/uploads/2026/10/Subheading-5.png"
-    },
-    {
-      "id": "f0c266ba2eb2",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-11-02",
-      "title": "The Dieline’s Best of October 2026",
-      "source": "Dieline",
-      "sourceUrl": "https://thedieline.com/the-dielines-best-of-october-2026/",
-      "image": "📦",
-      "category": "",
-      "desc": "Explore October 2026’s best packaging designs and branding news, from Kocktail’s reusable glasses to ArtCraft’s AI tools and Pringles’ unexpected urn. The post The Dieline&#8217;s Best of October 2026 appeared first on DIELINE.",
-      "tags": [
-        "包装"
-      ],
-      "_imageUrl": "https://thedieline.com/wp-content/uploads/2026/11/Subheading.png"
-    },
-    {
-      "id": "0cd5325f489d",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-11-02",
-      "title": "Gut as core: Danone advances health span, early life nutrition in new China lab",
-      "source": "FoodNavigator-Asia",
-      "sourceUrl": "https://www.nutraingredients.com/Article/2026/11/02/danone-advances-health-span-early-life-nutrition-in-new-china-lab/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "📊",
-      "category": "",
-      "desc": "Danone has built a new research and innovation center in Shanghai, China, to advance research and product solutions to meet consumer needs in the core areas of the gut microbiome, healthspan, and early-life nutrition.",
-      "tags": [
-        "中国市场",
-        "创新"
-      ],
-      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/KZDHR53BDZGWREW7OKU73HIQQI.jpg?auth=4ecf5fbc9de4484bd0363615ecbe9bf57039ef970b9cd019dada5cdea3ec63ee&smart=true&width=6000&height=4000"
-    },
-    {
-      "id": "89849392e686",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-11-02",
-      "title": "Mondelēz sues British chocolate brand in Toblerone trademark dispute",
-      "source": "FoodNavigator-USA",
-      "sourceUrl": "https://www.confectionerynews.com/Article/2026/11/02/mondelez-sues-british-chocolate-brand-over-alleged-toblerone-trademark-infringement/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "📊",
-      "category": "",
-      "desc": "Mondelēz subsidiary, Kraft Foods Schweiz Holding GmbH, has launched legal action against vegan chocolate maker Catherine’s Originals, alleging its O’bar infringes Toblerone’s iconic shape trademark. Catherine’s Originals denies the claims and vows to defend its position.",
-      "tags": [],
-      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/XO6W6F4JJ5BNNHXNYOHDM7UWXU.jpg?auth=d44bb07d425d0f3a9d28b453ca9b1fd128bcfa903045c0f9dd9c7f50646d59be&smart=true&width=2121&height=1414"
-    },
-    {
-      "id": "5e459c1af099",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-11-02",
-      "title": "European supermarket fridges hit with suspected cyber attack",
-      "source": "FoodNavigator-USA",
-      "sourceUrl": "https://www.foodnavigator.com/Article/2026/11/02/cyber-attacks-raise-supermarket-fridge-temperatures/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "📊",
-      "category": "",
-      "desc": "Suspected cyber attack hits supermarket refrigeration systems across Europe, raising fridge and freezer temperatures and renewing concerns over food-sector cyber resilience",
-      "tags": [],
-      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/CHFGFAD32FGDBOON3MBX7OOZVM.jpg?auth=50c0acea09e8090b2795fbe7d372294b9dafaec5bcf6180c8bfa21bdabb13dfa&smart=true&width=2122&height=1412"
-    },
-    {
-      "id": "871299a10f30",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-11-02",
-      "title": "Oatly to raise US prices in 2027, weighs increases in Europe",
-      "source": "FoodNavigator-USA",
-      "sourceUrl": "https://www.foodnavigator.com/Article/2026/11/02/oatly-to-raise-us-prices-in-2027-weighs-europe-hikes/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "📊",
-      "category": "",
-      "desc": "Oatly plans US price increases in 2027 and is considering hikes in Europe as higher fuel costs squeeze profits. A US fiber drink launch is set for January.",
-      "tags": [],
-      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/LG5VHWUB7ZA3LLW5MSIVQJ3STU.png?auth=7a2671d09689acf19144a630b76d958494a597bafa21ace8e4c4322e77864e23&smart=true&width=1600&height=1143"
-    },
-    {
-      "id": "3de350cf158e",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-11-02",
-      "title": "Gut as core: Danone advances health span, early life nutrition in new China lab",
-      "source": "FoodNavigator-USA",
-      "sourceUrl": "https://www.nutraingredients.com/Article/2026/11/02/danone-advances-health-span-early-life-nutrition-in-new-china-lab/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "📊",
-      "category": "",
-      "desc": "Danone has built a new research and innovation center in Shanghai, China, to advance research and product solutions to meet consumer needs in the core areas of the gut microbiome, healthspan, and early-life nutrition.",
-      "tags": [
-        "中国市场",
-        "创新"
-      ],
-      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/KZDHR53BDZGWREW7OKU73HIQQI.jpg?auth=4ecf5fbc9de4484bd0363615ecbe9bf57039ef970b9cd019dada5cdea3ec63ee&smart=true&width=6000&height=4000"
-    },
-    {
-      "id": "efe19a1de82a",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-11-02",
-      "title": "Pack of the Month: Wild Lady Eggs Lives the Free-Range Dream",
-      "source": "Dieline",
-      "sourceUrl": "https://thedieline.com/pack-of-the-month-wild-lady-eggs-lives-the-free-range-dream/",
-      "image": "📦",
-      "category": "",
-      "desc": "With packaging courtesy of Kingdom &#038; Sparrow, Wild Lady Eggs' folksy aesthetic is inspired by the brand’s free-roaming hens and the speckled shells and rich yolks of their eggs. The post Pack of the Month: Wild Lady Eggs Lives the Free-Range Dream appeared first on DIELINE.",
-      "tags": [
-        "包装"
-      ],
-      "_imageUrl": "https://thedieline.com/wp-content/uploads/2026/11/imgi_64_Wild-Lady_Portfolio-9@4x-2048x1152-1.jpg"
     }
   ]
 }
