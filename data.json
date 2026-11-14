@@ -1,7 +1,7 @@
 {
   "meta": {
-    "updated": "2026-11-13",
-    "version": 1794541981,
+    "updated": "2026-11-14",
+    "version": 1794628293,
     "total": 150,
     "auto_generated": true,
     "sources": [
@@ -336,6 +336,357 @@
       }
     },
     {
+      "id": "7ba32a255df2",
+      "type": "compliance",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-11-13",
+      "title": "What does the new unfair trading practices regulation mean for food?",
+      "source": "FoodNavigator-Asia",
+      "sourceUrl": "https://www.foodnavigator.com/Article/2026/11/13/unfair-trading-practices-regulation-what-it-means-for-food/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "⚖️",
+      "category": "",
+      "desc": "In food and agriculture, smaller players, particularly farmers, often have far less bargaining power than larger companies. A directive on unfair trading practices in the EU aimed to change that. The Unfair Trading Practices Regulation sets out to improve enforcement of this d...",
+      "tags": [],
+      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/4NBW6TB56BCNPCUZCDGYKFVA6Q.jpg?auth=483fb8977862a3d9f41300d269455a1b6ba98e9c0912d80e8a1ae477290be9d4&smart=true&width=2291&height=1309"
+    },
+    {
+      "id": "c1d63ce49aaa",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-11-13",
+      "title": "Packaging progress: 5 food and beverage companies making sustainability swaps",
+      "source": "FoodNavigator-Asia",
+      "sourceUrl": "https://www.foodnavigator.com/Article/2026/11/13/5-food-brands-making-sustainable-packaging-changes/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "📊",
+      "category": "",
+      "desc": "From paper wrappers to recycled plastic containers, six food and beverage companies are making packaging changes to reduce waste and improve recyclability.",
+      "tags": [
+        "包装"
+      ],
+      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/L3VLZX4AX5HVNJA2KQ4SL4CMA4.jpg?auth=3930a407f9d324b4867474e43305848092a844b2a1fd8c46044b81af3d99c281&smart=true&width=2121&height=1414"
+    },
+    {
+      "id": "eab0fcc2ee13",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-11-13",
+      "title": "Once Upon a Farm maintains 2027 growth plans amid Tractor Wheels recall",
+      "source": "FoodNavigator-Asia",
+      "sourceUrl": "https://www.foodnavigator.com/Article/2026/11/13/once-upon-a-farm-lowers-2026-guidance-after-voluntary-tractor-wheels-recall/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "📊",
+      "category": "",
+      "desc": "Once Upon a Farm entered the fourth quarter on pace to exceed its financial targets, but a voluntary recall of its Tractor Wheels snack line prompted the company to lower its 2026 outlook and absorb up to $30 million in recall-related costs.",
+      "tags": [],
+      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/DAP2MLWVXNOLRJUKZ6WINGU26U.jpg?auth=8d2b0b8e9c4b374fe3fee613198b4b065074bcdae42e75051d4074803c795203&smart=true&width=1540&height=800"
+    },
+    {
+      "id": "e439f137b3ee",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-11-13",
+      "title": "Japan Focus: Japan-Singapore MOU, healthy longevity, Asia’s growth potential ...",
+      "source": "FoodNavigator-Asia",
+      "sourceUrl": "https://www.foodnavigator.com/Article/2026/11/13/japan-focus-japan-singapore-mou-healthy-longevity-asias-growth-potential-and-more/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "📊",
+      "category": "",
+      "desc": "This edition explores Japan-Singapore collaboration, healthy longevity and protein innovation, Asia’s global growth potential and APAC food-tech developments.",
+      "tags": [
+        "日本",
+        "创新"
+      ],
+      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/ISUFI3F6LVE2TNC63OOSOTXXY4.jpg?auth=f2576f503a5b959fa1322766f96f0b049918ca20c2acd88c7383ce3671f3160e&smart=true&width=2944&height=1856"
+    },
+    {
+      "id": "afe8f5ddf673",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-11-13",
+      "title": "How GLP-1s are changing beverage innovation",
+      "source": "FoodNavigator-Asia",
+      "sourceUrl": "https://www.foodmanufacture.co.uk/Article/2026/11/13/how-glp-1s-are-changing-beverage-innovation/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "📊",
+      "category": "",
+      "desc": "",
+      "tags": [
+        "创新"
+      ],
+      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/7NLKXW3ANBABVB2W3YJGTZXUKM.jpg?auth=9cc1088e418f478655bd093cc4a80a92b75adbd634f626531441295ba9a1d086&smart=true&width=2121&height=1414"
+    },
+    {
+      "id": "d7f6f38bebad",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-11-13",
+      "title": "Japan Focus: Japan-Singapore MOU, healthy longevity, Asia’s growth potential ...",
+      "source": "FoodNavigator-USA",
+      "sourceUrl": "https://www.foodnavigator.com/Article/2026/11/13/japan-focus-japan-singapore-mou-healthy-longevity-asias-growth-potential-and-more/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "📊",
+      "category": "",
+      "desc": "This edition explores Japan-Singapore collaboration, healthy longevity and protein innovation, Asia’s global growth potential and APAC food-tech developments.",
+      "tags": [
+        "日本",
+        "创新"
+      ],
+      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/ISUFI3F6LVE2TNC63OOSOTXXY4.jpg?auth=f2576f503a5b959fa1322766f96f0b049918ca20c2acd88c7383ce3671f3160e&smart=true&width=2944&height=1856"
+    },
+    {
+      "id": "2746786619bc",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-11-13",
+      "title": "How GLP-1s are changing beverage innovation",
+      "source": "FoodNavigator-USA",
+      "sourceUrl": "https://www.foodmanufacture.co.uk/Article/2026/11/13/how-glp-1s-are-changing-beverage-innovation/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "📊",
+      "category": "",
+      "desc": "",
+      "tags": [
+        "创新"
+      ],
+      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/7NLKXW3ANBABVB2W3YJGTZXUKM.jpg?auth=9cc1088e418f478655bd093cc4a80a92b75adbd634f626531441295ba9a1d086&smart=true&width=2121&height=1414"
+    },
+    {
+      "id": "e486a120cb64",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-11-13",
+      "title": "Test Your Auditioning Skills With A24’s Latest Fisk-Designed Card Game",
+      "source": "Dieline",
+      "sourceUrl": "https://thedieline.com/test-your-auditioning-skills-with-a24s-latest-fisk-designed-card-game/",
+      "image": "📦",
+      "category": "",
+      "desc": "Designed by creative studio Fisk, A24’s Audition is a card game where players take turns as the “casting director,” selecting movie lines for the “actors” to deliver using funny, surprising, and sometimes bizarre prompts. The post Test Your Auditioning Skills With A24&#8217;s ...",
+      "tags": [],
+      "_imageUrl": "https://thedieline.com/wp-content/uploads/2026/11/Screenshot-2026-11-13-at-4.02.26-PM.png"
+    },
+    {
+      "id": "dc7053008da0",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-11-13",
+      "title": "LabLeaf —natural cold-brewed tea",
+      "source": "Packaging of the World",
+      "sourceUrl": "https://packagingoftheworld.com/2026/11/lableaf-natural-cold-brewed-tea.html",
+      "image": "📦",
+      "category": "",
+      "desc": "LabLeaf is a packaging design student project of a cold-brewed tea, including 3 flavours: Japanese plum and chaga, honey and wild mint, fir and Sagan Daila. The product is aimed at the working adults segment, who are in search of a refreshing and natural beverage for their bus...",
+      "tags": [
+        "日本",
+        "包装"
+      ],
+      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/11/6248bc0dfca79224adef4edef6888456_tattoo-1-e1794565106341.png?fit=300%2C170&amp;ssl=1"
+    },
+    {
+      "id": "fc670871a7f4",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-11-13",
+      "title": "Olearius Olive Oil Packaging",
+      "source": "Packaging of the World",
+      "sourceUrl": "https://packagingoftheworld.com/2026/11/olearius-olive-oil-packaging.html",
+      "image": "📦",
+      "category": "",
+      "desc": "Olearius is a French olive oil brand. It began with an olive grove bought in Sardinia and became an oil merchant’s house that selects oils from around the Mediterranean, starting with Semidana from Sardinia and Aglandau from Provence. vrai studio joined in the summer of 2024 a...",
+      "tags": [
+        "包装"
+      ],
+      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/11/5f8bc9c2b0e9dfc25f72fea599fac5b2_tattoo-1-e1794565068966.png?fit=300%2C187&amp;ssl=1"
+    },
+    {
+      "id": "032d1bb28514",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-11-13",
+      "title": "Rassa – India inspired fragrances",
+      "source": "Packaging of the World",
+      "sourceUrl": "https://packagingoftheworld.com/2026/11/rassa-india-inspired-fragrances.html",
+      "image": "📦",
+      "category": "",
+      "desc": "Project Name: Rassa – Perfume Branding &#38; Packaging Design Project Type: Conceptual / Self-Initiated Rassa is a conceptual luxury perfume brand that explores India inspired fragrances. Rooted in the ancient Indian philosophy of Rasa, which celebrates the emotional essence o...",
+      "tags": [
+        "包装"
+      ],
+      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/11/e35e9840e583cd81bd60b0005fd965af_tattoo-1.png?fit=264%2C300&amp;ssl=1"
+    },
+    {
+      "id": "2111fa88ede2",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-11-13",
+      "title": "Kupo",
+      "source": "Packaging of the World",
+      "sourceUrl": "https://packagingoftheworld.com/2026/11/kupo.html",
+      "image": "📦",
+      "category": "",
+      "desc": "Slice Design creates bold new identity for KUPO, a Korean-inspired drinks brand with global ambitions Slice Design has created the brand identity and packaging design for KUPO, an exciting new Korean-inspired iced coffee and tea brand developed for international markets, with ...",
+      "tags": [
+        "包装"
+      ],
+      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/11/691fd0ebdf55dd60f26e879cf4b441c8_tattoo-1-e1794564087839.png?fit=300%2C169&amp;ssl=1"
+    },
+    {
+      "id": "ab44e7c97d5f",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-11-13",
+      "title": "Dan Ren Cheng Fu | Polygonatum Herbal Tonic",
+      "source": "Packaging of the World",
+      "sourceUrl": "https://packagingoftheworld.com/2026/11/dan-ren-cheng-fu-polygonatum-herbal-tonic-packaging-design.html",
+      "image": "📦",
+      "category": "",
+      "desc": "ABOUT THE PROJECT Dan Ren Cheng Fu is a premium Polygonatum-based herbal food brand inspired by traditional Chinese botanical culture and craftsmanship. The packaging design explores a contemporary interpretation of Eastern aesthetics, creating a distinctive visual identity fo...",
+      "tags": [
+        "包装",
+        "原料"
+      ],
+      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/11/-1-e1794564062722.jpg?fit=300%2C188&amp;ssl=1"
+    },
+    {
+      "id": "a3beebd7e8b1",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-11-13",
+      "title": "Wild Turkey RTD Packaging Redesign",
+      "source": "Packaging of the World",
+      "sourceUrl": "https://packagingoftheworld.com/2026/11/wild-turkey-rtd-packaging-redesign.html",
+      "image": "📦",
+      "category": "",
+      "desc": "Putting the turkey back in the spotlight to give an RTD staple the distinctive, premium presence it deserves. The Challenge: Wild Turkey is an icon, but in a rapidly evolving RTD category, even icons need to work harder on shelf. Over the past decade, Australia’s RTD market ha...",
+      "tags": [
+        "包装"
+      ],
+      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/11/WildTurkey_TCM-Web-1-e1794563828530.jpg?fit=300%2C270&amp;ssl=1"
+    },
+    {
+      "id": "83d70da6925d",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-11-13",
+      "title": "Lucarelli wine",
+      "source": "Packaging of the World",
+      "sourceUrl": "https://packagingoftheworld.com/2026/11/lucarelli-wine.html",
+      "image": "📦",
+      "category": "",
+      "desc": "For the rebranding of Lucarelli, an Italian winery based in the Marche region, Fond developed a refined and minimal visual identity that celebrates the deep connection between wine, land and tradition. The packaging concept draws inspiration from the vineyard itself. A series ...",
+      "tags": [
+        "包装"
+      ],
+      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/11/lucarelli-15-2400x2400-q90-1-1-e1794563736646.jpg?fit=300%2C200&amp;ssl=1"
+    },
+    {
+      "id": "562837ea4f67",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-11-13",
+      "title": "Kraft Heinz expects return to growth in 2027 as innovation investments pay off",
+      "source": "Food Dive",
+      "sourceUrl": "https://www.fooddive.com/news/kraft-heinz-return-to-growth-innovation-investments-payoff/874643/",
+      "image": "📊",
+      "category": "",
+      "desc": "Recent launches, including ketchup with lower sugar and lactose-free cream cheese, are helping grow market share and volume.",
+      "tags": [
+        "创新"
+      ],
+      "_imageUrl": "https://imgproxy.divecdn.com/mTNx4W0SOkJvFeqKR915VHaN-bu4G9DDex19Jxul34Y/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9Qb3dlck1hY19IZXJvX0tleV9WaXN1YWwuanBn.webp"
+    },
+    {
+      "id": "6ee6596c36bd",
+      "type": "newproduct",
+      "section": "newproduct",
+      "sub": "report",
+      "date": "2026-11-13",
+      "title": "News bites: Utz, Baker & Baker and Lantmännen Unibake in the M&A spotlight",
+      "source": "BakeryandSnacks",
+      "sourceUrl": "https://www.bakeryandsnacks.com/Article/2026/11/13/bakery-and-snack-ma-utz-baker-baker-lantmannen-unibake-and-more/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "🆕",
+      "category": "休闲零食",
+      "desc": "The latest bakery and snack deals include a proposed US$2.9bn take-private, acquisitions in free-from and frozen bread, and a UK plant sale ordered by the CMA.",
+      "tags": [
+        "冷冻食品"
+      ],
+      "_imageUrl": "https://www.bakeryandsnacks.com/resizer/v2/UHVLFQR7TVBPTOE2LRW5ICG7GU.jpg?auth=3cd39ebeecd8479e72bfcc4cb33ef166ec30ed67c4d102e53db4e1e6605dd0d9&smart=true&width=800&height=450"
+    },
+    {
+      "id": "5ef8ea513016",
+      "type": "newproduct",
+      "section": "newproduct",
+      "sub": "report",
+      "date": "2026-11-13",
+      "title": "New beverage launches: Poppi, Celsius and more…",
+      "source": "Beverage Daily",
+      "sourceUrl": "https://www.beveragedaily.com/Article/2026/11/13/new-drinks-launches-celsius-poppi-elixir-and-bad-appel/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "🆕",
+      "category": "饮品",
+      "desc": "What are the latest beverage launches? New products include seasonal drinks from CELSIUS and poppi, an alcohol-free bitters and tonic RTD from Elixir, and Bad Appel, a cocktail-focused Calvados brand targeting a new generation of consumers.",
+      "tags": [],
+      "_imageUrl": "https://www.beveragedaily.com/resizer/v2/O2SWVIOEYNBIFE2YFMLFUKA674.jpg?auth=59e2cacc3b25413a264f89bdbfcf9ad41a250dffda3c740fac5e08610f2713ba&smart=true&width=8443&height=5571"
+    },
+    {
+      "id": "a45d51770f6c",
+      "type": "newproduct",
+      "section": "newproduct",
+      "sub": "report",
+      "date": "2026-11-13",
+      "title": "Microsoft outage hits global food and drink",
+      "source": "Beverage Daily",
+      "sourceUrl": "https://www.foodnavigator.com/Article/2026/11/13/microsoft-outage-impact-on-global-food-and-drink/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "🆕",
+      "category": "饮品",
+      "desc": "How will the Microsoft outage impact global food and drink suppliers and sales?",
+      "tags": [],
+      "_imageUrl": "https://www.beveragedaily.com/resizer/v2/KLBLGUITCJB23NMOV3LNXJVIZ4.jpg?auth=40d6a04e70aa29948724bb66533ff051e169d479bb6ee281c014fbe5211f0adf&smart=true&width=2121&height=1414"
+    },
+    {
+      "id": "cc03b10b2f2f",
+      "type": "newproduct",
+      "section": "newproduct",
+      "sub": "report",
+      "date": "2026-11-13",
+      "title": "How GLP-1s are changing beverage innovation",
+      "source": "Beverage Daily",
+      "sourceUrl": "https://www.foodmanufacture.co.uk/Article/2026/11/13/how-glp-1s-are-changing-beverage-innovation/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "🆕",
+      "category": "饮品",
+      "desc": "",
+      "tags": [
+        "创新"
+      ],
+      "_imageUrl": "https://www.beveragedaily.com/resizer/v2/7NLKXW3ANBABVB2W3YJGTZXUKM.jpg?auth=9cc1088e418f478655bd093cc4a80a92b75adbd634f626531441295ba9a1d086&smart=true&width=2121&height=1414"
+    },
+    {
+      "id": "cee54e5c7273",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-11-13",
+      "title": "How GLP-1s are changing beverage innovation",
+      "source": "Food Manufacture",
+      "sourceUrl": "https://www.foodmanufacture.co.uk/Article/2026/11/13/how-glp-1s-are-changing-beverage-innovation/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "📊",
+      "category": "",
+      "desc": "",
+      "tags": [
+        "创新"
+      ],
+      "_imageUrl": "https://www.foodmanufacture.co.uk/resizer/v2/7NLKXW3ANBABVB2W3YJGTZXUKM.jpg?auth=9cc1088e418f478655bd093cc4a80a92b75adbd634f626531441295ba9a1d086&smart=true&width=2121&height=1414"
+    },
+    {
       "id": "9170adf1dd2d",
       "type": "report",
       "section": "data",
@@ -581,6 +932,23 @@
       "desc": "Doomspending, when consumers spend recklessly due to pessimism about the future, is a growing trend. Yet how could it impact the health-and-wellness-dominated food and beverage space?",
       "tags": [],
       "_imageUrl": "https://www.beveragedaily.com/resizer/v2/CYWCRWE74ZEK7GK5W3UTF3JITE.jpg?auth=628f484c6903d88cf80ef962aed63e3470807891a5c20e9602781c03b8711846&smart=true&width=3818&height=2546"
+    },
+    {
+      "id": "554c693ca3f8",
+      "type": "newproduct",
+      "section": "newproduct",
+      "sub": "report",
+      "date": "2026-11-12",
+      "title": "Mondelēz vision for the future of confectionery and snacking",
+      "source": "BakeryandSnacks",
+      "sourceUrl": "https://www.foodnavigator.com/Article/2026/11/12/mondelez-vision-for-the-future-of-confectionery-and-snacking/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "🆕",
+      "category": "休闲零食",
+      "desc": "Mondelēz is using innovation, AI, acquisitions and brand heritage to drive growth, navigate changing consumer preferences and shape the future of global confectionery and snacking.",
+      "tags": [
+        "创新"
+      ],
+      "_imageUrl": "https://www.bakeryandsnacks.com/resizer/v2/PDUDAQLV4JKENNRCRXOKJ6RJQQ.jpg?auth=2a486371b891b9f797b874c30dfed1cbfe03d3677c71f70421918fb8168e7f7c&smart=true&width=1024&height=768"
     },
     {
       "id": "a0553380be63",
@@ -899,6 +1267,21 @@
       "desc": "AI is used widely in R&amp;D for food, with more than 90% of food and beverage R&amp;D leaders utilising the technology. AI can cut R&amp;D time and save costs, but it is not without its disadvantages.",
       "tags": [],
       "_imageUrl": "https://www.foodmanufacture.co.uk/resizer/v2/UBXXVGROFVDBFLQNVAT3YC7IIQ.jpg?auth=1850613335a428b5cb25e6d30bbaded90981eeb5c959522523dd7c9193c98fb6&smart=true&width=3519&height=2202"
+    },
+    {
+      "id": "8f8fd1340e5f",
+      "type": "newproduct",
+      "section": "newproduct",
+      "sub": "report",
+      "date": "2026-11-11",
+      "title": "Mars’ $1.4 billion investment targets snack growth amid industry-wide consoli...",
+      "source": "BakeryandSnacks",
+      "sourceUrl": "https://www.foodnavigator.com/Article/2026/11/11/mars-invests-14-billion-across-snacks-and-petcare/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "🆕",
+      "category": "休闲零食",
+      "desc": "Mars' $1.4 billion investment across its snack and pet care portfolios reflect a broader industry shift towards production consolidation and expansion for key categories.",
+      "tags": [],
+      "_imageUrl": "https://www.bakeryandsnacks.com/resizer/v2/NO4KI44WDRF4HHSUX4CVOL7A6U.jpg?auth=b0cfdf94294c485aa3cd325c1471eba824b091ae9413c2300b0367327ee8bf11&smart=true&width=2120&height=1414"
     },
     {
       "id": "8b6a4b6fc6bd",
@@ -2175,379 +2558,6 @@
         "包装"
       ],
       "_imageUrl": "https://www.foodnavigator.com/resizer/v2/LCGOHJRT2FCJBBTYEPYRWD6YEQ.jpg?auth=2ce94e34b096f0ed5c8399f3e252984081a5115580d5c5ac1adedfbc0de37f9c&smart=true&width=2122&height=1412"
-    },
-    {
-      "id": "52a93d8cdd42",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-11-04",
-      "title": "Ferrero targets seasonal sales with Christmas campaign and limited-edition la...",
-      "source": "FoodNavigator-USA",
-      "sourceUrl": "https://www.confectionerynews.com/Article/2026/11/04/ferrero-targets-christmas-confectionery-sales-with-seasonal-launches/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "📊",
-      "category": "",
-      "desc": "Ferrero launches Christmas campaign and limited-edition Cinnamon Spice Squares as it targets festive confectionery sales.",
-      "tags": [],
-      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/3WBROL3TAREANPXAAYUEQ23MCY.png?auth=36a28d61393833db91b34cf7d4699b2694779f91dc0102c2688f84e650e2f6a4&smart=true&width=1297&height=965"
-    },
-    {
-      "id": "b5106a109bc0",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-11-04",
-      "title": "61% of business leaders say the food system isn’t ready for the next decade",
-      "source": "FoodNavigator-USA",
-      "sourceUrl": "https://www.foodnavigator.com/Article/2026/11/04/why-food-security-needs-manufacturing/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "📊",
-      "category": "",
-      "desc": "Food security is under pressure, but industry leaders say investing in manufacturing, processing and packaging innovation could make food systems more resilient, affordable and sustainable.",
-      "tags": [
-        "可持续",
-        "创新",
-        "包装"
-      ],
-      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/LCGOHJRT2FCJBBTYEPYRWD6YEQ.jpg?auth=2ce94e34b096f0ed5c8399f3e252984081a5115580d5c5ac1adedfbc0de37f9c&smart=true&width=2122&height=1412"
-    },
-    {
-      "id": "4c2725acb0fb",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-11-04",
-      "title": "Stout Collective’s Matt Tanaka Charts American Beer Branding Over the Last De...",
-      "source": "Dieline",
-      "sourceUrl": "https://thedieline.com/stout-collectives-matt-tanaka-charts-american-beer-branding-over-the-last-decade/",
-      "image": "📦",
-      "category": "",
-      "desc": "The founder and CEO of Stout Collective in Chicago reflects on the evolution of beer branding and packaging design he's experienced firsthand throughout his career. The post Stout Collective&#8217;s Matt Tanaka Charts American Beer Branding Over the Last Decade appeared first ...",
-      "tags": [
-        "包装"
-      ],
-      "_imageUrl": "https://thedieline.com/wp-content/uploads/2026/11/Goose_StoutCollective3-1.jpg"
-    },
-    {
-      "id": "bc2d3a3cf8c0",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-11-04",
-      "title": "Packaging You Shouldn’t Miss #148",
-      "source": "Packaging of the World",
-      "sourceUrl": "https://packagingoftheworld.com/2026/11/packaging-you-shouldnt-miss-148.html",
-      "image": "📦",
-      "category": "",
-      "desc": "Issue #148 brings together ten packaging projects where one clear idea shapes the whole design. A mezcal label peels back to reveal an invented village, a vodka monogram slowly mutates into an insect, round pouch windows become the wheels and balloons of a playful charcuterie ...",
-      "tags": [
-        "包装"
-      ],
-      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/11/oct-2026-t.jpg?fit=300%2C225&amp;ssl=1"
-    },
-    {
-      "id": "7ab0ac798ef0",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-11-04",
-      "title": "Weingut Leitz PNR / CHRD / SPRK",
-      "source": "Packaging of the World",
-      "sourceUrl": "https://packagingoftheworld.com/2026/11/weingut-leitz-pnr-chrd-sprk.html",
-      "image": "📦",
-      "category": "",
-      "desc": "Label design for Weingut Leitz. A Dealcoholized range of three wines. Pinot Noir, Chardonnay and a Sparkling wine. &#160;",
-      "tags": [],
-      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/11/jj_pnr_01-1-scaled-e1793785213648.jpg?fit=225%2C300&amp;ssl=1"
-    },
-    {
-      "id": "724524efbc07",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-11-04",
-      "title": "FruLove by SuperFresh",
-      "source": "Packaging of the World",
-      "sourceUrl": "https://packagingoftheworld.com/2026/11/frulove-by-superfresh.html",
-      "image": "📦",
-      "category": "",
-      "desc": "For the love of all that is fruity and cool: FruLove by SuperFresh. Not quite ice cream. Not just dessert. FruLove is a frozen sweet concept by SuperFresh that lives somewhere between a snack, a dessert, and a very good reason to open the freezer. From chocolate-covered raspbe...",
-      "tags": [
-        "冷冻食品"
-      ],
-      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/11/1_cover-1-e1793785188235.jpg?fit=300%2C169&amp;ssl=1"
-    },
-    {
-      "id": "de2c4e9d48ff",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-11-04",
-      "title": "Kushi Corn Snacks Packaging",
-      "source": "Packaging of the World",
-      "sourceUrl": "https://packagingoftheworld.com/2026/11/kushi-corn-snacks-packaging.html",
-      "image": "📦",
-      "category": "",
-      "desc": "Kushi is a brand that produces corn snacks with Indian spices. It targets the younger generation, who seek new and vibrant flavors amid the grey routine of everyday life. The collection is a line of corn puffs with unique flavors based on natural blends of Indian spices: tomat...",
-      "tags": [
-        "包装"
-      ],
-      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/11/A4-2-1-e1793785163236.jpg?fit=300%2C300&amp;ssl=1"
-    },
-    {
-      "id": "8d5c9a9a67d6",
-      "type": "newproduct",
-      "section": "newproduct",
-      "sub": "report",
-      "date": "2026-11-04",
-      "title": "Can science keep up with chocolate’s ambitions?",
-      "source": "BakeryandSnacks",
-      "sourceUrl": "https://www.bakeryandsnacks.com/Article/2026/11/04/chocolate-innovation-can-science-match-ambition/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "🆕",
-      "category": "休闲零食",
-      "desc": "Fermentation, cocoa alternatives and cultured cacao are giving bakery and snack makers new options for flavour, formulation and supply.",
-      "tags": [],
-      "_imageUrl": "https://www.bakeryandsnacks.com/resizer/v2/YBE7KE5J5ZG7DLQEDW537AIWQI.jpg?auth=3e03f4fe144e19681ad36099096e5fbaa362688c04a6974e918488dd45c8e8e2&smart=true&width=750&height=500"
-    },
-    {
-      "id": "0e343c33d278",
-      "type": "newproduct",
-      "section": "newproduct",
-      "sub": "report",
-      "date": "2026-11-04",
-      "title": "Are mystery flavours just a one-pack wonder?",
-      "source": "BakeryandSnacks",
-      "sourceUrl": "https://www.bakeryandsnacks.com/Article/2026/11/04/mystery-snack-flavours-can-curiosity-drive-repeat-sales/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "🆕",
-      "category": "休闲零食",
-      "desc": "From Pringles to Chips Ahoy!, snack brands turn secret flavours into guessing games. What keeps shoppers buying once the answer’s out?",
-      "tags": [],
-      "_imageUrl": "https://www.bakeryandsnacks.com/resizer/v2/OT2YYM7BR5GP5GNA7XWWXUQEUM.jpg?auth=18e914a8bdf4595e017fe41027fdb9f8a424cf830a7fd2c626365cd608e74af7&smart=true&width=2121&height=1414"
-    },
-    {
-      "id": "edf6c2aefaac",
-      "type": "newproduct",
-      "section": "newproduct",
-      "sub": "report",
-      "date": "2026-11-04",
-      "title": "Kraft Heinz to sell North American coffee business for $650M",
-      "source": "Beverage Daily",
-      "sourceUrl": "https://www.foodnavigator.com/Article/2026/11/04/kraft-heinz-to-sell-coffee-business-in-650m-deal/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "🆕",
-      "category": "饮品",
-      "desc": "Kraft Heinz will sell its North American coffee business to One Rock for $650 million, retain a 30% stake and use cash proceeds to reduce debt.",
-      "tags": [],
-      "_imageUrl": "https://www.beveragedaily.com/resizer/v2/Y7JL2MHQNJF2JFBPB6VKR3SHLA.jpg?auth=36aee79a42b207ffc0e308ca8604fee21260f6ad8e8a8ba2cad3b3fbe2f8f841&smart=true&width=3000&height=2000"
-    },
-    {
-      "id": "69228f4f43de",
-      "type": "newproduct",
-      "section": "newproduct",
-      "sub": "report",
-      "date": "2026-11-04",
-      "title": "61% of business leaders say the food system isn’t ready for the next decade",
-      "source": "BakeryandSnacks",
-      "sourceUrl": "https://www.foodnavigator.com/Article/2026/11/04/why-food-security-needs-manufacturing/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "🆕",
-      "category": "休闲零食",
-      "desc": "Food security is under pressure, but industry leaders say investing in manufacturing, processing and packaging innovation could make food systems more resilient, affordable and sustainable.",
-      "tags": [
-        "可持续",
-        "创新",
-        "包装"
-      ],
-      "_imageUrl": "https://www.bakeryandsnacks.com/resizer/v2/LCGOHJRT2FCJBBTYEPYRWD6YEQ.jpg?auth=2ce94e34b096f0ed5c8399f3e252984081a5115580d5c5ac1adedfbc0de37f9c&smart=true&width=2122&height=1412"
-    },
-    {
-      "id": "7dcffc5a5db9",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-11-03",
-      "title": "Inside Nestlé’s brand-building machine",
-      "source": "FoodNavigator-Asia",
-      "sourceUrl": "https://www.foodnavigator.com/Article/2026/11/03/how-nestle-builds-billion-dollar-brands/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "📊",
-      "category": "",
-      "desc": "How does Nestlé build and maintain some of the world’s most powerful brands? From a ‘fewer, bigger’ investment strategy to innovation, AI-powered marketing and workforce development, here’s the playbook driving growth at the food giant.",
-      "tags": [
-        "创新"
-      ],
-      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/NGOESWPCKREBBITVEN5B7CVD6I.jpg?auth=db9406a2ae3d3910c7562c58bacfb8a5e297b59c63d321d9381edf0a06b66c4a&smart=true&width=1999&height=1499"
-    },
-    {
-      "id": "7b9decc5994b",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-11-03",
-      "title": "SNAP food and drink restrictions expand, pressuring CPG sales",
-      "source": "FoodNavigator-Asia",
-      "sourceUrl": "https://www.foodnavigator.com/Article/2026/11/03/snap-restrictions-expand-to-four-more-states/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "📊",
-      "category": "",
-      "desc": "Four more states restrict SNAP purchases of select foods and beverages as early sales data points to declines and CPGs assess the impact on demand.",
-      "tags": [],
-      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/EQU7AXOOBJFRNMFSN6A774PX7Y.jpg?auth=7c6876d716bb1ee288be8b73934f45e8a1972457d607f1f909086f62b8f963f7&smart=true&width=800&height=450"
-    },
-    {
-      "id": "6755df0ebef3",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-11-03",
-      "title": "What’s next for drinks? Five trends reshaping the beverage industry",
-      "source": "FoodNavigator-Asia",
-      "sourceUrl": "https://www.beveragedaily.com/Article/2026/11/03/braubeviale-2026-whats-shaping-the-future-of-drinks/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "📊",
-      "category": "",
-      "desc": "Explore the key trends shaping BrauBeviale 2026, from no- and low-alcohol and functional drinks to AI, automation and sustainable beverage production.",
-      "tags": [
-        "可持续"
-      ],
-      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/QEWKCUHR3NFJBPX7E67PPIRWTA.jpg?auth=2a863febf26e54b7ff3aa88cdb131f7fb6d7d4aad1dc16686c63323d3d854c64&smart=true&width=2119&height=1414"
-    },
-    {
-      "id": "642beb4914a8",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-11-03",
-      "title": "Cheese and yoghurt drive UK dairy growth as health and protein trends gain mo...",
-      "source": "FoodNavigator-Asia",
-      "sourceUrl": "https://www.dairyreporter.com/Article/2026/11/03/cheese-and-yoghurt-drive-uk-dairy-growth-as-health-and-protein-trends-gain-momentum/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "📊",
-      "category": "",
-      "desc": "",
-      "tags": [],
-      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/JICBFUX4HJCHVOX4PS5F7WVA4U.jpg?auth=4cf0cbd6ff77662d9f333f32fb2a96a10ea4b69ad7aa5628ec6c8adc2d515d39&smart=true&width=2121&height=1414"
-    },
-    {
-      "id": "4a612511f7ce",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-11-03",
-      "title": "Inside Nestlé’s brand-building machine",
-      "source": "FoodNavigator-USA",
-      "sourceUrl": "https://www.foodnavigator.com/Article/2026/11/03/how-nestle-builds-billion-dollar-brands/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "📊",
-      "category": "",
-      "desc": "How does Nestlé build and maintain some of the world’s most powerful brands? From a ‘fewer, bigger’ investment strategy to innovation, AI-powered marketing and workforce development, here’s the playbook driving growth at the food giant.",
-      "tags": [
-        "创新"
-      ],
-      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/NGOESWPCKREBBITVEN5B7CVD6I.jpg?auth=db9406a2ae3d3910c7562c58bacfb8a5e297b59c63d321d9381edf0a06b66c4a&smart=true&width=1999&height=1499"
-    },
-    {
-      "id": "0d78c993cb84",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-11-03",
-      "title": "What’s next for drinks? Five trends reshaping the beverage industry",
-      "source": "FoodNavigator-USA",
-      "sourceUrl": "https://www.beveragedaily.com/Article/2026/11/03/braubeviale-2026-whats-shaping-the-future-of-drinks/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "📊",
-      "category": "",
-      "desc": "Explore the key trends shaping BrauBeviale 2026, from no- and low-alcohol and functional drinks to AI, automation and sustainable beverage production.",
-      "tags": [
-        "可持续"
-      ],
-      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/QEWKCUHR3NFJBPX7E67PPIRWTA.jpg?auth=2a863febf26e54b7ff3aa88cdb131f7fb6d7d4aad1dc16686c63323d3d854c64&smart=true&width=2119&height=1414"
-    },
-    {
-      "id": "c0345dab1622",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-11-03",
-      "title": "Cheese and yoghurt drive UK dairy growth as health and protein trends gain mo...",
-      "source": "FoodNavigator-USA",
-      "sourceUrl": "https://www.dairyreporter.com/Article/2026/11/03/cheese-and-yoghurt-drive-uk-dairy-growth-as-health-and-protein-trends-gain-momentum/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "📊",
-      "category": "",
-      "desc": "",
-      "tags": [],
-      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/JICBFUX4HJCHVOX4PS5F7WVA4U.jpg?auth=4cf0cbd6ff77662d9f333f32fb2a96a10ea4b69ad7aa5628ec6c8adc2d515d39&smart=true&width=2121&height=1414"
-    },
-    {
-      "id": "8a67b91790a4",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-11-03",
-      "title": "Luckies Is a Texas Burger Joint That Looks Like It Opened in 1955",
-      "source": "Dieline",
-      "sourceUrl": "https://thedieline.com/luckies-is-a-texas-burger-joint-that-looks-like-it-opened-in-1955/",
-      "image": "📦",
-      "category": "",
-      "desc": "SAMPLE gave Luckies, a beef tallow burger joint opening in Port Neches, Texas, a hand-painted brush script, a rabbit mascot, and midcentury fast food charm. The post Luckies Is a Texas Burger Joint That Looks Like It Opened in 1955 appeared first on DIELINE.",
-      "tags": [],
-      "_imageUrl": "https://thedieline.com/wp-content/uploads/2026/11/LUCKIES-SOCIAL-02.png"
-    },
-    {
-      "id": "61c84b8d7ae4",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-11-03",
-      "title": "This Brazilian Panettone Box Skips Every Christmas Cliché, and It’s Better fo...",
-      "source": "Dieline",
-      "sourceUrl": "https://thedieline.com/this-brazilian-panettone-box-skips-every-christmas-cliche-and-its-better-for-it/",
-      "image": "📦",
-      "category": "",
-      "desc": "MELT Design swapped ornaments for an embossed Art Deco sunburst on Iguatemi and Pati Piva’s brigadeiro panettone, in deep red, hot pink, and vivid green. The post This Brazilian Panettone Box Skips Every Christmas Cliché, and It’s Better for It appeared first on DIELINE.",
-      "tags": [],
-      "_imageUrl": "https://thedieline.com/wp-content/uploads/2026/11/6_PanettoneIguatemi_TheDielineBlog-bb625430b2ca56d42879ee910793e9af.jpg"
-    },
-    {
-      "id": "4b25fce7ed80",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-11-03",
-      "title": "23 Packaging Designs That Caught Our Eye at RootedExpo",
-      "source": "Dieline",
-      "sourceUrl": "https://thedieline.com/23-packaging-designs-that-caught-our-eye-at-rootedexpo/",
-      "image": "📦",
-      "category": "",
-      "desc": "We corralled 23 of our favorite pieces of packaging from the Texas CPG tradeshow RootedExpo. The post 23 Packaging Designs That Caught Our Eye at RootedExpo appeared first on DIELINE.",
-      "tags": [
-        "包装"
-      ],
-      "_imageUrl": "https://thedieline.com/wp-content/uploads/2026/11/Subheading-1.png"
-    },
-    {
-      "id": "68233312b864",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-11-03",
-      "title": "KIO",
-      "source": "Packaging of the World",
-      "sourceUrl": "https://packagingoftheworld.com/2026/11/kio.html",
-      "image": "📦",
-      "category": "",
-      "desc": "KIO is a next-gen organic tea brand built to break the predictable visual language of the tea aisle. Instead of earth tones and heritage typography, the packaging uses a pop collision of forest green, Barbie pink, vibrant yellow, and cobalt blue, anchored by a mascot: a leaf w...",
-      "tags": [
-        "包装"
-      ],
-      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/11/11-1-e1793702080469.jpeg?fit=300%2C224&amp;ssl=1"
-    },
-    {
-      "id": "ee0c71c5872a",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-11-03",
-      "title": "BIOTIX: Science Without the Sterile Feeling",
-      "source": "Packaging of the World",
-      "sourceUrl": "https://packagingoftheworld.com/2026/11/biotix-science-without-the-sterile-feeling.html",
-      "image": "📦",
-      "category": "",
-      "desc": "Postbiotics are preparations made from inanimate microorganisms and/or their components. BIOTIX’s postbiotic can be incorporated into different foods without changing their flavour, placing the brand in an interesting space between health and food. BIOTIX already offers bluebe...",
-      "tags": [],
-      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/11/4-1-e1793702032383.png?fit=300%2C185&amp;ssl=1"
     }
   ]
 }
