@@ -1,7 +1,7 @@
 {
   "meta": {
-    "updated": "2026-11-24",
-    "version": 1795504954,
+    "updated": "2026-11-25",
+    "version": 1795586046,
     "total": 150,
     "auto_generated": true,
     "sources": [
@@ -336,6 +336,108 @@
       }
     },
     {
+      "id": "c84da242ec34",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-11-25",
+      "title": "Living Legurme Gluten-Free Pasta Boxes and Pouches",
+      "source": "Packaging of the World",
+      "sourceUrl": "https://packagingoftheworld.com/2026/11/living-legurme-gluten-free-pasta-boxes-and-pouches.html",
+      "image": "📦",
+      "category": "",
+      "desc": "Agency: TDN Creative Location: Istanbul, Türkiye Project Type: Produced, Commissioned Work Client: Living Legurme Packaging Contents: Gluten-free buckwheat, chickpea and corn-rice pasta Packaging Substrate / Materials: Windowed folding carton; windowed pouch Project Overview T...",
+      "tags": [
+        "包装"
+      ],
+      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/11/project-thumbnail-86d11289-f9d1-4be7-ae56-0cc95e02a3bf.jpg?fit=300%2C225&amp;ssl=1"
+    },
+    {
+      "id": "1ad48c57c988",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-11-25",
+      "title": "Oz Mixology Spritz, Virgin Mojito and Foamer",
+      "source": "Packaging of the World",
+      "sourceUrl": "https://packagingoftheworld.com/2026/11/oz-mixology-spritz-virgin-mojito-and-foamer.html",
+      "image": "📦",
+      "category": "",
+      "desc": "Agency: TDN Creative Location: Istanbul, Türkiye Project Type: Produced, Commissioned Work Client: Oz Mixology Packaging Contents: Alcohol-free spritz, virgin mojitos, cocktail foamer Packaging Substrate / Materials: Glass bottles with labels and neck band; small bottle with o...",
+      "tags": [
+        "包装"
+      ],
+      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/11/project-thumbnail-6d00336c-3220-4f26-9902-2e0eb6e38aef.jpg?fit=300%2C225&amp;ssl=1"
+    },
+    {
+      "id": "ab6ab1b9bf5e",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-11-25",
+      "title": "Zegmuss Cigar Band Series",
+      "source": "Packaging of the World",
+      "sourceUrl": "https://packagingoftheworld.com/2026/11/zegmuss-cigar-band-series.html",
+      "image": "📦",
+      "category": "",
+      "desc": "Agency: TDN Creative Location: Istanbul, Türkiye Project Type: Produced, Commissioned Work Client: Zegmuss Packaging Contents: Hand-made Dominican premium cigars Packaging Substrate / Materials: Cigar bands and foot bands Project Overview Zegmuss is a premium cigar brand aimed...",
+      "tags": [
+        "包装"
+      ],
+      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/11/project-thumbnail-7ce47f6e-765e-43c0-826e-ac155aacc1fa.jpg?fit=300%2C225&amp;ssl=1"
+    },
+    {
+      "id": "a77ce08fcad0",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-11-25",
+      "title": "Oz Botanical CBD Oil Boxes and Gift Set",
+      "source": "Packaging of the World",
+      "sourceUrl": "https://packagingoftheworld.com/2026/11/oz-botanical-cbd-oil-boxes-and-gift-set.html",
+      "image": "📦",
+      "category": "",
+      "desc": "Agency: TDN Creative Location: Istanbul, Türkiye Project Type: Produced, Commissioned Work Client: Oz Botanical Packaging Contents: Full spectrum CBD oils Packaging Substrate / Materials: Folding cartons, drawer gift box, amber glass dropper bottles Project Overview Oz Botanic...",
+      "tags": [
+        "包装"
+      ],
+      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/11/project-thumbnail-f7f30e32-dad7-4c1e-9752-34de42a1e7ee.jpg?fit=300%2C225&amp;ssl=1"
+    },
+    {
+      "id": "047e20f32bac",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-11-25",
+      "title": "Mellona Kids Honey and Strawberry Honey Packaging",
+      "source": "Packaging of the World",
+      "sourceUrl": "https://packagingoftheworld.com/2026/11/mellona-kids-honey-and-strawberry-honey-packaging.html",
+      "image": "📦",
+      "category": "",
+      "desc": "Agency: TDN Creative Location: Istanbul, Türkiye Project Type: Conceptual Design Client: Mellona Packaging Contents: Banana flower honey for children, strawberry flower honey Packaging Substrate / Materials: Inverted squeeze bottle with label, jar with label and navy lid Proje...",
+      "tags": [
+        "包装"
+      ],
+      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/11/project-thumbnail-6654f985-d9c8-48ae-add6-420ef9bf3611.jpg?fit=300%2C225&amp;ssl=1"
+    },
+    {
+      "id": "5c7607cf5a84",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-11-25",
+      "title": "Greenlabel Herbal Shampoo and Natural Soap Packaging",
+      "source": "Packaging of the World",
+      "sourceUrl": "https://packagingoftheworld.com/2026/11/greenlabel-herbal-shampoo-and-natural-soap-packaging.html",
+      "image": "📦",
+      "category": "",
+      "desc": "Agency: TDN Creative Location: Istanbul, Türkiye Project Type: Produced, Commissioned Work Client: Greenlabel Packaging Contents: Herbal shampoos, natural hand and body soaps Packaging Substrate / Materials: Translucent dark green bottles with transparent labels, illustrated s...",
+      "tags": [
+        "包装"
+      ],
+      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/11/project-thumbnail-69426ab7-2c0d-43e3-bfb2-4758dcbf7409.jpg?fit=300%2C225&amp;ssl=1"
+    },
+    {
       "id": "67f35497db5d",
       "type": "packaging",
       "section": "packaging",
@@ -452,6 +554,249 @@
         "包装"
       ],
       "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/11/DurianBB_Packaging_Tower_JPG-1-thumb-720x540.jpg?fit=300%2C225&amp;ssl=1"
+    },
+    {
+      "id": "91ea1c73b805",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-11-24",
+      "title": "Barry Callebaut expands global footprint as chocolate demand grows",
+      "source": "FoodNavigator-Asia",
+      "sourceUrl": "https://www.confectionerynews.com/Article/2026/11/24/barry-callebaut-expands-global-footprint-as-chocolate-giant-focuses-on-growth/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "📊",
+      "category": "",
+      "desc": "Barry Callebaut is investing heavily in Indonesia as the chocolate giant expands its Asia-Pacific footprint, betting on rising cocoa processing, premium confectionery demand and sustainable chocolate growth across the region.",
+      "tags": [
+        "可持续"
+      ],
+      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/2QPSIBZSLNO5XEVZL7QIH7EPJY.jpg?auth=c6c1ceebc3e4780b4c68b0081d7a645af226b25743af0612400c7e3e0cb3a203&smart=true&width=1700&height=1133"
+    },
+    {
+      "id": "4a10faf108e8",
+      "type": "ecommerce",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-11-24",
+      "title": "Shoppers turn to e-commerce and early deals ahead of holiday season",
+      "source": "FoodNavigator-Asia",
+      "sourceUrl": "https://www.foodnavigator.com/Article/2026/11/24/consumers-to-spend-more-shop-earlier-this-holiday-season-deloitte-finds/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "🛒",
+      "category": "",
+      "desc": "Consumers expect higher prices and plan to spend more this holiday season, prompting many to start shopping earlier and turn to online channels, while continuing to rely on physical stores for food and beverage purchases, according to Deloitte’s 2026 Holiday Retail Survey.",
+      "tags": [],
+      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/OVSS4B5BMRF5FKTVEMA5CZI42E.jpg?auth=fa2104adc1ce2dd3978ec32402b9adfcb1e54b7dc71f52a11b501ba51add4f46&smart=true&width=2121&height=1414"
+    },
+    {
+      "id": "33f17c1d831f",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-11-24",
+      "title": "Walmart rolls back prices as Target remakes the food aisle",
+      "source": "FoodNavigator-Asia",
+      "sourceUrl": "https://www.foodnavigator.com/Article/2026/11/24/walmart-and-target-grocery-strategies-drive-q3-growth/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "📊",
+      "category": "",
+      "desc": "Target’s food and beverage sales hit $6.4 billion in Q3, while Walmart reported mid-single-digit grocery growth and strong market-share gains.",
+      "tags": [],
+      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/X2UFUR2RENFMBL6UHOLXNW7HYA.jpg?auth=1bdd0cd63dbeec26cd0e0e3dfdcba6a92365c415f982d7f1df7403c1efccce66&smart=true&width=2120&height=1414"
+    },
+    {
+      "id": "4e210d8ddf06",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-11-24",
+      "title": "Digital twins are transforming food and drink",
+      "source": "FoodNavigator-Asia",
+      "sourceUrl": "https://www.foodnavigator.com/Article/2026/11/24/digital-twins-transform-food-and-beverage-manufacturing/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "📊",
+      "category": "",
+      "desc": "Digital twins are set to transform food and beverage manufacturing, enabling virtual product testing, smarter supply chains, reduced waste and AI-powered optimisation across entire business operations.",
+      "tags": [],
+      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/PNYD2Z6WAJCEBCMSX66WVCYSW4.jpg?auth=2b1a22787c062f7969e2a797913ed80c2abf44fc67672d879925895d39731489&smart=true&width=2127&height=1409"
+    },
+    {
+      "id": "66eb04ff5b19",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-11-24",
+      "title": "Beyond the gym: Why creatine is finding its way into everyday beverages",
+      "source": "FoodNavigator-Asia",
+      "sourceUrl": "https://www.beveragedaily.com/Article/2026/11/24/beyond-the-gym-creatines-move-into-everyday-drinks/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "📊",
+      "category": "",
+      "desc": "Creatine is moving beyond the gym and into functional coffee and soft drinks. Explore the opportunities and formulation challenges for beverage brands.",
+      "tags": [],
+      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/FR356VPORJCBPDZMLGKGIBK2FY.jpg?auth=742b41b0d5be8304c6a12a1992872002d1d203579522a68e671d03c2cfea1984&smart=true&width=2121&height=1414"
+    },
+    {
+      "id": "82ee4b22e62b",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-11-24",
+      "title": "South Africa’s superfoods: Can untapped gold turn a profit?",
+      "source": "FoodNavigator-Asia",
+      "sourceUrl": "https://www.bakeryandsnacks.com/Article/2026/11/24/south-africas-superfoods-baobab-marula-and-rooibos/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "📊",
+      "category": "",
+      "desc": "Can South Africa turn baobab, marula, rooibos and ancient grains into profitable food ingredients? We examine innovation, export growth and commercial barriers.",
+      "tags": [
+        "创新",
+        "原料"
+      ],
+      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/K4TW7TB2R5JVJJ7NIG7Z6BKYCI.jpg?auth=71da8be74b555070eb0a7e9f84fd79a03a410cd225c30a0b30c2514aaff3e8fb&smart=true&width=849&height=565"
+    },
+    {
+      "id": "a54ec37c4547",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-11-24",
+      "title": "South Africa’s superfoods: Can untapped gold turn a profit?",
+      "source": "FoodNavigator-USA",
+      "sourceUrl": "https://www.bakeryandsnacks.com/Article/2026/11/24/south-africas-superfoods-baobab-marula-and-rooibos/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "📊",
+      "category": "",
+      "desc": "Can South Africa turn baobab, marula, rooibos and ancient grains into profitable food ingredients? We examine innovation, export growth and commercial barriers.",
+      "tags": [
+        "创新",
+        "原料"
+      ],
+      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/K4TW7TB2R5JVJJ7NIG7Z6BKYCI.jpg?auth=71da8be74b555070eb0a7e9f84fd79a03a410cd225c30a0b30c2514aaff3e8fb&smart=true&width=849&height=565"
+    },
+    {
+      "id": "b51c89ff849f",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-11-24",
+      "title": "Greenlabel Serum, Tonic and Botanical Oil Packaging",
+      "source": "Packaging of the World",
+      "sourceUrl": "https://packagingoftheworld.com/2026/11/greenlabel-serum-tonic-and-botanical-oil-packaging.html",
+      "image": "📦",
+      "category": "",
+      "desc": "Agency: TDN Creative Location: Istanbul, Türkiye Project Type: Produced, Commissioned Work Client: Greenlabel Packaging Contents: Anti spot serum, glow tonic, pure botanical oils, face creams Packaging Substrate / Materials: Dropper bottle with folding carton, clear bottle, am...",
+      "tags": [
+        "包装"
+      ],
+      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/11/project-thumbnail-49dc9d13-4bdb-4b69-8cef-8362c311b82f.jpg?fit=300%2C225&amp;ssl=1"
+    },
+    {
+      "id": "b9c6d326f379",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-11-24",
+      "title": "Greendrops Herbal Lozenge Box Series",
+      "source": "Packaging of the World",
+      "sourceUrl": "https://packagingoftheworld.com/2026/11/greendrops-herbal-lozenge-box-series.html",
+      "image": "📦",
+      "category": "",
+      "desc": "Agency: TDN Creative Location: Istanbul, Türkiye Project Type: Produced, Commissioned Work Client: Greendrops Packaging Contents: Herbal lozenges (drops) with zinc and vitamin C Packaging Substrate / Materials: Folding carton boxes Project Overview Greendrops is a line of herb...",
+      "tags": [
+        "包装"
+      ],
+      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/11/project-thumbnail-7a7932f1-1224-4427-81f7-1bbea4c539d7.jpg?fit=300%2C225&amp;ssl=1"
+    },
+    {
+      "id": "285e2226a50a",
+      "type": "newproduct",
+      "section": "newproduct",
+      "sub": "report",
+      "date": "2026-11-24",
+      "title": "How a pasta chip is cracking the snack aisle",
+      "source": "BakeryandSnacks",
+      "sourceUrl": "https://www.bakeryandsnacks.com/Article/2026/11/24/how-tantos-puffed-pasta-chips-is-disrupting-the-us-snack-aisle/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "🆕",
+      "category": "休闲零食",
+      "desc": "Tantos has sold over 600,000 bags of puffed pasta chips. Co-founder Sean Knecht reveals the manufacturing, retail and financial challenges of creating a new snack category.",
+      "tags": [],
+      "_imageUrl": "https://www.bakeryandsnacks.com/resizer/v2/YFYVIYEMUFGLBOZTNCXP7W4AZE.jpg?auth=691fc9c2293aa985802afbfcd0e09e1d1b00f877b7249686a59890021d20955b&smart=true&width=750&height=500"
+    },
+    {
+      "id": "e76479157dc6",
+      "type": "newproduct",
+      "section": "newproduct",
+      "sub": "report",
+      "date": "2026-11-24",
+      "title": "Why Mondelēz’s unwanted brands make sense for Princes",
+      "source": "BakeryandSnacks",
+      "sourceUrl": "https://www.bakeryandsnacks.com/Article/2026/11/24/princes-mondelez-80m-deal-the-strategy-behind-the-acquisition/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "🆕",
+      "category": "休闲零食",
+      "desc": "Why Princes is buying four French bakery and snack brands from Mondelēz for €80m, and the opportunities and risks behind its European expansion.",
+      "tags": [],
+      "_imageUrl": "https://www.bakeryandsnacks.com/resizer/v2/4524ROWJJFAADPMCUD2RQNJFVU.jpg?auth=723c94da609d4b96226131569d8543fd2ea24044ef3337aeb7f0b131cf55649b&smart=true&width=2120&height=1414"
+    },
+    {
+      "id": "6a855688375b",
+      "type": "newproduct",
+      "section": "newproduct",
+      "sub": "report",
+      "date": "2026-11-24",
+      "title": "South Africa’s superfoods: Can untapped gold turn a profit?",
+      "source": "BakeryandSnacks",
+      "sourceUrl": "https://www.bakeryandsnacks.com/Article/2026/11/24/south-africas-superfoods-baobab-marula-and-rooibos/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "🆕",
+      "category": "休闲零食",
+      "desc": "Can South Africa turn baobab, marula, rooibos and ancient grains into profitable food ingredients? We examine innovation, export growth and commercial barriers.",
+      "tags": [
+        "创新",
+        "原料"
+      ],
+      "_imageUrl": "https://www.bakeryandsnacks.com/resizer/v2/K4TW7TB2R5JVJJ7NIG7Z6BKYCI.jpg?auth=71da8be74b555070eb0a7e9f84fd79a03a410cd225c30a0b30c2514aaff3e8fb&smart=true&width=849&height=565"
+    },
+    {
+      "id": "7c4b89a569f0",
+      "type": "newproduct",
+      "section": "newproduct",
+      "sub": "report",
+      "date": "2026-11-24",
+      "title": "Beyond the gym: Why creatine is finding its way into everyday beverages",
+      "source": "Beverage Daily",
+      "sourceUrl": "https://www.beveragedaily.com/Article/2026/11/24/beyond-the-gym-creatines-move-into-everyday-drinks/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "🆕",
+      "category": "饮品",
+      "desc": "Creatine is moving beyond the gym and into functional coffee and soft drinks. Explore the opportunities and formulation challenges for beverage brands.",
+      "tags": [],
+      "_imageUrl": "https://www.beveragedaily.com/resizer/v2/FR356VPORJCBPDZMLGKGIBK2FY.jpg?auth=742b41b0d5be8304c6a12a1992872002d1d203579522a68e671d03c2cfea1984&smart=true&width=2121&height=1414"
+    },
+    {
+      "id": "681a7b87b80c",
+      "type": "newproduct",
+      "section": "newproduct",
+      "sub": "report",
+      "date": "2026-11-24",
+      "title": "South Africa’s superfoods: Can untapped gold turn a profit?",
+      "source": "Beverage Daily",
+      "sourceUrl": "https://www.bakeryandsnacks.com/Article/2026/11/24/south-africas-superfoods-baobab-marula-and-rooibos/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "🆕",
+      "category": "饮品",
+      "desc": "Can South Africa turn baobab, marula, rooibos and ancient grains into profitable food ingredients? We examine innovation, export growth and commercial barriers.",
+      "tags": [
+        "创新",
+        "原料"
+      ],
+      "_imageUrl": "https://www.beveragedaily.com/resizer/v2/K4TW7TB2R5JVJJ7NIG7Z6BKYCI.jpg?auth=71da8be74b555070eb0a7e9f84fd79a03a410cd225c30a0b30c2514aaff3e8fb&smart=true&width=849&height=565"
+    },
+    {
+      "id": "76e5cfd110d4",
+      "type": "newproduct",
+      "section": "newproduct",
+      "sub": "report",
+      "date": "2026-11-24",
+      "title": "Coca-Cola bottler placed under EU antitrust investigation",
+      "source": "Beverage Daily",
+      "sourceUrl": "https://www.foodnavigator.com/Article/2026/11/24/eu-launches-antitrust-probe-into-coca-cola-bottler-ccep/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "🆕",
+      "category": "饮品",
+      "desc": "The European Commission has launched an in-depth antitrust investigation into Coca-Cola Europacific Partners (CCEP) over concerns it may have restricted cross-border trade in Europe's soft drinks market",
+      "tags": [],
+      "_imageUrl": "https://www.beveragedaily.com/resizer/v2/FX565LECHRFD3OOZ4V7QUSQG2A.jpg?auth=696f5275c98bff1fd830c168ff69c02dbf7a9f88a1089ace415fdcb8a29f0386&smart=true&width=2000&height=1498"
     },
     {
       "id": "d13b288f8159",
@@ -2217,353 +2562,6 @@
         "冷冻食品"
       ],
       "_imageUrl": "https://www.bakeryandsnacks.com/resizer/v2/KIUPCSKRARA5JBTUKDUK2Q5D4A.jpg?auth=19c60e0b94ad885c6b2edf14193873be67150fef41f6ad9b4243feff2be1d8ba&smart=true&width=2121&height=1414"
-    },
-    {
-      "id": "dfac484f72c0",
-      "type": "newproduct",
-      "section": "newproduct",
-      "sub": "report",
-      "date": "2026-11-16",
-      "title": "High-protein boom fuels Leprino’s $35 million whey expansion",
-      "source": "Beverage Daily",
-      "sourceUrl": "https://www.foodnavigator.com/Article/2026/11/16/leprino-quadruples-microparticulated-whey-protein-capacity/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "🆕",
-      "category": "饮品",
-      "desc": "Leprino’s $35 million Lubbock expansion boosts microparticulated whey protein capacity for high-protein foods and drinks with smoother textures.",
-      "tags": [],
-      "_imageUrl": "https://www.beveragedaily.com/resizer/v2/EDLPLJJWYBCDRDN5M6KKESGEZM.png?auth=c391af80f186d6af5be485dbac395e2d8cde4589f7f539d077b3907e5a498963&smart=true&width=1280&height=720"
-    },
-    {
-      "id": "283c8d7a0625",
-      "type": "newproduct",
-      "section": "newproduct",
-      "sub": "report",
-      "date": "2026-11-16",
-      "title": "Why functional drinks aren’t translating into sales",
-      "source": "Beverage Daily",
-      "sourceUrl": "https://www.beveragedaily.com/Article/2026/11/16/why-functional-drinks-arent-translating-into-sales/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "🆕",
-      "category": "饮品",
-      "desc": "Consumer interest in functional drinks is rising across GB's on-trade, but sales are lagging as brands face challenges around visibility, messaging, taste and value in pubs, bars and restaurants.",
-      "tags": [],
-      "_imageUrl": "https://www.beveragedaily.com/resizer/v2/R7KPGSTN5NDDLLULR3MO62TP2U.jpg?auth=4a373629bc8aff6593986f668170197c6531e49042f43628c84a8bbf79773810&smart=true&width=2121&height=1414"
-    },
-    {
-      "id": "c8cea69b0239",
-      "type": "newproduct",
-      "section": "newproduct",
-      "sub": "report",
-      "date": "2026-11-16",
-      "title": "The rise of terroir: What F&B can learn from the provenance trend",
-      "source": "Beverage Daily",
-      "sourceUrl": "https://www.foodnavigator.com/Article/2026/11/16/what-is-terroir-how-taste-of-place-shapes-food-quality/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "🆕",
-      "category": "饮品",
-      "desc": "Discover the meaning of terroir, the ‘taste of place’ concept linking food and drink quality to geography, tradition, provenance and craftsmanship",
-      "tags": [],
-      "_imageUrl": "https://www.beveragedaily.com/resizer/v2/XVGAUODZRJAQHEJJMRLXRCRRGU.jpg?auth=90f24e3c68a0364142c616fb4f5663599344867ef20c6114e4aceb9007ac0da3&smart=true&width=2140&height=1401"
-    },
-    {
-      "id": "8f8e4f4c8708",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-11-16",
-      "title": "Popcorn makers look to butter up stagnant sales",
-      "source": "Food Dive",
-      "sourceUrl": "https://www.fooddive.com/news/snacking-popcorn-innovation-conagra-hershey-innovation/823188/",
-      "image": "📊",
-      "category": "",
-      "desc": "Surging ready-to-eat demand hasn&rsquo;t offset a drop in microwavable options. Orville Redenbacher, Pop Secret and others are embracing trendy ingredients and flavors to heat up the category.",
-      "tags": [
-        "原料"
-      ],
-      "_imageUrl": "https://imgproxy.divecdn.com/_z7BB0b64RuVyih8dTkuseaRfURJmkU09kQb41K6pv0/g:nowe:230:25/c:2558:1445/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JTUdfMzgzNi5qcGVn.webp"
-    },
-    {
-      "id": "4909e82a48e5",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-11-16",
-      "title": "Mars Snacking builds out leadership after Kellanova acquisition",
-      "source": "Food Manufacture",
-      "sourceUrl": "https://www.foodnavigator.com/Article/2026/11/16/mars-taps-joao-belo-for-global-corporate-affairs-role-in-snacking/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "📊",
-      "category": "",
-      "desc": "Mars expands its snacking leadership team with the appointment of João Belo as the company integrates Kellanova, grows its manufacturing footprint and invests $1.4 billion in US operations.",
-      "tags": [],
-      "_imageUrl": "https://www.foodmanufacture.co.uk/resizer/v2/GEVFS2DQQRCXTBSW5BNDL2MDJY.jpg?auth=531e3ad5d2744379c608787cfd10eb8da7c3c5fed9d643fcf8a815be94e98aeb&smart=true&width=1600&height=1200"
-    },
-    {
-      "id": "7ba32a255df2",
-      "type": "compliance",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-11-13",
-      "title": "What does the new unfair trading practices regulation mean for food?",
-      "source": "FoodNavigator-Asia",
-      "sourceUrl": "https://www.foodnavigator.com/Article/2026/11/13/unfair-trading-practices-regulation-what-it-means-for-food/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "⚖️",
-      "category": "",
-      "desc": "In food and agriculture, smaller players, particularly farmers, often have far less bargaining power than larger companies. A directive on unfair trading practices in the EU aimed to change that. The Unfair Trading Practices Regulation sets out to improve enforcement of this d...",
-      "tags": [],
-      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/4NBW6TB56BCNPCUZCDGYKFVA6Q.jpg?auth=483fb8977862a3d9f41300d269455a1b6ba98e9c0912d80e8a1ae477290be9d4&smart=true&width=2291&height=1309"
-    },
-    {
-      "id": "c1d63ce49aaa",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-11-13",
-      "title": "Packaging progress: 5 food and beverage companies making sustainability swaps",
-      "source": "FoodNavigator-Asia",
-      "sourceUrl": "https://www.foodnavigator.com/Article/2026/11/13/5-food-brands-making-sustainable-packaging-changes/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "📊",
-      "category": "",
-      "desc": "From paper wrappers to recycled plastic containers, six food and beverage companies are making packaging changes to reduce waste and improve recyclability.",
-      "tags": [
-        "包装"
-      ],
-      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/L3VLZX4AX5HVNJA2KQ4SL4CMA4.jpg?auth=3930a407f9d324b4867474e43305848092a844b2a1fd8c46044b81af3d99c281&smart=true&width=2121&height=1414"
-    },
-    {
-      "id": "eab0fcc2ee13",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-11-13",
-      "title": "Once Upon a Farm maintains 2027 growth plans amid Tractor Wheels recall",
-      "source": "FoodNavigator-Asia",
-      "sourceUrl": "https://www.foodnavigator.com/Article/2026/11/13/once-upon-a-farm-lowers-2026-guidance-after-voluntary-tractor-wheels-recall/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "📊",
-      "category": "",
-      "desc": "Once Upon a Farm entered the fourth quarter on pace to exceed its financial targets, but a voluntary recall of its Tractor Wheels snack line prompted the company to lower its 2026 outlook and absorb up to $30 million in recall-related costs.",
-      "tags": [],
-      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/DAP2MLWVXNOLRJUKZ6WINGU26U.jpg?auth=8d2b0b8e9c4b374fe3fee613198b4b065074bcdae42e75051d4074803c795203&smart=true&width=1540&height=800"
-    },
-    {
-      "id": "e439f137b3ee",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-11-13",
-      "title": "Japan Focus: Japan-Singapore MOU, healthy longevity, Asia’s growth potential ...",
-      "source": "FoodNavigator-Asia",
-      "sourceUrl": "https://www.foodnavigator.com/Article/2026/11/13/japan-focus-japan-singapore-mou-healthy-longevity-asias-growth-potential-and-more/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "📊",
-      "category": "",
-      "desc": "This edition explores Japan-Singapore collaboration, healthy longevity and protein innovation, Asia’s global growth potential and APAC food-tech developments.",
-      "tags": [
-        "日本",
-        "创新"
-      ],
-      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/ISUFI3F6LVE2TNC63OOSOTXXY4.jpg?auth=f2576f503a5b959fa1322766f96f0b049918ca20c2acd88c7383ce3671f3160e&smart=true&width=2944&height=1856"
-    },
-    {
-      "id": "afe8f5ddf673",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-11-13",
-      "title": "How GLP-1s are changing beverage innovation",
-      "source": "FoodNavigator-Asia",
-      "sourceUrl": "https://www.foodmanufacture.co.uk/Article/2026/11/13/how-glp-1s-are-changing-beverage-innovation/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "📊",
-      "category": "",
-      "desc": "",
-      "tags": [
-        "创新"
-      ],
-      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/7NLKXW3ANBABVB2W3YJGTZXUKM.jpg?auth=9cc1088e418f478655bd093cc4a80a92b75adbd634f626531441295ba9a1d086&smart=true&width=2121&height=1414"
-    },
-    {
-      "id": "d7f6f38bebad",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-11-13",
-      "title": "Japan Focus: Japan-Singapore MOU, healthy longevity, Asia’s growth potential ...",
-      "source": "FoodNavigator-USA",
-      "sourceUrl": "https://www.foodnavigator.com/Article/2026/11/13/japan-focus-japan-singapore-mou-healthy-longevity-asias-growth-potential-and-more/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "📊",
-      "category": "",
-      "desc": "This edition explores Japan-Singapore collaboration, healthy longevity and protein innovation, Asia’s global growth potential and APAC food-tech developments.",
-      "tags": [
-        "日本",
-        "创新"
-      ],
-      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/ISUFI3F6LVE2TNC63OOSOTXXY4.jpg?auth=f2576f503a5b959fa1322766f96f0b049918ca20c2acd88c7383ce3671f3160e&smart=true&width=2944&height=1856"
-    },
-    {
-      "id": "2746786619bc",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-11-13",
-      "title": "How GLP-1s are changing beverage innovation",
-      "source": "FoodNavigator-USA",
-      "sourceUrl": "https://www.foodmanufacture.co.uk/Article/2026/11/13/how-glp-1s-are-changing-beverage-innovation/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "📊",
-      "category": "",
-      "desc": "",
-      "tags": [
-        "创新"
-      ],
-      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/7NLKXW3ANBABVB2W3YJGTZXUKM.jpg?auth=9cc1088e418f478655bd093cc4a80a92b75adbd634f626531441295ba9a1d086&smart=true&width=2121&height=1414"
-    },
-    {
-      "id": "e486a120cb64",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-11-13",
-      "title": "Test Your Auditioning Skills With A24’s Latest Fisk-Designed Card Game",
-      "source": "Dieline",
-      "sourceUrl": "https://thedieline.com/test-your-auditioning-skills-with-a24s-latest-fisk-designed-card-game/",
-      "image": "📦",
-      "category": "",
-      "desc": "Designed by creative studio Fisk, A24’s Audition is a card game where players take turns as the “casting director,” selecting movie lines for the “actors” to deliver using funny, surprising, and sometimes bizarre prompts. The post Test Your Auditioning Skills With A24&#8217;s ...",
-      "tags": [],
-      "_imageUrl": "https://thedieline.com/wp-content/uploads/2026/11/Screenshot-2026-11-13-at-4.02.26-PM.png"
-    },
-    {
-      "id": "dc7053008da0",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-11-13",
-      "title": "LabLeaf —natural cold-brewed tea",
-      "source": "Packaging of the World",
-      "sourceUrl": "https://packagingoftheworld.com/2026/11/lableaf-natural-cold-brewed-tea.html",
-      "image": "📦",
-      "category": "",
-      "desc": "LabLeaf is a packaging design student project of a cold-brewed tea, including 3 flavours: Japanese plum and chaga, honey and wild mint, fir and Sagan Daila. The product is aimed at the working adults segment, who are in search of a refreshing and natural beverage for their bus...",
-      "tags": [
-        "日本",
-        "包装"
-      ],
-      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/11/6248bc0dfca79224adef4edef6888456_tattoo-1-e1794565106341.png?fit=300%2C170&amp;ssl=1"
-    },
-    {
-      "id": "fc670871a7f4",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-11-13",
-      "title": "Olearius Olive Oil Packaging",
-      "source": "Packaging of the World",
-      "sourceUrl": "https://packagingoftheworld.com/2026/11/olearius-olive-oil-packaging.html",
-      "image": "📦",
-      "category": "",
-      "desc": "Olearius is a French olive oil brand. It began with an olive grove bought in Sardinia and became an oil merchant’s house that selects oils from around the Mediterranean, starting with Semidana from Sardinia and Aglandau from Provence. vrai studio joined in the summer of 2024 a...",
-      "tags": [
-        "包装"
-      ],
-      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/11/5f8bc9c2b0e9dfc25f72fea599fac5b2_tattoo-1-e1794565068966.png?fit=300%2C187&amp;ssl=1"
-    },
-    {
-      "id": "032d1bb28514",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-11-13",
-      "title": "Rassa – India inspired fragrances",
-      "source": "Packaging of the World",
-      "sourceUrl": "https://packagingoftheworld.com/2026/11/rassa-india-inspired-fragrances.html",
-      "image": "📦",
-      "category": "",
-      "desc": "Project Name: Rassa – Perfume Branding &#38; Packaging Design Project Type: Conceptual / Self-Initiated Rassa is a conceptual luxury perfume brand that explores India inspired fragrances. Rooted in the ancient Indian philosophy of Rasa, which celebrates the emotional essence o...",
-      "tags": [
-        "包装"
-      ],
-      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/11/e35e9840e583cd81bd60b0005fd965af_tattoo-1.png?fit=264%2C300&amp;ssl=1"
-    },
-    {
-      "id": "2111fa88ede2",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-11-13",
-      "title": "Kupo",
-      "source": "Packaging of the World",
-      "sourceUrl": "https://packagingoftheworld.com/2026/11/kupo.html",
-      "image": "📦",
-      "category": "",
-      "desc": "Slice Design creates bold new identity for KUPO, a Korean-inspired drinks brand with global ambitions Slice Design has created the brand identity and packaging design for KUPO, an exciting new Korean-inspired iced coffee and tea brand developed for international markets, with ...",
-      "tags": [
-        "包装"
-      ],
-      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/11/691fd0ebdf55dd60f26e879cf4b441c8_tattoo-1-e1794564087839.png?fit=300%2C169&amp;ssl=1"
-    },
-    {
-      "id": "ab44e7c97d5f",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-11-13",
-      "title": "Dan Ren Cheng Fu | Polygonatum Herbal Tonic",
-      "source": "Packaging of the World",
-      "sourceUrl": "https://packagingoftheworld.com/2026/11/dan-ren-cheng-fu-polygonatum-herbal-tonic-packaging-design.html",
-      "image": "📦",
-      "category": "",
-      "desc": "ABOUT THE PROJECT Dan Ren Cheng Fu is a premium Polygonatum-based herbal food brand inspired by traditional Chinese botanical culture and craftsmanship. The packaging design explores a contemporary interpretation of Eastern aesthetics, creating a distinctive visual identity fo...",
-      "tags": [
-        "包装",
-        "原料"
-      ],
-      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/11/-1-e1794564062722.jpg?fit=300%2C188&amp;ssl=1"
-    },
-    {
-      "id": "a3beebd7e8b1",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-11-13",
-      "title": "Wild Turkey RTD Packaging Redesign",
-      "source": "Packaging of the World",
-      "sourceUrl": "https://packagingoftheworld.com/2026/11/wild-turkey-rtd-packaging-redesign.html",
-      "image": "📦",
-      "category": "",
-      "desc": "Putting the turkey back in the spotlight to give an RTD staple the distinctive, premium presence it deserves. The Challenge: Wild Turkey is an icon, but in a rapidly evolving RTD category, even icons need to work harder on shelf. Over the past decade, Australia’s RTD market ha...",
-      "tags": [
-        "包装"
-      ],
-      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/11/WildTurkey_TCM-Web-1-e1794563828530.jpg?fit=300%2C270&amp;ssl=1"
-    },
-    {
-      "id": "83d70da6925d",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-11-13",
-      "title": "Lucarelli wine",
-      "source": "Packaging of the World",
-      "sourceUrl": "https://packagingoftheworld.com/2026/11/lucarelli-wine.html",
-      "image": "📦",
-      "category": "",
-      "desc": "For the rebranding of Lucarelli, an Italian winery based in the Marche region, Fond developed a refined and minimal visual identity that celebrates the deep connection between wine, land and tradition. The packaging concept draws inspiration from the vineyard itself. A series ...",
-      "tags": [
-        "包装"
-      ],
-      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/11/lucarelli-15-2400x2400-q90-1-1-e1794563736646.jpg?fit=300%2C200&amp;ssl=1"
-    },
-    {
-      "id": "562837ea4f67",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-11-13",
-      "title": "Kraft Heinz expects return to growth in 2027 as innovation investments pay off",
-      "source": "Food Dive",
-      "sourceUrl": "https://www.fooddive.com/news/kraft-heinz-return-to-growth-innovation-investments-payoff/874643/",
-      "image": "📊",
-      "category": "",
-      "desc": "Recent launches, including ketchup with lower sugar and lactose-free cream cheese, are helping grow market share and volume.",
-      "tags": [
-        "创新"
-      ],
-      "_imageUrl": "https://imgproxy.divecdn.com/mTNx4W0SOkJvFeqKR915VHaN-bu4G9DDex19Jxul34Y/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9Qb3dlck1hY19IZXJvX0tleV9WaXN1YWwuanBn.webp"
     }
   ]
 }
