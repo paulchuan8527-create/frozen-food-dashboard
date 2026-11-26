@@ -1,7 +1,7 @@
 {
   "meta": {
-    "updated": "2026-11-25",
-    "version": 1795586046,
+    "updated": "2026-11-26",
+    "version": 1795671915,
     "total": 150,
     "auto_generated": true,
     "sources": [
@@ -336,6 +336,172 @@
       }
     },
     {
+      "id": "50c5ceb5856c",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-11-26",
+      "title": "Colours and flavours: How APAC is shaping the next wave of food innovation",
+      "source": "FoodNavigator-Asia",
+      "sourceUrl": "https://www.foodnavigator.com/Article/2026/11/26/colours-and-flavours-how-apac-is-shaping-the-next-wave-of-food-innovation/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "📊",
+      "category": "",
+      "desc": "From naturally derived pigments to regionally inspired flavour combinations, food manufacturers are finding new ways to make products stand out.",
+      "tags": [
+        "创新"
+      ],
+      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/UR7OZ7XKPFHBRHK5566KTRLIZQ.jpg?auth=2e23524c9311adff9410a05856f27e15da033902e1c95676319012ca6d1eeb2d&smart=true&width=1999&height=1499"
+    },
+    {
+      "id": "4c0286458d82",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-11-26",
+      "title": "Calbee takes Harvest Snaps into US mainstream snack aisle",
+      "source": "FoodNavigator-Asia",
+      "sourceUrl": "https://www.foodnavigator.com/Article/2026/11/26/calbee-takes-harvest-snaps-into-us-mainstream-snack-aisle/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "📊",
+      "category": "",
+      "desc": "Calbee is taking its Harvest Snaps vegetable-based snacks into the mainstream US salty-snack aisle with two new formats designed to attract a wider consumer base.",
+      "tags": [],
+      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/V5DATKJ5OFAJ7JACVIGEZ6RPJY.jpg?auth=560cb4dd62f23fbf2b9a86b45921693fb99a4a2e2032404752450ab31d7f9197&smart=true&width=1376&height=768"
+    },
+    {
+      "id": "0bce802bd164",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-11-26",
+      "title": "Colours and flavours: How APAC is shaping the next wave of food innovation",
+      "source": "FoodNavigator-USA",
+      "sourceUrl": "https://www.foodnavigator.com/Article/2026/11/26/colours-and-flavours-how-apac-is-shaping-the-next-wave-of-food-innovation/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "📊",
+      "category": "",
+      "desc": "From naturally derived pigments to regionally inspired flavour combinations, food manufacturers are finding new ways to make products stand out.",
+      "tags": [
+        "创新"
+      ],
+      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/UR7OZ7XKPFHBRHK5566KTRLIZQ.jpg?auth=2e23524c9311adff9410a05856f27e15da033902e1c95676319012ca6d1eeb2d&smart=true&width=1999&height=1499"
+    },
+    {
+      "id": "f576dbaaccbe",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-11-26",
+      "title": "GRID: Chocolate Brand Identity & Packaging",
+      "source": "Packaging of the World",
+      "sourceUrl": "https://packagingoftheworld.com/2026/11/grid-chocolate-brand-identity-packaging.html",
+      "image": "📦",
+      "category": "",
+      "desc": "GRID is a brand identity and packaging system for craft chocolate, built on one idea: a bar is a grid you are meant to break. Where most premium chocolate leans on dark paper and gold foil, GRID uses white cartons and a single-color geometric pattern for each flavor, built fro...",
+      "tags": [
+        "包装"
+      ],
+      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/11/project-thumbnail-262f5853-2096-41a0-bbaa-2e170cb23a75.jpg?fit=300%2C225&amp;ssl=1"
+    },
+    {
+      "id": "d7dda2dac922",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-11-26",
+      "title": "PAWSH: Dog Care Brand Identity & Packaging",
+      "source": "Packaging of the World",
+      "sourceUrl": "https://packagingoftheworld.com/2026/11/pawsh-dog-care-brand-identity-packaging.html",
+      "image": "📦",
+      "category": "",
+      "desc": "PAWSH is a brand identity and packaging system for a dog-care line, built on one idea: the walk doesn’t end at the front door. Where most pet care branding falls into clinical white or sugary pink, PAWSH treats a dog the way good skincare treats a person, with a four-step afte...",
+      "tags": [
+        "包装"
+      ],
+      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/11/project-thumbnail-cb454729-cacf-4a1e-aa5b-a774d78fde15.jpg?fit=300%2C225&amp;ssl=1"
+    },
+    {
+      "id": "5a33f8ca86d9",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-11-26",
+      "title": "REDBLUE® — Premium Vodka Packaging & Branding",
+      "source": "Packaging of the World",
+      "sourceUrl": "https://packagingoftheworld.com/2026/11/redblue-premium-vodka-packaging-branding.html",
+      "image": "📦",
+      "category": "",
+      "desc": "REDBLUE — The Art of Contrast. A bold premium vodka packaging concept that explores the dynamic relationship between red and blue. Striking typography, immersive lighting, and sculptural compositions create a distinctive visual identity that balances contemporary sophisticatio...",
+      "tags": [
+        "包装"
+      ],
+      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/11/project-thumbnail-fcd8172b-36fd-4475-bdfd-5805d2eef241.jpg?fit=300%2C225&amp;ssl=1"
+    },
+    {
+      "id": "0967d36ee8ba",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-11-26",
+      "title": "Cushion I Make-up I Packaging design",
+      "source": "Packaging of the World",
+      "sourceUrl": "https://packagingoftheworld.com/2026/11/cushion-i-make-up-i-packaging-design.html",
+      "image": "📦",
+      "category": "",
+      "desc": "I designed a Korean cushion foundation specially developed for Latin American skin tones, taking part in the formula development process in collaboration with Korean laboratories. I also created the primary and secondary packaging, drawing inspiration from K-pop aesthetics and...",
+      "tags": [
+        "包装"
+      ],
+      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/11/project-thumbnail-5a969369-de11-4fcc-81ae-f0497262798e.jpg?fit=300%2C225&amp;ssl=1"
+    },
+    {
+      "id": "1324412a3d6c",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-11-26",
+      "title": "HEAT INDEX: Hot Sauce Brand Identity & Packaging",
+      "source": "Packaging of the World",
+      "sourceUrl": "https://packagingoftheworld.com/2026/11/heat-index-hot-sauce-brand-identity-packaging.html",
+      "image": "📦",
+      "category": "",
+      "desc": "HEAT INDEX is a brand identity and packaging system for a line of five hot sauces, built on one idea: a hot sauce should tell you how hot it is before you taste it. Where most hot sauce branding leans on flames, skulls, and dripping type, HEAT INDEX uses black bottles with a t...",
+      "tags": [
+        "包装"
+      ],
+      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/11/project-thumbnail-2332d9fa-6588-447a-8cc4-95b92e643aba.jpg?fit=300%2C225&amp;ssl=1"
+    },
+    {
+      "id": "12357e3c7a0a",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-11-26",
+      "title": "VALDEROS Reserve – Luxury Botanical Spirit Packaging",
+      "source": "Packaging of the World",
+      "sourceUrl": "https://packagingoftheworld.com/2026/11/valderos-reserve-luxury-botanical-spirit-packaging.html",
+      "image": "📦",
+      "category": "",
+      "desc": "VALDEROS Reserve is a premium botanical spirit packaging design that celebrates heritage, craftsmanship, and contemporary luxury. The design combines sculptural glass, rich amber tones, sophisticated typography, and refined copper detailing to establish a distinctive and prest...",
+      "tags": [
+        "包装"
+      ],
+      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/11/project-thumbnail-5c1da2d9-4d2a-4989-9f98-afd5931edc75.jpg?fit=300%2C225&amp;ssl=1"
+    },
+    {
+      "id": "eab231ea2083",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-11-26",
+      "title": "Mousson — Beer Label Design for Jaws Brewery",
+      "source": "Packaging of the World",
+      "sourceUrl": "https://packagingoftheworld.com/2026/11/mousson-beer-label-design-for-jaws-brewery.html",
+      "image": "📦",
+      "category": "",
+      "desc": "Vizhu Design created the Mousson beer label for Jaws Brewery in 2017. The name refers to the monsoon, a wind that changes direction with the seasons. A 32-point compass rose, drawn in the style of an engraving, sits behind the hand-lettered name. The restrained design and rais...",
+      "tags": [],
+      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/11/project-thumbnail-9ad289bb-bf78-468b-909a-e6bf3b4cecef.jpg?fit=300%2C225&amp;ssl=1"
+    },
+    {
       "id": "c84da242ec34",
       "type": "packaging",
       "section": "packaging",
@@ -436,6 +602,102 @@
         "包装"
       ],
       "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/11/project-thumbnail-69426ab7-2c0d-43e3-bfb2-4758dcbf7409.jpg?fit=300%2C225&amp;ssl=1"
+    },
+    {
+      "id": "cc7862c86e21",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-11-25",
+      "title": "5 emerging GLP-1 trends that F&B needs to know about",
+      "source": "FoodNavigator-Asia",
+      "sourceUrl": "https://www.foodnavigator.com/Article/2026/11/25/five-food-and-drink-trends-emerging-from-glp-1-use/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "📊",
+      "category": "",
+      "desc": "New Bramble Intelligence and NielsenIQ data reveals how GLP-1 users are reshaping grocery spending, from convenience foods and hot chocolate to declining chocolate and fizzy drinks",
+      "tags": [],
+      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/JO7KKBK2EZGGXEXZ4EAD45JNP4.jpg?auth=558fcc380b76dfc47e03cb5a6a8e645a9824366a8509050ee663da6359804c36&smart=true&width=2122&height=1412"
+    },
+    {
+      "id": "9e8657326f03",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-11-25",
+      "title": "Food waste: The industry’s untapped goldmine",
+      "source": "FoodNavigator-Asia",
+      "sourceUrl": "https://www.foodnavigator.com/Article/2026/11/25/food-waste-goldmine-unlocking-billions-in-hidden-value/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "📊",
+      "category": "",
+      "desc": "Food waste is becoming a major business opportunity. From upcycled ingredients and alternative proteins to natural extracts and fibres, manufacturers are unlocking new revenue streams from production side streams once considered waste.",
+      "tags": [
+        "原料"
+      ],
+      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/IV5MRYSOVFENPLULXJI5RU6AVQ.jpg?auth=b156b3a3d3edf4e4b79f3e02758f197929d04d5188a91846614695bad77ef803&smart=true&width=2121&height=1414"
+    },
+    {
+      "id": "91593b7e04d8",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-11-25",
+      "title": "5 emerging GLP-1 trends that F&B needs to know about",
+      "source": "FoodNavigator-USA",
+      "sourceUrl": "https://www.foodnavigator.com/Article/2026/11/25/five-food-and-drink-trends-emerging-from-glp-1-use/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "📊",
+      "category": "",
+      "desc": "New Bramble Intelligence and NielsenIQ data reveals how GLP-1 users are reshaping grocery spending, from convenience foods and hot chocolate to declining chocolate and fizzy drinks",
+      "tags": [],
+      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/JO7KKBK2EZGGXEXZ4EAD45JNP4.jpg?auth=558fcc380b76dfc47e03cb5a6a8e645a9824366a8509050ee663da6359804c36&smart=true&width=2122&height=1412"
+    },
+    {
+      "id": "417877ff60de",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-11-25",
+      "title": "Food waste: The industry’s untapped goldmine",
+      "source": "FoodNavigator-USA",
+      "sourceUrl": "https://www.foodnavigator.com/Article/2026/11/25/food-waste-goldmine-unlocking-billions-in-hidden-value/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "📊",
+      "category": "",
+      "desc": "Food waste is becoming a major business opportunity. From upcycled ingredients and alternative proteins to natural extracts and fibres, manufacturers are unlocking new revenue streams from production side streams once considered waste.",
+      "tags": [
+        "原料"
+      ],
+      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/IV5MRYSOVFENPLULXJI5RU6AVQ.jpg?auth=b156b3a3d3edf4e4b79f3e02758f197929d04d5188a91846614695bad77ef803&smart=true&width=2121&height=1414"
+    },
+    {
+      "id": "58d5e82688d4",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-11-25",
+      "title": "McCormick proposes Colman’s mustard sale to resolve UK concerns over Unilever...",
+      "source": "Food Dive",
+      "sourceUrl": "https://www.fooddive.com/news/Mccormick-unilever-merger-antitrust-regulator/875743/",
+      "image": "📊",
+      "category": "",
+      "desc": "A market regulator previously warned the transaction risks harming competitors in dry ingredients and sauces.",
+      "tags": [
+        "原料"
+      ],
+      "_imageUrl": "https://imgproxy.divecdn.com/LGc3k0XsOcztdQ1MDM25MCoqk8ON_qISx787Y_08lVA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JTUdfMzAzMS5qcGc=.webp"
+    },
+    {
+      "id": "7d9ebf4231e4",
+      "type": "newproduct",
+      "section": "newproduct",
+      "sub": "report",
+      "date": "2026-11-25",
+      "title": "GLP-1: Is snacking the next big drinks occasion?",
+      "source": "Beverage Daily",
+      "sourceUrl": "https://www.beveragedaily.com/Article/2026/11/25/glp-1-could-drinks-become-the-new-snack/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "🆕",
+      "category": "饮品",
+      "desc": "GLP-1 medications are changing eating habits, creating new possibilities for beverage brands in snacking, functional nutrition and hydration.",
+      "tags": [],
+      "_imageUrl": "https://www.beveragedaily.com/resizer/v2/OUZIWJDQPBFJJPLNK5K67CR3NI.jpg?auth=1826d74b946a36b5c97881ef82c2ad1a57a0b41104939f9bb0c767f22dc7d114&smart=true&width=3500&height=2361"
     },
     {
       "id": "67f35497db5d",
@@ -2303,265 +2565,6 @@
         "创新"
       ],
       "_imageUrl": "https://imgproxy.divecdn.com/5wHQiltjfzRig12Hp-rX_6Oc7b9uPGksovOyzsQa5uw/g:nowe:0:164/c:2000:1129/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9hc3NldHNfMGU2NTE4OThiYmE5NDA0ZmFmNzM5MGUzMWYzNDliMGJfOTU0ODEzYjMyM2Q2NDE0Yzk3ODU3OGMwOGIzNGEwNTAuanBn.webp"
-    },
-    {
-      "id": "7096eb8695b6",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-11-16",
-      "title": "Winners and losers of food’s health and wellness trend",
-      "source": "FoodNavigator-Asia",
-      "sourceUrl": "https://www.foodnavigator.com/Article/2026/11/16/winners-and-losers-of-health-and-wellness-trend/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "📊",
-      "category": "",
-      "desc": "Health and wellness is everywhere in food and beverage. The trend has swept aside many older eating habits, and bolstered new ones. Who are the winners and losers of the health and wellness trend?",
-      "tags": [],
-      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/KPNQKASIW5A4DIFJCUZPW3L7UA.jpg?auth=6310389dd7a39b8a3ccaabc9fb2a47688e732f6002daa0251cfdb96fbdc68759&smart=true&width=2121&height=1414"
-    },
-    {
-      "id": "e67a4d0a96f3",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-11-16",
-      "title": "Mars Snacking builds out leadership after Kellanova acquisition",
-      "source": "FoodNavigator-Asia",
-      "sourceUrl": "https://www.foodnavigator.com/Article/2026/11/16/mars-taps-joao-belo-for-global-corporate-affairs-role-in-snacking/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "📊",
-      "category": "",
-      "desc": "Mars expands its snacking leadership team with the appointment of João Belo as the company integrates Kellanova, grows its manufacturing footprint and invests $1.4 billion in US operations.",
-      "tags": [],
-      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/GEVFS2DQQRCXTBSW5BNDL2MDJY.jpg?auth=531e3ad5d2744379c608787cfd10eb8da7c3c5fed9d643fcf8a815be94e98aeb&smart=true&width=1600&height=1200"
-    },
-    {
-      "id": "94881b5c3528",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-11-16",
-      "title": "Danone completes Made Group acquisition",
-      "source": "FoodNavigator-Asia",
-      "sourceUrl": "https://www.foodnavigator.com/Article/2026/11/16/danone-completes-made-group-deal-to-boost-asia-pacific-growth/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "📊",
-      "category": "",
-      "desc": "Danone completes Made Group acquisition, boosting Asia-Pacific health brands portfolio",
-      "tags": [],
-      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/2HQH6UU6K5DMNM3YVMF4GK5XNU.jpg?auth=c2d99db8a0c0724dc4dd0bb56b9ae75ca365cde32af2e657fd70df82e7b53885&smart=true&width=1998&height=1501"
-    },
-    {
-      "id": "96dc278149b5",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-11-16",
-      "title": "US dairy exports set to top $10bn in 2026 as global demand drives growth",
-      "source": "FoodNavigator-Asia",
-      "sourceUrl": "https://www.dairyreporter.com/Article/2026/11/16/us-dairy-exports-set-to-top-10bn-in-2026-as-global-demand-drives-growth/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "📊",
-      "category": "",
-      "desc": "",
-      "tags": [],
-      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/MPXDB6Z6AFCIZIWR55R626WBTU.jpg?auth=0b0d041c95dd695f5ca9da09ccde2e0b763abbf230193659ac66b60b998ffe00&smart=true&width=2119&height=1415"
-    },
-    {
-      "id": "47aad99c09c5",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-11-16",
-      "title": "Winners and losers of food’s health and wellness trend",
-      "source": "FoodNavigator-USA",
-      "sourceUrl": "https://www.foodnavigator.com/Article/2026/11/16/winners-and-losers-of-health-and-wellness-trend/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "📊",
-      "category": "",
-      "desc": "Health and wellness is everywhere in food and beverage. The trend has swept aside many older eating habits, and bolstered new ones. Who are the winners and losers of the health and wellness trend?",
-      "tags": [],
-      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/KPNQKASIW5A4DIFJCUZPW3L7UA.jpg?auth=6310389dd7a39b8a3ccaabc9fb2a47688e732f6002daa0251cfdb96fbdc68759&smart=true&width=2121&height=1414"
-    },
-    {
-      "id": "c38958763a95",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-11-16",
-      "title": "Shelf Life 136: In a Tap-to-Pay World, Design Is Cashing In on Coins",
-      "source": "Dieline",
-      "sourceUrl": "https://thedieline.com/shelf-life-136-in-a-tap-to-pay-world-design-is-cashing-in-on-coins/",
-      "image": "📦",
-      "category": "",
-      "desc": "A year after the U.S. Mint struck its final penny, coins are showing up on packaging. Designers and historians explain why a little disk of stamped metal still signals value, trust, and permanence in a tap-to-pay world. The post Shelf Life 136: In a Tap-to-Pay World, Design Is...",
-      "tags": [
-        "包装"
-      ],
-      "_imageUrl": "https://thedieline.com/wp-content/uploads/2026/11/coins.png"
-    },
-    {
-      "id": "67daa1df24e8",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-11-16",
-      "title": "Maquei’s Skincare Packaging Delivers Everyday Acts of Self-Care",
-      "source": "Dieline",
-      "sourceUrl": "https://thedieline.com/maqueis-skincare-packaging-delivers-everyday-acts-of-self-care/",
-      "image": "📦",
-      "category": "",
-      "desc": "Fait Studio and Andrea Flemma gave Italian skincare brand Maquei glowing, bottle-shaped windows and a sweet surprise inside every box: small, everyday ideas for caring for yourself beyond skincare. The post Maquei&#8217;s Skincare Packaging Delivers Everyday Acts of Self-Care ...",
-      "tags": [
-        "包装"
-      ],
-      "_imageUrl": "https://thedieline.com/wp-content/uploads/2026/11/FAIT_social_Maquei_14-a14b6d394277db7cdc82a5c870ab138e-scaled-1.jpg"
-    },
-    {
-      "id": "670200594c12",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-11-16",
-      "title": "HSSS",
-      "source": "Packaging of the World",
-      "sourceUrl": "https://packagingoftheworld.com/2026/11/hsss.html",
-      "image": "📦",
-      "category": "",
-      "desc": "ABOUT HSSS is a facial scrub packaging concept inspired by snake shedding—a metaphor for skin renewal. The range includes cream scrubs, mask scrubs and gel scrubs, organised into three colour-coded lines for different skin types. The concept draws a parallel between a snake sh...",
-      "tags": [
-        "包装"
-      ],
-      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/11/cf24886dd3804e8ccb5fe00dcbeca10d_tattoo-1-thumb-720x540.jpg?fit=300%2C225&amp;ssl=1"
-    },
-    {
-      "id": "38980516b4c4",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-11-16",
-      "title": "SYNRG. Premium Smart Tracker Packaging Design",
-      "source": "Packaging of the World",
-      "sourceUrl": "https://packagingoftheworld.com/2026/11/synrg-premium-smart-tracker-packaging-design.html",
-      "image": "📦",
-      "category": "",
-      "desc": "SYNRG is a concept for a premium fitness tracker in the form of a smart ring, combining advanced health monitoring technology with the elegance of jewellery. The main challenge was to create packaging that emphasised the product’s technological sophistication while conveying t...",
-      "tags": [
-        "包装"
-      ],
-      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/11/7_small-thumb-720x540.jpg?fit=300%2C225&amp;ssl=1"
-    },
-    {
-      "id": "5762857aeec4",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-11-16",
-      "title": "Birdwatcher",
-      "source": "Packaging of the World",
-      "sourceUrl": "https://packagingoftheworld.com/2026/11/birdwatcher.html",
-      "image": "📦",
-      "category": "",
-      "desc": "The Birdwatcher wine design is an invitation to slow down and listen to the world around you. The central element is a miniature wooden birdhouse, mounted directly on the bottle: it turns the product into a small art object and immediately sets the mood. The concise label feat...",
-      "tags": [],
-      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/11/project-thumbnail-3a587c14-862d-42b3-ab7b-463fc9a44675.jpg?fit=300%2C225&amp;ssl=1"
-    },
-    {
-      "id": "63de7625b90c",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-11-16",
-      "title": "Frolsi Panettone",
-      "source": "Packaging of the World",
-      "sourceUrl": "https://packagingoftheworld.com/2026/11/frolsi-panettone.html",
-      "image": "📦",
-      "category": "",
-      "desc": "Frolsi Panettone packaging design. &#160;",
-      "tags": [
-        "包装"
-      ],
-      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/11/okokok-5-thumb-720x540.jpg?fit=300%2C225&amp;ssl=1"
-    },
-    {
-      "id": "2a1ba1fa447c",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-11-16",
-      "title": "Beyond the Moon – Overnight Oats",
-      "source": "Packaging of the World",
-      "sourceUrl": "https://packagingoftheworld.com/2026/11/beyond-the-moon-overnight-oats.html",
-      "image": "📦",
-      "category": "",
-      "desc": "Packaging design and brand identity for Beyond the Moon, a playful plant-based overnight oats brand that turns desserts into breakfast. Each flavour has its own colour and personality, with bold typography and indulgent 3D food imagery. Self-initiated branding, packaging and a...",
-      "tags": [
-        "植物基",
-        "包装"
-      ],
-      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/11/EAT-ATE-EAT-copia-en-tamano-grande-en-tamano-grande-thumb-720x540.jpg?fit=300%2C225&amp;ssl=1"
-    },
-    {
-      "id": "78eeaa1cee8f",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-11-16",
-      "title": "Orlisse – Beauty & Skincare Brand Identity & Packaging",
-      "source": "Packaging of the World",
-      "sourceUrl": "https://packagingoftheworld.com/2026/11/orlisse-beauty-skincare-brand-identity-packaging.html",
-      "image": "📦",
-      "category": "",
-      "desc": "ABOUT Orlisse is a skincare brand built around the belief that skincare should feel simple, intuitive, and personal. Rooted in the idea of effortless everyday care, the brand encourages individuals to understand their skin, embrace its changing needs, and move away from the pr...",
-      "tags": [
-        "包装"
-      ],
-      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/11/project-thumbnail-8ab36db3-fa72-4652-8deb-1e3141467b27.jpg?fit=300%2C225&amp;ssl=1"
-    },
-    {
-      "id": "7ec6139151eb",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-11-16",
-      "title": "Popcorn makers looks to butter up stagnant sales",
-      "source": "Food Dive",
-      "sourceUrl": "https://www.fooddive.com/news/snacking-popcorn-innovation-conagra-hershey-innovation/823188/",
-      "image": "📊",
-      "category": "",
-      "desc": "Surging ready-to-eat sales haven&rsquo;t offset a drop in the microwavable options. To bring a pop, Orville Redenbacher, Pop Secret and others are embracing trendy ingredients and flavors.",
-      "tags": [
-        "原料"
-      ],
-      "_imageUrl": "https://imgproxy.divecdn.com/_z7BB0b64RuVyih8dTkuseaRfURJmkU09kQb41K6pv0/g:nowe:230:25/c:2558:1445/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JTUdfMzgzNi5qcGVn.webp"
-    },
-    {
-      "id": "a4dddab5b92c",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-11-16",
-      "title": "GLP-1s, additional metabolic therapies, longevity-minded consumers and a trus...",
-      "source": "Food Dive",
-      "sourceUrl": "https://www.fooddive.com/spons/glp-1s-additional-metabolic-therapies-longevity-minded-consumers-and-a-tr/874592/",
-      "image": "📊",
-      "category": "",
-      "desc": "As GLP-1s and longevity trends reshape diets, food CPGs face pivotal portfolio decisions.",
-      "tags": [],
-      "_imageUrl": ""
-    },
-    {
-      "id": "6f74bf8358b0",
-      "type": "newproduct",
-      "section": "newproduct",
-      "sub": "report",
-      "date": "2026-11-16",
-      "title": "Tim Tam, Tate’s and Tru Fru bet on Christmas chocolate",
-      "source": "BakeryandSnacks",
-      "sourceUrl": "https://www.bakeryandsnacks.com/Article/2026/11/16/christmas-chocolate-launches-2026-tim-tam-tates-tru-fru/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "🆕",
-      "category": "休闲零食",
-      "desc": "Explore 2026 Christmas chocolate launches in the UK and US, from Tim Tam Mint at Waitrose and Tate’s peppermint cookies to Tru Fru’s frozen cherry truffles.",
-      "tags": [
-        "冷冻食品"
-      ],
-      "_imageUrl": "https://www.bakeryandsnacks.com/resizer/v2/KIUPCSKRARA5JBTUKDUK2Q5D4A.jpg?auth=19c60e0b94ad885c6b2edf14193873be67150fef41f6ad9b4243feff2be1d8ba&smart=true&width=2121&height=1414"
     }
   ]
 }
