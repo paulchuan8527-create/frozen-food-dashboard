@@ -1,7 +1,7 @@
 {
   "meta": {
-    "updated": "2026-11-26",
-    "version": 1795671915,
+    "updated": "2026-11-27",
+    "version": 1795757985,
     "total": 150,
     "auto_generated": true,
     "sources": [
@@ -502,6 +502,260 @@
       "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/11/project-thumbnail-9ad289bb-bf78-468b-909a-e6bf3b4cecef.jpg?fit=300%2C225&amp;ssl=1"
     },
     {
+      "id": "4d70156dfffe",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-11-26",
+      "title": "Extreme fricy: Why sweet and spicy flavours are shaking up drinks",
+      "source": "FoodNavigator-Asia",
+      "sourceUrl": "https://www.beveragedaily.com/Article/2026/11/26/extreme-fricy-the-rise-of-sweet-and-spicy-drinks/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "📊",
+      "category": "",
+      "desc": "From mango and chilli to scotch bonnet infused rum punches, explore the rise of ‘fricy’ flavours and what it could mean for drinks innovation.",
+      "tags": [
+        "创新"
+      ],
+      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/ZIQNFURHIBCO3LCKXT2VEINMJU.jpg?auth=0726bd4f28b93af061a76a0f0dee14f169e04fdbbd1d7f1184e77ac11481b8f5&smart=true&width=2121&height=1414"
+    },
+    {
+      "id": "1257c95003a7",
+      "type": "compliance",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-11-26",
+      "title": "Omnibus X: A long-overdue fix or too little, too late?",
+      "source": "FoodNavigator-Asia",
+      "sourceUrl": "https://www.foodnavigator.com/Article/2026/11/26/can-omnibus-x-unlock-food-innovation/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "⚖️",
+      "category": "",
+      "desc": "The EU's Food Safety Omnibus promises simpler rules and greater certainty for fermentation-derived ingredients. But key innovation barriers remain.",
+      "tags": [
+        "创新",
+        "原料"
+      ],
+      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/MMHKL72WBVCLNEXQXMLUTZ4XQE.jpg?auth=64ec83744232e0ffea9e212e47658dc1325721cd058b70d53e103e52e852f526&smart=true&width=2121&height=1414"
+    },
+    {
+      "id": "39ddc6021c92",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-11-26",
+      "title": "Arla Foods Ingredients backs dairy protein growth with €95m investment in Wel...",
+      "source": "FoodNavigator-Asia",
+      "sourceUrl": "https://www.dairyreporter.com/Article/2026/11/26/arla-foods-ingredients-backs-dairy-protein-growth-with-95m-investment-in-welsh-facility/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "📊",
+      "category": "",
+      "desc": "",
+      "tags": [
+        "原料"
+      ],
+      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/VEZWJBMVNNH5PMC2TYXVJVRR64.jpg?auth=c0e788564f88fcfb9d9f5e0dd84b6ecca0eaa3cfefe9c4676f17a23d84990908&smart=true&width=4032&height=3024"
+    },
+    {
+      "id": "4bc4f2efcc47",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-11-26",
+      "title": "Extreme fricy: Why sweet and spicy flavours are shaking up drinks",
+      "source": "FoodNavigator-USA",
+      "sourceUrl": "https://www.beveragedaily.com/Article/2026/11/26/extreme-fricy-the-rise-of-sweet-and-spicy-drinks/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "📊",
+      "category": "",
+      "desc": "From mango and chilli to scotch bonnet infused rum punches, explore the rise of ‘fricy’ flavours and what it could mean for drinks innovation.",
+      "tags": [
+        "创新"
+      ],
+      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/ZIQNFURHIBCO3LCKXT2VEINMJU.jpg?auth=0726bd4f28b93af061a76a0f0dee14f169e04fdbbd1d7f1184e77ac11481b8f5&smart=true&width=2121&height=1414"
+    },
+    {
+      "id": "74d50f61c64a",
+      "type": "compliance",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-11-26",
+      "title": "Omnibus X: A long-overdue fix or too little, too late?",
+      "source": "FoodNavigator-USA",
+      "sourceUrl": "https://www.foodnavigator.com/Article/2026/11/26/can-omnibus-x-unlock-food-innovation/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "⚖️",
+      "category": "",
+      "desc": "The EU's Food Safety Omnibus promises simpler rules and greater certainty for fermentation-derived ingredients. But key innovation barriers remain.",
+      "tags": [
+        "创新",
+        "原料"
+      ],
+      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/MMHKL72WBVCLNEXQXMLUTZ4XQE.jpg?auth=64ec83744232e0ffea9e212e47658dc1325721cd058b70d53e103e52e852f526&smart=true&width=2121&height=1414"
+    },
+    {
+      "id": "796f48db619a",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-11-26",
+      "title": "Mondelēz taps brand power with Grenade Creme Egg comeback",
+      "source": "FoodNavigator-USA",
+      "sourceUrl": "https://www.confectionerynews.com/Article/2026/11/26/mondelez-brings-back-grenade-creme-egg-protein-bar-as-limited-edition/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "📊",
+      "category": "",
+      "desc": "Grenade has brought back its limited-edition Cadbury Creme Egg protein bar for a second year, highlighting the power of seasonal launches, brand collaborations and consumer demand for nostalgic confectionery flavours.",
+      "tags": [],
+      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/52G6XLC3SJHERMCY6RYGNZJQTM.jpg?auth=0b2c0b71f3ae1780a22add9c0f1ea1e53330f376d69c0aa14b2a5d296936c40d&smart=true&width=596&height=409"
+    },
+    {
+      "id": "076432644743",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-11-26",
+      "title": "Arla Foods Ingredients backs dairy protein growth with €95m investment in Wel...",
+      "source": "FoodNavigator-USA",
+      "sourceUrl": "https://www.dairyreporter.com/Article/2026/11/26/arla-foods-ingredients-backs-dairy-protein-growth-with-95m-investment-in-welsh-facility/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "📊",
+      "category": "",
+      "desc": "",
+      "tags": [
+        "原料"
+      ],
+      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/VEZWJBMVNNH5PMC2TYXVJVRR64.jpg?auth=c0e788564f88fcfb9d9f5e0dd84b6ecca0eaa3cfefe9c4676f17a23d84990908&smart=true&width=4032&height=3024"
+    },
+    {
+      "id": "4bb93c5077fb",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-11-26",
+      "title": "Jaws Hop Water — Packaging & Visual Identity",
+      "source": "Packaging of the World",
+      "sourceUrl": "https://packagingoftheworld.com/2026/11/jaws-hop-water-packaging-visual-identity.html",
+      "image": "📦",
+      "category": "",
+      "desc": "Jaws Hop Water is an alcohol-free sparkling drink flavoured with Citra hops. For Jaws Brewery, Vizhu Design brought hops, water and a nod to the film Jaws together in one image. Look closely at the shark on the label and its body resolves into individual hop cones. The red wor...",
+      "tags": [
+        "包装"
+      ],
+      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/11/project-thumbnail-247f5073-4f03-4af7-ba88-1a1894c33e91.jpg?fit=300%2C225&amp;ssl=1"
+    },
+    {
+      "id": "f5b5ab8ea826",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-11-26",
+      "title": "Maison Somaé / Branding & Packaging Design",
+      "source": "Packaging of the World",
+      "sourceUrl": "https://packagingoftheworld.com/2026/11/maison-somae-branding-packaging-design.html",
+      "image": "📦",
+      "category": "",
+      "desc": "Maison Somaé is a wellness brand that brings together pleasure, femininity, and longevity through mindful daily rituals. Inspired by the founder’s journey as a yoga teacher and breathwork coach, the brand celebrates a more holistic approach to well-being, where nourishment, in...",
+      "tags": [
+        "包装"
+      ],
+      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/11/project-thumbnail-c15b462b-9730-43c4-82af-2b3d440f067d.jpg?fit=300%2C225&amp;ssl=1"
+    },
+    {
+      "id": "553c3bfcd279",
+      "type": "newproduct",
+      "section": "newproduct",
+      "sub": "report",
+      "date": "2026-11-26",
+      "title": "Who owns the recipe when AI does the inventing?",
+      "source": "BakeryandSnacks",
+      "sourceUrl": "https://www.bakeryandsnacks.com/Article/2026/11/26/ai-food-innovation-who-owns-the-recipe-and-protects-the-ip/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "🆕",
+      "category": "休闲零食",
+      "desc": "AI is accelerating bakery and snack innovation, but recipe ownership, patent rights and trade-secret protection present new challenges for food producers.",
+      "tags": [
+        "创新"
+      ],
+      "_imageUrl": "https://www.bakeryandsnacks.com/resizer/v2/UACDK4U2T5GGJDG652JXFG3COU.jpg?auth=2eebaccba791c9a97a4a77b8e4aa180952de35899e1c3dd78511c5983017b161&smart=true&width=2309&height=1299"
+    },
+    {
+      "id": "35886e1ea20f",
+      "type": "newproduct",
+      "section": "newproduct",
+      "sub": "report",
+      "date": "2026-11-26",
+      "title": "Pladis’ R&D boss puts Christmas nostalgia to work",
+      "source": "BakeryandSnacks",
+      "sourceUrl": "https://www.bakeryandsnacks.com/Article/2026/11/26/how-pladis-rd-chief-develops-christmas-snack-innovation/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "🆕",
+      "category": "休闲零食",
+      "desc": "Pladis’ Taryn-Lisa Mollé-McConnell discusses Christmas snack innovation, taking Penguin and Jaffa Cakes into chocolate, and leading teams that challenge her.",
+      "tags": [
+        "创新"
+      ],
+      "_imageUrl": "https://www.bakeryandsnacks.com/resizer/v2/DWJVF2HFYJH55O3HRP2L22CMW4.jpg?auth=b193ff0ceeeb65bcd59e76c956cf57072ef113e27114973aa479510fce0df20d&smart=true&width=2120&height=1414"
+    },
+    {
+      "id": "664c9b253945",
+      "type": "newproduct",
+      "section": "newproduct",
+      "sub": "report",
+      "date": "2026-11-26",
+      "title": "Omnibus X: A long-overdue fix or too little, too late?",
+      "source": "BakeryandSnacks",
+      "sourceUrl": "https://www.foodnavigator.com/Article/2026/11/26/can-omnibus-x-unlock-food-innovation/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "🆕",
+      "category": "休闲零食",
+      "desc": "The EU's Food Safety Omnibus promises simpler rules and greater certainty for fermentation-derived ingredients. But key innovation barriers remain.",
+      "tags": [
+        "创新",
+        "原料"
+      ],
+      "_imageUrl": "https://www.bakeryandsnacks.com/resizer/v2/MMHKL72WBVCLNEXQXMLUTZ4XQE.jpg?auth=64ec83744232e0ffea9e212e47658dc1325721cd058b70d53e103e52e852f526&smart=true&width=2121&height=1414"
+    },
+    {
+      "id": "fd5c83e59628",
+      "type": "newproduct",
+      "section": "newproduct",
+      "sub": "report",
+      "date": "2026-11-26",
+      "title": "Calbee takes Harvest Snaps into US mainstream snack aisle",
+      "source": "BakeryandSnacks",
+      "sourceUrl": "https://www.foodnavigator.com/Article/2026/11/26/calbee-takes-harvest-snaps-into-us-mainstream-snack-aisle/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "🆕",
+      "category": "休闲零食",
+      "desc": "Calbee is taking its Harvest Snaps vegetable-based snacks into the mainstream US salty-snack aisle with two new formats designed to attract a wider consumer base.",
+      "tags": [],
+      "_imageUrl": "https://www.bakeryandsnacks.com/resizer/v2/V5DATKJ5OFAJ7JACVIGEZ6RPJY.jpg?auth=560cb4dd62f23fbf2b9a86b45921693fb99a4a2e2032404752450ab31d7f9197&smart=true&width=1376&height=768"
+    },
+    {
+      "id": "087987dba679",
+      "type": "newproduct",
+      "section": "newproduct",
+      "sub": "report",
+      "date": "2026-11-26",
+      "title": "Extreme fricy: Why sweet and spicy flavours are shaking up drinks",
+      "source": "Beverage Daily",
+      "sourceUrl": "https://www.beveragedaily.com/Article/2026/11/26/extreme-fricy-the-rise-of-sweet-and-spicy-drinks/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "🆕",
+      "category": "饮品",
+      "desc": "From mango and chilli to scotch bonnet infused rum punches, explore the rise of ‘fricy’ flavours and what it could mean for drinks innovation.",
+      "tags": [
+        "创新"
+      ],
+      "_imageUrl": "https://www.beveragedaily.com/resizer/v2/ZIQNFURHIBCO3LCKXT2VEINMJU.jpg?auth=0726bd4f28b93af061a76a0f0dee14f169e04fdbbd1d7f1184e77ac11481b8f5&smart=true&width=2121&height=1414"
+    },
+    {
+      "id": "5795fffd918b",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-11-26",
+      "title": "Arla Foods Ingredients backs dairy protein growth with €95m investment in Wel...",
+      "source": "Food Manufacture",
+      "sourceUrl": "https://www.dairyreporter.com/Article/2026/11/26/arla-foods-ingredients-backs-dairy-protein-growth-with-95m-investment-in-welsh-facility/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "📊",
+      "category": "",
+      "desc": "",
+      "tags": [
+        "原料"
+      ],
+      "_imageUrl": "https://www.foodmanufacture.co.uk/resizer/v2/VEZWJBMVNNH5PMC2TYXVJVRR64.jpg?auth=c0e788564f88fcfb9d9f5e0dd84b6ecca0eaa3cfefe9c4676f17a23d84990908&smart=true&width=4032&height=3024"
+    },
+    {
       "id": "c84da242ec34",
       "type": "packaging",
       "section": "packaging",
@@ -698,6 +952,21 @@
       "desc": "GLP-1 medications are changing eating habits, creating new possibilities for beverage brands in snacking, functional nutrition and hydration.",
       "tags": [],
       "_imageUrl": "https://www.beveragedaily.com/resizer/v2/OUZIWJDQPBFJJPLNK5K67CR3NI.jpg?auth=1826d74b946a36b5c97881ef82c2ad1a57a0b41104939f9bb0c767f22dc7d114&smart=true&width=3500&height=2361"
+    },
+    {
+      "id": "66383b4ffd4f",
+      "type": "newproduct",
+      "section": "newproduct",
+      "sub": "report",
+      "date": "2026-11-25",
+      "title": "GLP-1: Is snacking the next big drinks occasion?",
+      "source": "BakeryandSnacks",
+      "sourceUrl": "https://www.beveragedaily.com/Article/2026/11/25/glp-1-could-drinks-become-the-new-snack/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "🆕",
+      "category": "休闲零食",
+      "desc": "GLP-1 medications are changing eating habits, creating new possibilities for beverage brands in snacking, functional nutrition and hydration.",
+      "tags": [],
+      "_imageUrl": "https://www.bakeryandsnacks.com/resizer/v2/OUZIWJDQPBFJJPLNK5K67CR3NI.jpg?auth=1826d74b946a36b5c97881ef82c2ad1a57a0b41104939f9bb0c767f22dc7d114&smart=true&width=3500&height=2361"
     },
     {
       "id": "67f35497db5d",
@@ -2299,272 +2568,6 @@
         "植物基"
       ],
       "_imageUrl": "https://www.foodnavigator.com/resizer/v2/JNGNIGK4LJB4BIM6YIKTV6CVZU.jpg?auth=4da83503fe89fb7ef1bd00426a9e876f8207e1137facca0464c2caf8ea38d624&smart=true&width=2120&height=1414"
-    },
-    {
-      "id": "12c3fc5b4f98",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-11-17",
-      "title": "Hershey turns Reese’s Pieces into innovation showcase",
-      "source": "FoodNavigator-USA",
-      "sourceUrl": "https://www.confectionerynews.com/Article/2026/11/17/hershey-turns-reeses-pieces-into-innovation-showcase/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "📊",
-      "category": "",
-      "desc": "Hershey's giant Reese's Pie showcases the growing power of limited-edition confectionery, cross-category innovation and experience-led products as brands look to drive engagement and growth worldwide.",
-      "tags": [
-        "创新"
-      ],
-      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/ZBDOZMHVZJH7HLEX6M6QUNJS5E.jpg?auth=ce1e2b28b64deeecc8246b733a7286705440f936329172cb6deb5b1af8af432b&smart=true&width=3200&height=2827"
-    },
-    {
-      "id": "46bd40501b2b",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-11-17",
-      "title": "UK leads on CPG innovation in Europe",
-      "source": "FoodNavigator-USA",
-      "sourceUrl": "https://www.foodnavigator.com/Article/2026/11/17/uk-leads-cpg-innovation-in-europe/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "📊",
-      "category": "",
-      "desc": "The UK is leading on CPG innovation in Europe, particularly in categories such as baby food and confectionery. Innovation is popular among UK consumers, with most noticing when new products hit the shelves.",
-      "tags": [
-        "创新"
-      ],
-      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/RWBGVMEQX5CTZHNFL4Y2TETT7Q.jpg?auth=829cdf025b4d4da258cefa1fe213aaaf521749f2654c02938d49398c89a0a0da&smart=true&width=2121&height=1414"
-    },
-    {
-      "id": "6bedf9e2d06c",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-11-17",
-      "title": "Cultivated meat company Upside Foods reaches commercial-scale launch",
-      "source": "FoodNavigator-USA",
-      "sourceUrl": "https://www.foodnavigator.com/Article/2026/11/17/upside-foods-launches-cultivated-chicken-at-commercial-scale/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "📊",
-      "category": "",
-      "desc": "Upside Foods introduces its cultivated chicken to restaurants, corporate campuses and university dining programs, marking a commercial-scale expansion even as the industry faces state-level restrictions.",
-      "tags": [],
-      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/3DMHZWFCDFARLKMNQIZWGLOR3E.jpg?auth=3d3853b014a35e2e2e231bf5a3c65bce73a929120864d910781fceeba4c0d157&smart=true&width=8011&height=5343"
-    },
-    {
-      "id": "bbb87ae5ee74",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-11-17",
-      "title": "Can plant-based seafood succeed where plant-based meat stumbled?",
-      "source": "FoodNavigator-USA",
-      "sourceUrl": "https://www.foodnavigator.com/Article/2026/11/17/can-plant-based-seafood-succeed-where-plant-based-meat-stumbled/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "📊",
-      "category": "",
-      "desc": "As eating occasions continue to blur and consumers seek options beyond traditional breakfast, lunch and dinner occasions, plant-based seafood brands may find success by positioning products around convenience and versatility rather than direct replacement.",
-      "tags": [
-        "植物基"
-      ],
-      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/4QRXSFKB2ZGW5OZ4UOSJ42MLE4.jpg?auth=a190f00fc8c3349a2dd32921cf20fd6412afcbe39cb2d27fc83678b49b6f2a5a&smart=true&width=2120&height=1414"
-    },
-    {
-      "id": "82d676d1f4e6",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-11-17",
-      "title": "US plant-based food sales flat, but up globally",
-      "source": "FoodNavigator-USA",
-      "sourceUrl": "https://www.foodnavigator.com/Article/2026/11/17/plant-based-food-sales-stall-in-us-but-grow-globally/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "📊",
-      "category": "",
-      "desc": "US plant-based food sales edged down to $7.9 billion in 2025. Global sales of plant-based meat and dairy alternatives rose 3% to $28.9 billion.",
-      "tags": [
-        "植物基"
-      ],
-      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/JNGNIGK4LJB4BIM6YIKTV6CVZU.jpg?auth=4da83503fe89fb7ef1bd00426a9e876f8207e1137facca0464c2caf8ea38d624&smart=true&width=2120&height=1414"
-    },
-    {
-      "id": "e789abf5204a",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-11-17",
-      "title": "The 2026 DIELINE Annual Is Here",
-      "source": "Dieline",
-      "sourceUrl": "https://thedieline.com/dieline-annual-2026/",
-      "image": "📦",
-      "category": "",
-      "desc": "The DIELINE Annual 2026 is free to read: all 155 DIELINE Awards 2026 winners, the 2027 Trend Report, and the year’s top packaging projects, headlines and sustainability stories. The post The 2026 DIELINE Annual Is Here appeared first on DIELINE.",
-      "tags": [
-        "包装"
-      ],
-      "_imageUrl": "https://thedieline.com/wp-content/uploads/2026/11/the-2026-dieline-annual-is-here-hero-2560x1440-1.jpg"
-    },
-    {
-      "id": "7cbb70c59bea",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-11-17",
-      "title": "Mochoo Packaging Design",
-      "source": "Packaging of the World",
-      "sourceUrl": "https://packagingoftheworld.com/2026/11/mochoo-packaging-design.html",
-      "image": "📦",
-      "category": "",
-      "desc": "Mochoo, chocolate-covered marshmallow bears, reached out to us to design the product packaging. Already having the name and appearance for the sweet treat, they set a strong design challenge: to create packaging that matched mass-market design requirements while upholding a re...",
-      "tags": [
-        "包装"
-      ],
-      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/11/project-thumbnail-bdac83f1-7cb6-40ca-b04f-8887c262f8e9.jpg?fit=300%2C225&amp;ssl=1"
-    },
-    {
-      "id": "798fdf702a02",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-11-17",
-      "title": "Eterno Ahora Wines – Packaging by Vantablack Studio",
-      "source": "Packaging of the World",
-      "sourceUrl": "https://packagingoftheworld.com/2026/11/eterno-ahora-wines-packaging-by-vantablack-studio.html",
-      "image": "📦",
-      "category": "",
-      "desc": "Some moments disappear. Others remain with us long after they have passed, defying the fleeting nature of time. Eterno Ahora was born from the introspective vision of its founder, Sofía Bernatet, who transformed a profound passion for wine into a collection of signature wines ...",
-      "tags": [
-        "包装"
-      ],
-      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/11/project-thumbnail-cdb70926-8f21-4330-82e1-aec116e210fb.jpg?fit=300%2C225&amp;ssl=1"
-    },
-    {
-      "id": "35378b10d2b7",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-11-17",
-      "title": "JOULY | Energy Supplement Packaging & Branding",
-      "source": "Packaging of the World",
-      "sourceUrl": "https://packagingoftheworld.com/2026/11/jouly-energy-supplement-packaging-branding.html",
-      "image": "📦",
-      "category": "",
-      "desc": "Jouly is a health-conscious energy supplement brand designed for people who live actively and believe that feeling good is part of moving forward. With a range of functional gummies, the brand brings a fresh perspective to everyday wellness, combining performance, convenience,...",
-      "tags": [
-        "包装"
-      ],
-      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/11/new-2-thumb-720x540.jpg?fit=300%2C225&amp;ssl=1"
-    },
-    {
-      "id": "c97b912ff49e",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-11-17",
-      "title": "The Nobility of Time and the Expression of a Unique Character",
-      "source": "Packaging of the World",
-      "sourceUrl": "https://packagingoftheworld.com/2026/11/the-nobility-of-time-and-the-expression-of-a-unique-character.html",
-      "image": "📦",
-      "category": "",
-      "desc": "Some projects resonate with us in a special way. This one connects us to a year woven into our own story: 1998, the year M&#38;A Creative was founded and the harvest year behind this Single Harvest Madeira. Designing its packaging is therefore a particular source of pride and ...",
-      "tags": [
-        "包装"
-      ],
-      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/11/project-thumbnail-c4b89416-326a-4028-a59c-1edeacfd9093.jpg?fit=300%2C225&amp;ssl=1"
-    },
-    {
-      "id": "22a2842ea142",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-11-17",
-      "title": "Anheuser-Busch invests in flagship Cutwater plant to expand production",
-      "source": "Food Dive",
-      "sourceUrl": "https://www.fooddive.com/news/anheuser-busch-invests-cutwater-plant-expansion/874944/",
-      "image": "📊",
-      "category": "",
-      "desc": "The brand beloved by Gen Z will use the money to expand its cream-based cocktail lines and fund future innovation.",
-      "tags": [
-        "创新"
-      ],
-      "_imageUrl": "https://imgproxy.divecdn.com/5wHQiltjfzRig12Hp-rX_6Oc7b9uPGksovOyzsQa5uw/g:nowe:0:164/c:2000:1129/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9hc3NldHNfMGU2NTE4OThiYmE5NDA0ZmFmNzM5MGUzMWYzNDliMGJfOTU0ODEzYjMyM2Q2NDE0Yzk3ODU3OGMwOGIzNGEwNTAuanBn.webp"
-    },
-    {
-      "id": "5cc065c6eaf1",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-11-17",
-      "title": "The food health and ingredient claims driving lawsuits",
-      "source": "Food Dive",
-      "sourceUrl": "https://www.fooddive.com/news/lawsuits-food-beverage-ultraprocessed-zero-sugar/874890/",
-      "image": "📊",
-      "category": "",
-      "desc": "An uptick in litigation around zero-sugar labels and ultraprocessed foods reflect changing risks for the industry.",
-      "tags": [
-        "原料"
-      ],
-      "_imageUrl": "https://imgproxy.divecdn.com/x_YnYsJgaBlXf5kTqrQXIAEEKLJ2O_DihVpT-PQ0bpw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDgzNDg5MDg1LmpwZw==.webp"
-    },
-    {
-      "id": "d4735662729d",
-      "type": "newproduct",
-      "section": "newproduct",
-      "sub": "report",
-      "date": "2026-11-17",
-      "title": "Beyond the health halo: Why functional claims aren’t enough",
-      "source": "Beverage Daily",
-      "sourceUrl": "https://www.beveragedaily.com/Article/2026/11/17/functional-drinks-why-health-claims-arent-enough/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "🆕",
-      "category": "饮品",
-      "desc": "Functional drinks may promise added health benefits, but NIQ research shows taste and value remain key to consumer choices and repeat purchases.",
-      "tags": [],
-      "_imageUrl": "https://www.beveragedaily.com/resizer/v2/NPGKCTH2XZEO7A3D727MNWGQ7Q.jpg?auth=a32717b474d33c8371bbd7ace9ce38eb16810982183c94bb38aa089e376f7888&smart=true&width=2120&height=1414"
-    },
-    {
-      "id": "919705d69e46",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-11-17",
-      "title": "Nestlé, Danone, Mars and others sign landmark agreement",
-      "source": "Food Manufacture",
-      "sourceUrl": "https://www.foodnavigator.com/Article/2026/11/17/nestle-mcdonalds-join-landmark-regen-compact/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "📊",
-      "category": "",
-      "desc": "Major food brands unite behind Regen Compact to boost regenerative farming, strengthen supply chains and support farmers' transition to climate-resilient agriculture.",
-      "tags": [],
-      "_imageUrl": "https://www.foodmanufacture.co.uk/resizer/v2/4EENTAMDAFDJTAXMI7QFMFK72E.jpg?auth=e68da59eb34b3b3405f376a2a0fc7b7837ee5b9ec9d4dbaa9bf37f9bf3af7344&smart=true&width=2121&height=1414"
-    },
-    {
-      "id": "2c10939f781f",
-      "type": "newproduct",
-      "section": "newproduct",
-      "sub": "report",
-      "date": "2026-11-17",
-      "title": "How food brands can support GLP-1 users",
-      "source": "BakeryandSnacks",
-      "sourceUrl": "https://www.foodnavigator.com/Article/2026/11/17/how-food-brands-can-support-glp-1-users/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "🆕",
-      "category": "休闲零食",
-      "desc": "GLP-1 medications are transforming food and beverage innovation, driving demand for nutrient-dense companion foods and beverages, gut microbiome support and products that naturally stimulate GLP-1 production.",
-      "tags": [
-        "创新"
-      ],
-      "_imageUrl": "https://www.bakeryandsnacks.com/resizer/v2/LYI3K2SCWRCI7JI2RMQ2BYFOZU.jpg?auth=a2a0b51f85e27551b30437b43ae7bb2833ee5efbd86f57b254e68a9177d8711b&smart=true&width=2120&height=1414"
-    },
-    {
-      "id": "08c52ce6ffff",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-11-17",
-      "title": "Anheuser-Busch invests in flagship Cutwater plant to boost production",
-      "source": "Food Dive",
-      "sourceUrl": "https://www.fooddive.com/news/anheuser-busch-invests-cutwater-plant-expansion/874944/",
-      "image": "📊",
-      "category": "",
-      "desc": "The brand beloved by Gen Z will spend $1.5 million to expand its cream-based cocktail lines and fund future innovation.",
-      "tags": [
-        "创新"
-      ],
-      "_imageUrl": "https://imgproxy.divecdn.com/5wHQiltjfzRig12Hp-rX_6Oc7b9uPGksovOyzsQa5uw/g:nowe:0:164/c:2000:1129/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9hc3NldHNfMGU2NTE4OThiYmE5NDA0ZmFmNzM5MGUzMWYzNDliMGJfOTU0ODEzYjMyM2Q2NDE0Yzk3ODU3OGMwOGIzNGEwNTAuanBn.webp"
     }
   ]
 }
