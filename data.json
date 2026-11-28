@@ -1,7 +1,7 @@
 {
   "meta": {
-    "updated": "2026-11-27",
-    "version": 1795757985,
+    "updated": "2026-11-28",
+    "version": 1795843078,
     "total": 150,
     "auto_generated": true,
     "sources": [
@@ -334,6 +334,151 @@
         "type": "工艺创新",
         "detail": "整只虾仁入馅的工业化量产技术，保水不碎"
       }
+    },
+    {
+      "id": "6f48824c9efc",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-11-27",
+      "title": "Hotel Chocolat issues recall following suspected contamination",
+      "source": "FoodNavigator-Asia",
+      "sourceUrl": "https://www.confectionerynews.com/Article/2026/11/27/mars-owned-hotel-chocolat-recalls-pistachio-chocolates-over-salmonella-concerns/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "📊",
+      "category": "",
+      "desc": "Mars-owned Hotel Chocolat recalls pistachio chocolates over salmonella fears after identifying a potential contamination risk linked to a pistachio paste ingredient. The precautionary recall affects a limited number of products sold in early October, with customers urged not t...",
+      "tags": [
+        "原料"
+      ],
+      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/OFZV6P3DCJO2BF5DVZ5IK5ZCJY.png?auth=bd7a6998ded45e00c43bbe56e6f5c2e9de17f8f68e4f6f20738af35c58fcaf42&smart=true&width=749&height=442"
+    },
+    {
+      "id": "f967ef675540",
+      "type": "compliance",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-11-27",
+      "title": "Middle East Focus: Chocolake, dairy rankings and Saudi halal",
+      "source": "FoodNavigator-Asia",
+      "sourceUrl": "https://www.foodnavigator.com/Article/2026/11/27/middle-east-focus-chocolake-dairy-rankings-and-saudi-halal/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "⚖️",
+      "category": "",
+      "desc": "Chocolake, dairy rankings and Saudi halal regulation feature in this edition of Middle East Focus",
+      "tags": [],
+      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/KTZBAQGDEBP7TCBASKP6EJQVRY.jpg?auth=8f222f10a65e0e92027b74adc8b27fb7877869edd6778bcfd809bcf65137ccfa&smart=true&width=509&height=339"
+    },
+    {
+      "id": "87e190705081",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-11-27",
+      "title": "Hotel Chocolat issues recall following suspected contamination",
+      "source": "FoodNavigator-USA",
+      "sourceUrl": "https://www.confectionerynews.com/Article/2026/11/27/mars-owned-hotel-chocolat-recalls-pistachio-chocolates-over-salmonella-concerns/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "📊",
+      "category": "",
+      "desc": "Mars-owned Hotel Chocolat recalls pistachio chocolates over salmonella fears after identifying a potential contamination risk linked to a pistachio paste ingredient. The precautionary recall affects a limited number of products sold in early October, with customers urged not t...",
+      "tags": [
+        "原料"
+      ],
+      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/OFZV6P3DCJO2BF5DVZ5IK5ZCJY.png?auth=bd7a6998ded45e00c43bbe56e6f5c2e9de17f8f68e4f6f20738af35c58fcaf42&smart=true&width=749&height=442"
+    },
+    {
+      "id": "910b01ea16cd",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-11-27",
+      "title": "Filema Rodion – Packaging for Handmade Local Treats",
+      "source": "Packaging of the World",
+      "sourceUrl": "https://packagingoftheworld.com/2026/11/filema-rodion-packaging-for-handmade-local-treats.html",
+      "image": "📦",
+      "category": "",
+      "desc": "Across the Mediterranean, people traditionally adorned their walls with handmade, hand-painted blue-and-white pieces, blending artistic value with global influences. In Aegean tradition, richly decorated Rhodian plates are especially well known, featuring motifs such as birds,...",
+      "tags": [
+        "包装"
+      ],
+      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/11/project-thumbnail-1450ebce-0160-4e3b-b316-18dcbeb4c4e1.jpg?fit=300%2C225&amp;ssl=1"
+    },
+    {
+      "id": "72b85ade6f24",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-11-27",
+      "title": "More Pop, More Treats",
+      "source": "Packaging of the World",
+      "sourceUrl": "https://packagingoftheworld.com/2026/11/more-pop-more-treats.html",
+      "image": "📦",
+      "category": "",
+      "desc": "A Christmas tin designed to stand out even before it’s opened. With a distinctive pop, the tin reveals Filema Rodion’s traditional sweets, and the celebration begins. An unexpectedly reimagined reindeer takes centre stage, its antlers transformed into glowing candles. Bold cur...",
+      "tags": [],
+      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/11/project-thumbnail-700cc371-011d-4106-a899-9bfec7a978f2.jpg?fit=300%2C225&amp;ssl=1"
+    },
+    {
+      "id": "ded5311cfb1c",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-11-27",
+      "title": "Pastrybar",
+      "source": "Packaging of the World",
+      "sourceUrl": "https://packagingoftheworld.com/2026/11/pastrybar.html",
+      "image": "📦",
+      "category": "",
+      "desc": "The inspiration behind the design of the Pastrybar symbol came from its initials, P and B. Through rotation, the two letters are transformed into an abstract, geometric representation of a dessert cross-section, with the curved forms evoking the texture of cream. In this way, ...",
+      "tags": [],
+      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/11/project-thumbnail-6987b867-0aa7-4218-8bdb-382a7bc68ccd.jpg?fit=300%2C225&amp;ssl=1"
+    },
+    {
+      "id": "4ac26f1dff83",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-11-27",
+      "title": "St. Martin’s Young Wine",
+      "source": "Packaging of the World",
+      "sourceUrl": "https://packagingoftheworld.com/2026/11/st-martins-young-wine.html",
+      "image": "📦",
+      "category": "",
+      "desc": "Świętomarcińskie Wine (St. Martin’s Wine) is a Polish young wine released on November 11 – St. Martin’s Day and Poland’s National Independence Day. It is an occasion to celebrate the harvest and taste the first wine of the new vintage. Traditionally served alongside goose dish...",
+      "tags": [],
+      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/11/project-thumbnail-7a834cc2-fd0a-4d96-8d63-00ad7d5e568e.jpg?fit=300%2C225&amp;ssl=1"
+    },
+    {
+      "id": "0813cdedf672",
+      "type": "packaging",
+      "section": "packaging",
+      "sub": "report",
+      "date": "2026-11-27",
+      "title": "Mellow",
+      "source": "Packaging of the World",
+      "sourceUrl": "https://packagingoftheworld.com/2026/11/mellow.html",
+      "image": "📦",
+      "category": "",
+      "desc": "The idea behind Mellow was to transform an everyday personal care essential into an object of desire. The visual identity and packaging challenge conventional deodorant design, combining functionality with contemporary aesthetics to create a product worth displaying rather tha...",
+      "tags": [
+        "包装"
+      ],
+      "_imageUrl": "https://i0.wp.com/packagingoftheworld.com/wp-content/uploads/2026/11/project-thumbnail-1649457e-3c79-47b9-af5d-7e2801c0ed08.jpg?fit=300%2C225&amp;ssl=1"
+    },
+    {
+      "id": "9452568a6349",
+      "type": "newproduct",
+      "section": "newproduct",
+      "sub": "report",
+      "date": "2026-11-27",
+      "title": "New beverage launches: From premium whisky to alcohol-free RTDs",
+      "source": "Beverage Daily",
+      "sourceUrl": "https://www.beveragedaily.com/Article/2026/11/27/new-drinks-launches-premium-whisky-and-alcohol-free-rtds/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "🆕",
+      "category": "饮品",
+      "desc": "Explore the latest drinks launches from Clapton Craft, Lanzero, Angry Orchard, LALO Tequila and The Dalmore, featuring craft beer, alcohol-free cocktails, cider innovation and premium spirits.",
+      "tags": [
+        "创新"
+      ],
+      "_imageUrl": "https://www.beveragedaily.com/resizer/v2/YGC37IEOFJD6JO33APOU5UBFJM.png?auth=4831ba956bcd7f9c648e058da3370df22085de71b9ab37f87f5f2d31b013289e&smart=true&width=1254&height=1254"
     },
     {
       "id": "50c5ceb5856c",
@@ -754,6 +899,40 @@
         "原料"
       ],
       "_imageUrl": "https://www.foodmanufacture.co.uk/resizer/v2/VEZWJBMVNNH5PMC2TYXVJVRR64.jpg?auth=c0e788564f88fcfb9d9f5e0dd84b6ecca0eaa3cfefe9c4676f17a23d84990908&smart=true&width=4032&height=3024"
+    },
+    {
+      "id": "41b208ed000c",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-11-26",
+      "title": "Pladis’ R&D boss puts Christmas nostalgia to work",
+      "source": "FoodNavigator-Asia",
+      "sourceUrl": "https://www.bakeryandsnacks.com/Article/2026/11/26/how-pladis-rd-chief-develops-christmas-snack-innovation/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "📊",
+      "category": "",
+      "desc": "Pladis’ Taryn-Lisa Mollé-McConnell discusses Christmas snack innovation, taking Penguin and Jaffa Cakes into chocolate, and leading teams that challenge her.",
+      "tags": [
+        "创新"
+      ],
+      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/DWJVF2HFYJH55O3HRP2L22CMW4.jpg?auth=b193ff0ceeeb65bcd59e76c956cf57072ef113e27114973aa479510fce0df20d&smart=true&width=2120&height=1414"
+    },
+    {
+      "id": "376cdb276a9f",
+      "type": "report",
+      "section": "data",
+      "sub": "report",
+      "date": "2026-11-26",
+      "title": "Pladis’ R&D boss puts Christmas nostalgia to work",
+      "source": "FoodNavigator-USA",
+      "sourceUrl": "https://www.bakeryandsnacks.com/Article/2026/11/26/how-pladis-rd-chief-develops-christmas-snack-innovation/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
+      "image": "📊",
+      "category": "",
+      "desc": "Pladis’ Taryn-Lisa Mollé-McConnell discusses Christmas snack innovation, taking Penguin and Jaffa Cakes into chocolate, and leading teams that challenge her.",
+      "tags": [
+        "创新"
+      ],
+      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/DWJVF2HFYJH55O3HRP2L22CMW4.jpg?auth=b193ff0ceeeb65bcd59e76c956cf57072ef113e27114973aa479510fce0df20d&smart=true&width=2120&height=1414"
     },
     {
       "id": "c84da242ec34",
@@ -2387,187 +2566,6 @@
         "创新"
       ],
       "_imageUrl": "https://www.beveragedaily.com/resizer/v2/YMZSA3QXUVH4VHKG3RIWSITF3M.jpg?auth=8bf0898eac230830e9bfe7da1dda6a576da45fbe7ccfc9b2d3108e5ecc002cd2&smart=true&width=750&height=500"
-    },
-    {
-      "id": "c9e25bdfa9ba",
-      "type": "newproduct",
-      "section": "newproduct",
-      "sub": "report",
-      "date": "2026-11-18",
-      "title": "Another Cola takes on soda giants with additive-free cola",
-      "source": "Beverage Daily",
-      "sourceUrl": "https://www.foodnavigator.com/Article/2026/11/18/another-cola-takes-on-soda-giants-with-additive-free-cola/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "🆕",
-      "category": "饮品",
-      "desc": "Japan’s Another Cola is challenging conventional soft drinks with an additive-free product",
-      "tags": [
-        "日本"
-      ],
-      "_imageUrl": "https://www.beveragedaily.com/resizer/v2/QJSHKPOWRVDBTFDV5EHPWTDDKM.jpg?auth=501abfe6f8a4b6f248e593f68c7fb8f8ca5930fe1559ebdb03f625bcd8c0245e&smart=true&width=716&height=488"
-    },
-    {
-      "id": "f1f08cbfdaa0",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-11-18",
-      "title": "Building confidence in food manufacturing’s rising female stars",
-      "source": "Food Manufacture",
-      "sourceUrl": "https://www.foodmanufacture.co.uk/Article/2026/11/18/building-confidence-in-food-manufacturings-rising-female-stars/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "📊",
-      "category": "",
-      "desc": "",
-      "tags": [],
-      "_imageUrl": "https://www.foodmanufacture.co.uk/resizer/v2/I57VVPY6NRAMFBK5SJQALHF2TY.jpg?auth=5f6e492b1f9bdfd2ae9ae3d93b8b2d89fdc496ac76937e9ec1b026ada4f41c06&smart=true&width=2121&height=1414"
-    },
-    {
-      "id": "1bb42620968b",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-11-17",
-      "title": "New Protein Watch: Asia growth, yoghurt and cultivated meat",
-      "source": "FoodNavigator-Asia",
-      "sourceUrl": "https://www.foodnavigator.com/Article/2026/11/17/new-protein-focus-asia-growth-yoghurt-and-cultivated-meat/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "📊",
-      "category": "",
-      "desc": "Asia growth, yoghurt and cultivated meat feature in this edition of New Protein Focus",
-      "tags": [],
-      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/32E5J6LR7RKORPGE76ACVBQJEU.jpg?auth=5228a378f76bdecffc41bfba770e381773db6a94249a1beeb7a855cd988119cb&smart=true&width=724&height=483"
-    },
-    {
-      "id": "7a82b0ef6556",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-11-17",
-      "title": "The DIELINE Annual 2026 Is Here, and It’s Free to Read",
-      "source": "Dieline",
-      "sourceUrl": "https://thedieline.com/dieline-annual-2026/",
-      "image": "📦",
-      "category": "",
-      "desc": "The DIELINE Annual 2026 is free to read: all 155 DIELINE Awards 2026 winners, the 2027 Trend Report, and the year’s top packaging projects, headlines and sustainability stories. The post The DIELINE Annual 2026 Is Here, and It’s Free to Read appeared first on DIELINE.",
-      "tags": [
-        "包装"
-      ],
-      "_imageUrl": "https://thedieline.com/wp-content/uploads/2026/11/dieline-annual-2026-is-here-hero-2560x1440-1.jpg"
-    },
-    {
-      "id": "354654008d83",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-11-17",
-      "title": "Why a Fast-Growing Supplement Brand Ditched the Badges, Flags, and Gold Lids",
-      "source": "Dieline",
-      "sourceUrl": "https://thedieline.com/why-a-fast-growing-supplement-brand-ditched-the-badges-flags-and-gold-lids/",
-      "image": "📦",
-      "category": "",
-      "desc": "Buddy-Buddy renamed Reus Research as Cata·Kor and traded its cluttered, claim heavy jars for calm forest green packaging built to stand out as a tiny thumbnail on a phone screen. The post Why a Fast-Growing Supplement Brand Ditched the Badges, Flags, and Gold Lids appeared fir...",
-      "tags": [
-        "包装"
-      ],
-      "_imageUrl": "https://thedieline.com/wp-content/uploads/2026/11/insta_0-1ccc697b2c60b53a50f65070eb4986f5-scaled-1.jpg"
-    },
-    {
-      "id": "d918b845931d",
-      "type": "packaging",
-      "section": "packaging",
-      "sub": "report",
-      "date": "2026-11-17",
-      "title": "Decaf Has An Image Problem, and Lykke’s Packaging Is Trying To Fix It With Sp...",
-      "source": "Dieline",
-      "sourceUrl": "https://thedieline.com/decaf-has-an-image-problem-and-lykkes-packaging-is-trying-to-fix-it-with-spray-paint/",
-      "image": "📦",
-      "category": "",
-      "desc": "Purple swapped the gold foil and serious attitude of premium coffee for a startled, spray painted pink cat on Lykke’s first decaf, proving decaf can be the most fun bag on the counter. The post Decaf Has An Image Problem, and Lykke’s Packaging Is Trying To Fix It With Spray Pa...",
-      "tags": [
-        "包装"
-      ],
-      "_imageUrl": "https://thedieline.com/wp-content/uploads/2026/11/IMG_2798.jpg"
-    },
-    {
-      "id": "cf6c894f0392",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-11-17",
-      "title": "Hershey turns Reese’s Pieces into innovation showcase",
-      "source": "FoodNavigator-Asia",
-      "sourceUrl": "https://www.confectionerynews.com/Article/2026/11/17/hershey-turns-reeses-pieces-into-innovation-showcase/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "📊",
-      "category": "",
-      "desc": "Hershey's giant Reese's Pie showcases the growing power of limited-edition confectionery, cross-category innovation and experience-led products as brands look to drive engagement and growth worldwide.",
-      "tags": [
-        "创新"
-      ],
-      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/ZBDOZMHVZJH7HLEX6M6QUNJS5E.jpg?auth=ce1e2b28b64deeecc8246b733a7286705440f936329172cb6deb5b1af8af432b&smart=true&width=3200&height=2827"
-    },
-    {
-      "id": "7a778fa11405",
-      "type": "ecommerce",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-11-17",
-      "title": "Why e-commerce brands are rethinking pack sizes",
-      "source": "FoodNavigator-Asia",
-      "sourceUrl": "https://www.foodnavigator.com/Article/2026/11/17/finding-the-sweet-spot-for-e-commerce-pack-sizes/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "🛒",
-      "category": "",
-      "desc": "For food and beverage brands, winning online may mean rethinking the pack sizes that work in stores.",
-      "tags": [],
-      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/7TNFDPQI2ZE5JG5CZT2BEQQ544.jpg?auth=b3c0b620afa368a298e0d58a820f4b0a23f07a86639b37d25a758bf2a1511a76&smart=true&width=2120&height=1414"
-    },
-    {
-      "id": "179b5ed4fe57",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-11-17",
-      "title": "UK leads on CPG innovation in Europe",
-      "source": "FoodNavigator-Asia",
-      "sourceUrl": "https://www.foodnavigator.com/Article/2026/11/17/uk-leads-cpg-innovation-in-europe/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "📊",
-      "category": "",
-      "desc": "The UK is leading on CPG innovation in Europe, particularly in categories such as baby food and confectionery. Innovation is popular among UK consumers, with most noticing when new products hit the shelves.",
-      "tags": [
-        "创新"
-      ],
-      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/RWBGVMEQX5CTZHNFL4Y2TETT7Q.jpg?auth=829cdf025b4d4da258cefa1fe213aaaf521749f2654c02938d49398c89a0a0da&smart=true&width=2121&height=1414"
-    },
-    {
-      "id": "b57ce4fb33dd",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-11-17",
-      "title": "Can plant-based seafood succeed where plant-based meat stumbled?",
-      "source": "FoodNavigator-Asia",
-      "sourceUrl": "https://www.foodnavigator.com/Article/2026/11/17/can-plant-based-seafood-succeed-where-plant-based-meat-stumbled/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "📊",
-      "category": "",
-      "desc": "As eating occasions continue to blur and consumers seek options beyond traditional breakfast, lunch and dinner occasions, plant-based seafood brands may find success by positioning products around convenience and versatility rather than direct replacement.",
-      "tags": [
-        "植物基"
-      ],
-      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/4QRXSFKB2ZGW5OZ4UOSJ42MLE4.jpg?auth=a190f00fc8c3349a2dd32921cf20fd6412afcbe39cb2d27fc83678b49b6f2a5a&smart=true&width=2120&height=1414"
-    },
-    {
-      "id": "b2aea33c1fbf",
-      "type": "report",
-      "section": "data",
-      "sub": "report",
-      "date": "2026-11-17",
-      "title": "US plant-based food sales flat, but up globally",
-      "source": "FoodNavigator-Asia",
-      "sourceUrl": "https://www.foodnavigator.com/Article/2026/11/17/plant-based-food-sales-stall-in-us-but-grow-globally/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS",
-      "image": "📊",
-      "category": "",
-      "desc": "US plant-based food sales edged down to $7.9 billion in 2025. Global sales of plant-based meat and dairy alternatives rose 3% to $28.9 billion.",
-      "tags": [
-        "植物基"
-      ],
-      "_imageUrl": "https://www.foodnavigator.com/resizer/v2/JNGNIGK4LJB4BIM6YIKTV6CVZU.jpg?auth=4da83503fe89fb7ef1bd00426a9e876f8207e1137facca0464c2caf8ea38d624&smart=true&width=2120&height=1414"
     }
   ]
 }
